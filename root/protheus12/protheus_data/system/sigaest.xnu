@@ -1,0 +1,4844 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAEST</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A040000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000425</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Produto</Title>
+			<Title lang="es">Producto</Title>
+			<Title lang="en">Product</Title>
+			<ItemID>0000012048</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDD</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SED</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SJ1</Tables>
+				<Tables>SJC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000426</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item</KeyWord>
+					<KeyWord lang="es">Item</KeyWord>
+					<KeyWord lang="en">Item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento do Produto</Title>
+				<Title lang="es">Complemento de Producto</Title>
+				<Title lang="en">Product Complement</Title>
+				<Function>MATA180</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000431</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item,complemento,adicionais</KeyWord>
+					<KeyWord lang="es">Producto,item,complemento,adicionales</KeyWord>
+					<KeyWord lang="en">Product,item,complement,additional Items</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dados Adicionais do Produto</Title>
+				<Title lang="es">Datos Adic. Prod.</Title>
+				<Title lang="en">Additional Product Data</Title>
+				<Function>ESTA015</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>D4Z</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000024714</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Adicionais,complemento,produto</KeyWord>
+					<KeyWord lang="es">Adicionales,complemento,producto</KeyWord>
+					<KeyWord lang="en">Additional,complement,product</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>MATA035</Function>
+				<Type>1</Type>
+				<Tables>SBM</Tables>
+				<Tables>QE6</Tables>
+				<Tables>QED</Tables>
+				<Tables>QEG</Tables>
+				<Tables>QEP</Tables>
+				<Tables>QEK</Tables>
+				<Tables>QEA</Tables>
+				<Tables>QF4</Tables>
+				<Tables>QF5</Tables>
+				<Tables>QEF</Tables>
+				<Tables>QEL</Tables>
+				<Tables>QEI</Tables>
+				<Tables>QE7</Tables>
+				<Tables>QE8</Tables>
+				<Tables>QEH</Tables>
+				<Tables>QEN</Tables>
+				<Tables>QEO</Tables>
+				<Tables>QA6</Tables>
+				<Tables>QA7</Tables>
+				<Tables>QA8</Tables>
+				<Tables>QEY</Tables>
+				<Tables>QEZ</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QEM</Tables>
+				<Tables>QER</Tables>
+				<Tables>QE1</Tables>
+				<Tables>QEQ</Tables>
+				<Tables>QES</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000428</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,família,estoque</KeyWord>
+					<KeyWord lang="es">Item,familia,stock</KeyWord>
+					<KeyWord lang="en">Item,family,stock</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indicadores</Title>
+				<Title lang="es">Indicadores</Title>
+				<Title lang="en">Indicators</Title>
+				<Function>MATA019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,sinalizadores,ponto,pedido,reposição,lote,econômic,estoque,segurança</KeyWord>
+					<KeyWord lang="es">Item,senalizadores,punto,pedido,reposicion,lote,economico,stock,seguridad</KeyWord>
+					<KeyWord lang="en">Item,signal,point,order,replenishment,lot,economic,stock,safety</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Lugares de Stock</Title>
+				<Title lang="en">Stock Location</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>67</Owner>
+				<ItemID>0000012677</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Armazém,local,almoxarifado,galpao,localização</KeyWord>
+					<KeyWord lang="es">Almacen,lugar,deposito,galpón,localizacion</KeyWord>
+					<KeyWord lang="en">Warehouse,location,warehouse,shed,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consumo Médio</Title>
+				<Title lang="es">Consumo Medio</Title>
+				<Title lang="en">Average Consumptn</Title>
+				<Function>MATA210</Function>
+				<Type>1</Type>
+				<Tables>SB3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000432</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Demanda</KeyWord>
+					<KeyWord lang="es">Demanda</KeyWord>
+					<KeyWord lang="en">Demand</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Measurement Units</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Tables>SAH</Tables>
+				<Tables>QEK</Tables>
+				<Tables>QE6</Tables>
+				<Tables>QE7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>21</Owner>
+				<ItemID>0000000427</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Amarração de Produto X Fornecedor</Title>
+				<Title lang="es">Vinculacion de Producto X Proveedor</Title>
+				<Title lang="en">Binding Product X Supplier</Title>
+				<Function>MATA061</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000438</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item,catálogo,lista,provedor,empresa</KeyWord>
+					<KeyWord lang="es">Producto,item,catalogo,lista,proveedor,empresa</KeyWord>
+					<KeyWord lang="en">Product,item,catalog,list,provider,company</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Correlação de Produtos</Title>
+				<Title lang="es">Correlac. Productos</Title>
+				<Title lang="en">Correlac. Productos</Title>
+				<Function>MATA039</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fator de Conversão de Unidade de Medida</Title>
+				<Title lang="es">Factor Conversión Unid.medida</Title>
+				<Title lang="en">Measurement Unit Conversion Factor</Title>
+				<Function>ESTA0001</Function>
+				<Type>1</Type>
+				<Tables>D3Q</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000016967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fator,conversão</KeyWord>
+					<KeyWord lang="es">Factor,conversión</KeyWord>
+					<KeyWord lang="en">Factor,conversion</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dias de Antecedência Para Aviso de Vencimento</Title>
+				<Title lang="es">Días de Anticipo Para Aviso de Vencimiento</Title>
+				<Title lang="en">Days In Advance For Expiration Notice</Title>
+				<Function>ESTA010</Function>
+				<Type>1</Type>
+				<Tables>D4Q</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024368</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Características de Produtos</Title>
+				<Title lang="es">Características de Productos</Title>
+				<Title lang="en">Product Features</Title>
+				<Function>ESTA012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000012057</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Natures</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Tables>FRN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>6</Owner>
+				<ItemID>0000000443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Financeiro,classificação</KeyWord>
+					<KeyWord lang="es">Financiero,clasificacion</KeyWord>
+					<KeyWord lang="en">Financial,classification</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Internas</Title>
+				<Title lang="es">Internas</Title>
+				<Title lang="en">Internals</Title>
+				<Function>MATA230</Function>
+				<Type>1</Type>
+				<Tables>SF5</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000433</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Fiscais</Title>
+			<Title lang="es">Fiscales</Title>
+			<Title lang="en">Fiscals</Title>
+			<ItemID>0000012139</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes</Title>
+				<Title lang="es">Tes</Title>
+				<Title lang="en">Tio</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SFB</Tables>
+				<Tables>SFC</Tables>
+				<Tables>SFH</Tables>
+				<Tables>SFF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>9</Owner>
+				<ItemID>0000000434</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipos,entrada,saida,tes,fiscal,financeiro,impostos</KeyWord>
+					<KeyWord lang="es">Tipos,entrada,salida,tes,fiscal,financiero,impuestos</KeyWord>
+					<KeyWord lang="en">Types,inflow,outflow,tio,tax,financial,taxes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes Inteligente</Title>
+				<Title lang="es">Tes Inteligente</Title>
+				<Title lang="en">Intelligent Tio</Title>
+				<Function>MATA089</Function>
+				<Type>1</Type>
+				<Tables>SFM</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>9</Owner>
+				<ItemID>0000000435</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entrada,saida,tes,fiscal,financeiro,automação,operação</KeyWord>
+					<KeyWord lang="es">Entrada,salida,tes,fiscal,financiero,automatizacion,operacion</KeyWord>
+					<KeyWord lang="en">Inflow,outflow,tio,tax,financial,automation,operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Precific. Materiais P/ Transf. Filial</Title>
+				<Title lang="es">Fij.prec.mater.p/transf.sucursal</Title>
+				<Title lang="en">Pricing Materials F/ Branch Transfer</Title>
+				<Function>MATA312</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000024656</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Endereçamento</Title>
+			<Title lang="es">Contr. de Ubic.</Title>
+			<Title lang="en">Addressing</Title>
+			<ItemID>0000012097</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Endereços</Title>
+				<Title lang="es">Ubicaciones</Title>
+				<Title lang="en">Addresses</Title>
+				<Function>MATA015</Function>
+				<Type>1</Type>
+				<Tables>SBE</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000439</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Localização</KeyWord>
+					<KeyWord lang="es">Localizacion</KeyWord>
+					<KeyWord lang="en">Location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Priorização</Title>
+				<Title lang="es">Priorizacion</Title>
+				<Title lang="en">Prioritizing</Title>
+				<Function>MATA025</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDC</Tables>
+				<Tables>SDD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contábil</Title>
+			<Title lang="es">Contable</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000012142</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custo</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000441</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidade,contábil</KeyWord>
+					<KeyWord lang="es">Ente,contable</KeyWord>
+					<KeyWord lang="en">Entity,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Tables>AC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>13</Owner>
+				<ItemID>0000000437</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>MATA045</Function>
+				<Type>1</Type>
+				<Tables>SAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Padronizados</Title>
+				<Title lang="es">Asientos Estandar</Title>
+				<Title lang="en">Standardized Transactions</Title>
+				<Function>CTBA080</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SID</Tables>
+				<Tables>CT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000446</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lançamentos,contabilidade,contabilização</KeyWord>
+					<KeyWord lang="es">Asientos,contabilidad,contabilidad</KeyWord>
+					<KeyWord lang="en">Entries,accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permissões</Title>
+				<Title lang="es">Autorizaciones</Title>
+				<Title lang="en">Permissions</Title>
+				<Function>MATA014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acesso,restrição,segurança</KeyWord>
+					<KeyWord lang="es">Acceso,restriccion,seguridad</KeyWord>
+					<KeyWord lang="en">Access,restriction,safety</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000436</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Participante,empresa,licitante,provedor</KeyWord>
+					<KeyWord lang="es">Participante,empresa,licitante,proveedor</KeyWord>
+					<KeyWord lang="en">Employee,company,bidder,provider</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulae</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Tables>SM4</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000447</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Customização</KeyWord>
+					<KeyWord lang="es">Personalizacion</KeyWord>
+					<KeyWord lang="en">Customization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco do Conhecimento</Title>
+				<Title lang="es">Banco Del Conocimiento</Title>
+				<Title lang="en">Knowledge Bank</Title>
+				<Function>FATA340</Function>
+				<Type>1</Type>
+				<Tables>AC9</Tables>
+				<Tables>ACB</Tables>
+				<Tables>ACC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000449</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Engenharia</Title>
+			<Title lang="es">Ingenieria</Title>
+			<Title lang="en">Engineering</Title>
+			<ItemID>0000000451</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Engenheiros</Title>
+				<Title lang="es">Ingenieros</Title>
+				<Title lang="en">Engineers</Title>
+				<Function>MATA203</Function>
+				<Type>1</Type>
+				<Tables>SGK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011346</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,composição,fórmula</KeyWord>
+					<KeyWord lang="es">Ingenieria,composicion,formula</KeyWord>
+					<KeyWord lang="en">Engineering,composition,formula</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>MATA204</Function>
+				<Type>1</Type>
+				<Tables>SGK</Tables>
+				<Tables>SGL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011361</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,composição,fórmula</KeyWord>
+					<KeyWord lang="es">Ingenieria,composicion,formula</KeyWord>
+					<KeyWord lang="en">Engineering,composition,formula</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovadores</Title>
+				<Title lang="es">Aprobadores</Title>
+				<Title lang="en">Approvers</Title>
+				<Function>MATA205</Function>
+				<Type>1</Type>
+				<Tables>SGM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011383</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Liberação,gerente,diretor,responsável</KeyWord>
+					<KeyWord lang="es">Autorizacion,gerente,director,responsable</KeyWord>
+					<KeyWord lang="en">Approval,manager,director,resp.party</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-estrutura</Title>
+				<Title lang="es">Preestructura</Title>
+				<Title lang="en">Pre-structure</Title>
+				<Function>PCPA135</Function>
+				<Type>1</Type>
+				<Tables>SGG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000454</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,composição,fórmula</KeyWord>
+					<KeyWord lang="es">Ingenieria,composicion,formula</KeyWord>
+					<KeyWord lang="en">Engineering,composition,formula</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberações</Title>
+				<Title lang="es">Aprobaciones</Title>
+				<Title lang="en">Releases</Title>
+				<Function>MATA206</Function>
+				<Type>1</Type>
+				<Tables>SGN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011349</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,liberação,aprovação,analise</KeyWord>
+					<KeyWord lang="es">Ingenieria,autorizacion,aprobacion,analisis</KeyWord>
+					<KeyWord lang="en">Engineering,approval,approval,analysis</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estruturas</Title>
+				<Title lang="es">Estructuras</Title>
+				<Title lang="en">Structures</Title>
+				<Function>PCPA200</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000452</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,composição,fórmula</KeyWord>
+					<KeyWord lang="es">Ingenieria,composicion,formula</KeyWord>
+					<KeyWord lang="en">Engineering,composition,formula</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Estruturas</Title>
+			<Title lang="es">Estructuras</Title>
+			<Title lang="en">Structures</Title>
+			<ItemID>0000012123</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisões</Title>
+				<Title lang="es">Revisiones</Title>
+				<Title lang="en">Revisions</Title>
+				<Function>MATA201</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000453</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Engenharia,composição,fórmula</KeyWord>
+					<KeyWord lang="es">Ingenieria,composicion,formula</KeyWord>
+					<KeyWord lang="en">Engineering,composition,formula</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Opcionais</Title>
+				<Title lang="es">Opcionales</Title>
+				<Title lang="en">Optionals</Title>
+				<Function>MATA256</Function>
+				<Type>1</Type>
+				<Tables>SGA</Tables>
+				<Tables>SGT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000455</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Grade de Produtos</Title>
+			<Title lang="es">Grilla de Prods.</Title>
+			<Title lang="en">Product Grid</Title>
+			<ItemID>0000012131</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grades</Title>
+				<Title lang="es">Grillas</Title>
+				<Title lang="en">Grids</Title>
+				<Function>MATA550</Function>
+				<Type>1</Type>
+				<Tables>SB4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>5</Owner>
+				<ItemID>0000000457</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item</KeyWord>
+					<KeyWord lang="es">Producto,item</KeyWord>
+					<KeyWord lang="en">Product,item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas</Title>
+				<Title lang="es">Tablas</Title>
+				<Title lang="en">Tables</Title>
+				<Function>MATA551</Function>
+				<Type>1</Type>
+				<Tables>SB4</Tables>
+				<Tables>SBV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>5</Owner>
+				<ItemID>0000000459</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grade</KeyWord>
+					<KeyWord lang="es">Grilla</KeyWord>
+					<KeyWord lang="en">Grid</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Características</Title>
+				<Title lang="es">Caracteristicas</Title>
+				<Title lang="en">Characteristics</Title>
+				<Function>MATA552</Function>
+				<Type>1</Type>
+				<Tables>SAS</Tables>
+				<Tables>SAT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>5</Owner>
+				<ItemID>0000000460</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grade</KeyWord>
+					<KeyWord lang="es">Grilla</KeyWord>
+					<KeyWord lang="en">Grid</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Código Inteligente</Title>
+			<Title lang="es">Codigo Inteligente</Title>
+			<Title lang="en">Intelligent Code</Title>
+			<ItemID>0000012120</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração</Title>
+				<Title lang="es">Configuracion</Title>
+				<Title lang="en">Configuration</Title>
+				<Function>MATA093</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SBP</Tables>
+				<Tables>SBQ</Tables>
+				<Tables>SBR</Tables>
+				<Tables>SBS</Tables>
+				<Tables>SBT</Tables>
+				<Tables>SBU</Tables>
+				<Tables>SBW</Tables>
+				<Tables>SBX</Tables>
+				<Tables>SBY</Tables>
+				<Tables>SHK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000463</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Automação,código,inteligente,sequencial</KeyWord>
+					<KeyWord lang="es">Automatizacion,codigo,inteligente,secuencial</KeyWord>
+					<KeyWord lang="en">Automation,code,intelligent,sequential</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Codificação</Title>
+				<Title lang="es">Codificacion</Title>
+				<Title lang="en">Codification</Title>
+				<Function>MATA098</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SBP</Tables>
+				<Tables>SBQ</Tables>
+				<Tables>SBR</Tables>
+				<Tables>SBS</Tables>
+				<Tables>SBT</Tables>
+				<Tables>SBU</Tables>
+				<Tables>SBW</Tables>
+				<Tables>SBX</Tables>
+				<Tables>SBY</Tables>
+				<Tables>SHK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000464</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Caracterísitcas,propriedades,código,inteligente,automação</KeyWord>
+					<KeyWord lang="es">Caracteristicas,propiedades,codigo,inteligente,automatizacion</KeyWord>
+					<KeyWord lang="en">Features,properties,code,intelligent,automation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conjuntos</Title>
+				<Title lang="es">Conjuntos</Title>
+				<Title lang="en">Sets</Title>
+				<Function>MATA099</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SBP</Tables>
+				<Tables>SBQ</Tables>
+				<Tables>SBR</Tables>
+				<Tables>SBS</Tables>
+				<Tables>SBT</Tables>
+				<Tables>SBU</Tables>
+				<Tables>SBW</Tables>
+				<Tables>SBX</Tables>
+				<Tables>SBY</Tables>
+				<Tables>SHK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000465</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Código,inteligente,automação,caracterísitcas,propriedades</KeyWord>
+					<KeyWord lang="es">Codigo,inteligente,automatizacion,caracteristicas,propiedades</KeyWord>
+					<KeyWord lang="en">Code,intelligent,automation,features,properties</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Saldos</Title>
+			<Title lang="es">Saldos</Title>
+			<Title lang="en">Balances</Title>
+			<ItemID>0000000467</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atual</Title>
+				<Title lang="es">Actual</Title>
+				<Title lang="en">Current</Title>
+				<Function>MATA225</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>DCF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000472</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,on-line</KeyWord>
+					<KeyWord lang="es">Saldo,on-line</KeyWord>
+					<KeyWord lang="en">Balance,on-line</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inicial</Title>
+				<Title lang="es">Inicial</Title>
+				<Title lang="en">Initial</Title>
+				<Function>MATA220</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SCN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000468</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,implantação,fechamento</KeyWord>
+					<KeyWord lang="es">Saldo,implantacion,cierre</KeyWord>
+					<KeyWord lang="en">Balance,deployment,closing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Endereço Inicial</Title>
+				<Title lang="es">Direccion Inicial</Title>
+				<Title lang="en">Initial Address</Title>
+				<Function>MATA223</Function>
+				<Type>1</Type>
+				<Tables>SBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000471</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Localização,saldo,inicial,fechamento</KeyWord>
+					<KeyWord lang="es">Localizacion,saldo,inicial,cierre</KeyWord>
+					<KeyWord lang="en">Location,balance,beginning,closing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade Inicial</Title>
+				<Title lang="es">Trazabilidad Inicial</Title>
+				<Title lang="en">Initial Trackability</Title>
+				<Function>MATA222</Function>
+				<Type>1</Type>
+				<Tables>SBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000470</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastreabilidade,lote,saldo,inicial,fechamento</KeyWord>
+					<KeyWord lang="es">Trazabilidad,lote,saldo,inicial,cierre</KeyWord>
+					<KeyWord lang="en">Traceability,lot,balance,beginning,closing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inicial Fifo e Lifo</Title>
+				<Title lang="es">Inicial Fifo Y Lifo</Title>
+				<Title lang="en">Initial Fifo And Lifo</Title>
+				<Function>MATA228</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SBD</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD8</Tables>
+				<Tables>SCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000469</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,inicial,fechamento</KeyWord>
+					<KeyWord lang="es">Saldo,inicial,cierre</KeyWord>
+					<KeyWord lang="en">Balance,beginning,closing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000000474</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Fiscais</Title>
+			<Title lang="es">Fiscales</Title>
+			<Title lang="en">Fiscals</Title>
+			<ItemID>0000012099</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aviso Recebimento de Carga</Title>
+				<Title lang="es">Aviso Recepcion de Carga</Title>
+				<Title lang="en">Lead Receiving Warning</Title>
+				<Function>MATA145</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>DB1</Tables>
+				<Tables>DB2</Tables>
+				<Tables>DB3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000475</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recebimento,documento,carga</KeyWord>
+					<KeyWord lang="es">Cobro,documento,carga</KeyWord>
+					<KeyWord lang="en">Receipt,document,load</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-documento de Entrada</Title>
+				<Title lang="es">Predocumento de Entrada</Title>
+				<Title lang="en">Inflow Pre-document</Title>
+				<Function>MATA140</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000476</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento,entrada,pedido,recebimento</KeyWord>
+					<KeyWord lang="es">Documento,entrada,pedido,cobro</KeyWord>
+					<KeyWord lang="en">Document,inbound,order,receipt</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documento de Entrada</Title>
+				<Title lang="es">Documento de Entrada</Title>
+				<Title lang="en">Inflow Document</Title>
+				<Function>MATA103</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SEF</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF9</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>AFN</Tables>
+				<Tables>SDE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000484</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,fiscal,entrada,nf</KeyWord>
+					<KeyWord lang="es">Factura,factura,entrada,fact</KeyWord>
+					<KeyWord lang="en">Invoice,tax,inbound,nf</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferência Entre Filiais</Title>
+				<Title lang="es">Transferencia Entre Sucursales</Title>
+				<Title lang="en">Transfer Between Branches</Title>
+				<Function>MATA310</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SEF</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF9</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>AFN</Tables>
+				<Tables>SDE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000485</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transferência,empresas</KeyWord>
+					<KeyWord lang="es">Transferencia,empresas</KeyWord>
+					<KeyWord lang="en">Transfer,companies</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicit. Transf.</Title>
+				<Title lang="es">Solicit. Transf.</Title>
+				<Title lang="en">Transf. Request</Title>
+				<Function>MATA311</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conhecimento de Frete</Title>
+				<Title lang="es">Conocimiento de Flete</Title>
+				<Title lang="en">Freight Knowledge</Title>
+				<Function>MATA116</Function>
+				<Type>1</Type>
+				<Tables>QEL</Tables>
+				<Tables>QEP</Tables>
+				<Tables>QEY</Tables>
+				<Tables>QEZ</Tables>
+				<Tables>SF8</Tables>
+				<Tables>SDE</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SD7</Tables>
+				<Tables>SDA</Tables>
+				<Tables>QEA</Tables>
+				<Tables>QEK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000489</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,conhecimento,documento,transporte,ct</KeyWord>
+					<KeyWord lang="es">Factura,conocimiento,documento,transporte,ct</KeyWord>
+					<KeyWord lang="en">Invoice,knowledge,document,transport,ct</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas de Importação</Title>
+				<Title lang="es">Gastos de Importacion</Title>
+				<Title lang="en">Import Expenses</Title>
+				<Function>MATA119</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SF8</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SCQ</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SFA</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000490</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Despacho,aduana</KeyWord>
+					<KeyWord lang="es">Despacho,aduana</KeyWord>
+					<KeyWord lang="en">Dispatch,customs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Internas</Title>
+			<Title lang="es">Internas</Title>
+			<Title lang="en">Internals</Title>
+			<ItemID>0000012100</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação Múltipla</Title>
+				<Title lang="es">Movimiento Multiple</Title>
+				<Title lang="en">Multiple Transaction</Title>
+				<Function>MATA241</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000492</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentação,baixa,devolução,requisição</KeyWord>
+					<KeyWord lang="es">Movimiento,baja,devolucion,requisicion</KeyWord>
+					<KeyWord lang="en">Transaction,writeoff,return,requisition</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferência Múltipla</Title>
+				<Title lang="es">Transferencia Múltiple</Title>
+				<Title lang="en">Multiple Transfer</Title>
+				<Function>MATA261</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SD7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000493</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transferência</KeyWord>
+					<KeyWord lang="es">Transferencia</KeyWord>
+					<KeyWord lang="en">Transfer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desmontagem</Title>
+				<Title lang="es">Desmontaje</Title>
+				<Title lang="en">Dismantling</Title>
+				<Function>MATA242</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SD7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000495</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventário</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>MATA270</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB7</Tables>
+				<Tables>SB9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contagem</KeyWord>
+					<KeyWord lang="es">Recuento</KeyWord>
+					<KeyWord lang="en">Counting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Qualidade</Title>
+				<Title lang="es">Calidad</Title>
+				<Title lang="en">Quality</Title>
+				<Function>MATA175</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SD7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000497</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Controle,qualidade</KeyWord>
+					<KeyWord lang="es">Control,calidad</KeyWord>
+					<KeyWord lang="en">Control,quality</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Armazém</Title>
+			<Title lang="es">Almacen</Title>
+			<Title lang="en">Warehouse</Title>
+			<ItemID>0000000503</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitar</Title>
+				<Title lang="es">Solicitar</Title>
+				<Title lang="en">Request</Title>
+				<Function>MATA105</Function>
+				<Type>1</Type>
+				<Tables>SCP</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000504</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Baixa,requisição,material</KeyWord>
+					<KeyWord lang="es">Baja,requisicion,material</KeyWord>
+					<KeyWord lang="en">Writeoff,requisition,material</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Pré-requis.</Title>
+				<Title lang="es">Generar Sol. Prev.</Title>
+				<Title lang="en">Gen. Pre-requisitn</Title>
+				<Function>MATA106</Function>
+				<Type>1</Type>
+				<Tables>SCQ</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Baixa,requisição,material</KeyWord>
+					<KeyWord lang="es">Baja,requisicion,material</KeyWord>
+					<KeyWord lang="en">Writeoff,requisition,material</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixar Pre-requis.</Title>
+				<Title lang="es">Bajar Solic. Prev.</Title>
+				<Title lang="en">Write-off Pre-req.</Title>
+				<Function>MATA185</Function>
+				<Type>1</Type>
+				<Tables>SCQ</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000506</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Baixa,requisição,material</KeyWord>
+					<KeyWord lang="es">Baja,requisicion,material</KeyWord>
+					<KeyWord lang="en">Writeoff,requisition,material</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberar Solicit.</Title>
+				<Title lang="es">Aprobar Solicit.</Title>
+				<Title lang="en">Approve Request</Title>
+				<Function>MATA107</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000507</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento,liberação,aprovação,análise,requisição,baixa</KeyWord>
+					<KeyWord lang="es">Documento,autorizacion,aprobacion,analisis,requisicion,baja</KeyWord>
+					<KeyWord lang="en">Document,release,approval,analysis,requirement,writeoff</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Endereçamento</Title>
+			<Title lang="es">Contr. Ubicac.</Title>
+			<Title lang="en">Addressing</Title>
+			<ItemID>0000000499</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Endereçar</Title>
+				<Title lang="es">Ubicar</Title>
+				<Title lang="en">Address</Title>
+				<Function>MATA265</Function>
+				<Type>1</Type>
+				<Tables>SBE</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000500</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Distribuir,localização</KeyWord>
+					<KeyWord lang="es">Distribuir,localizacion</KeyWord>
+					<KeyWord lang="en">Distribute,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criar Sld No End.</Title>
+				<Title lang="es">Crear Sld En Ubic.</Title>
+				<Title lang="en">Create Bal.ataddr.</Title>
+				<Function>MATA805</Function>
+				<Type>1</Type>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000501</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,endereçamento,localizaçã,implantação</KeyWord>
+					<KeyWord lang="es">Saldo,ubicacion,localizacion,implantacion</KeyWord>
+					<KeyWord lang="en">Balance,addressing,location,deployment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rastreabilidade</Title>
+			<Title lang="es">Trazabilidad</Title>
+			<Title lang="en">Traceability</Title>
+			<ItemID>0000000524</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>MATA390</Function>
+				<Type>1</Type>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SD5</Tables>
+				<Tables>SBK</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000525</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lote,rastreabilidade,implantação</KeyWord>
+					<KeyWord lang="es">Lote,trazabilidad,implantacion</KeyWord>
+					<KeyWord lang="en">Lot,trackability,deployment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio</Title>
+				<Title lang="es">Bloqueo</Title>
+				<Title lang="en">Blocking</Title>
+				<Function>MATA275</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDC</Tables>
+				<Tables>SDD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000526</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueio,contagem</KeyWord>
+					<KeyWord lang="es">Bloqueo,recuento</KeyWord>
+					<KeyWord lang="en">Block,counting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Produção</Title>
+			<Title lang="es">Produccion</Title>
+			<Title lang="en">Production</Title>
+			<ItemID>0000000509</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens de Produção</Title>
+				<Title lang="es">Ordenes de Produc.</Title>
+				<Title lang="en">Production Orders</Title>
+				<Function>MATA650</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SHD</Tables>
+				<Tables>SHE</Tables>
+				<Tables>SC3</Tables>
+				<Tables>AFM</Tables>
+				<Tables>SGJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000510</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fabricação,entrada</KeyWord>
+					<KeyWord lang="es">Fabricacion,entrada</KeyWord>
+					<KeyWord lang="en">Manufacture,entry</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ops Previstas</Title>
+				<Title lang="es">Op Previstas</Title>
+				<Title lang="en">Expected Pos</Title>
+				<Function>MATA651</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SHD</Tables>
+				<Tables>SHE</Tables>
+				<Tables>SC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000511</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ordem,produção</KeyWord>
+					<KeyWord lang="es">Orden,produccion</KeyWord>
+					<KeyWord lang="en">Order,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scs Previstas</Title>
+				<Title lang="es">Sc Previstas</Title>
+				<Title lang="en">Pr Expected</Title>
+				<Function>MATA652</Function>
+				<Type>1</Type>
+				<Tables>SC1</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000512</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Solicitação,compras</KeyWord>
+					<KeyWord lang="es">Solicitud,compras</KeyWord>
+					<KeyWord lang="en">Request,purchase</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aes Previstas</Title>
+				<Title lang="es">Ae Previstas</Title>
+				<Title lang="en">da Expected</Title>
+				<Function>MATA653</Function>
+				<Type>1</Type>
+				<Tables>SC7</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000513</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Autorização,entrega,previsto,prevista,previsão,entrada</KeyWord>
+					<KeyWord lang="es">Autorizacion,entrega,previsto,pevista,prevision,entrada</KeyWord>
+					<KeyWord lang="en">Authorization,delivery,forecast,forecast,forecast,entry</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontar Produção</Title>
+				<Title lang="es">Apuntar Produc.</Title>
+				<Title lang="en">Register Productn.</Title>
+				<Function>MATA250</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SHD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000514</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fabricação,entrada</KeyWord>
+					<KeyWord lang="es">Fabricacion,entrada</KeyWord>
+					<KeyWord lang="en">Manufacture,entry</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontar Perda</Title>
+				<Title lang="es">Apuntar Perdida</Title>
+				<Title lang="en">Register Loss</Title>
+				<Function>MATA685</Function>
+				<Type>1</Type>
+				<Tables>SD3</Tables>
+				<Tables>SH1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000517</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Descarte,prejuízo</KeyWord>
+					<KeyWord lang="es">Retiro,perjuicio</KeyWord>
+					<KeyWord lang="en">Disposal,loss</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontar Produção de Terceiros</Title>
+				<Title lang="es">Apuntar Producción de Terceros</Title>
+				<Title lang="en">Indicate Third Party Production</Title>
+				<Function>MATA037</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014787</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previsao de Vendas</Title>
+				<Title lang="es">Previs. de Ventas</Title>
+				<Title lang="en">Sales Forecast</Title>
+				<Function>MATA700</Function>
+				<Type>1</Type>
+				<Tables>SC4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000013421</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empenho Simples</Title>
+				<Title lang="es">Asignacion Simple</Title>
+				<Title lang="en">Simple Allocation</Title>
+				<Function>MATA380</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000515</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reserva,produção,insumos</KeyWord>
+					<KeyWord lang="es">Reserva,produccion,insumos</KeyWord>
+					<KeyWord lang="en">Reservation,production,inputs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empenho Múltiplo</Title>
+				<Title lang="es">Asignac. Multipe</Title>
+				<Title lang="en">Multiple Allocatn</Title>
+				<Function>MATA381</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000516</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reserva,produção,insumos</KeyWord>
+					<KeyWord lang="es">Reserva,produccion,insumos</KeyWord>
+					<KeyWord lang="en">Reservation,production,inputs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aglutinacao de Ops</Title>
+				<Title lang="es">Aglutinac. de Ops</Title>
+				<Title lang="en">Po Grouping</Title>
+				<Function>MATA720</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000013408</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ordem,produção,fabricação</KeyWord>
+					<KeyWord lang="es">Orden,produccion,fabricacion</KeyWord>
+					<KeyWord lang="en">Order,production,manufacture</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Liberação</Title>
+			<Title lang="es">Autorizacion</Title>
+			<Title lang="en">Release</Title>
+			<ItemID>0000015757</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberação de Dctos</Title>
+				<Title lang="es">Auoriz.documentos</Title>
+				<Title lang="en">Doc. Release</Title>
+				<Function>MATA094</Function>
+				<Type>1</Type>
+				<Tables>SCR</Tables>
+				<Tables>DBK</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SCP</Tables>
+				<Tables>DBL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015759</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento,liberação,aprovação,análise</KeyWord>
+					<KeyWord lang="es">Documento,autorizacion,aprobacion,analisis</KeyWord>
+					<KeyWord lang="en">Document,release,approval,analysis</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamento</Title>
+			<Title lang="es">Procesamiento</Title>
+			<Title lang="en">Processing</Title>
+			<ItemID>0000000519</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off</Title>
+				<Title lang="es">Contabilidad Off</Title>
+				<Title lang="en">Accounting Off</Title>
+				<Function>CTBANFE</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000520</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lançamentos,contábeis,document,contabilização,entradas</KeyWord>
+					<KeyWord lang="es">Asientos,contables,documento,contabilidad,entradas</KeyWord>
+					<KeyWord lang="en">Transactions,accounting,document,accounting,entries</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloq. Inventário</Title>
+				<Title lang="es">Bloq. Inventario</Title>
+				<Title lang="en">Inventory Block.</Title>
+				<Function>MATA271</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000521</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueio,contagem</KeyWord>
+					<KeyWord lang="es">Bloqueo,recuento</KeyWord>
+					<KeyWord lang="en">Block,block,counting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acd</Title>
+			<Title lang="es">Acd</Title>
+			<Title lang="en">Acd</Title>
+			<ItemID>0000011560</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operadores</Title>
+				<Title lang="es">Operadores</Title>
+				<Title lang="en">Operators</Title>
+				<Function>ACDA010</Function>
+				<Type>1</Type>
+				<Tables>CB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011563</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Funcionários,usuários</KeyWord>
+					<KeyWord lang="es">Empleados,usuarios</KeyWord>
+					<KeyWord lang="en">Employees,users</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Embalagem</Title>
+				<Title lang="es">Tipos de Embalaje</Title>
+				<Title lang="en">Types Of Packing</Title>
+				<Function>ACDA040</Function>
+				<Type>1</Type>
+				<Tables>CB3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011564</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais P/impressão</Title>
+				<Title lang="es">Lugares P/impres.</Title>
+				<Title lang="en">Locations F/ Print</Title>
+				<Function>ACDA060</Function>
+				<Type>1</Type>
+				<Tables>CB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011568</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impressoras</KeyWord>
+					<KeyWord lang="es">Impresoras</KeyWord>
+					<KeyWord lang="en">Printers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto X Endereço</Title>
+				<Title lang="es">Producto Vs. Ubic.</Title>
+				<Title lang="en">Product X Address</Title>
+				<Function>ACDA090</Function>
+				<Type>1</Type>
+				<Tables>CBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,localização</KeyWord>
+					<KeyWord lang="es">Item,localizacion</KeyWord>
+					<KeyWord lang="en">Item,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Tarefa</Title>
+				<Title lang="es">Control de Tarea</Title>
+				<Title lang="en">Task Control</Title>
+				<Function>ACDA180</Function>
+				<Type>1</Type>
+				<Tables>CBF</Tables>
+				<Tables>CBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011572</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atividades</KeyWord>
+					<KeyWord lang="es">Actividades</KeyWord>
+					<KeyWord lang="en">Activities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Rf</Title>
+				<Title lang="es">Monitor Rf</Title>
+				<Title lang="en">Rf Monitor</Title>
+				<Function>VTACDMONIT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Inventário</Title>
+			<Title lang="es">Inventario</Title>
+			<Title lang="en">Inventory</Title>
+			<ItemID>0000012118</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mestre</Title>
+				<Title lang="es">Maestro</Title>
+				<Title lang="en">Master</Title>
+				<Function>ACDA030</Function>
+				<Type>1</Type>
+				<Tables>CBA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011567</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Inventário,contagem</KeyWord>
+					<KeyWord lang="es">Inventario,recuento</KeyWord>
+					<KeyWord lang="en">Inventory,counting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Registros</Title>
+				<Title lang="en">Entries</Title>
+				<Function>ACDA035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011570</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Inventário,contagem</KeyWord>
+					<KeyWord lang="es">Inventario,recuento</KeyWord>
+					<KeyWord lang="en">Inventory,counting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divergências</Title>
+				<Title lang="es">Divergencias</Title>
+				<Title lang="en">Divergences</Title>
+				<Function>ACDA050</Function>
+				<Type>1</Type>
+				<Tables>CB4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011569</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conferência</KeyWord>
+					<KeyWord lang="es">Verificacion</KeyWord>
+					<KeyWord lang="en">Conference</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divergência Meu Coletor</Title>
+				<Title lang="es">Divergencia Mi Recolector</Title>
+				<Title lang="en">Divergence My Collector</Title>
+				<Function>ACDM020</Function>
+				<Type>1</Type>
+				<Tables>D3V</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017260</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Central de Ia</Title>
+			<Title lang="es">Centro de Ia</Title>
+			<Title lang="en">Ai Center</Title>
+			<ItemID>0000024169</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Insights</Title>
+				<Title lang="es">Insights</Title>
+				<Title lang="en">Insights</Title>
+				<Function>PINSA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024170</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle Orçamentário</Title>
+			<Title lang="es">Control Presup.</Title>
+			<Title lang="en">Budget Control</Title>
+			<ItemID>0000025109</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000025110</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Orçamentárias</Title>
+				<Title lang="es">Ctas. Presupuestarias</Title>
+				<Title lang="en">Budget Accounts</Title>
+				<Function>PCOA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025111</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes</Title>
+				<Title lang="es">Clases</Title>
+				<Title lang="en">Classes</Title>
+				<Function>PCOA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025112</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Saldos</Title>
+				<Title lang="es">Tipo de Saldos</Title>
+				<Title lang="en">Balance Types</Title>
+				<Function>PCOA195</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025113</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade Orçamentária</Title>
+				<Title lang="es">Unid. Presup.</Title>
+				<Title lang="en">Budgetary Unit</Title>
+				<Function>PCOA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025114</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades Contábeis</Title>
+				<Title lang="es">Entes Contables</Title>
+				<Title lang="en">Accounting Entities</Title>
+				<Function>CTBA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025115</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contigências</Title>
+			<Title lang="es">Contingencias</Title>
+			<Title lang="en">Contingencies</Title>
+			<ItemID>0000025116</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovadores</Title>
+				<Title lang="es">Aprobadores</Title>
+				<Title lang="en">Approvers</Title>
+				<Function>PCOA520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025117</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Limites de Aprovação</Title>
+				<Title lang="es">Lím. Aprob.</Title>
+				<Title lang="en">Approval Limits</Title>
+				<Function>PCOA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025118</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contingências</Title>
+				<Title lang="es">Contingencias</Title>
+				<Title lang="en">Contingencies</Title>
+				<Function>PCOA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimento</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transaction</Title>
+			<ItemID>0000025121</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025122</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos</Title>
+			<Title lang="es">Cubos</Title>
+			<Title lang="en">Cubes</Title>
+			<ItemID>0000025123</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestión</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA193</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025124</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Cubos</Title>
+				<Title lang="es">Configuración de Cubos</Title>
+				<Title lang="en">Cube Settings</Title>
+				<Function>PCOA210_1</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025125</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão do Acesso À Configuração de Cubo</Title>
+				<Title lang="es">Borrado Del Acceso a La Config. Cubo</Title>
+				<Title lang="en">Exclusion Of Access To Cube Settings</Title>
+				<Function>PCOA210_2</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025126</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000025127</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento</Title>
+				<Title lang="es">Puntos de Asiento</Title>
+				<Title lang="en">Entry Points</Title>
+				<Function>PCOA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025129</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bloqueios</Title>
+			<Title lang="es">Bloqueos</Title>
+			<Title lang="en">Blocks</Title>
+			<ItemID>0000025130</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025131</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento de Integração</Title>
+				<Title lang="es">Ptos Asiento de Integr.</Title>
+				<Title lang="en">Integration Entry Points</Title>
+				<Function>PCOA041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025132</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Bloqueio</Title>
+				<Title lang="es">Puntos de Bloqueo</Title>
+				<Title lang="en">Blocking Points</Title>
+				<Function>PCOA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A040000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dashboard</Title>
+				<Title lang="es">Dashboard</Title>
+				<Title lang="en">Dashboard</Title>
+				<Function>FATA900</Function>
+				<Type>1</Type>
+				<Tables>A1O</Tables>
+				<Tables>A1N</Tables>
+				<Tables>A1P</Tables>
+				<Tables>A1Q</Tables>
+				<Tables>A1R</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017265</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Dashboard</KeyWord>
+					<KeyWord lang="es">Dashboard</KeyWord>
+					<KeyWord lang="en">Dashboard</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000527</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generics</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000528</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição Fornecedor</Title>
+				<Title lang="es">Situac. Proveedor</Title>
+				<Title lang="en">Supplier Position</Title>
+				<Function>FINC030</Function>
+				<Type>1</Type>
+				<Tables>SC5</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE5</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>6</Owner>
+				<ItemID>0000000529</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Participante,empresa,licitante</KeyWord>
+					<KeyWord lang="es">Participante,empresa,licitante</KeyWord>
+					<KeyWord lang="en">Participant,company,bidder</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formação de Preços</Title>
+				<Title lang="es">Formac. de Precio</Title>
+				<Title lang="en">Price Setting</Title>
+				<Function>MATC010</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000530</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex Diário</Title>
+				<Title lang="es">Kardex Diario</Title>
+				<Title lang="en">Daily Kardex</Title>
+				<Function>MATC030</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000531</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto</Title>
+				<Title lang="es">Producto</Title>
+				<Title lang="en">Product</Title>
+				<Function>MATC050</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SA7</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000532</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item</KeyWord>
+					<KeyWord lang="es">Item</KeyWord>
+					<KeyWord lang="en">Item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Posição das Solicitações Ao Almoxarifado</Title>
+				<Title lang="es">Consulta Posicion de Solicitaciones En El Deposito</Title>
+				<Title lang="en">Query Position Request To Store Rooms</Title>
+				<Function>MATC100</Function>
+				<Type>1</Type>
+				<Tables>SCQ</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000533</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Posição,solicitação,armazém,requisição,movimento,interno,baixa</KeyWord>
+					<KeyWord lang="es">Posicion,solicitud,almacen,requisicion,movimiento,interno,baja</KeyWord>
+					<KeyWord lang="en">Position,request,storage,request,movement,internal,writeoff</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Ambiente de Produção</Title>
+				<Title lang="es">Consulta Entorno de Produccion</Title>
+				<Title lang="en">Query Production Environment</Title>
+				<Function>MATC015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000534</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Consulta,produção</KeyWord>
+					<KeyWord lang="es">Consulta,produccion</KeyWord>
+					<KeyWord lang="en">Check,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagnóstico do Bloco K</Title>
+				<Title lang="es">Diagnóstico Del Block K</Title>
+				<Title lang="en">Block K Diagnosis</Title>
+				<Function>MATC300</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015130</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloco K</KeyWord>
+					<KeyWord lang="es">Block K</KeyWord>
+					<KeyWord lang="en">Block K</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rastreabilidade</Title>
+			<Title lang="es">Trazabilidad</Title>
+			<Title lang="en">Trackability</Title>
+			<ItemID>0000000536</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreamento</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>MATC040</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SD5</Tables>
+				<Tables>SBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000537</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sublotes</Title>
+				<Title lang="es">Sublotes</Title>
+				<Title lang="en">Sub-lots</Title>
+				<Function>MATA245</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000538</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotes</Title>
+				<Title lang="es">Lotes</Title>
+				<Title lang="en">Lots</Title>
+				<Function>MATC060</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000539</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastreabilidade,lote</KeyWord>
+					<KeyWord lang="es">Trazabilidad,lote</KeyWord>
+					<KeyWord lang="en">Trackability,lot</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Endereçamento</Title>
+			<Title lang="es">Contr. de Ubicac.</Title>
+			<Title lang="en">Addressing</Title>
+			<ItemID>0000000541</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Por Endereço</Title>
+				<Title lang="es">Saldo Por Ubicac.</Title>
+				<Title lang="en">Balance P/ Address</Title>
+				<Function>MATA226</Function>
+				<Type>1</Type>
+				<Tables>SBE</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000542</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,localização</KeyWord>
+					<KeyWord lang="es">Saldo,localizacion</KeyWord>
+					<KeyWord lang="en">Balance,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lote X Endereço</Title>
+				<Title lang="es">Lote Vs. Ubicacion</Title>
+				<Title lang="en">Lot X Address</Title>
+				<Function>MATC070</Function>
+				<Type>1</Type>
+				<Tables>SBF</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SDD</Tables>
+				<Tables>SDC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000543</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastreabilidade,lote,localizaç</KeyWord>
+					<KeyWord lang="es">Trazabilidad,lote,localizacion</KeyWord>
+					<KeyWord lang="en">Trackability,lot,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mrp</Title>
+			<Title lang="es">Mrp</Title>
+			<Title lang="en">Mrp</Title>
+			<ItemID>0000013188</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Necessidade Por Filial</Title>
+				<Title lang="es">Necesidad Por Sucursal</Title>
+				<Title lang="en">Needs By Branch</Title>
+				<Function>MATC710</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SHF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Necessidade</KeyWord>
+					<KeyWord lang="es">Necesidad</KeyWord>
+					<KeyWord lang="en">Need</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Automação de Coleta de Dados</Title>
+			<Title lang="es">Automatizacion de Recoleccion de Datos</Title>
+			<Title lang="en">Data Collection Automation</Title>
+			<ItemID>0000011798</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Logs de Etiquetas</Title>
+				<Title lang="es">Log de Etiquetas</Title>
+				<Title lang="en">Label Logs</Title>
+				<Function>ACDA130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000019359</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acd - Etiqueta de Produto</Title>
+				<Title lang="es">Acd - Etiqueta de Producto</Title>
+				<Title lang="en">Acd - Product Tag</Title>
+				<Function>ACDSV020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019049</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Custos</Title>
+			<Title lang="es">Costos</Title>
+			<Title lang="en">Costs</Title>
+			<ItemID>0000020011</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo de Custos</Title>
+				<Title lang="es">Comparación de Costos</Title>
+				<Title lang="en">Cost Comparison</Title>
+				<Function>ESTSV027</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000020298</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo de Reposição dos Materiais</Title>
+				<Title lang="es">Costo de Reposición de Los Materiales</Title>
+				<Title lang="en">Material Replenishment Cost</Title>
+				<Function>ESTSV034</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SBZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017655</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formação de Preços</Title>
+				<Title lang="es">Formación de Precios</Title>
+				<Title lang="en">Pricing</Title>
+				<Function>ESTSV001</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SGG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019360</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Por Op Fifo</Title>
+				<Title lang="es">Relación Por Op Fifo</Title>
+				<Title lang="en">List By Fifo Po</Title>
+				<Function>ESTSV040</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SBZ</Tables>
+				<Tables>SD8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017675</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Endereçamento</Title>
+			<Title lang="es">Ubicación</Title>
+			<Title lang="en">Addressing</Title>
+			<ItemID>0000020015</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex Por Endereço</Title>
+				<Title lang="es">Kardex Por Ubicación</Title>
+				<Title lang="en">Kardex By Slot</Title>
+				<Function>ESTSV013</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SBZ</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019640</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Produtos a Endereçar</Title>
+				<Title lang="es">Lista de Productos Por Ubicar</Title>
+				<Title lang="en">List Of Products To Address</Title>
+				<Function>ESTSV005</Function>
+				<Type>1</Type>
+				<Tables>SDA</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019482</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição de Estoque Por Endereço</Title>
+				<Title lang="es">Posición de Stock Por Ubicación</Title>
+				<Title lang="en">Stock Position By Slot</Title>
+				<Function>ESTSV019</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SBF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Inventário</Title>
+			<Title lang="es">Inventario</Title>
+			<Title lang="en">Inventory</Title>
+			<ItemID>0000020024</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divergências Em Multiplas Contagens</Title>
+				<Title lang="es">Divergencias En Múltiples Cómputos</Title>
+				<Title lang="en">Divergences In Multiple Counting</Title>
+				<Function>ESTSV002</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019406</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem Para Inventário</Title>
+				<Title lang="es">Listado Para Inventario</Title>
+				<Title lang="en">List For Inventory</Title>
+				<Function>ESTSV012</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SB8</Tables>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019639</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem de Itens Inventariados</Title>
+				<Title lang="es">Listado de Los Ítems Inventariados</Title>
+				<Title lang="en">List Of Items In Inventory</Title>
+				<Function>ESTSV014</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Kardex</Title>
+			<Title lang="es">Kardex</Title>
+			<Title lang="en">Kardex</Title>
+			<ItemID>0000020025</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex</Title>
+				<Title lang="es">Kardex</Title>
+				<Title lang="en">Kardex</Title>
+				<Function>ESTSV023</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017517</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex Fifo/lifo</Title>
+				<Title lang="es">Kardex Fifo/lifo</Title>
+				<Title lang="en">Fifo/lifo Kardex</Title>
+				<Function>ESTSV041</Function>
+				<Type>1</Type>
+				<Tables>SD8</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017676</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações de Estoque</Title>
+			<Title lang="es">Movimientos de Stock</Title>
+			<Title lang="en">Stock Transactions</Title>
+			<ItemID>0000020026</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise da Movimentação</Title>
+				<Title lang="es">Anál Movimiento</Title>
+				<Title lang="en">Transaction Analysis</Title>
+				<Function>ESTSV004</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017516</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consumo Mês a Mês</Title>
+				<Title lang="es">Consumo Mes Por Mes</Title>
+				<Title lang="en">Consumption Month By Month</Title>
+				<Function>ESTSV015</Function>
+				<Type>1</Type>
+				<Tables>SB3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019645</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consumo Real X Standard</Title>
+				<Title lang="es">Consumo Real Vs. Estándar</Title>
+				<Title lang="en">Actual X Standard Consumption</Title>
+				<Function>ESTSV032</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SBZ</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017669</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos Vendidos</Title>
+				<Title lang="es">Productos Vendidos</Title>
+				<Title lang="en">Overdue Products</Title>
+				<Function>ESTSV021</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019828</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recursividade Por Movimentação</Title>
+				<Title lang="es">Recursividad Por Movimiento</Title>
+				<Title lang="en">Recursion By Transaction</Title>
+				<Function>ESTSV030</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017587</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação de Baixas do Cq</Title>
+				<Title lang="es">Lista de Bajas Del Cq</Title>
+				<Title lang="en">Qc Posting List</Title>
+				<Function>ESTSV028</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD7</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação das Movimentações Internas</Title>
+				<Title lang="es">Lista de Los Movimientos Internos</Title>
+				<Title lang="en">List Of Internal Transactions</Title>
+				<Function>ESTSV006</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017512</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo de Entradas e Saídas</Title>
+				<Title lang="es">Resumen de Entradas Y Salidas</Title>
+				<Title lang="en">Summary Of Inflow And Outflow</Title>
+				<Function>ESTSV017</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisições Para Consumo</Title>
+				<Title lang="es">Requerimientos Para Consumo</Title>
+				<Title lang="en">Requisitions For Consumption</Title>
+				<Function>ESTSV003</Function>
+				<Type>1</Type>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019418</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferencia Entre Filiais</Title>
+				<Title lang="es">Transferencia Entre Sucursales</Title>
+				<Title lang="en">Transfer Between Branches</Title>
+				<Function>ESTSV029</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Picklist</Title>
+			<Title lang="es">Picklist</Title>
+			<Title lang="en">Picklist</Title>
+			<ItemID>0000020027</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pick-list Endereço Por Nota Fiscal</Title>
+				<Title lang="es">Pick-list Dirección Por Factura</Title>
+				<Title lang="en">Address Picklist By Invoice</Title>
+				<Function>ESTSV033</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017645</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Picklist Por Op</Title>
+				<Title lang="es">Picklist Por Op</Title>
+				<Title lang="en">Picklist By Po</Title>
+				<Function>ESTSV037</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017650</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Poder de Terceiros</Title>
+			<Title lang="es">Poder de Terceros</Title>
+			<Title lang="en">Held By 3rd Party</Title>
+			<ItemID>0000020096</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Materiais De/em Terceiros</Title>
+				<Title lang="es">Materiales De/en Terceros</Title>
+				<Title lang="en">Materials From/in Third-parties</Title>
+				<Function>ESTSV016</Function>
+				<Type>1</Type>
+				<Tables>SB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nfs De/em Terceiro</Title>
+				<Title lang="es">Facts De/en Tercero</Title>
+				<Title lang="en">Invoices From/in Third-p.</Title>
+				<Function>ESTSV025</Function>
+				<Type>1</Type>
+				<Tables>SB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Produtos</Title>
+			<Title lang="es">Productos</Title>
+			<Title lang="en">Products</Title>
+			<ItemID>0000020181</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Produtos</Title>
+				<Title lang="es">Lista de Productos</Title>
+				<Title lang="en">Product List</Title>
+				<Function>ESTSV022</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017583</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Produtos</Title>
+				<Title lang="es">Grupos de Productos</Title>
+				<Title lang="en">Product Group</Title>
+				<Function>ESTSV038</Function>
+				<Type>1</Type>
+				<Tables>SBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento de Produto</Title>
+				<Title lang="es">Complemento de Producto</Title>
+				<Title lang="en">Product Complement</Title>
+				<Function>ESTSV035</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SBZ</Tables>
+				<Tables>SBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017612</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rastreabilidade</Title>
+			<Title lang="es">Trazabilidad</Title>
+			<Title lang="en">Traceability</Title>
+			<ItemID>0000020192</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex Por Lote/sublote</Title>
+				<Title lang="es">Kardex Por Lote/sublote</Title>
+				<Title lang="en">Kardex By Batch/sub-batch</Title>
+				<Function>ESTSV010</Function>
+				<Type>1</Type>
+				<Tables>SB8</Tables>
+				<Tables>SD5</Tables>
+				<Tables>SBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição de Estoque Por Lote-sublote</Title>
+				<Title lang="es">Posición de Stock Por Lote-sublote</Title>
+				<Title lang="en">Stock Position By Batch/sub-batch</Title>
+				<Function>ESTSV018</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017547</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Saldos Em Estoque</Title>
+			<Title lang="es">Saldo En Stock</Title>
+			<Title lang="en">Stock Balances</Title>
+			<ItemID>0000020193</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise de Estoque</Title>
+				<Title lang="es">Análisis de Stock</Title>
+				<Title lang="en">Stock Analysis</Title>
+				<Function>ESTSV011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019647</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise de Estoque Por Estrutura</Title>
+				<Title lang="es">Análisis Del Stock Por Estructura</Title>
+				<Title lang="en">Stock Analysis By Structure</Title>
+				<Function>ESTSV036</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferência de Saldos</Title>
+				<Title lang="es">Verificación de Saldos</Title>
+				<Title lang="en">Balance Checking</Title>
+				<Function>ESTSV009</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019598</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diferenças de Estoque</Title>
+				<Title lang="es">Diferencias de Stock</Title>
+				<Title lang="en">Stock Differences</Title>
+				<Function>ESTSV007</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Faltas</Title>
+				<Title lang="es">Lista de Faltas</Title>
+				<Title lang="en">List Of Absences</Title>
+				<Function>ESTSV042</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017688</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição de Estoque</Title>
+				<Title lang="es">Posición de Stock</Title>
+				<Title lang="en">Stock Position</Title>
+				<Function>ESTSV020</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Em Processo</Title>
+				<Title lang="es">Saldo En Proceso</Title>
+				<Title lang="en">Balance In Progress</Title>
+				<Function>ESTSV039</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017674</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Iniciais</Title>
+				<Title lang="es">Saldos Iniciales</Title>
+				<Title lang="en">Initial Balances</Title>
+				<Function>ESTSV024</Function>
+				<Type>1</Type>
+				<Tables>SB9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019832</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Solicitação Ao Armazém</Title>
+			<Title lang="es">Solicitud Al Almacén</Title>
+			<Title lang="en">Warehouse Request</Title>
+			<ItemID>0000020195</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Solicitação Ao Armazém</Title>
+				<Title lang="es">Control Solicitud Al Almacén</Title>
+				<Title lang="en">Request To Warehouse Tracking</Title>
+				<Function>ESTSV031</Function>
+				<Type>1</Type>
+				<Tables>SCP</Tables>
+				<Tables>SCQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição das Solicitações Ao Armazém</Title>
+				<Title lang="es">Situación de Las Solicitudes Al Almacén</Title>
+				<Title lang="en">Position Of Requests To Warehouse</Title>
+				<Function>ESTSV008</Function>
+				<Type>1</Type>
+				<Tables>SCP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000019590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Termo de Retirada</Title>
+				<Title lang="es">Término de Retirada</Title>
+				<Title lang="en">Term Of Withdrawal</Title>
+				<Function>ESTSV026</Function>
+				<Type>1</Type>
+				<Tables>SCP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000020273</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A040000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000547</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indicador de Produtos</Title>
+				<Title lang="es">Indicador de Productos</Title>
+				<Title lang="en">Product Indicator</Title>
+				<Function>MATR018</Function>
+				<Type>1</Type>
+				<Tables>SBZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000558</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,sinalizadores,ponto,pedido,reposição,lote,econômic,estoque,segurança</KeyWord>
+					<KeyWord lang="es">Item,senaladores,punto,pedido,reposicion,lote,economico,stock,seguridad</KeyWord>
+					<KeyWord lang="en">Item,signalizers,point,order,reposition,lot,economic,stock,safety</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Engenharia</Title>
+			<Title lang="es">Ingenieria</Title>
+			<Title lang="en">Engineering</Title>
+			<ItemID>0000000546</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes</Title>
+				<Title lang="es">Tes</Title>
+				<Title lang="en">Tio</Title>
+				<Function>MATR081</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entrada,saida</KeyWord>
+					<KeyWord lang="es">Entrada,salida</KeyWord>
+					<KeyWord lang="en">Entry,exit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes Inteligente</Title>
+				<Title lang="es">Tes Inteligente</Title>
+				<Title lang="en">Intelligent T I o</Title>
+				<Function>MATR089</Function>
+				<Type>1</Type>
+				<Tables>SFM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000553</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entrada,saida,tes,fiscal,financeiro,automaçã,operação</KeyWord>
+					<KeyWord lang="es">Entrada,salida,tes,fiscal,financiero,automatizacion,operacion</KeyWord>
+					<KeyWord lang="en">Entry,exit,tes,fiscal,financial,automation,operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estruturas Simples</Title>
+				<Title lang="es">Estructura Simple</Title>
+				<Title lang="en">Simple Structures</Title>
+				<Function>MATR225</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000549</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Composição,fórmulação</KeyWord>
+					<KeyWord lang="es">Composicion,formulacion</KeyWord>
+					<KeyWord lang="en">Composition,formulation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Onde É Usado?</Title>
+				<Title lang="es">¿donde Se Utiliza?</Title>
+				<Title lang="en">Where Is It Used?</Title>
+				<Function>MATR400</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000550</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estrutura,formulação</KeyWord>
+					<KeyWord lang="es">Estructura,formulacion</KeyWord>
+					<KeyWord lang="en">Structure,formulation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Saldos</Title>
+			<Title lang="es">Saldos</Title>
+			<Title lang="en">Balances</Title>
+			<ItemID>0000000560</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ponto de Pedido</Title>
+				<Title lang="es">Punto de Pedido</Title>
+				<Title lang="en">Order Point</Title>
+				<Function>MATR440</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000563</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ponto,pedido,reposição,compra,produção</KeyWord>
+					<KeyWord lang="es">Punto,pedido,reposicion,compra,produccion</KeyWord>
+					<KeyWord lang="en">Point,order,reposition,purchase,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Endereçamento</Title>
+			<Title lang="es">Contr. de Ubic.</Title>
+			<Title lang="en">Addressing</Title>
+			<ItemID>0000000622</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rastreabilidade</Title>
+			<Title lang="es">Trazabilidad</Title>
+			<Title lang="en">Traceability</Title>
+			<ItemID>0000000638</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação das Ordens de Produção</Title>
+				<Title lang="es">Relacion de Ordenes de Produccion</Title>
+				<Title lang="en">List Of Production Orders</Title>
+				<Function>MATR850</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000569</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ordem,produção</KeyWord>
+					<KeyWord lang="es">Orden,produccion</KeyWord>
+					<KeyWord lang="en">Order,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Poder de Terceiros</Title>
+			<Title lang="es">Poder de Terceros</Title>
+			<Title lang="en">Third Party Power</Title>
+			<ItemID>0000011680</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Inventário</Title>
+			<Title lang="es">Inventario</Title>
+			<Title lang="en">Inventory</Title>
+			<ItemID>0000000621</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Análises</Title>
+			<Title lang="es">Analisis</Title>
+			<Title lang="en">Analises</Title>
+			<ItemID>0000000572</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000012163</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Kardex</Title>
+			<Title lang="es">Kardex</Title>
+			<Title lang="en">Kardex</Title>
+			<ItemID>0000012165</ItemID>
+		</Menu>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens de Documentos Fiscais</Title>
+				<Title lang="es">Items de Documentos Fiscales</Title>
+				<Title lang="en">Tax Document Items</Title>
+				<Function>MATR090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000580</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,fiscal,documento,entradas</KeyWord>
+					<KeyWord lang="es">Factura,factura,documento,entradas</KeyWord>
+					<KeyWord lang="en">Invoice,tax,document,entries</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Produção</Title>
+			<Title lang="es">Produccion</Title>
+			<Title lang="en">Production</Title>
+			<ItemID>0000012166</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem de Ordem de Produção</Title>
+				<Title lang="es">Lista de Orden de Produccion</Title>
+				<Title lang="en">Production Order List</Title>
+				<Function>MATR820</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000598</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ordem,produção</KeyWord>
+					<KeyWord lang="es">Orden,produccion</KeyWord>
+					<KeyWord lang="en">Order,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perdas de Produção</Title>
+				<Title lang="es">Perdidas de Produc</Title>
+				<Title lang="en">Production Losses</Title>
+				<Function>MATR235</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000578</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Detalhamento da Ordem de Produção</Title>
+				<Title lang="es">Detalle de Orden de Produccion</Title>
+				<Title lang="en">Production Order Detail</Title>
+				<Function>MATR860</Function>
+				<Type>1</Type>
+				<Tables>SD3</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>10</Owner>
+				<ItemID>0000000591</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ordem,produção</KeyWord>
+					<KeyWord lang="es">Orden,produccion</KeyWord>
+					<KeyWord lang="en">Order,production</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Custo</Title>
+			<Title lang="es">Costo</Title>
+			<Title lang="en">Cost</Title>
+			<ItemID>0000000600</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Fifo e Lifo</Title>
+			<Title lang="es">Fifo Y Lifo</Title>
+			<Title lang="en">Fifo And Lifo</Title>
+			<ItemID>0000000628</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Em Partes</Title>
+			<Title lang="es">En Partes</Title>
+			<Title lang="en">In Parts</Title>
+			<ItemID>0000012161</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Kardex</Title>
+				<Title lang="es">Kardex</Title>
+				<Title lang="en">Kardex</Title>
+				<Function>MATR978</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000640</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custos Em Partes X Custo Médio</Title>
+				<Title lang="es">Costos En Partes Vs Costo Promedio</Title>
+				<Title lang="en">Costs In Parts X Average Cost</Title>
+				<Function>MATR979</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000641</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custo</KeyWord>
+					<KeyWord lang="es">Costo</KeyWord>
+					<KeyWord lang="en">Cost</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Legais</Title>
+			<Title lang="es">Legales</Title>
+			<Title lang="en">Legals</Title>
+			<ItemID>0000012162</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Inventário Modelo P7</Title>
+				<Title lang="es">Registro de Inventario Modelo P7</Title>
+				<Title lang="en">Inventory Register Model P7</Title>
+				<Function>MATR460</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000587</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro,inventário,modelo</KeyWord>
+					<KeyWord lang="es">Registro,inventario,modelo</KeyWord>
+					<KeyWord lang="en">Record,inventory,model</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro Kardex  Modelo 3</Title>
+				<Title lang="es">Registro Kardex  Modelo 3</Title>
+				<Title lang="en">Kardex Register Model 3</Title>
+				<Function>MATR470</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000588</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro,modelo</KeyWord>
+					<KeyWord lang="es">Registro,modelo</KeyWord>
+					<KeyWord lang="en">Record,model</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos Controlados</Title>
+				<Title lang="es">Productos Controlados</Title>
+				<Title lang="en">Controled Products</Title>
+				<Function>MATR462</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000596</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item</KeyWord>
+					<KeyWord lang="es">Producto,item</KeyWord>
+					<KeyWord lang="en">Product,item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Bloco K</Title>
+				<Title lang="es">Lista Block K</Title>
+				<Title lang="en">Block K List</Title>
+				<Function>MATR241</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023459</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Genéricos</Title>
+			<Title lang="es">Genericos</Title>
+			<Title lang="en">Generics</Title>
+			<ItemID>0000000601</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Preços</Title>
+				<Title lang="es">Lista de Precios</Title>
+				<Title lang="en">Price List</Title>
+				<Function>OMSR010</Function>
+				<Type>1</Type>
+				<Tables>DA0</Tables>
+				<Tables>DA1</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>5</Owner>
+				<ItemID>0000000603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Fiscais</Title>
+				<Title lang="es">Docum. Fiscales</Title>
+				<Title lang="en">Fiscal Documents</Title>
+				<Function>MATR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento</KeyWord>
+					<KeyWord lang="es">Documento</KeyWord>
+					<KeyWord lang="en">Document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Boletim de Entrada de Documentos Fiscais</Title>
+				<Title lang="es">Boletin de Entrada de Documentos Fiscales</Title>
+				<Title lang="en">Tax Document Inflow Report</Title>
+				<Function>MATR170</Function>
+				<Type>1</Type>
+				<Tables>SF1</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000610</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Boletim,entrega,documento,fiscal,recebimentos,entradas</KeyWord>
+					<KeyWord lang="es">Boletin,entrega,documento,fiscal,recepciones,entradas</KeyWord>
+					<KeyWord lang="en">Report,delivery,document,tax,receivings,entries</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documento de Origem X Frete</Title>
+				<Title lang="es">Documento de Origen Vs Flete</Title>
+				<Title lang="en">Origin X Freight Document</Title>
+				<Function>MATR015</Function>
+				<Type>1</Type>
+				<Tables>SF1</Tables>
+				<Tables>SF8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000620</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,original,fiscal,documento</KeyWord>
+					<KeyWord lang="es">Nota,original,fiscal,documento</KeyWord>
+					<KeyWord lang="en">Invoice,original,tax,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Fci Sint.</Title>
+				<Title lang="es">Relacion Fci Sint.</Title>
+				<Title lang="en">Relation Fci Sint.</Title>
+				<Function>FCIR001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018828</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Fci An. Entr.</Title>
+				<Title lang="es">Lista Fci An. Entr.</Title>
+				<Title lang="en">Entr Pr Fci List</Title>
+				<Function>FCIR002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021012</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Fci An. Prod.</Title>
+				<Title lang="es">Lista Fci An. Prod.</Title>
+				<Title lang="en">Entr Pr Fci List</Title>
+				<Function>FCIR003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016383</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Automação de Coleta de Dados</Title>
+			<Title lang="es">Automatizacion de Recoleccion de Datos</Title>
+			<Title lang="en">Data Collection Automation</Title>
+			<ItemID>0000011686</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Etiquetas</Title>
+				<Title lang="es">Wizard Etiquetas</Title>
+				<Title lang="en">Tag Wizard</Title>
+				<Function>ACDI011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011690</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impressão,etiqueta</KeyWord>
+					<KeyWord lang="es">Impresion,etiqueta</KeyWord>
+					<KeyWord lang="en">Print,label</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A040000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle da Geração de Documentos</Title>
+				<Title lang="es">Control de Generacion de Documentos</Title>
+				<Title lang="en">Document Generation Control</Title>
+				<Function>MATA012</Function>
+				<Type>1</Type>
+				<Tables>SD9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,documento</KeyWord>
+					<KeyWord lang="es">Contrato,documento</KeyWord>
+					<KeyWord lang="en">Contract,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculos</Title>
+			<Title lang="es">Calculos</Title>
+			<Title lang="en">Calculations</Title>
+			<ItemID>0000000650</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consumo e Indicador</Title>
+				<Title lang="es">Consumo e Indicador</Title>
+				<Title lang="en">Consumption And Indicator</Title>
+				<Function>MATA290</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAI</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000651</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,sinalizadores,ponto,pedido,reposição,lote,econômic,estoque,segurança</KeyWord>
+					<KeyWord lang="es">Item,senalizadores,punto,pedido,reposicion,lote,economico,stock,seguridad</KeyWord>
+					<KeyWord lang="en">Item,signalizers,point,order,reposition,lot,economic,inventory,safety</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estoque Máximo</Title>
+				<Title lang="es">Stock Maximo</Title>
+				<Title lang="en">Max.storage</Title>
+				<Function>MATA176</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Indicador</KeyWord>
+					<KeyWord lang="es">Indicador</KeyWord>
+					<KeyWord lang="en">Indicator</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo de Reposição</Title>
+				<Title lang="es">Costo de Reposic.</Title>
+				<Title lang="en">Replacement Cost</Title>
+				<Function>MATA320</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000652</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Standard,gerencial</KeyWord>
+					<KeyWord lang="es">Estandar,gerencial</KeyWord>
+					<KeyWord lang="en">Standard,managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Médio</Title>
+				<Title lang="es">Costo Medio</Title>
+				<Title lang="en">Average Cost</Title>
+				<Function>MATA330</Function>
+				<Type>1</Type>
+				<Tables>SD3</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SBD</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD8</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SM2</Tables>
+				<Tables>AF9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000664</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recálculo</KeyWord>
+					<KeyWord lang="es">Recalculo</KeyWord>
+					<KeyWord lang="en">Recalculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acompanha Custos</Title>
+				<Title lang="es">Acompaña Costos</Title>
+				<Title lang="en">Follow Costs</Title>
+				<Function>MATA038</Function>
+				<Type>1</Type>
+				<Tables>SD3</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SBD</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD8</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SM2</Tables>
+				<Tables>AF9</Tables>
+				<Tables>D3X</Tables>
+				<Tables>D3Y</Tables>
+				<Tables>D3W</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acompanha Custos</KeyWord>
+					<KeyWord lang="es">Sigue Costos</KeyWord>
+					<KeyWord lang="en">Comes With Costs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização de Custo Médio</Title>
+				<Title lang="es">Contabilizacion de Costo Promedio</Title>
+				<Title lang="en">Average Cost Accounting</Title>
+				<Function>MATA331</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000665</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custo,médio,recálculo</KeyWord>
+					<KeyWord lang="es">Costo,promedio,recalculo</KeyWord>
+					<KeyWord lang="en">Costs,average,recalculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reavaliação do Custo Médio</Title>
+				<Title lang="es">Revaluacion de Costo Promedio</Title>
+				<Title lang="en">Average Cost Revaluation</Title>
+				<Function>MATA338</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000666</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custo,médio,recálculo</KeyWord>
+					<KeyWord lang="es">Costo,promedio,recalculo</KeyWord>
+					<KeyWord lang="en">Cost,average,recalculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parametros Para Cálculo de Consumo e Indicadores</Title>
+				<Title lang="es">Parámetros Para Cálc. Consumo e Indicadores</Title>
+				<Title lang="en">Parameters For Consumption Calc And Indicators</Title>
+				<Function>ESTA011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024372</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Médio Modelo 2</Title>
+				<Title lang="es">Costo Medio Modelo 2</Title>
+				<Title lang="en">Average Cost Model 2</Title>
+				<Function>EST330MAIN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024755</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custo,médio,recálculo</KeyWord>
+					<KeyWord lang="es">Costo,medio,recálculo</KeyWord>
+					<KeyWord lang="en">Cost,average,recalculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Roteiro de Cálculo</Title>
+				<Title lang="es">Reg. Proced. Cálculo</Title>
+				<Title lang="en">Calculation Procedure Register</Title>
+				<Function>EST330A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024756</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Partes de Custo</Title>
+				<Title lang="es">Registro de Partes de Costo</Title>
+				<Title lang="en">Cost Parts Register</Title>
+				<Function>EST330B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024757</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard de Custo Em Partes</Title>
+				<Title lang="es">Wizard de Costo En Partes</Title>
+				<Title lang="en">Cost In Parts Wizard</Title>
+				<Function>WIZARDNCP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024758</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamentos</Title>
+			<Title lang="es">Procesamientos</Title>
+			<Title lang="en">Processing</Title>
+			<ItemID>0000000654</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Saldos</Title>
+				<Title lang="es">Rehace Saldos</Title>
+				<Title lang="en">Redo Budgets</Title>
+				<Function>MATA300</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000655</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Empenhos</Title>
+				<Title lang="es">Rehace Res. Mat</Title>
+				<Title lang="en">Redo Pledges</Title>
+				<Function>MATA215</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC0</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SC9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SE2</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000658</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Saldo,acerto,ajuste,entradas,saidas</KeyWord>
+					<KeyWord lang="es">Saldo,arreglo,ajuste,entradas,salidas</KeyWord>
+					<KeyWord lang="en">Balance,settlement,adjustment,entries,exits</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Poder de Terceiro</Title>
+				<Title lang="es">Rehace Poder de Tercero</Title>
+				<Title lang="en">Remake Third Party Power</Title>
+				<Function>MATA216</Function>
+				<Type>1</Type>
+				<Tables>SB6</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Terceiros</KeyWord>
+					<KeyWord lang="es">Terceros</KeyWord>
+					<KeyWord lang="en">Third</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Custo de Entrada</Title>
+				<Title lang="es">Rehace Costo de Entrada</Title>
+				<Title lang="en">Remake Inflow Cost</Title>
+				<Function>MATA190</Function>
+				<Type>1</Type>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custo</KeyWord>
+					<KeyWord lang="es">Costo</KeyWord>
+					<KeyWord lang="en">Cust</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventário</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>MATA340</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB7</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000656</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contagem,acerto,ajuste</KeyWord>
+					<KeyWord lang="es">Conteo,arreglo,ajuste</KeyWord>
+					<KeyWord lang="en">Counting,settlement,adjustment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fechar Períodos</Title>
+			<Title lang="es">Cerrar Periodos</Title>
+			<Title lang="en">Close Periods</Title>
+			<ItemID>0000000668</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Atual Para Final</Title>
+				<Title lang="es">Saldo Actual Para Final</Title>
+				<Title lang="en">Current Balance For Final</Title>
+				<Function>MATA350</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SC2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>4</Owner>
+				<ItemID>0000000669</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fechamento,período,encerrament</KeyWord>
+					<KeyWord lang="es">Cierre,periodo,finalizacion</KeyWord>
+					<KeyWord lang="en">Closing,period,encerramento</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000000672</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000673</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos de Usuários</Title>
+				<Title lang="es">Procesos de Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000674</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000675</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planejamento Orçamentário</Title>
+			<Title lang="es">Planific. Presupuestaria</Title>
+			<Title lang="en">Budgetary Planning</Title>
+			<ItemID>0000025134</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Reprocessamentos</Title>
+			<Title lang="es">Reprocesamientos</Title>
+			<Title lang="en">Reprocessing</Title>
+			<ItemID>0000025135</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestión</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Multi-thread</Title>
+				<Title lang="es">Cubos Multi-thread</Title>
+				<Title lang="en">Multi-threaded Cubes</Title>
+				<Function>PCOA301</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025137</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025138</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Saldo Contábil</Title>
+				<Title lang="es">Asiento Saldo Contable</Title>
+				<Title lang="en">Accounting Balance Entries</Title>
+				<Function>PCOA330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025139</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Integração</Title>
+				<Title lang="es">Asientos de Integrac.</Title>
+				<Title lang="en">Integration Entries</Title>
+				<Function>PCOA009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025140</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exp. Mov. Orçamentários</Title>
+				<Title lang="es">Exp. Mov. Presupuestarios</Title>
+				<Title lang="en">Budgetary Trans Exp</Title>
+				<Function>PCOM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>04</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025141</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B040000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B040000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,39 @@
+[PRE-APURACAO]
+(PRE) aTotal := Array(30)
+(PRE) aTotal[01] := 0
+(PRE) aTotal[02] := 0   
+(PRE) aTotal[03] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[04] := 0
+(PRE) aTotal[05] := 0
+(PRE) aTotal[06] := 0
+(PRE) aTotal[07] := 0
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(PRE) aTotal[24] := Iif(aTotal[20] > 0 .Or. aTotal[21] > 0,CalcRB(aTotal[3][1],aTotal[3][2],aTotal[22],.F.,aTotal[23],.T.),0)
+(PRE) aTotal[25] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[20] / 100, 0)
+(PRE) aTotal[26] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[21] / 100, 0)
+(POS) 
+[APURACAO ICMS]
+(PRE) {|x| Iif(x[30] > 0,aTotal[1] += x[30],aTotal[1] += 0)}
+(PRE) {|x| Iif(x[38] > 0,aTotal[2] += x[38],aTotal[2] += 0)}
+(PRE) {|x| Iif(x[39] > 0,aTotal[4] += x[39],aTotal[4] += 0)}
+(PRE) {|x| Iif(Left(x[01],1)$"56" .And. x[04] > 0,aTotal[5] += x[11],aTotal[5] += 0)}
+(PRE) {|x| Iif(x[14] > 0,aTotal[6] += x[14],aTotal[6] += 0)}
+(PRE) {|x| Iif(Left(x[01],1)$"12" ,aTotal[7] += x[04],aTotal[7] += 0)}
+(POS)
+[POS-APURACAO]
+002=002.20;FUST    ;aTotal[25];            ;.F.;          ;
+002=002.21;FUNTTEL ;aTotal[26];            ;.F.;          ;
+003=003.01;Est. Cred. - Art. 18 ;(aTotal[6]/aTotal[5])*aTotal[7];            ;.F.;          ;
+(PRE)
+006=006.01;Credito Estimulo;aTotal[1];;
+006=006.02;Cred Fis Pres - Art.24 RICMS/AM-DEC 20.686/1999;aTotal[2];;
+ST 007=007.01;CR PRES-ART.111, DEC. 20.686/1999-AM;aTotal[4];;
+(POS)
+[OBSERVACAO]
+(PRE)
+OBS=""
+(POS)

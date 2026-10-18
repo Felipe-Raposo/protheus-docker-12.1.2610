@@ -1,0 +1,749 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACRD</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A550000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro</Title>
+			<Title lang="es">Archivo</Title>
+			<Title lang="en">File</Title>
+			<ItemID>0000009418</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Clientes</Title>
+				<Title lang="es">Archivo de Clientes</Title>
+				<Title lang="en">Customer Register</Title>
+				<Function>CRDA010</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MA7</Tables>
+				<Tables>MA8</Tables>
+				<Tables>MAD</Tables>
+				<Tables>MA5</Tables>
+				<Tables>MA6</Tables>
+				<Tables>MAI</Tables>
+				<Tables>MA9</Tables>
+				<Tables>MAA</Tables>
+				<Tables>MAB</Tables>
+				<Tables>MAC</Tables>
+				<Tables>MAE</Tables>
+				<Tables>MAR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009419</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionário Sócio Econômico</Title>
+				<Title lang="es">Cuestionario Socio Economico</Title>
+				<Title lang="en">Social And Economic Questionnaire</Title>
+				<Function>CRDA011</Function>
+				<Type>1</Type>
+				<Tables>MA4</Tables>
+				<Tables>MAI</Tables>
+				<Tables>MAJ</Tables>
+				<Tables>MA5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009420</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Questionario,cliente</KeyWord>
+					<KeyWord lang="es">Cuestionario,cliente</KeyWord>
+					<KeyWord lang="en">Questionnaire,customer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartões Fidelidade</Title>
+				<Title lang="es">Tarjetas de Fidelizacion</Title>
+				<Title lang="en">Loyalty Cards</Title>
+				<Function>CRDA280</Function>
+				<Type>1</Type>
+				<Tables>MAM</Tables>
+				<Tables>MBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011476</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartao</KeyWord>
+					<KeyWord lang="es">Tarjeta</KeyWord>
+					<KeyWord lang="en">Card</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Script Para Limite de Crédito</Title>
+				<Title lang="es">Script Para Limite de Credito</Title>
+				<Title lang="en">Script For Credit Limit</Title>
+				<Function>CRDA020</Function>
+				<Type>1</Type>
+				<Tables>MAF</Tables>
+				<Tables>SLJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009422</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Limite,lc</KeyWord>
+					<KeyWord lang="es">Limite,lc</KeyWord>
+					<KeyWord lang="en">Limit,lc</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Script de Avaliação de Clientes</Title>
+				<Title lang="es">Script de Evaluacion de Clientes</Title>
+				<Title lang="en">Script Of Customer Evaluation</Title>
+				<Function>CRDA060</Function>
+				<Type>1</Type>
+				<Tables>MAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009423</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Analise,credito</KeyWord>
+					<KeyWord lang="es">Analisis,credito</KeyWord>
+					<KeyWord lang="en">Analysis,credit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartões</Title>
+				<Title lang="es">Tarjetas</Title>
+				<Title lang="en">Cards</Title>
+				<Function>CRDA130</Function>
+				<Type>1</Type>
+				<Tables>MAM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009424</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartao</KeyWord>
+					<KeyWord lang="es">Tarjeta</KeyWord>
+					<KeyWord lang="en">Card</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos</Title>
+				<Title lang="es">Bancos</Title>
+				<Title lang="en">Banks</Title>
+				<Function>CRDA140</Function>
+				<Type>1</Type>
+				<Tables>MAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009425</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grau de Parentesco</Title>
+				<Title lang="es">Grado de Parent.</Title>
+				<Title lang="en">Relation. Status</Title>
+				<Function>CRDA150</Function>
+				<Type>1</Type>
+				<Tables>MAO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009426</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Documentos</Title>
+				<Title lang="es">Tipos de Documentos</Title>
+				<Title lang="en">Document Types</Title>
+				<Function>CRDA160</Function>
+				<Type>1</Type>
+				<Tables>MAP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009427</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocupações</Title>
+				<Title lang="es">Ocupaciones</Title>
+				<Title lang="en">Occupations</Title>
+				<Function>CRDA170</Function>
+				<Type>1</Type>
+				<Tables>MAQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009428</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupacao</KeyWord>
+					<KeyWord lang="es">Ocupacion</KeyWord>
+					<KeyWord lang="en">Occupation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indentificação de Lojas</Title>
+				<Title lang="es">Indentificacion de Tiendas</Title>
+				<Title lang="en">Store Identification</Title>
+				<Function>LOJA080</Function>
+				<Type>1</Type>
+				<Tables>SLJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>12</Owner>
+				<ItemID>0000009429</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Identificacao,identificador</KeyWord>
+					<KeyWord lang="es">Identificacion,identificador</KeyWord>
+					<KeyWord lang="en">Identification,identifier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Liberação</Title>
+				<Title lang="es">Motivos de Autorizacion</Title>
+				<Title lang="en">Release Reasons</Title>
+				<Function>CRDA200</Function>
+				<Type>1</Type>
+				<Tables>MAW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Liberacao</KeyWord>
+					<KeyWord lang="es">Aprobacion</KeyWord>
+					<KeyWord lang="en">Release</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vale-compras</Title>
+				<Title lang="es">Vale-compras</Title>
+				<Title lang="en">Purchase-coupon</Title>
+				<Function>CRDA210</Function>
+				<Type>1</Type>
+				<Tables>MAV</Tables>
+				<Tables>MAY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009431</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Vale,compras</KeyWord>
+					<KeyWord lang="es">Ticket,compras</KeyWord>
+					<KeyWord lang="en">Certificate,gift</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Pontuação</Title>
+				<Title lang="es">Reglas de Puntuacion</Title>
+				<Title lang="en">Score Rules</Title>
+				<Function>CRDA220</Function>
+				<Type>1</Type>
+				<Tables>MAS</Tables>
+				<Tables>MAT</Tables>
+				<Tables>MAX</Tables>
+				<Tables>MAY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009432</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pontuacao</KeyWord>
+					<KeyWord lang="es">Puntuacion</KeyWord>
+					<KeyWord lang="en">Score</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campanhas</Title>
+				<Title lang="es">Campanas</Title>
+				<Title lang="en">Campaigns</Title>
+				<Function>CRDA225</Function>
+				<Type>1</Type>
+				<Tables>MA0</Tables>
+				<Tables>MAU</Tables>
+				<Tables>MAX</Tables>
+				<Tables>MAY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009433</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fidelidade</KeyWord>
+					<KeyWord lang="es">Fidelidad</KeyWord>
+					<KeyWord lang="en">Loyalty</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentacoes</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000009435</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio de Cartões</Title>
+				<Title lang="es">Envio de Tarjetas</Title>
+				<Title lang="en">Card Dispatch</Title>
+				<Function>CRDA030</Function>
+				<Type>1</Type>
+				<Tables>MA6</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009436</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualiza Status de Cartões</Title>
+				<Title lang="es">Actualiza Estatus de Tarjetas</Title>
+				<Title lang="en">Updates Card Status</Title>
+				<Function>CRDA250</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009437</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atualizacao</KeyWord>
+					<KeyWord lang="es">Actualizacion</KeyWord>
+					<KeyWord lang="en">Update</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A550000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificação de Clientes</Title>
+				<Title lang="es">Clasificacion de Clientes</Title>
+				<Title lang="en">Customer Classification</Title>
+				<Function>CRDA070</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MAG</Tables>
+				<Tables>MAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009438</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificacao,classificar</KeyWord>
+					<KeyWord lang="es">Clasificacion,clasificar</KeyWord>
+					<KeyWord lang="en">Classification,classify</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor</Title>
+				<Title lang="es">Monitor</Title>
+				<Title lang="en">Monitor</Title>
+				<Function>CRDA120</Function>
+				<Type>1</Type>
+				<Tables>SL1</Tables>
+				<Tables>MAH</Tables>
+				<Tables>MA3</Tables>
+				<Tables>MA7</Tables>
+				<Tables>MAK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009439</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Cliente</Title>
+				<Title lang="es">Puntos de Cliente</Title>
+				<Title lang="en">Customer Score</Title>
+				<Function>CRDA260</Function>
+				<Type>1</Type>
+				<Tables>MAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartão Fidelidade</Title>
+				<Title lang="es">Tarjeta Fidelidad</Title>
+				<Title lang="en">Fid.card</Title>
+				<Function>CRDC290</Function>
+				<Type>1</Type>
+				<Tables>MAM</Tables>
+				<Tables>MBP</Tables>
+				<Tables>MBO</Tables>
+				<Tables>MBN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011477</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartao</KeyWord>
+					<KeyWord lang="es">Tarjeta</KeyWord>
+					<KeyWord lang="en">Card</KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A550000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes X Cartões</Title>
+				<Title lang="es">Clientes X Tarjetas</Title>
+				<Title lang="en">Customers X Cards</Title>
+				<Function>CRDR030</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MA6</Tables>
+				<Tables>MAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009441</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cartoes,cartao,versus</KeyWord>
+					<KeyWord lang="es">Tarjetas,tarjeta,versus</KeyWord>
+					<KeyWord lang="en">Cards,card,versus</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fichas de Clientes</Title>
+				<Title lang="es">Fichas de Clientes</Title>
+				<Title lang="en">Customer Forms</Title>
+				<Function>CRDR020</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MA7</Tables>
+				<Tables>MA8</Tables>
+				<Tables>MAB</Tables>
+				<Tables>MAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009442</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionário</Title>
+				<Title lang="es">Cuestionario</Title>
+				<Title lang="en">Questionnaire</Title>
+				<Function>CRDR010</Function>
+				<Type>1</Type>
+				<Tables>MA4</Tables>
+				<Tables>MA5</Tables>
+				<Tables>MAJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Questionario</KeyWord>
+					<KeyWord lang="es">Cuestionario</KeyWord>
+					<KeyWord lang="en">Questionnaire</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vale-compras</Title>
+				<Title lang="es">Vale Compras</Title>
+				<Title lang="en">Purchase-coupon</Title>
+				<Function>CRDR040</Function>
+				<Type>1</Type>
+				<Tables>MAV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009444</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Vale,compras</KeyWord>
+					<KeyWord lang="es">Ticket,compras</KeyWord>
+					<KeyWord lang="en">Certificate,gift</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise de Crédito</Title>
+				<Title lang="es">Analisis de Crédit</Title>
+				<Title lang="en">Credit Analysis</Title>
+				<Function>CRDR050</Function>
+				<Type>1</Type>
+				<Tables>MAH</Tables>
+				<Tables>SL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009445</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Analise,credito</KeyWord>
+					<KeyWord lang="es">Analisis,credito</KeyWord>
+					<KeyWord lang="en">Analysis,credit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Fidelidade Por Administradora Financeira</Title>
+				<Title lang="es">Saldo Fidelizacion Por Administradora Financiera</Title>
+				<Title lang="en">Loyalty Balance Per Financial Company</Title>
+				<Function>CRDR300</Function>
+				<Type>1</Type>
+				<Tables>MAM</Tables>
+				<Tables>MBP</Tables>
+				<Tables>MBO</Tables>
+				<Tables>MBN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011478</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fidelidade,administradora,financeira</KeyWord>
+					<KeyWord lang="es">Fidelidad,administradora,financiera</KeyWord>
+					<KeyWord lang="en">Loyalty,company,financial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Fidelidade do Cliente</Title>
+				<Title lang="es">Saldo Fidelizacion Del Cliente</Title>
+				<Title lang="en">Customer Loyalty Balance</Title>
+				<Function>CRDR310</Function>
+				<Type>1</Type>
+				<Tables>MBO</Tables>
+				<Tables>MBP</Tables>
+				<Tables>MBN</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SAE</Tables>
+				<Tables>MAM</Tables>
+				<Tables>SLJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011606</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Posicao,cartao,fidelidade</KeyWord>
+					<KeyWord lang="es">Posicion,tarjeta,fidelidad</KeyWord>
+					<KeyWord lang="en">Position,card,loyalty</KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A550000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Pontos do Cliente</Title>
+				<Title lang="es">Archivo de Puntos Del Cliente</Title>
+				<Title lang="en">Customer Attendance File</Title>
+				<Function>CRDA230</Function>
+				<Type>1</Type>
+				<Tables>MAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009446</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Configuracoes</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Configuration</Title>
+			<ItemID>0000009447</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estação</Title>
+				<Title lang="es">Estacion</Title>
+				<Title lang="en">Station</Title>
+				<Function>LOJA121</Function>
+				<Type>1</Type>
+				<Tables>SLG</Tables>
+				<Tables>SLF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>12</Owner>
+				<ItemID>0000009448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estacao,pdv</KeyWord>
+					<KeyWord lang="es">Estacion,pdv</KeyWord>
+					<KeyWord lang="en">Station,pos</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Crediario</Title>
+			<Title lang="es">Financiacion</Title>
+			<Title lang="en">Financing System</Title>
+			<ItemID>0000009450</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio de Crédito</Title>
+				<Title lang="es">Bloqueo de Credito</Title>
+				<Title lang="en">Credit Block</Title>
+				<Function>CRDA080</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>MA7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009451</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Credito,analise,avaliacao</KeyWord>
+					<KeyWord lang="es">Credito,analisis,evaluacion</KeyWord>
+					<KeyWord lang="en">Credit,analysis,evaluation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fila de Crediário</Title>
+				<Title lang="es">Cola de Credito a Plazo</Title>
+				<Title lang="en">Line Of Credit Plan</Title>
+				<Function>CRDA180</Function>
+				<Type>1</Type>
+				<Tables>MA7</Tables>
+				<Tables>MAR</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009452</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Conf.confeccäo Car</Title>
+			<Title lang="es">Ver. Conf. Tarj.</Title>
+			<Title lang="en">Prod. Card Check</Title>
+			<ItemID>0000009454</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout de Envio Gráfico</Title>
+				<Title lang="es">Layout de Envio Grafico</Title>
+				<Title lang="en">Graphic Sending Layout</Title>
+				<Function>CRDA035</Function>
+				<Type>1</Type>
+				<Tables>MA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009455</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grafico,cartao,leiaute</KeyWord>
+					<KeyWord lang="es">Grafico,tarjeta,layout</KeyWord>
+					<KeyWord lang="en">Chart,card,layout</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle de Log</Title>
+			<Title lang="es">Control de Log</Title>
+			<Title lang="en">Log Control</Title>
+			<ItemID>0000009457</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Campos</Title>
+				<Title lang="es">Configuracion de Campos</Title>
+				<Title lang="en">Field Setting</Title>
+				<Function>CFGX052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>99</Owner>
+				<ItemID>0000009458</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configuracao</KeyWord>
+					<KeyWord lang="es">Configuracion</KeyWord>
+					<KeyWord lang="en">Configuration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta de Campos</Title>
+				<Title lang="es">Consulta de Campos</Title>
+				<Title lang="en">Field Query</Title>
+				<Function>CFGX053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>55</Module>
+				<Owner>99</Owner>
+				<ItemID>0000009459</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Consulta</KeyWord>
+					<KeyWord lang="es">Consulta</KeyWord>
+					<KeyWord lang="en">Query</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fidelizacäo</Title>
+			<Title lang="es">Fidelizacion</Title>
+			<Title lang="en">Loyalty Program</Title>
+			<ItemID>0000009461</ItemID>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B550000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B550000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,73 @@
+[PRE-APURACAO]
+(PRE) aTotal := Array(36)
+(PRE) aTotal[01] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[02] := FsApCiap(aTotal[01][1],aTotal[01][2])
+(PRE) aTotal[03] := 0
+(PRE) aTotal[04] := 0
+(PRE) aTotal[05] := 0
+(PRE) aTotal[06] := 0
+(PRE) aTotal[07] := 0
+(PRE) aTotal[08] := 0
+(PRE) aTotal[09] := 0
+(PRE) aTotal[10] := 0
+(PRE) aTotal[11] := 0
+(PRE) aTotal[12] := 0
+(PRE) aTotal[13] := .T.
+(PRE) aTotal[14] := .T.
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(PRE) aTotal[24] := Iif(aTotal[20] > 0 .Or. aTotal[21] > 0,CalcRB(aTotal[1][1],aTotal[1][2],aTotal[22],.F.,aTotal[23],.T.),0)
+(PRE) aTotal[25] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[20] / 100, 0)
+(PRE) aTotal[26] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[21] / 100, 0)
+(PRE) aTotal[27] := 0
+(PRE) aTotal[28] := 0
+(PRE) aTotal[29] := 0
+(PRE) aTotal[30] := 0
+(PRE) aTotal[31] := 0
+(PRE) aTotal[32] := 0
+(PRE) aTotal[33] := 0
+(PRE) aTotal[34] := 0
+(PRE) aTotal[35] := 0
+(PRE) aTotal[36] := 0
+003=003.01;Estorno CIAP;aTotal[02][1]; ;
+006=007.01;Credido CIAP;aTotal[02][2]; ;
+(POS)
+[APURACAO ICMS]
+(PRE) {|x| aTotal[11] += x[47]}
+(PRE) {|x| aTotal[12] += Iif((aTotal[13] .And. x[66]<>0), x[66], 0)}
+(PRE) {|x| aTotal[27] += Iif((aTotal[14] .And. x[90]<>0), x[90], 0)}
+(PRE) {|x| aTotal[28] += Iif((aTotal[14] .And. x[91]<>0), x[91], 0)}
+(PRE) {|x| aTotal[29] += Iif((aTotal[14] .And. x[92]<>0), x[92], 0)}
+(PRE) {|x| aTotal[30] += Iif((aTotal[14] .And. x[93]<>0), x[93], 0)}
+(PRE) {|x| aTotal[31] += Iif((aTotal[14] .And. x[94]<>0), x[94], 0)}
+(PRE) {|x| aTotal[32] += Iif((aTotal[14] .And. x[95]<>0), x[95], 0)}
+(PRE) {|x| aTotal[36] += Iif((aTotal[14] .And. x[144]<>0), x[144], 0)}
+(PRE) {|x| aTotal[33] += x[57]}
+(PRE) {|x| aTotal[34] += x[59]}
+(PRE) {|x| aTotal[35] += x[134]}
+(POS)
+[POS-APURACAO]
+002=002.20;FUST    ;aTotal[25];            ;.F.;          ;
+002=002.21;FUNTTEL ;aTotal[26];            ;.F.;          ;
+003=003.01;Est. ref. Art.34, III, do Decreto n. 14.876/91 ;aTotal[11];          ;
+003=003.02;Est. ref. Decreto 34.560/2010 Estímulo Ativ. Portuárias;aTotal[35];          ;
+006=006.02;Credito Presumido (Art. 6 Decreto n 28.247)      ;aTotal[12];          ;
+012=012.01;Crédito Presumido PRODEPE - indústria; iif(aTotal[27] < 0, (aTotal[27]*(-1)), aTotal[27]);;
+012=012.02;Financiamento PRODEPE - indústria;iif(aTotal[28] < 0, (aTotal[28]*(-1)), aTotal[28]);;
+012=012.03;Créd.Pres PRODEPE - Indústria - Saídas para fora do Nordeste; iif(aTotal[29] < 0, (aTotal[29]*(-1)), aTotal[29]);;
+012=012.04;Créd.Pres PRODEPE - Entradas - C. Distribuição;iif(aTotal[30] < 0, (aTotal[30]*(-1)), aTotal[30]);;
+012=012.05;Créd.Pres PRODEPE - Saídas outra UF - C. Distribuição;iif(aTotal[31] < 0, (aTotal[31]*(-1)), aTotal[31]);;
+012=012.06;Crédito Presumido PRODEPE - Importação - Saídas Interestaduais;iif(aTotal[32] < 0, (aTotal[32]*(-1)), aTotal[32]);;
+012=012.07;Adicional relativo ao FECEP;aTotal[33];;
+012=012.08;Crédito Presumido PRODEPE - Importação - Saídas Internas;iif(aTotal[36] < 0, (aTotal[36]*(-1)), aTotal[36]);;
+ST 014=014.01;Adicional relativo ao FECEP;aTotal[34];;
+DE 900=900.01;Adicional relativo ao FECEP;aTotal[33];;
+DE 901=901.01;Adicional relativo ao FECEP;aTotal[34];;
+(POS)
+[OBSERVACAO]
+(PRE)
+OBS=""
+(POS)

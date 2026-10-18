@@ -1,0 +1,20 @@
+P120400018TOTAL DE MATERIA PRIMA........SE(SB1->B1_TIPO=="MP".or.SB1->B1_TIPO=="CO",.T.,.F.)                                                     
+00019TOTAL DE MAO DE OBRA..........SE(SUBSTR(SB1->B1_COD,1,3)=="MOD",.T.,.F.)                                                                
+00020TOTAL DE BENEFICIAMENTO.......SE(SB1->B1_TIPO=="BN",.T.,.F.)                                                                            
+00021TOTAL DE GASTOS GERAIS........SE(SB1->B1_TIPO="GG",.T.,.F.)                                                                             
+00023QUANTIDADE BASICA.............1                                                                                                         
+00024CUSTO TOTAL DO PRODUTO........#18+#19+#20+#21                                                                                     #24   
+00025DESPESAS ADMINISTRATIVAS......SE(#27>0,(#24*#27)/100,SE(#23>0,#26/#23,#26))                                                       #37   
+00026   - em Valor.................0                                                                                                         
+00027   - em Porcentual............0                                                                                                         
+00028DESPESAS DE VENDAS            SE(#30>0,(#24*#30)/100,SE(#23>0,#29/#23,#29))                                                       #37   
+00029   - em Valor.................0                                                                                                         
+00030   - em Porcentual............0                                                                                                         
+00031MARGEM CONTRIBUICAO...........SE(#33>0,(#24*#33)/100,SE(#23>0,#32/#23,#32))                                                       #37   
+00032   - em Valor.................0                                                                                                         
+00033   - em Porcentual............0                                                                                                         
+00034IMPOSTO DE RENDA..............SE(#36>0,(#24*#36)/100,SE(#23>0,#35/#23,#35))                                                       #37   
+00035   - em Valor.................0                                                                                                         
+00036   - em Porcentual............0                                                                                                         
+00037#PRECO DE VENDA SUGERIDO......#24+#25+#28+#31+#34                                                                                 #37   
+00038PRECO STANDARD................SB1->B1_CUSTD                                                                                             

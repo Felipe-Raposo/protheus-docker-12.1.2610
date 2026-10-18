@@ -1,0 +1,673 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAFRT</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A230000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Frente de Lojas</Title>
+			<Title lang="es">Punto de Venta</Title>
+			<Title lang="en">Front Office</Title>
+			<ItemID>0000004695</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento</Title>
+				<Title lang="es">Atencion</Title>
+				<Title lang="en">Customer Service</Title>
+				<Function>FRTA271</Function>
+				<Type>1</Type>
+				<Tables>SL1</Tables>
+				<Tables>SL2</Tables>
+				<Tables>SL4</Tables>
+				<Tables>SLF</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SLI</Tables>
+				<Tables>SLK</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SAE</Tables>
+				<Tables>SAF</Tables>
+				<Tables>SAH</Tables>
+				<Tables>SBI</Tables>
+				<Tables>SFI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000004696</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Venda,cupom,fiscal</KeyWord>
+					<KeyWord lang="es">Venta,cupon,fiscal</KeyWord>
+					<KeyWord lang="en">Sale,receipt,tax</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Totvs Pdv</Title>
+				<Title lang="es">Totvs Pdv</Title>
+				<Title lang="en">Totvs Pos</Title>
+				<Function>STIPOSMAIN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000016343</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Pdv</Title>
+			<Title lang="es">Pdv</Title>
+			<Title lang="en">Pos</Title>
+			<ItemID>0000023335</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hosts</Title>
+				<Title lang="es">Hosts</Title>
+				<Title lang="en">Hosts</Title>
+				<Function>CFGA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionalidades</Title>
+				<Title lang="es">Funcionalidades</Title>
+				<Title lang="en">Functionalities</Title>
+				<Function>CFGA051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023349</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perfil</Title>
+				<Title lang="es">Perfil</Title>
+				<Title lang="en">Profile</Title>
+				<Function>CFGA052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023350</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Pacote</Title>
+				<Title lang="es">Generación de Paquete</Title>
+				<Title lang="en">Package Generation</Title>
+				<Function>CFGA053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023351</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hosts Filhos X Tickets</Title>
+				<Title lang="es">Hosts Secundarios Vs Tickets</Title>
+				<Title lang="en">Derived X Tickets Hosts</Title>
+				<Function>CFGA054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023352</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tickets Necessários Para Estação</Title>
+				<Title lang="es">Tickets Necesarios Para Estación</Title>
+				<Title lang="en">Required Tickets For Station</Title>
+				<Function>CFGA055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023353</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Pos</Title>
+				<Title lang="es">Monitor Pos</Title>
+				<Title lang="en">Pos Monitor</Title>
+				<Function>POSMONITOR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023354</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Indicadores</Title>
+				<Title lang="es">Arch. Indicadores</Title>
+				<Title lang="en">Indicator Reg.</Title>
+				<Function>APCFG080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023355</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Paf-ecf</Title>
+				<Title lang="es">Wizard Paf-ecf</Title>
+				<Title lang="en">Wizard Paf-ecf</Title>
+				<Function>LJWIZPAF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013172</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Wizard,paf</KeyWord>
+					<KeyWord lang="es">Wizard,paf</KeyWord>
+					<KeyWord lang="en">Wizard,paf</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Xml Paf-ecf</Title>
+				<Title lang="es">Monitor de Xml Paf-ecf</Title>
+				<Title lang="en">Paf-ecf Xml Monitor</Title>
+				<Function>LJMONITPAF</Function>
+				<Type>1</Type>
+				<Tables>SL1</Tables>
+				<Tables>SL2</Tables>
+				<Tables>SFI</Tables>
+				<Tables>SLX</Tables>
+				<Tables>MDZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000016484</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Monitor,paf,xml,xml Paf</KeyWord>
+					<KeyWord lang="es">Monitor,paf,xml,xml Paf</KeyWord>
+					<KeyWord lang="en">Monitor,paf,xml,xml Paf</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Carga</Title>
+			<Title lang="es">Carga</Title>
+			<Title lang="en">Load</Title>
+			<ItemID>0000023341</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ass. Car. Carga</Title>
+				<Title lang="es">As. Car. Carga</Title>
+				<Title lang="en">Load Car. Ass.</Title>
+				<Function>LOJA1157</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000023344</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Assistente,wizard,importacao</KeyWord>
+					<KeyWord lang="es">Asistente,wizard,importación</KeyWord>
+					<KeyWord lang="en">Assistant,wizard,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Comunicaca</Title>
+				<Title lang="es">Config. Comunicación</Title>
+				<Title lang="en">Communic. Config.</Title>
+				<Function>LOJA1106</Function>
+				<Type>1</Type>
+				<Tables>MD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000023345</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configuracao,configurar,comuni</KeyWord>
+					<KeyWord lang="es">Configuración,configurar,comuni</KeyWord>
+					<KeyWord lang="en">Configuration,configure,communi</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Ambiente</Title>
+				<Title lang="es">Arch. Ambiente</Title>
+				<Title lang="en">Environment Reg.</Title>
+				<Function>LOJA1107</Function>
+				<Type>1</Type>
+				<Tables>MD3</Tables>
+				<Tables>MD4</Tables>
+				<Tables>MD5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000023346</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integração Totvs Pdv</Title>
+			<Title lang="es">Integración Totvs Pdv</Title>
+			<Title lang="en">Totvs Pos Integratn</Title>
+			<ItemID>0000022648</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000022659</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Assinante</Title>
+				<Title lang="es">Config. Subscriptor</Title>
+				<Title lang="en">Subscriber Config</Title>
+				<Function>RMICONFIGASSINANTE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022663</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Retaguarda</Title>
+			<Title lang="es">Retaguardia</Title>
+			<Title lang="en">Back-office</Title>
+			<ItemID>0000004698</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitorar Estações</Title>
+				<Title lang="es">Monitorear Estaciones</Title>
+				<Title lang="en">Station Monitoring</Title>
+				<Function>FRTA030</Function>
+				<Type>1</Type>
+				<Tables>SA6</Tables>
+				<Tables>SLF</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SLI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000004699</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estacao</KeyWord>
+					<KeyWord lang="es">Estacion</KeyWord>
+					<KeyWord lang="en">Station</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carga Nas Estações</Title>
+				<Title lang="es">Carga En Las Estaciones</Title>
+				<Title lang="en">Load In Stations</Title>
+				<Function>FRTA040</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SAE</Tables>
+				<Tables>SAF</Tables>
+				<Tables>SB0</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SBI</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SF7</Tables>
+				<Tables>SFC</Tables>
+				<Tables>SLF</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SLH</Tables>
+				<Tables>SLI</Tables>
+				<Tables>SLK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000004702</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Erp On-line</Title>
+				<Title lang="es">Erp On-line</Title>
+				<Title lang="en">On-line Erp</Title>
+				<Function>LJGRVSTART</Function>
+				<Type>1</Type>
+				<Tables>SL1</Tables>
+				<Tables>SL2</Tables>
+				<Tables>SL4</Tables>
+				<Tables>SLF</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SLI</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SAE</Tables>
+				<Tables>SAF</Tables>
+				<Tables>SAH</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SE8</Tables>
+				<Tables>SEF</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDB</Tables>
+				<Tables>SB8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000004703</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Online,job,integracao</KeyWord>
+					<KeyWord lang="es">Online,job,integracion</KeyWord>
+					<KeyWord lang="en">Online,job,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comp. Dicionários</Title>
+				<Title lang="es">Comp. Diccionarios</Title>
+				<Title lang="en">Comp. Dictionaries</Title>
+				<Function>STFCOMPDIC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000012610</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-mail Teste</Title>
+				<Title lang="es">E-mail Prueba</Title>
+				<Title lang="en">Test E-mail</Title>
+				<Function>STFMAILTES</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000012613</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Erp Off-line</Title>
+				<Title lang="es">Erp Off-line</Title>
+				<Title lang="en">Off-line Erp</Title>
+				<Function>LJGRVEND</Function>
+				<Type>1</Type>
+				<Tables>SL1</Tables>
+				<Tables>SL2</Tables>
+				<Tables>SL4</Tables>
+				<Tables>SLF</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SLI</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SAE</Tables>
+				<Tables>SAF</Tables>
+				<Tables>SAH</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SE8</Tables>
+				<Tables>SEF</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDB</Tables>
+				<Tables>SB8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000004704</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Offline,job,integracao</KeyWord>
+					<KeyWord lang="es">Offline,job,integracion</KeyWord>
+					<KeyWord lang="en">Offline,job,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Carga</Title>
+			<Title lang="es">Carga</Title>
+			<Title lang="en">Load</Title>
+			<ItemID>0000016331</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ncm/nbs</Title>
+			<Title lang="es">Ncm/nbs</Title>
+			<Title lang="en">Ncm/nbs</Title>
+			<ItemID>0000018715</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carrega Alíq. Imp.</Title>
+				<Title lang="es">Carga  Alic. Imp.</Title>
+				<Title lang="en">Load Tax. Rate</Title>
+				<Function>LJIMPNCM</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018716</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assistente de Importação de Carga</Title>
+				<Title lang="es">Asistente de Importacion de Carga</Title>
+				<Title lang="en">Load Import Wizard</Title>
+				<Function>LOJA1157</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A230000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004705</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A230000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Configuracoes</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Configuration</Title>
+			<ItemID>0000004707</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Caixa</Title>
+				<Title lang="es">Caja</Title>
+				<Title lang="en">Cash</Title>
+				<Function>LOJA120</Function>
+				<Type>1</Type>
+				<Tables>SLF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>12</Owner>
+				<ItemID>0000004708</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estação</Title>
+				<Title lang="es">Estacion</Title>
+				<Title lang="en">Station</Title>
+				<Function>LOJA121</Function>
+				<Type>1</Type>
+				<Tables>SLG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>12</Owner>
+				<ItemID>0000004709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Nfc-e</Title>
+				<Title lang="es">Wizard E-factc</Title>
+				<Title lang="en">Wizard Nfc-e</Title>
+				<Function>LJWIZNFCE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>23</Owner>
+				<ItemID>0000024430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Wizard,nfc-e</KeyWord>
+					<KeyWord lang="es">Wizard,e-factc</KeyWord>
+					<KeyWord lang="en">Wizard,nfc-e</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Ncm/nbs</Title>
+			<Title lang="es">Ncm/nbs</Title>
+			<Title lang="en">Ncm/nbs</Title>
+			<ItemID>0000015665</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carrega Alíquotas</Title>
+				<Title lang="es">Carga Alicuotas</Title>
+				<Title lang="en">Load Rates</Title>
+				<Function>LJIMPNCM</Function>
+				<Type>1</Type>
+				<Tables>SYD</Tables>
+				<Tables>EL0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>23</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015666</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B230000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B230000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

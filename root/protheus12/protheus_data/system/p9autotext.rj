@@ -1,0 +1,98 @@
+[PRE-APURACAO]
+(PRE) aTotal := Array(46)
+(PRE) aTotal[1] := 0
+(PRE) aTotal[2] := 0
+(PRE) aTotal[3] := GetNewPar("MV_SAINCON","")
+(PRE) aTotal[4] := GetNewPar("MV_REGESP",0)
+(PRE) aTotal[5] := 0
+(PRE) aTotal[6] := 0
+(PRE) aTotal[7] := 0
+(PRE) aTotal[8] := 0  
+(PRE) aTotal[9] := 0
+(PRE) aTotal[10] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[11] := FsApCiap(aTotal[10][1],aTotal[10][2])
+(PRE) aTotal[12] := .T.
+(PRE) aTotal[13] := .T.
+(PRE) aTotal[14] := 0 
+(PRE) aTotal[15] := 0
+(PRE) aTotal[16] := 0
+(PRE) aTotal[17] := 0
+(PRE) aTotal[18] := 0
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(PRE) aTotal[24] := Iif(aTotal[20] > 0 .Or. aTotal[21] > 0,CalcRB(aTotal[10][1],aTotal[10][2],aTotal[22],.F.,aTotal[23],.T.),0)
+(PRE) aTotal[25] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[20] / 100, 0)
+(PRE) aTotal[26] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[21] / 100, 0)
+(PRE) aTotal[28] := GetNewPar("MV_DTAFECP","") 
+(PRE) aTotal[29] := 0
+(PRE) aTotal[30] := 0
+(PRE) aTotal[31] := 0
+(PRE) aTotal[32] := 0
+(PRE) aTotal[33] := 0
+(PRE) aTotal[34] := 0
+(PRE) aTotal[35] := Iif(!Empty(aTotal[28]),Iif(Substr(aTotal[28],3,4)+ Substr(aTotal[28],1,2)<=Substr(Dtos(aTotal[10][1]),1,6),.T.,.F.),.F.)
+(PRE) aTotal[36] := 0
+(PRE) aTotal[37] := 0
+(PRE) aTotal[38] := 0
+(PRE) aTotal[39] := 0
+(PRE) aTotal[40] := 0
+(PRE) aTotal[41] := GetNewPar("MV_CRPRERJ",.F.)
+(PRE) aTotal[42] := 0
+(PRE) aTotal[43] := .T.
+(PRE) aTotal[44] := 0
+(PRE) aTotal[45] := 0
+(PRE) aTotal[46] := 0
+003=003.01;Estorno CIAP;aTotal[11][1]; ;
+006=007.01;Credito CIAP;aTotal[11][2]; ;
+(POS) 
+[APURACAO ICMS]  
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[59]>0 .And. !aTotal[35]), (aTotal[1] += (x[59])), Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[59]>0 .And. !aTotal[35]), (aTotal[2] += (x[59])), (aTotal[2] += 0)))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[32]>0 .And. !aTotal[35]), (aTotal[6] += Iif( x[74]$"DB",((x[56])*-1), x[56] ) ), Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[32]>0 .And. !aTotal[35]), (aTotal[6] += Iif( x[74]$"DB",((x[56])*-1), x[56] ) ), (aTotal[6] += 0)))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[59]>0 .And. aTotal[35]), (aTotal[29] += x[59]), Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"56" .And. x[59]>0 .And. aTotal[35]), (aTotal[30] += x[59]), (aTotal[30] += 0)))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[57]>0 .And. aTotal[35]) , (aTotal[31] += Iif( x[74]$"DB",((x[57])*-1), x[57]) ), Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[57]>0 .And. aTotal[35]), (aTotal[31] += Iif( x[74]$"DB",((x[57])*-1), x[57]) ), (aTotal[31] += 0)))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="3" .And. x[59]>0 .And. !aTotal[35]), (aTotal[14] += (x[59])), (aTotal[14] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="2" .And. x[7]>0 .And. !aTotal[35]), (aTotal[7] += Iif( x[74]$"DB",(( (x[7]*1/100) )*-1), (x[7]*1/100) ) ), (aTotal[7] += 0))} 
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"23" .And. x[59]>0 .And. aTotal[35]), (aTotal[32] += x[59]), (aTotal[32] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="2" .And. x[56]>0 .And. aTotal[35]), (aTotal[33] += Iif( x[74]$"DB",((x[56])*-1), x[56]) ), (aTotal[33] += 0))} 
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])$aTotal[3] .And. !aTotal[35]), (aTotal[2] += (x[59])), (aTotal[2] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])$aTotal[3] .And. !aTotal[35]), (aTotal[7] += Iif( x[74]$"DB",(( (x[7]*1/100) )*-1), (x[7]*1/100) ) ), (aTotal[7] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])$aTotal[3] .And. aTotal[35]) , (aTotal[33] += Iif( x[74]$"DB",((x[56])*-1), x[56]) ), (aTotal[33] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"56" .And. aTotal[4]>0), aTotal[5] += (x[11]*aTotal[4])/100, aTotal[5] += 0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"56" .And. aTotal[4]>0 .And. x[35]>0), aTotal[5] -= (x[35]*aTotal[4])/100, aTotal[5] += 0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"12" .And. x[34]>0 .And. !aTotal[41]), aTotal[8] += x[34], Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"56" .And. x[34]>0 .And. !aTotal[41]), aTotal[8] += x[34], aTotal[8] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"567"  .And. x[37]>0 ), aTotal[9] += x[37], aTotal[9] += 0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])<>aTotal[3] .And. x[58]>0 .And. !aTotal[35]), (aTotal[18] += (x[58])), (aTotal[18] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])<>aTotal[3] .And. x[7]>0 .And. !aTotal[35]), (aTotal[7] += Iif( x[74]$"DB",(( (x[7]*1/100) )*-1), (x[7]*1/100) ) ), (aTotal[7] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])<>aTotal[3] .And. x[58]>0 .And. aTotal[35]), (aTotal[34] += x[58]), (aTotal[34] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. AllTrim(x[1])<>aTotal[3] .And. x[56]>0 .And. aTotal[35]), (aTotal[33] += Iif( x[74]$"DB",((x[56])*-1), x[56])  ), (aTotal[33] += 0))}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)=="5"),aTotal[40] += x[81],0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"567" .And. x[34]>0 .And. aTotal[41]), aTotal[42] += x[34], aTotal[42] += 0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"567" .And. x[111]>0 ) , aTotal[44] += x[111], aTotal[44] += 0)}
+(PRE) {|x| Iif ((SuperGetMv('MV_ESTADO')=='RJ' .And. SubStr(AllTrim(x[1]),1,1)$"123" .And. x[111]>0 ) , aTotal[45] += x[111], aTotal[45] += 0)}
+(POS)
+[POS-APURACAO]
+(PRE) aTotal[15] := LoadAnt(mv_par06,"014")
+(PRE) aTotal[16] := aCols5[aScan(aCols5,{|x| x[1]=="001"}),4]
+(PRE) aTotal[17] := aCols5[aScan(aCols5,{|x| x[1]=="005"}),4]  
+(PRE) aTotal[46] := IIF (aScan(aCols10,{|x| AllTrim(x[1])=='900' .And. x[4]==((aTotal[2]+aTotal[30]+aTotal[18]+aTotal[34])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]))}) == 0,0, ACOLS10[aScan(aCols10,{|x| AllTrim(x[1])=='900' .And. x[4]==((aTotal[2]+aTotal[30]+aTotal[18]+aTotal[34])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]))}),4])
+002=002.20;FUST    ;aTotal[25];            ;.F.;          ;
+002=002.21;FUNTTEL ;aTotal[26];            ;.F.;          ;
+003=003.01;Est. Credito Presumido conforme Decreto 42649;IIf(aTotal[45]>0,aTotal[45],0);;
+006=079999;Credito Presumido, conforme Decreto 36450;IIf(aTotal[8]>0,aTotal[8],0);;
+006=006.98;Credito Presumido, conforme Decreto 42649;IIf(aTotal[44]>0,aTotal[44],0);;
+006=006.99;Credito Presumido, conforme Decreto 35419;IIf(aTotal[42]>0,aTotal[42],0);;
+006=000000;Credito Presumido - Servicos de Transporte ;IIf(aTotal[9]>0,aTotal[9],0);;
+012=00201;Adicional relativo ao FECP;Iif ((((aTotal[2]+aTotal[30]+aTotal[18]+aTotal[34])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]))>0 .And. (aTotal[16]-(aTotal[15]+aTotal[17]+aTotal[8]+aTotal[9]))>0), (aTotal[2]+aTotal[30]+aTotal[18])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]), 0);;
+012=012.02;Conforme Lei 4533 de 04 de Abril de 2005;IIf(aTotal[5]>0,aTotal[5],0);;
+012=012.30;Operacoes com Prazo Especial;Iif(aTotal[40]>0,aTotal[40],0);;        
+ST 014=014.01;Adicional relativo ao FECP;Iif (aTotal[6]+aTotal[31]+aTotal[7]+aTotal[33]>0, aTotal[6]+aTotal[31]+aTotal[7]+aTotal[33], 0);;  
+DE 900=00208;FECP;Iif((((aTotal[2]+aTotal[30]+aTotal[18]+aTotal[34])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]+ATOTAL[46]))>0 .And. (aTotal[16]-(aTotal[15]+aTotal[17]+aTotal[8]+aTotal[9]))>0), (aTotal[2]+aTotal[30]+aTotal[18]+aTotal[34])-(aTotal[1]+aTotal[29]+aTotal[14]+aTotal[32]), 0);;
+DE 901=901.01;FECP;Iif(aTotal[6]+aTotal[31]+aTotal[7]+aTotal[33]>0, aTotal[6]+aTotal[31]+aTotal[7]+aTotal[33], 0);;  
+(POS)
+[OBSERVACAO]
+(PRE)
+OBS=""
+(POS)

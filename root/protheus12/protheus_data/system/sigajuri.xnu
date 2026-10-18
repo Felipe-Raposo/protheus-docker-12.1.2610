@@ -1,0 +1,2145 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAJURI</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A760000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Administrativo</Title>
+			<Title lang="es">Administrativo</Title>
+			<Title lang="en">Administration</Title>
+			<ItemID>0000010945</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escritórios</Title>
+				<Title lang="es">Oficinas</Title>
+				<Title lang="en">Law Firms</Title>
+				<Function>JURA068</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010946</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custo</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Áreas Jurídicas</Title>
+				<Title lang="es">Areas Juridicas</Title>
+				<Title lang="en">Legal Areas</Title>
+				<Function>JURA038</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Subáreas Jurídicas</Title>
+				<Title lang="es">Subareas Juridicas</Title>
+				<Title lang="en">Legal Subareas</Title>
+				<Function>JURA048</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010949</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>CTBA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010950</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos</Title>
+				<Title lang="es">Bancos</Title>
+				<Title lang="en">Banks</Title>
+				<Function>MATA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010951</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Idiomas</Title>
+				<Title lang="es">Idiomas</Title>
+				<Title lang="en">Languages</Title>
+				<Function>JURA029</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010952</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias de Participantes</Title>
+				<Title lang="es">Categorias de Participantes</Title>
+				<Title lang="en">Participant Categories</Title>
+				<Function>JURA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010953</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes</Title>
+				<Title lang="es">Participantes</Title>
+				<Title lang="en">Participants</Title>
+				<Function>JURA159</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010954</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Clients</Title>
+				<Function>JURA148</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014435</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Casos</Title>
+				<Title lang="es">Casos</Title>
+				<Title lang="en">Cases</Title>
+				<Function>JURA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014436</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010955</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Empresas</Title>
+				<Title lang="es">Grupos de Empresas</Title>
+				<Title lang="en">Company Group</Title>
+				<Function>JURA086</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014439</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateios</Title>
+				<Title lang="es">Prorrateos</Title>
+				<Title lang="en">Apportions</Title>
+				<Function>CTBA120</Function>
+				<Type>1</Type>
+				<Tables>CTJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012722</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Jurídico</Title>
+			<Title lang="es">Juridico</Title>
+			<Title lang="en">Legal</Title>
+			<ItemID>0000010956</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Assuntos Jurídicos</Title>
+			<Title lang="es">Asuntos Juridicos</Title>
+			<Title lang="en">Legal Matters</Title>
+			<ItemID>0000010957</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ritos</Title>
+				<Title lang="es">Ritos</Title>
+				<Title lang="en">Procedures</Title>
+				<Function>JURA018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010958</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assunto</Title>
+				<Title lang="es">Asunto</Title>
+				<Title lang="en">Subject</Title>
+				<Function>JURA004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014444</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prognósticos</Title>
+				<Title lang="es">Pronosticos</Title>
+				<Title lang="en">Prognoses</Title>
+				<Function>JURA006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010959</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Classes</Title>
+				<Function>JURA001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Ação</Title>
+				<Title lang="es">Tipos de Accion</Title>
+				<Title lang="en">Action Types</Title>
+				<Function>JURA022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010961</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comarcas</Title>
+				<Title lang="es">Comarcas</Title>
+				<Title lang="en">Judicial Districts</Title>
+				<Function>JURA005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014445</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Decisões</Title>
+				<Title lang="es">Decisiones</Title>
+				<Title lang="en">Decisions</Title>
+				<Function>JURA019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010962</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Encerramento</Title>
+				<Title lang="es">Motivos de Cierre</Title>
+				<Title lang="en">Reasons For Closing</Title>
+				<Function>JURA013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010963</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Alteração</Title>
+				<Title lang="es">Motivos de Modificacion</Title>
+				<Title lang="en">Reasons For Change</Title>
+				<Function>JURA025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010964</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes</Title>
+				<Title lang="es">Clases</Title>
+				<Title lang="en">Classes</Title>
+				<Function>JURA089</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014447</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Aditivo</Title>
+				<Title lang="es">Tipos de Aditivo</Title>
+				<Title lang="en">Amendment Types</Title>
+				<Function>JURA133</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Contrato</Title>
+				<Title lang="es">Tipos de Contrato</Title>
+				<Title lang="en">Contract Types</Title>
+				<Function>JURA134</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014449</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critérios de Julgamento</Title>
+				<Title lang="es">Criterios de Juicio</Title>
+				<Title lang="en">Judgment Criteria</Title>
+				<Function>JURA139</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015361</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modalidades de Licitação</Title>
+				<Title lang="es">Modalidades de Licitacion</Title>
+				<Title lang="en">Bid Modes</Title>
+				<Function>JURA138</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015359</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Marca</Title>
+				<Title lang="es">Tipos de Marca</Title>
+				<Title lang="en">Brand Types</Title>
+				<Function>JURA149</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015367</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situações da Marca</Title>
+				<Title lang="es">Situaciones de La Marca</Title>
+				<Title lang="en">Brans Status</Title>
+				<Function>JURA150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015368</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas da Marca</Title>
+				<Title lang="es">Modalidades de La Marca</Title>
+				<Title lang="en">Brand Classes</Title>
+				<Function>JURA151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015370</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Áreas de Negócio</Title>
+				<Title lang="es">Areas de Negocio</Title>
+				<Title lang="en">Business Areas</Title>
+				<Function>JURA155</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015786</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Solicitação</Title>
+				<Title lang="es">Tipos de Solicitud</Title>
+				<Title lang="en">Request Types</Title>
+				<Function>JURA156</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015787</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Acordo</Title>
+				<Title lang="es">Estatus Acuerdo</Title>
+				<Title lang="en">Status Aggreement</Title>
+				<Function>JURA168</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017545</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Garantias</Title>
+				<Title lang="es">Tipos de Garantias</Title>
+				<Title lang="en">Guarantee Types</Title>
+				<Function>JURA024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018269</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Despesas</Title>
+				<Title lang="es">Tipos de Gastos</Title>
+				<Title lang="en">Expense Types</Title>
+				<Function>JURA087</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018278</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Objetos</Title>
+				<Title lang="es">Tipos de Objeto</Title>
+				<Title lang="en">Types Of Object</Title>
+				<Function>JURA085</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018271</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">De/para Comarca</Title>
+				<Title lang="es">De/a Circunscripción</Title>
+				<Title lang="en">From/to District</Title>
+				<Function>JURA226</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divulgação</Title>
+				<Title lang="es">Divulgación</Title>
+				<Title lang="en">Disclosure</Title>
+				<Function>JURA187</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Causa Raiz</Title>
+				<Title lang="es">Causa Raíz</Title>
+				<Title lang="en">Cause Root</Title>
+				<Function>JURA212</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Base de Decisão</Title>
+				<Title lang="es">Base de Decisión</Title>
+				<Title lang="en">Decision Base</Title>
+				<Function>JURA199</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012328</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fundamento do Prognóstico</Title>
+				<Title lang="es">Fundamento Del Pronóstico</Title>
+				<Title lang="en">Prognosis Foundation</Title>
+				<Function>JURA198</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estimativa Término</Title>
+				<Title lang="es">Estimación de Término</Title>
+				<Title lang="en">End Estimation</Title>
+				<Function>JURA248</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013238</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Documentos</Title>
+				<Title lang="es">Tipo de Documentos</Title>
+				<Title lang="en">Document Type</Title>
+				<Function>JURA251</Function>
+				<Type>1</Type>
+				<Tables>O0L</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012742</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos da Liminar</Title>
+				<Title lang="es">Tipos de Preliminar</Title>
+				<Title lang="en">Types Of Injunction</Title>
+				<Function>JURA259</Function>
+				<Type>1</Type>
+				<Tables>O0R</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014300</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Redutores</Title>
+				<Title lang="es">Reductores</Title>
+				<Title lang="en">Reducers</Title>
+				<Function>JURA258</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014058</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Envolvidos</Title>
+			<Title lang="es">Comprometidos</Title>
+			<Title lang="en">People Involved</Title>
+			<ItemID>0000010965</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Envolvimento</Title>
+				<Title lang="es">Tipos de Implicacion</Title>
+				<Title lang="en">Relationship Types</Title>
+				<Function>JURA009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010966</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Advogados da Parte Contrária</Title>
+				<Title lang="es">Abogados de Parte Contraria</Title>
+				<Title lang="en">Adverse Party Lawyers</Title>
+				<Function>JURA054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014454</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>JURA052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Functions</Title>
+				<Function>JURA067</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014456</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Trabalho</Title>
+				<Title lang="es">Locales de Trabajo</Title>
+				<Title lang="en">Work Locations</Title>
+				<Function>JURA107</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010968</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos do Participante</Title>
+				<Title lang="es">Cargos Del Participante</Title>
+				<Title lang="en">Participant Positions</Title>
+				<Function>GPEA370</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções do Participante</Title>
+				<Title lang="es">Funciones Del Participante</Title>
+				<Title lang="en">Participant Functions</Title>
+				<Function>GPEA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010970</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Negociações</Title>
+				<Title lang="es">Negociaciones</Title>
+				<Title lang="en">Negotiations</Title>
+				<Function>JURA130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014459</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situações</Title>
+				<Title lang="es">Situaciones</Title>
+				<Title lang="en">Status</Title>
+				<Function>JURA131</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014461</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Andamentos</Title>
+			<Title lang="es">Proseguimientos</Title>
+			<Title lang="en">Progress</Title>
+			<ItemID>0000010971</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atos Processuais</Title>
+				<Title lang="es">Actos Procesales</Title>
+				<Title lang="en">Proceedings</Title>
+				<Function>JURA051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014464</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fases Processuais</Title>
+				<Title lang="es">Fases Procesales</Title>
+				<Title lang="en">Procedure Phases</Title>
+				<Function>JURA011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010972</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especialidades</Title>
+				<Title lang="es">Especialidades</Title>
+				<Title lang="en">Specialties</Title>
+				<Function>JURA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010973</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especialistas</Title>
+				<Title lang="es">Especialistas</Title>
+				<Title lang="en">Specialists</Title>
+				<Function>JURA015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014466</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Juizes</Title>
+				<Title lang="es">Jueces</Title>
+				<Title lang="en">Judges</Title>
+				<Function>JURA012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014468</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Serviços</Title>
+				<Title lang="es">Tipos de Servicio</Title>
+				<Title lang="en">Services Types</Title>
+				<Function>JURA186</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Follow-ups</Title>
+			<Title lang="es">Follow-ups</Title>
+			<Title lang="en">Follow-ups</Title>
+			<ItemID>0000010974</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipe</Title>
+				<Title lang="es">Equipo</Title>
+				<Title lang="en">Team</Title>
+				<Function>JURA185</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020174</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos</Title>
+				<Title lang="es">Tipos</Title>
+				<Title lang="en">Types</Title>
+				<Function>JURA021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014470</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prepostos</Title>
+				<Title lang="es">Apoderados</Title>
+				<Title lang="en">Agents</Title>
+				<Function>JURA016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010975</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>JURA017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010976</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos</Title>
+				<Title lang="es">Modelos</Title>
+				<Title lang="en">Models</Title>
+				<Function>JURA173</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014471</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow-up Automatico</Title>
+				<Title lang="es">Follow-up Automático</Title>
+				<Title lang="en">Automatic Follow-up</Title>
+				<Function>JURA250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Concessões</Title>
+			<Title lang="es">Concesiones</Title>
+			<Title lang="en">Concessions</Title>
+			<ItemID>0000014482</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Abrangências</Title>
+				<Title lang="es">Alcances</Title>
+				<Title lang="en">Ranges</Title>
+				<Function>JURA128</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014483</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gêneros</Title>
+				<Title lang="es">Generos</Title>
+				<Title lang="en">Genres</Title>
+				<Function>JURA126</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014484</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espécies</Title>
+				<Title lang="es">Especies</Title>
+				<Title lang="en">Types</Title>
+				<Function>JURA127</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014485</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Auditoria</Title>
+				<Title lang="es">Auditoria</Title>
+				<Title lang="en">Audit</Title>
+				<Function>JURA112B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018117</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Outorga</Title>
+				<Title lang="es">Tipo de Otorgamiento</Title>
+				<Title lang="en">Grant Type</Title>
+				<Function>JURA169</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018239</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Assuntos Jurídicos</Title>
+			<Title lang="es">Asuntos Juridicos</Title>
+			<Title lang="en">Legal Subjects</Title>
+			<ItemID>0000014452</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisas</Title>
+				<Title lang="es">Busquedas</Title>
+				<Title lang="en">Searches</Title>
+				<Function>JURA162</Function>
+				<Type>1</Type>
+				<Tables>NVE</Tables>
+				<Tables>NTA</Tables>
+				<Tables>NT9</Tables>
+				<Tables>NT2</Tables>
+				<Tables>NT3</Tables>
+				<Tables>NT4</Tables>
+				<Tables>NYP</Tables>
+				<Tables>RD0</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014489</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Andamentos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Progress</Title>
+				<Function>JURA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014490</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow-ups</Title>
+				<Title lang="es">Follow-ups</Title>
+				<Title lang="en">Follow-ups</Title>
+				<Function>JURA106</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014492</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Garantias e Alvarás</Title>
+				<Title lang="es">Garantias Y Autorizaciones</Title>
+				<Title lang="en">Guarantees And Permits</Title>
+				<Function>JURA098</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014494</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas e Custas</Title>
+				<Title lang="es">Gastos Y Costos</Title>
+				<Title lang="en">Expenses And Costs</Title>
+				<Function>JURA099</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014495</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação Doc</Title>
+				<Title lang="es">Solicitud Doc</Title>
+				<Title lang="en">Doc Request</Title>
+				<Function>JURA254</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação de Publicações</Title>
+				<Title lang="es">Importacion de Publicaciones</Title>
+				<Title lang="en">Publication Import</Title>
+				<Function>JURA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014499</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização</Title>
+				<Title lang="es">Contabilizacion</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>JURA112</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014500</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuições</Title>
+				<Title lang="es">Distribuiciones</Title>
+				<Title lang="en">Distributions</Title>
+				<Function>JURA219</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">E-social</Title>
+			<Title lang="es">E-social</Title>
+			<Title lang="en">E-social</Title>
+			<ItemID>0000022026</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout 2500</Title>
+				<Title lang="es">Layout 2500</Title>
+				<Title lang="en">Layout 2500</Title>
+				<Function>JURA312</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022027</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout 2501</Title>
+				<Title lang="es">Layout 2501</Title>
+				<Title lang="en">Layout 2501</Title>
+				<Function>JURA313</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022028</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Correspondente</Title>
+			<Title lang="es">Correspondiente</Title>
+			<Title lang="en">Correspondent</Title>
+			<ItemID>0000020393</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Contratos Correspondente</Title>
+				<Title lang="es">Tipos de Contratos Correspondientes</Title>
+				<Title lang="en">Corresponding Contract Types</Title>
+				<Function>JURA079</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Correspondentes</Title>
+				<Title lang="es">Correspondientes</Title>
+				<Title lang="en">Law Firms</Title>
+				<Function>JURA132</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Extrato</Title>
+			<Title lang="es">Extracto</Title>
+			<Title lang="en">Statement</Title>
+			<ItemID>0000020394</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processamento</Title>
+				<Title lang="es">Procesamiento</Title>
+				<Title lang="en">Processing</Title>
+				<Function>JURA189</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferência</Title>
+				<Title lang="es">Verificación</Title>
+				<Title lang="en">Verification</Title>
+				<Function>JURA190</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório</Title>
+				<Title lang="es">Informe</Title>
+				<Title lang="en">Report</Title>
+				<Function>JURA191</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020397</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pagamentos</Title>
+				<Title lang="es">Pagos</Title>
+				<Title lang="en">Payments</Title>
+				<Function>JURA192</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020398</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Serviços</Title>
+			<Title lang="es">Servicios</Title>
+			<Title lang="en">Services</Title>
+			<ItemID>0000024344</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Andamentos Automáticos</Title>
+				<Title lang="es">Wizard Procesos Automáticos</Title>
+				<Title lang="en">Wizard Automatic Progress</Title>
+				<Function>J223WIZARD</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024345</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Uso Andamentos</Title>
+				<Title lang="es">Informe Uso de Procesos</Title>
+				<Title lang="en">Progress Use Report</Title>
+				<Function>JURR223</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024275</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Auditoria</Title>
+			<Title lang="es">Auditoría</Title>
+			<Title lang="en">Audit</Title>
+			<ItemID>0000013243</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campos Complementares</Title>
+				<Title lang="es">Campos Complementarios</Title>
+				<Title lang="en">Additional Fields</Title>
+				<Function>JURA214</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcas</Title>
+				<Title lang="es">Marcas</Title>
+				<Title lang="en">Brands</Title>
+				<Function>JURA249</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar</Title>
+				<Title lang="es">Generar</Title>
+				<Title lang="en">Generate</Title>
+				<Function>JURA112A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparar</Title>
+				<Title lang="es">Comparar</Title>
+				<Title lang="en">Compare</Title>
+				<Function>JURA112B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012850</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação de Depósitos Judiciais</Title>
+				<Title lang="es">Conciliación de Depósitos Judiciales</Title>
+				<Title lang="en">Reconciliation Of Legal Deposits</Title>
+				<Function>JURA267</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016229</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Correção Monetária</Title>
+			<Title lang="es">Correc. Monetaria</Title>
+			<Title lang="en">Restatement</Title>
+			<ItemID>0000010977</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Índices</Title>
+				<Title lang="es">Indices</Title>
+				<Title lang="en">Indexes</Title>
+				<Function>JURA059</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010978</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valores dos Índices</Title>
+				<Title lang="es">Valores de Los Indices</Title>
+				<Title lang="en">Index Values</Title>
+				<Function>JURA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010979</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formas de Correção</Title>
+				<Title lang="es">Formas de Correccion</Title>
+				<Title lang="en">Adjustment Methods</Title>
+				<Function>JURA061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Forma de Correção Automática</Title>
+				<Title lang="es">Forma de Corrección Automática</Title>
+				<Title lang="en">Automatic Correction Method</Title>
+				<Function>JURA307</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017288</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valores Atualizáveis</Title>
+				<Title lang="es">Valores Actualizables</Title>
+				<Title lang="en">Updatable Values</Title>
+				<Function>JURA062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014501</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log Atualização</Title>
+				<Title lang="es">Log Actualización</Title>
+				<Title lang="en">Update Log</Title>
+				<Function>JURA216</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023746</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Configuração</Title>
+			<Title lang="es">Configuracion</Title>
+			<Title lang="en">Configuration</Title>
+			<ItemID>0000014504</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisas</Title>
+				<Title lang="es">Busquedas</Title>
+				<Title lang="en">Searches</Title>
+				<Function>JURA163</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportação Personalizada</Title>
+				<Title lang="es">Exportacion Personalizada</Title>
+				<Title lang="en">Customized Export</Title>
+				<Function>JURA023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014508</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio de E-mail</Title>
+				<Title lang="es">Envio de Email</Title>
+				<Title lang="en">E-mail Sending</Title>
+				<Function>JURA090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014509</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anexos Woksite</Title>
+				<Title lang="es">Arch Adj Woksite</Title>
+				<Title lang="en">Worksite Attachments</Title>
+				<Function>JURA209</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Restrições de Cadastros Básicos</Title>
+				<Title lang="es">Restricciones de Archivos Basicos</Title>
+				<Title lang="en">Basic Register Restrictions</Title>
+				<Function>JURA116</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014510</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatórios</Title>
+			<Title lang="es">Informes</Title>
+			<Title lang="en">Reports</Title>
+			<ItemID>0000019334</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel Assunt. Jurídicos</Title>
+				<Title lang="es">Inf Asunt. Jurid</Title>
+				<Title lang="en">Legal Subj. Report</Title>
+				<Function>JURA003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Relatórios </Title>
+				<Title lang="es">Parametros Informes</Title>
+				<Title lang="en">Report Parameters</Title>
+				<Function>JURA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Relatórios</Title>
+				<Title lang="es">Config. Informes</Title>
+				<Title lang="en">Reports Config.</Title>
+				<Function>JURA014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout dos Relatórios</Title>
+				<Title lang="es">Layout de Informes</Title>
+				<Title lang="en">Reports Layout</Title>
+				<Function>JURA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Textos</Title>
+				<Title lang="es">Textos</Title>
+				<Title lang="en">Texts</Title>
+				<Function>JURA165</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variáveis</Title>
+				<Title lang="es">Variables</Title>
+				<Title lang="en">Variables</Title>
+				<Function>JURA167</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000014306</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Fluig</Title>
+				<Title lang="es">Integración Fluig</Title>
+				<Title lang="en">Fluig Integration</Title>
+				<Function>JURA210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrações Financeiras</Title>
+				<Title lang="es">Integrac. Financieras</Title>
+				<Title lang="en">Financial Integrations</Title>
+				<Function>JURA261</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016240</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gráficos</Title>
+			<Title lang="es">Graficos</Title>
+			<Title lang="en">Charts</Title>
+			<ItemID>0000017005</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Casos Aber Enc Mensal</Title>
+				<Title lang="es">Casos Abiertos Carga Mensual</Title>
+				<Title lang="en">Open Cases Monthly Load</Title>
+				<Function>JURG001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Casos Abertos Período</Title>
+				<Title lang="es">Casos Abiertos Periodo</Title>
+				<Title lang="en">Term Open Cases</Title>
+				<Function>JURG002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017006</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A760000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generical</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010981</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A760000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Configurações</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Configurations</Title>
+			<ItemID>0000010982</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Preenchimento</Title>
+				<Title lang="es">Reglas de Relleno</Title>
+				<Title lang="en">Completion Rules</Title>
+				<Function>JURA115</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Legendas de Rotinas</Title>
+				<Title lang="es">Leyendas de Rutinas</Title>
+				<Title lang="en">Routine Captions</Title>
+				<Function>JURA117</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018285</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agrupamentos de Campos</Title>
+				<Title lang="es">Agrupamientos de Campos</Title>
+				<Title lang="en">Field Grouping</Title>
+				<Function>JURA118</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018286</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log Importação Publicações</Title>
+				<Title lang="es">Log Importación Publicaciones</Title>
+				<Title lang="en">Public. Import Log</Title>
+				<Function>JURA215</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023676</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização Base Conhecimento</Title>
+				<Title lang="es">Actualización Base Conocimiento</Title>
+				<Title lang="en">Knowledge Base Update</Title>
+				<Function>J26AWIZARD</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>76</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012735</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B760000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B760000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

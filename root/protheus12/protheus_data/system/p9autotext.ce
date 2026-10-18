@@ -1,0 +1,35 @@
+[PRE-APURACAO]
+(PRE) aTotal := Array(30)
+(PRE) aTotal[01] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[02] := FsApCiap(aTotal[1][1],aTotal[1][2])
+(PRE) aTotal[03] := 0
+(PRE) aTotal[04] := 0
+(PRE) aTotal[05] := 0
+(PRE) aTotal[06] := 0
+(PRE) aTotal[07] := 0
+(PRE) aTotal[08] := 0
+(PRE) aTotal[24] := 0
+(PRE) aTotal[28] := 0
+(PRE) aTotal[25] := .T.
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(POS)
+[APURACAO ICMS]
+(PRE) {|x| aTotal[5] += Iif(x[68]>0,x[68]* 0.127,0)}
+(PRE) {|x| aTotal[6] += Iif(x[69]>0,x[69]* 0.099,0)}
+(PRE) {|x| aTotal[7] += Iif(x[70]>0,x[70]* 0.127,0)}
+(PRE) {|x| aTotal[8] += Iif(x[71]>0,x[71]* 0.099,0)}
+(PRE) {|x| aTotal[24] += Iif((SuperGetMv("MV_ESTADO") == "CE" .And. x[34]>0), x[34], 0)}  
+(PRE) {|x| aTotal[28] += Iif((SuperGetMv("MV_ESTADO") == "CE" .And. x[122]>0), x[122], 0)}  
+(POS)
+[POS-APURACAO] 
+006=006.01;Credito Presumido - Art. 64 Inciso VII;aTotal[24];;
+006=006.02;Credito Presumido - Art. 64 Inciso V;aTotal[28];;
+012=012.01;Deducao referente Fecop ICMS Normal;aTotal[5]+aTotal[6];;
+ST 014=014.01;Fecop - ST - saidas internas;aTotal[7]+aTotal[8];;
+(POS)
+[OBSERVACAO]
+(POS)

@@ -1,0 +1,1345 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAACD</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A460000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Recebimento</Title>
+			<Title lang="es">Recepcion</Title>
+			<Title lang="en">Receival</Title>
+			<ItemID>0000008016</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Volumes</Title>
+				<Title lang="es">Volumenes</Title>
+				<Title lang="en">Volumes</Title>
+				<Function>ACDV140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008017</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia</Title>
+				<Title lang="es">Verificacion</Title>
+				<Title lang="en">Conference</Title>
+				<Function>ACDV120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008018</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia Nf</Title>
+				<Title lang="es">Verificac. Fact.</Title>
+				<Title lang="en">Invoice Checking</Title>
+				<Function>ACDV121</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011544</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia Pc</Title>
+				<Title lang="es">Verificacion Pc</Title>
+				<Title lang="en">Pc Verification</Title>
+				<Function>ACDV125</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Preparacao Enderec</Title>
+				<Title lang="es">Prep. Ctrl. Ubic.</Title>
+				<Title lang="en">Address Prep.</Title>
+				<Function>ACDV220</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enderecamento</Title>
+				<Title lang="es">Control Ubic.</Title>
+				<Title lang="en">Addressing</Title>
+				<Function>ACDV060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008021</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enderec. Ean</Title>
+				<Title lang="es">Ctrl. Ubic. Ean</Title>
+				<Title lang="en">Ean Addres.</Title>
+				<Function>ACDV061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio C.q.</Title>
+				<Title lang="es">Envio C.c.</Title>
+				<Title lang="en">C.q Submission</Title>
+				<Function>ACDV050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008023</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio C.q. Ean</Title>
+				<Title lang="es">Envio C.c. Ean</Title>
+				<Title lang="en">Send C.q. Ean</Title>
+				<Function>ACDV051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008024</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixa C.q.</Title>
+				<Title lang="es">Baja C.c.</Title>
+				<Title lang="en">C.q. Write-off</Title>
+				<Function>ACDV010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008025</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixa C.q. Ean</Title>
+				<Title lang="es">Baja C.c. Ean</Title>
+				<Title lang="en">Write-off C.q. Ean</Title>
+				<Function>ACDV011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedicao</Title>
+			<Title lang="es">Expedicion</Title>
+			<Title lang="en">Dispatch</Title>
+			<ItemID>0000008028</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Expedicao Ligada</Title>
+				<Title lang="es">Expedicion Vincul.</Title>
+				<Title lang="en">Connected Dispatch</Title>
+				<Function>ACDV177</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008029</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pre-separacao</Title>
+				<Title lang="es">Preseparacion</Title>
+				<Title lang="en">Pre-separation</Title>
+				<Function>ACDV165</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008030</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Separacao</Title>
+				<Title lang="es">Separacion</Title>
+				<Title lang="en">Separation</Title>
+				<Function>ACDV166</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008031</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embalagem</Title>
+				<Title lang="es">Embalaje</Title>
+				<Title lang="en">Packaging</Title>
+				<Function>ACDV167</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geracao Nota Saida</Title>
+				<Title lang="es">Gener. Fact. Sal.</Title>
+				<Title lang="en">Gener. Outflow Inv</Title>
+				<Function>ACDV168</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008032</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impr. Nf Saida</Title>
+				<Title lang="es">Impr.fact. Sal.</Title>
+				<Title lang="en">Print Outf. Nf</Title>
+				<Function>ACDV169</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008033</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impr.et.ofi.volume</Title>
+				<Title lang="es">Impr.et.of.volumen</Title>
+				<Title lang="en">Prt.lab.ofi.volume</Title>
+				<Function>ACDV173</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embarque</Title>
+				<Title lang="es">Embarque</Title>
+				<Title lang="en">Shipment</Title>
+				<Function>ACDV175</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008035</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Defaz Separacao</Title>
+				<Title lang="es">Deshace Separacion</Title>
+				<Title lang="en">Undo Separation</Title>
+				<Function>ACDV176</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embarque Simples</Title>
+				<Title lang="es">Embarque Simple</Title>
+				<Title lang="en">Simple Shipment</Title>
+				<Function>ACDV250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estoque</Title>
+			<Title lang="es">Stock</Title>
+			<Title lang="en">Stock</Title>
+			<ItemID>0000008038</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mestre Inventario</Title>
+				<Title lang="es">Maestro Inventario</Title>
+				<Title lang="en">Master Inventory</Title>
+				<Function>ACDV030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008039</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventario</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>ACDV035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008040</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mov. Interna</Title>
+				<Title lang="es">Mov. Interna</Title>
+				<Title lang="en">Internal Mov.</Title>
+				<Function>ACDV130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008041</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf.endereco</Title>
+				<Title lang="es">Transf.direcc.</Title>
+				<Title lang="en">Address Transfer</Title>
+				<Function>ACDV150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008042</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf.armazem</Title>
+				<Title lang="es">Transf.almacen</Title>
+				<Title lang="en">Warehouse Transfer</Title>
+				<Function>ACDV151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008043</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio Processo</Title>
+				<Title lang="es">Envio Proceso</Title>
+				<Title lang="en">Send Process</Title>
+				<Function>ACDV152</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008044</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Processo</Title>
+				<Title lang="es">Retorno Proceso</Title>
+				<Title lang="en">Process Return</Title>
+				<Function>ACDV153</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008045</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desmonta Embalagem</Title>
+				<Title lang="es">Desmonta Embalaje</Title>
+				<Title lang="en">Dismantle Package</Title>
+				<Function>ACDV160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008046</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divisao de Etiq.</Title>
+				<Title lang="es">Division de Etiq.</Title>
+				<Title lang="en">Division Of Label</Title>
+				<Function>ACDV210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008047</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Montagem Pallet</Title>
+				<Title lang="es">Montaje Pallet</Title>
+				<Title lang="en">Pallet Assembly</Title>
+				<Function>ACDV230</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008048</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao Pallet</Title>
+				<Title lang="es">Mantenim. Pallet</Title>
+				<Title lang="en">Pallet Maintenance</Title>
+				<Function>ACDV240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008049</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Producao</Title>
+			<Title lang="es">Produccion</Title>
+			<Title lang="en">Production</Title>
+			<ItemID>0000008053</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Producao Simples</Title>
+				<Title lang="es">Producc. Simple</Title>
+				<Title lang="en">Simple Production</Title>
+				<Function>ACDV020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008054</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Producao Pcp Mod 1</Title>
+				<Title lang="es">Producc. Pcp Mod 1</Title>
+				<Title lang="en">Prod. Pcp Model 1</Title>
+				<Function>ACDV023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008055</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Producao Pcp Mod 2</Title>
+				<Title lang="es">Produc. Pcp Mod 2</Title>
+				<Title lang="en">Prod. Pcp Mod 2</Title>
+				<Function>ACDV025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008056</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enderec. Ean</Title>
+				<Title lang="es">Ctrl. Ubic. Ean</Title>
+				<Title lang="en">Address Ean</Title>
+				<Function>ACDV062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008057</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio C.q. Ean</Title>
+				<Title lang="es">Envio C.c. Ean</Title>
+				<Title lang="en">Send C.q. Ean</Title>
+				<Function>ACDV052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008058</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixa C.q. Ean</Title>
+				<Title lang="es">Baja C.c. Ean</Title>
+				<Title lang="en">Write-off C.q. Ean</Title>
+				<Function>ACDV012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008059</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisicao</Title>
+				<Title lang="es">Requisicion</Title>
+				<Title lang="en">Request</Title>
+				<Function>ACDV040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000008060</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Chao de Fabrica</Title>
+			<Title lang="es">Piso de Fábrica</Title>
+			<Title lang="en">Shopfloor</Title>
+			<ItemID>0000024310</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont Produção</Title>
+				<Title lang="es">Apunt. Producción</Title>
+				<Title lang="en">Prod Annotation</Title>
+				<Function>ACDV314</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerenciar Apont Pr</Title>
+				<Title lang="es">Administrar Apunt Pr</Title>
+				<Title lang="en">Manage Pr Annotation</Title>
+				<Function>ACDV315</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024312</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont Parada</Title>
+				<Title lang="es">Apunte de Parada</Title>
+				<Title lang="en">Stop Annotation</Title>
+				<Function>ACDV311</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024313</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont Parada Geral</Title>
+				<Title lang="es">Apunt Parada General</Title>
+				<Title lang="en">General Stop Annotation</Title>
+				<Function>ACDV317</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Recebimento</Title>
+				<Title lang="es">Verif. Recepcion</Title>
+				<Title lang="en">Receipt Check</Title>
+				<Function>DLGV090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013974</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apont Item Control</Title>
+				<Title lang="es">Apunt Ítem Control</Title>
+				<Title lang="en">Control Item Annotation</Title>
+				<Function>ACDV312</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Convocacao Wms</Title>
+			<Title lang="es">Convocación Wms</Title>
+			<Title lang="en">Calles Wms</Title>
+			<ItemID>0000015097</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Convocacao</Title>
+				<Title lang="es">Convocación</Title>
+				<Title lang="en">Call</Title>
+				<Function>WMSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Recebimento Wms</Title>
+			<Title lang="es">Recepción Wms</Title>
+			<Title lang="en">Wms Receipt</Title>
+			<ItemID>0000014434</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia Volumes</Title>
+				<Title lang="es">Verificación Volúmenes</Title>
+				<Title lang="en">Volumes Checking</Title>
+				<Function>WMSV091</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia Produto</Title>
+				<Title lang="es">Verificación de Producto</Title>
+				<Title lang="en">Product Checking</Title>
+				<Function>WMSV090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014535</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Montar Unitizador</Title>
+				<Title lang="es">Montar Unitizador</Title>
+				<Title lang="en">Assemble Unitizer</Title>
+				<Function>WMSV084</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014555</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ger. Ordem Servico</Title>
+				<Title lang="es">Gener. Ord. Serv.</Title>
+				<Title lang="en">Gen. Service Order</Title>
+				<Function>WMSV086</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014598</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedicao Wms</Title>
+			<Title lang="es">Expedición Wms</Title>
+			<Title lang="en">Wms Dispatch</Title>
+			<ItemID>0000014438</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mnt. Vol. Expedicao</Title>
+				<Title lang="es">Mnt. Vol. Expedición</Title>
+				<Title lang="en">Assemble Dispatch Volume</Title>
+				<Function>WMSV081</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>42</Owner>
+				<ItemID>0000012401</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mnt. Vol. Cross</Title>
+				<Title lang="es">Mnt. Vol. Cross</Title>
+				<Title lang="en">Assemble Cross Volume</Title>
+				<Function>WMSV082</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014599</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ger. Pedido Cross</Title>
+				<Title lang="es">Gener. Pedido Cross</Title>
+				<Title lang="en">Gen. Cross Order</Title>
+				<Function>WMSV083</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Romaneio Embarque</Title>
+				<Title lang="es">Lista de Embarque</Title>
+				<Title lang="en">Shipment Packing List</Title>
+				<Function>WMSV105</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014604</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distrib. Separacao</Title>
+				<Title lang="es">Distrib. Separación</Title>
+				<Title lang="en">Separation Distribution</Title>
+				<Function>WMSV040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014619</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferencia</Title>
+				<Title lang="es">Verificación</Title>
+				<Title lang="en">Checking</Title>
+				<Function>WMSV102</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000013781</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enderecamento</Title>
+				<Title lang="es">Control de Ubicación</Title>
+				<Title lang="en">Addressing</Title>
+				<Function>WMSV100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000013778</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf. Box/doca</Title>
+				<Title lang="es">Transf. Box/dársena</Title>
+				<Title lang="en">Box/dock Transf.</Title>
+				<Function>WMSV101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000013779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embarque</Title>
+				<Title lang="es">Embarque</Title>
+				<Title lang="en">Shipment</Title>
+				<Function>WMSV103</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000013780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embarque Expedicao</Title>
+				<Title lang="es">Embarque Expedición</Title>
+				<Title lang="en">Dispatch Shipment</Title>
+				<Function>WMSV104</Function>
+				<Type>1</Type>
+				<Tables>D0X</Tables>
+				<Tables>D0Z</Tables>
+				<Tables>D16</Tables>
+				<Tables>D17</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>46</Owner>
+				<ItemID>0000015421</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estoque Wms</Title>
+			<Title lang="es">Stock Wms</Title>
+			<Title lang="en">Wms Stock</Title>
+			<ItemID>0000012389</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transf. Enderecos</Title>
+				<Title lang="es">Transf. Ubicaciones</Title>
+				<Title lang="en">Addresses Transf.</Title>
+				<Function>WMSV095</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014663</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Etiquetas Wms</Title>
+			<Title lang="es">Etiquetas Wms</Title>
+			<Title lang="en">Wms Labels</Title>
+			<ItemID>0000014664</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiqueta Embalagem</Title>
+				<Title lang="es">Etiqueta Embalaje</Title>
+				<Title lang="en">Packing Label</Title>
+				<Function>WMSR410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>42</Owner>
+				<ItemID>0000012402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiqueta Volume</Title>
+				<Title lang="es">Etiqueta Volumen</Title>
+				<Title lang="en">Volume Label</Title>
+				<Function>WMSR430</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>42</Owner>
+				<ItemID>0000012404</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A460000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000008061</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiqueta</Title>
+				<Title lang="es">Etiqueta</Title>
+				<Title lang="en">Label</Title>
+				<Function>ACDV110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008062</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A460000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000008064</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008066</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportadoras</Title>
+				<Title lang="es">Transportadoras</Title>
+				<Title lang="en">Carriers</Title>
+				<Function>MATR060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008068</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Codigo de Barras</Title>
+			<Title lang="es">Codigo de Barras</Title>
+			<Title lang="en">Barcode</Title>
+			<ItemID>0000008070</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq.produto</Title>
+				<Title lang="es">Etiq.producto</Title>
+				<Title lang="en">Product Label</Title>
+				<Function>ACDI010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq.endereco</Title>
+				<Title lang="es">Etiq. Direccion</Title>
+				<Title lang="en">Location Label</Title>
+				<Function>ACDI020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008073</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq.transport.</Title>
+				<Title lang="es">Etiq. Transport.</Title>
+				<Title lang="en">Transp. Label</Title>
+				<Function>ACDI050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008075</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq.s/titulo</Title>
+				<Title lang="es">Etiq. S/ Titulo</Title>
+				<Title lang="en">Label W/o Title</Title>
+				<Function>ACDI040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008076</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiq.usuarios</Title>
+				<Title lang="es">Etiq.usuarios</Title>
+				<Title lang="en">User Labels</Title>
+				<Function>ACDI060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016267</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reimpressao</Title>
+				<Title lang="es">Reimpresion</Title>
+				<Title lang="en">Print Again</Title>
+				<Function>ACDV100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008077</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A460000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Mensagens</Title>
+			<Title lang="es">Mensajes</Title>
+			<Title lang="en">Messages</Title>
+			<ItemID>0000008078</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nova Mensagem</Title>
+				<Title lang="es">Nuevo Mensaje</Title>
+				<Title lang="en">New Messages</Title>
+				<Function>ACDV200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008079</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enviadas</Title>
+				<Title lang="es">Enviadas</Title>
+				<Title lang="en">Sent</Title>
+				<Function>ACDV190</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recebidas</Title>
+				<Title lang="es">Cobradas</Title>
+				<Title lang="en">Received</Title>
+				<Function>ACDV180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>46</Module>
+				<Owner>0</Owner>
+				<ItemID>0000008081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B460000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B460000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

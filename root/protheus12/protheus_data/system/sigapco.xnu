@@ -1,0 +1,1785 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPCO</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A570000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009579</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Orçamentárias</Title>
+				<Title lang="es">Cuentas de Presupuesto</Title>
+				<Title lang="en">Budget Accounts</Title>
+				<Function>PCOA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009580</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Orçamentários,orçamentos</KeyWord>
+					<KeyWord lang="es">Presupuestarios,presupuestos</KeyWord>
+					<KeyWord lang="en">Budgetary,budget</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operações</Title>
+				<Title lang="es">Operaciones</Title>
+				<Title lang="en">Operations</Title>
+				<Function>PCOA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009581</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação</KeyWord>
+					<KeyWord lang="es">Operacion</KeyWord>
+					<KeyWord lang="en">Operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes</Title>
+				<Title lang="es">Clases</Title>
+				<Title lang="en">Categories</Title>
+				<Function>PCOA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009582</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,classificações,orçamentários,orçamentárias</KeyWord>
+					<KeyWord lang="es">Clasificacion,clasificaciones,presupuestarios,presupuestarias</KeyWord>
+					<KeyWord lang="en">Classification,classification,budgetary,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Saldos</Title>
+				<Title lang="es">Tipos de Saldo</Title>
+				<Title lang="en">Types Of Balance</Title>
+				<Function>PCOA195</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009583</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,classificações,categorias</KeyWord>
+					<KeyWord lang="es">Clasificacion,clasificaciones,categorias</KeyWord>
+					<KeyWord lang="en">Classification,classification,categories</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013478</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítems Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013479</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Itemcontábil,cadastrodecustos,contábil</KeyWord>
+					<KeyWord lang="es">Ítemcontable,archivodecostos,contable</KeyWord>
+					<KeyWord lang="en">Accountingitem,costsregister,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013480</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classevalor,cadastrodecustos,contábil</KeyWord>
+					<KeyWord lang="es">Clasevalor,archivodecostos,contable</KeyWord>
+					<KeyWord lang="en">Valueclass,costsregister,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Máscaras</Title>
+				<Title lang="es">Mascaras</Title>
+				<Title lang="en">Masks</Title>
+				<Function>CTB130EST</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>34</Owner>
+				<ItemID>0000009585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Modelos</KeyWord>
+					<KeyWord lang="es">Modelos</KeyWord>
+					<KeyWord lang="en">Models</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Totalizadores</Title>
+				<Title lang="es">Totalizadores</Title>
+				<Title lang="en">Totalizers</Title>
+				<Function>PCOA105</Function>
+				<Type>1</Type>
+				<Tables>AK2</Tables>
+				<Tables>AKK</Tables>
+				<Tables>AKQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009586</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade Orçamentária</Title>
+				<Title lang="es">Unidad de Presupuesto</Title>
+				<Title lang="en">Budget Unit</Title>
+				<Function>PCOA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011425</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Orçamentárias,orçamentários,unidades</KeyWord>
+					<KeyWord lang="es">Presupuestarias,presupuestarios,unidades</KeyWord>
+					<KeyWord lang="en">Budgetary,budgetary,units</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades Contábeis</Title>
+				<Title lang="es">Entes Contables</Title>
+				<Title lang="en">Accounting Entities</Title>
+				<Function>CTBA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017824</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Classif.rec.despesas</Title>
+				<Title lang="es">Tabla Clasif.ingr.gastos</Title>
+				<Title lang="en">Inc Exp Classif Table</Title>
+				<Function>PCOA165</Function>
+				<Type>1</Type>
+				<Tables>A1G</Tables>
+				<Tables>A1H</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016592</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tabela Classif Receitas Despes</KeyWord>
+					<KeyWord lang="es">Tabla Clasif Ingresos Gastos</KeyWord>
+					<KeyWord lang="en">Exp Income Classif Table</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contingencias</Title>
+			<Title lang="es">Contingencias</Title>
+			<Title lang="en">Contingencies</Title>
+			<ItemID>0000009588</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovadores</Title>
+				<Title lang="es">Aprobadores</Title>
+				<Title lang="en">Approvers</Title>
+				<Function>PCOA520</Function>
+				<Type>1</Type>
+				<Tables>ALM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contingencias</KeyWord>
+					<KeyWord lang="es">Contingencias</KeyWord>
+					<KeyWord lang="en">Contingencies</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Limites de Aprovação</Title>
+				<Title lang="es">Limites de Aprobacion</Title>
+				<Title lang="en">Approval Limits</Title>
+				<Function>PCOA510</Function>
+				<Type>1</Type>
+				<Tables>ALL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contingencias,alcadas</KeyWord>
+					<KeyWord lang="es">Contingencias,competencias</KeyWord>
+					<KeyWord lang="en">Contingencies,jurisdiction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planilhas</Title>
+			<Title lang="es">Planillas</Title>
+			<Title lang="en">Worksheet</Title>
+			<ItemID>0000009592</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamento</Title>
+				<Title lang="es">Planeamiento</Title>
+				<Title lang="en">"planning</Title>
+				<Function>PCOA490</Function>
+				<Type>1</Type>
+				<Tables>AM2</Tables>
+				<Tables>ALV</Tables>
+				<Tables>ALX</Tables>
+				<Tables>ALY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009593</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,planejamentos</KeyWord>
+					<KeyWord lang="es">Planillas,planeamientos</KeyWord>
+					<KeyWord lang="en">Spreadsheet,planning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orçamentos</Title>
+				<Title lang="es">Presupuestos</Title>
+				<Title lang="en">Budget</Title>
+				<Function>PCOA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009594</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas</KeyWord>
+					<KeyWord lang="es">Planillas</KeyWord>
+					<KeyWord lang="en">Worksheets</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisões de Orçamento</Title>
+				<Title lang="es">Revisiones de Presupuesto</Title>
+				<Title lang="en">Quotation Revision</Title>
+				<Function>PCOA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009595</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,orçamentos</KeyWord>
+					<KeyWord lang="es">Planillas,presupuestos</KeyWord>
+					<KeyWord lang="en">Spreadsheet,quotation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visão Gerencial</Title>
+				<Title lang="es">Vision Gerencial</Title>
+				<Title lang="en">Management View</Title>
+				<Function>PCOA180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009597</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,consolidação,consolidações,customizações,customização,gerenciais,livros,personalização,visões,personalizações</KeyWord>
+					<KeyWord lang="es">Planillas,consolidacion,consolidaciones,personalizaciones,personalizacion,gerenciales,libros,personalizacion,visiones,personalizaciones</KeyWord>
+					<KeyWord lang="en">Spreadsheet,consolidation,consolidations,customization,customization,managerial,books,customization,view,customizations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA050</Function>
+				<Type>1</Type>
+				<Tables>AKD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentos,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Movimientos,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Transactions,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contingências</Title>
+				<Title lang="es">Contingencias</Title>
+				<Title lang="en">Contingencies</Title>
+				<Function>PCOA500</Function>
+				<Type>1</Type>
+				<Tables>ALI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009601</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentos,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Movimientos,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Transactions,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regra Distribuição</Title>
+				<Title lang="es">Regla Distribución</Title>
+				<Title lang="en">Distrb.rule</Title>
+				<Function>PCOA485</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011997</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,regras,distribuições</KeyWord>
+					<KeyWord lang="es">Planillas,reglas,distribuciones</KeyWord>
+					<KeyWord lang="en">Spreadsheet,rules,distribution</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fase Orçamentária</Title>
+				<Title lang="es">Fase Presupuest.</Title>
+				<Title lang="en">Budget Stage</Title>
+				<Function>PCOA003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011436</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,fases,orçamentárias</KeyWord>
+					<KeyWord lang="es">Planillas,fases,presupuestarias</KeyWord>
+					<KeyWord lang="en">Spreadsheet,phases,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos</Title>
+			<Title lang="es">Cubos</Title>
+			<Title lang="en">Cubes</Title>
+			<ItemID>0000009602</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestion</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA193</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gerencial</KeyWord>
+					<KeyWord lang="es">Gerencial</KeyWord>
+					<KeyWord lang="en">Managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulações</Title>
+				<Title lang="es">Simulaciones</Title>
+				<Title lang="en">Simulations</Title>
+				<Function>PCOA200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009596</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,simulação</KeyWord>
+					<KeyWord lang="es">Planillas,simulacion</KeyWord>
+					<KeyWord lang="en">Spreadsheet,simulation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulação Estatística</Title>
+				<Title lang="es">Simulacion Estadistica</Title>
+				<Title lang="en">Statistics Simulation</Title>
+				<Function>PCOA201</Function>
+				<Type>1</Type>
+				<Tables>AK1</Tables>
+				<Tables>AK2</Tables>
+				<Tables>AK3</Tables>
+				<Tables>AKR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Simulacoes,planilhas,estatísticas</KeyWord>
+					<KeyWord lang="es">Simulaciones,planillas,estadisticas</KeyWord>
+					<KeyWord lang="en">Simulations,spreadsheet,statistics</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Usuarios</Title>
+			<Title lang="es">Usuarios</Title>
+			<Title lang="en">Users</Title>
+			<ItemID>0000009604</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transaction</Title>
+			<ItemID>0000009599</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamentos X Usuários</Title>
+				<Title lang="es">Planeamientos X Usuarios</Title>
+				<Title lang="en">Planning X Users</Title>
+				<Function>PCOA107</Function>
+				<Type>1</Type>
+				<Tables>AMU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acessos</KeyWord>
+					<KeyWord lang="es">Accesos</KeyWord>
+					<KeyWord lang="en">Accesses</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha</Title>
+				<Title lang="es">Planilla</Title>
+				<Title lang="en">Worksheet</Title>
+				<Function>PCOA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009605</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,planilhas</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,planillas</KeyWord>
+					<KeyWord lang="en">Users,accesses,spreadsheets</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>PCOA130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009606</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,contabilidade,usuarios,acessos,centros,custos</KeyWord>
+					<KeyWord lang="es">Entes,contabilidad,usuarios,accesos,centros,costos</KeyWord>
+					<KeyWord lang="en">Entities,accounting,users,accesses,centers,costs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Item Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>PCOA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009607</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,contabilidade,usuarios,acessos,itens,contábeis</KeyWord>
+					<KeyWord lang="es">Entes,contabilidad,usuarios,accesos,items,contables</KeyWord>
+					<KeyWord lang="en">Entities,accounting,users,accesses,items,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>PCOA150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009608</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,contabilidade,usuarios,acessos,classes,valores</KeyWord>
+					<KeyWord lang="es">Entes,contabilidad,usuarios,accesos,clases,valores</KeyWord>
+					<KeyWord lang="en">Entities,accounting,users,accesses,types,values</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades</Title>
+				<Title lang="es">Entes</Title>
+				<Title lang="en">Entities</Title>
+				<Function>PCOA210</Function>
+				<Type>1</Type>
+				<Tables>AL6</Tables>
+				<Tables>AL7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009609</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,contabilidade</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,contabilidad</KeyWord>
+					<KeyWord lang="en">Users,accesses,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Cubos</Title>
+				<Title lang="es">Configuracion Cubos</Title>
+				<Title lang="en">Cube Configuration</Title>
+				<Function>PCOA210_1</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009610</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,configurações</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,configuraciones</KeyWord>
+					<KeyWord lang="en">Users,accesses,configuration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão do Acesso À Configuração de Cubo</Title>
+				<Title lang="es">Borrado Del Acceso a La Config. de Cubo</Title>
+				<Title lang="en">Cube Configuration Access Deletion</Title>
+				<Function>PCOA210_2</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009611</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acessos,exclusões,configurações,cubos</KeyWord>
+					<KeyWord lang="es">Accesos,exclusiones,configuraciones,cubos</KeyWord>
+					<KeyWord lang="en">Accesses,exclusion,configuration,cubes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visão Gerencial</Title>
+				<Title lang="es">Vision Gerencial</Title>
+				<Title lang="en">Management View</Title>
+				<Function>PCOA210_3</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009612</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,visões,gerenciais</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,visiones,gerenciales</KeyWord>
+					<KeyWord lang="en">Users,accesses,visions,management</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão do Acesso À Visão Gerencial</Title>
+				<Title lang="es">Exclusion Del Acceso a La Vision Gerencial</Title>
+				<Title lang="en">Management View Access Deletion</Title>
+				<Function>PCOA210_4</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009613</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,visões,gerenciais,exclusões</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,visiones,gerenciales,borrados</KeyWord>
+					<KeyWord lang="en">Users,accesses,visions,management,exclusions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Usuários</Title>
+				<Title lang="es">Grupo de Usuarios</Title>
+				<Title lang="en">Users Group</Title>
+				<Function>PCOA111</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lancamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000009614</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009615</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lancamentos,orçamentários,integração,integrações</KeyWord>
+					<KeyWord lang="es">Asientos,presupuestario,integracion,integraciones</KeyWord>
+					<KeyWord lang="en">Transactions,budgetary,integration,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento</Title>
+				<Title lang="es">Puntos de Asiento</Title>
+				<Title lang="en">Transaction Points</Title>
+				<Function>PCOA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009616</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lançamentos,orçamentários,integração,integrações</KeyWord>
+					<KeyWord lang="es">Asientos,presupuestarios,integracion,integraciones</KeyWord>
+					<KeyWord lang="en">Transactions,quotations,integration,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bloqueios</Title>
+			<Title lang="es">Bloqueos</Title>
+			<Title lang="en">Blockages</Title>
+			<ItemID>0000009617</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009618</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios</KeyWord>
+					<KeyWord lang="es">Bloqueos</KeyWord>
+					<KeyWord lang="en">Blocks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento de Integração</Title>
+				<Title lang="es">Puntos de Asiento de Integracion</Title>
+				<Title lang="en">Integration Entry Points</Title>
+				<Function>PCOA041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011321</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios,lançamentos,integrações</KeyWord>
+					<KeyWord lang="es">Bloqueos,asientos,integraciones</KeyWord>
+					<KeyWord lang="en">Blocks,transactions,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Bloqueio</Title>
+				<Title lang="es">Puntos de Bloqueo</Title>
+				<Title lang="en">Blockage Points</Title>
+				<Function>PCOA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009619</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios</KeyWord>
+					<KeyWord lang="es">Bloqueos</KeyWord>
+					<KeyWord lang="en">Blocks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Visoes</Title>
+			<Title lang="es">Visiones</Title>
+			<Title lang="en">Visions</Title>
+			<ItemID>0000009620</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros</Title>
+				<Title lang="es">Parametros</Title>
+				<Title lang="en">Parameters</Title>
+				<Function>PCOA160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009621</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,parametrização,orçamentárias,visão,parametrizações,estruturas</KeyWord>
+					<KeyWord lang="es">Visiones,parametrizacion,presupuestarias,visiones,parametrizaciones,estructuras</KeyWord>
+					<KeyWord lang="en">Views,parameterization,quotations,view,parameterization,structures</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurações</Title>
+				<Title lang="es">Configuraciones</Title>
+				<Title lang="en">Configurations</Title>
+				<Function>PCOA170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009622</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,parametrizações,orçamentárias,visão,parametrização</KeyWord>
+					<KeyWord lang="es">Visiones,parametrizaciones,presupuestarias,vision,parametrizacion</KeyWord>
+					<KeyWord lang="en">Visions,parameterizations,quotations,vision,parameterization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Projeto</Title>
+			<Title lang="es">Proyecto</Title>
+			<Title lang="en">Project</Title>
+			<ItemID>0000011466</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orçamento</Title>
+				<Title lang="es">Presupuesto</Title>
+				<Title lang="en">Budget</Title>
+				<Function>PCOA016</Function>
+				<Type>1</Type>
+				<Tables>AMX</Tables>
+				<Tables>AMY</Tables>
+				<Tables>AMV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011469</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Projetos,planilhas,unidades,orçamentárias,orçamentos</KeyWord>
+					<KeyWord lang="es">Proyectos,planillas,unidades,presupuestarias,presupuestos</KeyWord>
+					<KeyWord lang="en">Projects,spreadsheet,units,quotation,quotation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Limite Orçamento</Title>
+				<Title lang="es">Limite Presupuesto</Title>
+				<Title lang="en">Budget Limit</Title>
+				<Function>PCOA998</Function>
+				<Type>1</Type>
+				<Tables>AMV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011470</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Projetos,planilhas,unidades,orçamentárias,orçamentos</KeyWord>
+					<KeyWord lang="es">Proyectos,planillas,unidades,presupuestarias,presupuestos</KeyWord>
+					<KeyWord lang="en">Projects,spreadsheet,units,quotation,quotation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planejamento</Title>
+			<Title lang="es">Planeamiento</Title>
+			<Title lang="en">Planning</Title>
+			<ItemID>0000009623</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Planejamento</Title>
+				<Title lang="es">Configuracion de Planeamiento</Title>
+				<Title lang="en">Planning Configuration</Title>
+				<Function>PCOA489</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009624</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Regras,planilhas,configurações,planejamentos</KeyWord>
+					<KeyWord lang="es">Reglas,planillas,configuraciones,planeamientos</KeyWord>
+					<KeyWord lang="en">Rules,spreadsheet,configuration,planning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regra Distribuição</Title>
+				<Title lang="es">Regla Distribucion</Title>
+				<Title lang="en">Distribution Rule</Title>
+				<Function>PCOA480</Function>
+				<Type>1</Type>
+				<Tables>ALU</Tables>
+				<Tables>ALS</Tables>
+				<Tables>ALO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009625</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Regras,planilhas,planejamentos,distribuições</KeyWord>
+					<KeyWord lang="es">Reglas,planillas,planeamientos,distribuciones</KeyWord>
+					<KeyWord lang="en">Rules,spreadsheet,planning,distribution</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Relacionada</Title>
+				<Title lang="es">Variacion Relacionada</Title>
+				<Title lang="en">Related Variation</Title>
+				<Function>PCOA430</Function>
+				<Type>1</Type>
+				<Tables>ALR</Tables>
+				<Tables>ALN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009626</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planejamentos,relacionadas,variações</KeyWord>
+					<KeyWord lang="es">Planeamientos,relacionadas,variaciones</KeyWord>
+					<KeyWord lang="en">Planning,related,variations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Imposta</Title>
+				<Title lang="es">Variacion Impuesta</Title>
+				<Title lang="en">Imposed Variation</Title>
+				<Function>PCOA440</Function>
+				<Type>1</Type>
+				<Tables>AM5</Tables>
+				<Tables>ALP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009627</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planejamentos,variações,impostas</KeyWord>
+					<KeyWord lang="es">Planeamientos,variaciones,impuestas</KeyWord>
+					<KeyWord lang="en">Planning,variations,imposed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Contra Partida</Title>
+				<Title lang="es">Variacion Contrapartida</Title>
+				<Title lang="en">Counterpart Variation</Title>
+				<Function>PCOA481</Function>
+				<Type>1</Type>
+				<Tables>AM8</Tables>
+				<Tables>AM9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planejamentos,variações</KeyWord>
+					<KeyWord lang="es">Planeamientos,variaciones</KeyWord>
+					<KeyWord lang="en">Planning,variations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Composta</Title>
+				<Title lang="es">Variacion Compuesta</Title>
+				<Title lang="en">Composed Variation</Title>
+				<Function>PCOA461</Function>
+				<Type>1</Type>
+				<Tables>AM3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009629</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planejamentos,compostas,variações</KeyWord>
+					<KeyWord lang="es">Planificacion,compuestas,variaciones</KeyWord>
+					<KeyWord lang="en">Planning,composed,variation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro Variação Composta</Title>
+				<Title lang="es">Procedimiento Variacion Compuesta</Title>
+				<Title lang="en">Script Composed Variation</Title>
+				<Function>PCOA463</Function>
+				<Type>1</Type>
+				<Tables>AMA</Tables>
+				<Tables>AM7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009630</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Compostas,planejamentos,roteiros,variações</KeyWord>
+					<KeyWord lang="es">Compuestas,planeamientos,procedimientos,variaciones</KeyWord>
+					<KeyWord lang="en">Comprised,planning,script,variation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Movimento</Title>
+				<Title lang="es">Tipo de Movimiento</Title>
+				<Title lang="en">Transaction Type</Title>
+				<Function>PCOA470</Function>
+				<Type>1</Type>
+				<Tables>ALQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009631</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Categorias,movimentação,movimentações,planejamentos,tipos,movimentos</KeyWord>
+					<KeyWord lang="es">Categorias,movimiento,movimientos,planeamientos,tipos,movimientos</KeyWord>
+					<KeyWord lang="en">Categories,transaction,transactions,planning,types,transaction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Despesa</Title>
+				<Title lang="es">Tipo de Gasto</Title>
+				<Title lang="en">Expense Type</Title>
+				<Function>PCOA460</Function>
+				<Type>1</Type>
+				<Tables>ALT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009632</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Categorias,despesas,planejamentos,tipos</KeyWord>
+					<KeyWord lang="es">Categorias,gastos,planeamientos,tipos</KeyWord>
+					<KeyWord lang="en">Categories,expenses,planning,types</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimento Não Operacional</Title>
+				<Title lang="es">Movimiento No Operacional</Title>
+				<Title lang="en">Movement Not Operational</Title>
+				<Function>PCOA450</Function>
+				<Type>1</Type>
+				<Tables>AM4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009633</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentos,movimentação,movimentações,operacionais,planejamentos</KeyWord>
+					<KeyWord lang="es">Movimientos,movimiento,movimientos,operacionales,planeamientos</KeyWord>
+					<KeyWord lang="en">Transaction,transaction,transactions,operational,planning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp</Title>
+			<Title lang="es">Mcasp</Title>
+			<Title lang="en">Mcasp</Title>
+			<ItemID>0000017448</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Loa</Title>
+			<Title lang="es">Loa</Title>
+			<Title lang="en">Loa</Title>
+			<ItemID>0000017449</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas Classificadores Receitas/despesas Etc</Title>
+				<Title lang="es">Tablas Clasificadores Ingresos/gastos Etc.</Title>
+				<Title lang="en">Classifiers Table For Revenues/expenses Etc</Title>
+				<Function>PCOA165</Function>
+				<Type>1</Type>
+				<Tables>A1G</Tables>
+				<Tables>A1H</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017450</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A570000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Genericos</Title>
+			<Title lang="es">Genericos</Title>
+			<Title lang="en">Generic</Title>
+			<ItemID>0000009634</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009635</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gerais,geral,generalizados</KeyWord>
+					<KeyWord lang="es">Generales,general,generalizados</KeyWord>
+					<KeyWord lang="en">General,general,generalized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos</Title>
+			<Title lang="es">Cubos</Title>
+			<Title lang="en">Cubes</Title>
+			<ItemID>0000009636</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Mensais</Title>
+				<Title lang="es">Saldos Mensuales</Title>
+				<Title lang="en">Monthly Balances</Title>
+				<Function>PCOC310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009637</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,meses,mensal</KeyWord>
+					<KeyWord lang="es">Cubos,meses,mensual</KeyWord>
+					<KeyWord lang="en">Cubes,months,monthly</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos Diários</Title>
+				<Title lang="es">Movimientos Diarios</Title>
+				<Title lang="en">Daily Transactions</Title>
+				<Function>PCOC320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009638</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,dias</KeyWord>
+					<KeyWord lang="es">Cubos,dias</KeyWord>
+					<KeyWord lang="en">Cubes,days</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Na Data</Title>
+				<Title lang="es">Saldos En La Fecha</Title>
+				<Title lang="en">Balances On Date</Title>
+				<Function>PCOC330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009639</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,datas</KeyWord>
+					<KeyWord lang="es">Cubos,fechas</KeyWord>
+					<KeyWord lang="en">Cubes,dates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Por Período</Title>
+				<Title lang="es">Saldos Por Periodo</Title>
+				<Title lang="en">Balance Per Period</Title>
+				<Function>PCOC340</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009640</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,períodos,intervalos</KeyWord>
+					<KeyWord lang="es">Cubos,periodos,intervalos</KeyWord>
+					<KeyWord lang="en">Cubes,periods,intervals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Visoes</Title>
+			<Title lang="es">Visiones</Title>
+			<Title lang="en">Visions</Title>
+			<ItemID>0000009641</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Na Data</Title>
+				<Title lang="es">Saldos En La Fecha</Title>
+				<Title lang="en">Balances On Date</Title>
+				<Function>PCOC350</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009642</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,visão,datas</KeyWord>
+					<KeyWord lang="es">Visiones,vision,fechas</KeyWord>
+					<KeyWord lang="en">Views,view,dates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Por Período</Title>
+				<Title lang="es">Saldos Por Periodo</Title>
+				<Title lang="en">Balances Per Period</Title>
+				<Function>PCOC360</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009643</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,visão,intervalos,períodos</KeyWord>
+					<KeyWord lang="es">Visiones,vision,intervalos,periodos</KeyWord>
+					<KeyWord lang="en">Views,view,interval,period</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projeções Por Período</Title>
+				<Title lang="es">Proyecciones Por Periodo</Title>
+				<Title lang="en">Period Projections</Title>
+				<Function>PCOC380</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,visão,intervalos,períodos,projeção</KeyWord>
+					<KeyWord lang="es">Visiones,vision,intervalos,periodos,proyeccion</KeyWord>
+					<KeyWord lang="en">Views,view,interval,periods,projection</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000019787</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastrais</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000021607</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Detalhada</Title>
+				<Title lang="es">Planilla Detallada</Title>
+				<Title lang="en">Detailed Worksheet</Title>
+				<Function>PCOSV002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021608</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Orçamentárias</Title>
+				<Title lang="es">Ctas Presup</Title>
+				<Title lang="en">Budget Accounts</Title>
+				<Function>PCOSV004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021609</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transactns</Title>
+			<ItemID>0000021611</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Registros</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021612</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A570000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009645</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operações</Title>
+				<Title lang="es">Operaciones</Title>
+				<Title lang="en">Operations</Title>
+				<Function>PCOR003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação</KeyWord>
+					<KeyWord lang="es">Operacion</KeyWord>
+					<KeyWord lang="en">Operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custos</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>34</Owner>
+				<ItemID>0000009649</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planilhas</Title>
+			<Title lang="es">Planillas</Title>
+			<Title lang="en">Worksheet</Title>
+			<ItemID>0000009650</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Resumida</Title>
+				<Title lang="es">Planilla Resumida</Title>
+				<Title lang="en">Summary Worksheet</Title>
+				<Function>PCOR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009651</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,resumidas,resumos</KeyWord>
+					<KeyWord lang="es">Planillas,resumidas,resumos</KeyWord>
+					<KeyWord lang="en">Spreadsheet,summarized,summary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Totalizadores</Title>
+				<Title lang="es">Totalizadores</Title>
+				<Title lang="en">Totalisers</Title>
+				<Function>PCOR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009653</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas</KeyWord>
+					<KeyWord lang="es">Planillas</KeyWord>
+					<KeyWord lang="en">Worksheets</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressao de Planilha Orcamentaria</Title>
+				<Title lang="es">Impresión de Planilla Presupuestaria</Title>
+				<Title lang="en">Printing Budget Spreadsheet</Title>
+				<Function>PCOR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012664</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,orcamentaria</KeyWord>
+					<KeyWord lang="es">Planillas,presupuestaria</KeyWord>
+					<KeyWord lang="en">Spreadsheets,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transaction</Title>
+			<ItemID>0000009655</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos</Title>
+			<Title lang="es">Cubos</Title>
+			<Title lang="en">Cubes</Title>
+			<ItemID>0000009657</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos</Title>
+				<Title lang="es">Movimientos</Title>
+				<Title lang="en">Transactions</Title>
+				<Function>PCOR330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009658</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos</KeyWord>
+					<KeyWord lang="es">Cubos</KeyWord>
+					<KeyWord lang="en">Cubes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Saldos</Title>
+				<Title lang="es">Demostrativo de Saldos</Title>
+				<Title lang="en">Balance Statement</Title>
+				<Function>PCOR310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,demonstrativos</KeyWord>
+					<KeyWord lang="es">Cubos,demostrativos</KeyWord>
+					<KeyWord lang="en">Cubes,statements</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete</Title>
+				<Title lang="es">Balance Parcial</Title>
+				<Title lang="en">Balance Sheet</Title>
+				<Function>PCOR300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,balancetes</KeyWord>
+					<KeyWord lang="es">Cubos,balances</KeyWord>
+					<KeyWord lang="en">Cubes,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo Por Período</Title>
+				<Title lang="es">Demos. Contable Por Periodo</Title>
+				<Title lang="en">Statement By Period</Title>
+				<Function>PCOR320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009661</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,demonstrativos,períodos,intervalos</KeyWord>
+					<KeyWord lang="es">Cubos,demostrativos,periodos,intervalos</KeyWord>
+					<KeyWord lang="en">Cubes,statements,periods,interval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos Comparativos</Title>
+			<Title lang="es">Cubos Compar.</Title>
+			<Title lang="en">Comparative Cubes</Title>
+			<ItemID>0000009662</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Saldos</Title>
+				<Title lang="es">Demostrativo de Saldos</Title>
+				<Title lang="en">Balance Statement</Title>
+				<Function>PCOR510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009663</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,comparativos,demonstrativos</KeyWord>
+					<KeyWord lang="es">Cubos,comparativos,demostrativos</KeyWord>
+					<KeyWord lang="en">Cubes,comparatives,statements</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete</Title>
+				<Title lang="es">Balance Parcial</Title>
+				<Title lang="en">Trial Balance</Title>
+				<Function>PCOR500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009664</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,comparativos,balancetes</KeyWord>
+					<KeyWord lang="es">Cubos,comparativos,balances</KeyWord>
+					<KeyWord lang="en">Cubes,comparative,trial_balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo Por Períodos</Title>
+				<Title lang="es">Est. Demost. Por Periodos</Title>
+				<Title lang="en">Statement By Periods</Title>
+				<Function>PCOR520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009665</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,comparativos,demonstrativos,intervalos</KeyWord>
+					<KeyWord lang="es">Cubos,comparativos,demostrativos,intervalos</KeyWord>
+					<KeyWord lang="en">Cubes,comparavitive,statements,intervals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp</Title>
+			<Title lang="es">Mcasp</Title>
+			<Title lang="en">Mcasp</Title>
+			<ItemID>0000017472</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Loa</Title>
+			<Title lang="es">Loa</Title>
+			<Title lang="en">Loa</Title>
+			<ItemID>0000017473</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Orçamentário</Title>
+				<Title lang="es">Balance Presup</Title>
+				<Title lang="en">Budget Balance</Title>
+				<Function>PCOR070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016434</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,balanço,orçamentário</KeyWord>
+					<KeyWord lang="es">Visiones,balance,presupuestario</KeyWord>
+					<KeyWord lang="en">Views,balance,budget</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo Por Período Resumido Modelo 2</Title>
+				<Title lang="es">Est. Dem. Por Periodo Resumido Modelo 2</Title>
+				<Title lang="en">Statement By Period Summarized Model 2</Title>
+				<Function>PCOR521</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,comparativos,demonstrativos,saldos,períodos,resumidos,intervalos,modelos,dois</KeyWord>
+					<KeyWord lang="es">Cubos,comparativos,demostrativos,saldos,periodos,resumidos,intervalos,modelos,dos</KeyWord>
+					<KeyWord lang="en">Cubes,comparatives,statements,balances,periods,summarized,intervals,models,two</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Mês a Mês</Title>
+				<Title lang="es">Saldo Mes Por Mes</Title>
+				<Title lang="en">Balance Every Month</Title>
+				<Function>PCOR600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009669</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cubos,comparativos,meses,mensal,mensais,saldos</KeyWord>
+					<KeyWord lang="es">Cubos,comparativos,meses,mensual,mensuales,saldos</KeyWord>
+					<KeyWord lang="en">Cubes,comparatives,months,monthly,monthly,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Visoes</Title>
+			<Title lang="es">Visiones</Title>
+			<Title lang="en">Views</Title>
+			<ItemID>0000009670</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo Saldo Ac/mês</Title>
+				<Title lang="es">Demostrativo Saldo Ac/mes</Title>
+				<Title lang="en">Balance Statement Ac/month</Title>
+				<Function>PCOR650</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009671</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,demonstrativos,acumulados,acúmulos,meses,mensal,mensais,saldos</KeyWord>
+					<KeyWord lang="es">Visiones,demostrativos,acumulados,acumulos,meses,mensual,mensuales,saldos</KeyWord>
+					<KeyWord lang="en">Visions,statements,accumulated,accumulate,months,monthly,monthly,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Por Período</Title>
+				<Title lang="es">Saldos Por Periodo</Title>
+				<Title lang="en">Balances By Period</Title>
+				<Function>PCOR360</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009677</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,períodos,intervalos</KeyWord>
+					<KeyWord lang="es">Visiones,periodos,intervalos</KeyWord>
+					<KeyWord lang="en">Views,periods,intervals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A570000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Reprocessamentos</Title>
+			<Title lang="es">Reprocesamientos</Title>
+			<Title lang="en">Reprocessing</Title>
+			<ItemID>0000009679</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestion</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009680</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,refaz,gerencial</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,saldos,rehace,de_gestion</KeyWord>
+					<KeyWord lang="en">Reprocessing,balance,remake,managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Multi-thread</Title>
+				<Title lang="es">Cubos Multi-thread</Title>
+				<Title lang="en">Multi-thread Cubes</Title>
+				<Function>PCOA301</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014806</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,refaz</KeyWord>
+					<KeyWord lang="es">Reprocesamiento,saldos,rehace</KeyWord>
+					<KeyWord lang="en">Reprocessing,balances,remake</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009681</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,movimentos,integração,integrações,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,movimientos,integracion,integraciones,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Reprocessing,transactions,integration,integrations,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Saldo Contábil</Title>
+				<Title lang="es">Asientos Saldo Contable</Title>
+				<Title lang="en">Accounting Balance Transactions</Title>
+				<Function>PCOA330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009682</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,contabeis,contabilidade,saldos</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,contables,contabilidad,saldos</KeyWord>
+					<KeyWord lang="en">Reprocessing,accounting,accounting,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Integração</Title>
+				<Title lang="es">Asientos Integracion</Title>
+				<Title lang="en">Integration Transaction</Title>
+				<Function>PCOA009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,integrações</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,saldos,integraciones</KeyWord>
+					<KeyWord lang="en">Reprocessing,balance,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exp. Mov. Orçamentários</Title>
+				<Title lang="es">Exp. Mov. Presup.</Title>
+				<Title lang="en">Exp. Budgetary Trans.</Title>
+				<Function>PCOM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013653</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,integrações,exportação,movimento,movimentos,orçamentário,orçamentários</KeyWord>
+					<KeyWord lang="es">Integración,integraciones,exportación,movimiento,movimientos,presupuestario,presupuestarios</KeyWord>
+					<KeyWord lang="en">Integration,integrations,export,transaction,transactions,budgetary,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integracoes</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integration</Title>
+			<ItemID>0000009683</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009684</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planilhas,integração,integrações</KeyWord>
+					<KeyWord lang="es">Planillas,integracion,integraciones</KeyWord>
+					<KeyWord lang="en">Spreadsheet,integration,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000009686</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009687</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastrear,rastreamentos</KeyWord>
+					<KeyWord lang="es">Rastrear,rastreos</KeyWord>
+					<KeyWord lang="en">Track,tracking</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009688</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>57</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009689</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comunicação,comunicações,mensagem,mensagens</KeyWord>
+					<KeyWord lang="es">Comunicacion,comunicaciones,mensaje,mensajes</KeyWord>
+					<KeyWord lang="en">Communication,communication,message,messages</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B570000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B570000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

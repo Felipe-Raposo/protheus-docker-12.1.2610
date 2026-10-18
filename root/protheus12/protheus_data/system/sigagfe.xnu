@@ -1,0 +1,3875 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGFE</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A780000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000012311</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Parâmetros</Title>
+			<Title lang="es">Parametros</Title>
+			<Title lang="en">Parameters</Title>
+			<ItemID>0000012055</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Módulo</Title>
+				<Title lang="es">Parametros Modulo</Title>
+				<Title lang="en">Module Parameters</Title>
+				<Function>GFEX000</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012056</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configurar,configuração,parametrizar,parametrização</KeyWord>
+					<KeyWord lang="es">Configurar,configuracion,parametrizar,parametrizacion</KeyWord>
+					<KeyWord lang="en">Setup,configuration,parameterize,parameterization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerais</Title>
+			<Title lang="es">Generales</Title>
+			<Title lang="en">General</Title>
+			<ItemID>0000012058</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Países</Title>
+				<Title lang="es">Paises</Title>
+				<Title lang="en">Countries</Title>
+				<Function>EICA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014703</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">País</KeyWord>
+					<KeyWord lang="es">Pais</KeyWord>
+					<KeyWord lang="en">Country</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cidades</Title>
+				<Title lang="es">Ciudades</Title>
+				<Title lang="en">Cities</Title>
+				<Function>GFEA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012059</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Município,local,localidade</KeyWord>
+					<KeyWord lang="es">Municipio,lugar,localidad</KeyWord>
+					<KeyWord lang="en">City,local,location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos Emitentes</Title>
+				<Title lang="es">Grupos Emitentes</Title>
+				<Title lang="en">Issuer Group</Title>
+				<Function>GFEA011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012060</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grupo</KeyWord>
+					<KeyWord lang="es">Grupo</KeyWord>
+					<KeyWord lang="en">Group</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emitentes</Title>
+				<Title lang="es">Emitentes</Title>
+				<Title lang="en">Issuers</Title>
+				<Function>GFEA015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012061</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cliente,fornecedor,transportador,proprietário,autônomo,carreteiro,agregado,broker,distribuidor,estabelecimento,filial,emissor,transportadora</KeyWord>
+					<KeyWord lang="es">Cliente,proveedor,transportador,propietario,autonomo,transportista,agregado,broker,distribuidor,establecimiento,sucursal,emisor,transportadora</KeyWord>
+					<KeyWord lang="en">Client,supplier,client,supplier,transporter,owner,autonomous,carrier,agregate,broker,distributer,property,branch,issuer,carrier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contato de Emitentes</Title>
+				<Title lang="es">Contacto de Emisor</Title>
+				<Title lang="en">Issuer Contact</Title>
+				<Function>GFEA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015479</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Emitente,contato,fornecedor,cliente,transportador</KeyWord>
+					<KeyWord lang="es">Emisor,contacto,proveedor,cliente,transportista</KeyWord>
+					<KeyWord lang="en">Issuer,contact,supplier,customer,carrier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unid Medidas</Title>
+				<Title lang="es">Unid.medidas</Title>
+				<Title lang="en">Units Of Measur.</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014706</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Unidade,</KeyWord>
+					<KeyWord lang="es">Unidad</KeyWord>
+					<KeyWord lang="en">Unit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedição/recebim</Title>
+			<Title lang="es">Expedicion/recepc</Title>
+			<Title lang="en">Dispatch/receipt</Title>
+			<ItemID>0000012062</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Docto Carga</Title>
+				<Title lang="es">Tipos Docto Carga</Title>
+				<Title lang="en">Ship. Doc. Types</Title>
+				<Function>GFEA041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012063</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,nota,</KeyWord>
+					<KeyWord lang="es">Tipo,factura</KeyWord>
+					<KeyWord lang="en">Type,invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unitizadores</Title>
+				<Title lang="es">Unitizadores</Title>
+				<Title lang="en">Unitizers</Title>
+				<Function>GFEA043</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012064</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Unitizador,embalagem,container,volume</KeyWord>
+					<KeyWord lang="es">Unitizador,embalaje,contenedor,volumen</KeyWord>
+					<KeyWord lang="en">Unusable,package,container,volume</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens Com Exceções</Title>
+				<Title lang="es">Items Con Excepc.</Title>
+				<Title lang="en">Items Wih Excep.</Title>
+				<Function>GFEA049</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012065</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,produto,exceção,configuração,parametrização</KeyWord>
+					<KeyWord lang="es">Item,producto,excepcion,configuracion,parametrizacion</KeyWord>
+					<KeyWord lang="en">Item,product,exception,configuration,parameterization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filtros Doc Carga</Title>
+				<Title lang="es">Filtros Doc Carga</Title>
+				<Title lang="en">Ship. Doc. Filters</Title>
+				<Function>GFEA048</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012066</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Filtro,restrições,integração,nota,</KeyWord>
+					<KeyWord lang="es">Filtro,restricciones,integracion,factura</KeyWord>
+					<KeyWord lang="en">Filter,restrictions,integration,invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motoristas</Title>
+				<Title lang="es">Conductores</Title>
+				<Title lang="en">Drivers</Title>
+				<Function>GFEA012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012067</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motorista,agregado,ajudante,condutor,chapa</KeyWord>
+					<KeyWord lang="es">Conductor,agregado,ayudante,conductor,matricula</KeyWord>
+					<KeyWord lang="en">Driver,aggregate,helper,driver,plate</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Veículos</Title>
+				<Title lang="es">Vehiculos</Title>
+				<Title lang="en">Vehicles</Title>
+				<Function>GFEA046</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Veículo,caminhão,vagão,navio,embarcação</KeyWord>
+					<KeyWord lang="es">Vehiculo,camion,vagon,navio,embarcacion</KeyWord>
+					<KeyWord lang="en">Vehicle,truck,car,ship,vessel</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Operação</Title>
+				<Title lang="es">Tipos de Operacion</Title>
+				<Title lang="en">Operation Types</Title>
+				<Function>GFEA047</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012082</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação,</KeyWord>
+					<KeyWord lang="es">Operacion</KeyWord>
+					<KeyWord lang="en">Operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazos de Entrega</Title>
+				<Title lang="es">Plazos de Entrega</Title>
+				<Title lang="en">Deadlines Of Delivery</Title>
+				<Function>GFEA019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entrega,</KeyWord>
+					<KeyWord lang="es">Entrega,kilometraje</KeyWord>
+					<KeyWord lang="en">Delivery,distance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Praças de Pedágio</Title>
+				<Title lang="es">Puestos de Peaje</Title>
+				<Title lang="en">Toll Stations</Title>
+				<Function>GFEA018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012817</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Praças de Pedagio,pedagio</KeyWord>
+					<KeyWord lang="es">Puestos_de_peaje,peaje</KeyWord>
+					<KeyWord lang="en">Toll.stations,toll</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distância Entre Cidades</Title>
+				<Title lang="es">Distancia Entre Ciudades</Title>
+				<Title lang="en">Distance Between Cities</Title>
+				<Function>GFEA022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Distancia Entre Cidades,icms_pauta</KeyWord>
+					<KeyWord lang="es">Distancia_entre_ciudades,icms_tarifa</KeyWord>
+					<KeyWord lang="en">Distance_between_cities,icms_report</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pátios e Portarias</Title>
+			<Title lang="es">Patios Y Porterias</Title>
+			<Title lang="en">Yards And Entrance</Title>
+			<ItemID>0000012068</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visitantes</Title>
+				<Title lang="es">Visitantes</Title>
+				<Title lang="en">Visitors</Title>
+				<Function>GFEA511</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012069</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visitante,pessoa</KeyWord>
+					<KeyWord lang="es">Visitante,persona</KeyWord>
+					<KeyWord lang="en">Visitor,person</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Restrições</Title>
+				<Title lang="es">Restriccciones</Title>
+				<Title lang="en">Restrictions</Title>
+				<Function>GFEA513</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Restrição,entrada,permissão</KeyWord>
+					<KeyWord lang="es">Restriccion,entrada,permiso</KeyWord>
+					<KeyWord lang="en">Restriction,entry,authorization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perguntas</Title>
+				<Title lang="es">Preguntas</Title>
+				<Title lang="en">Questions</Title>
+				<Function>GFEA516</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012073</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pergunta,lista,checklist,inspeção</KeyWord>
+					<KeyWord lang="es">Pregunta,lista,checklist,inspeccion</KeyWord>
+					<KeyWord lang="en">Question,list,checklist,inspection</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Controle</Title>
+				<Title lang="es">Puntos de Control</Title>
+				<Title lang="en">Control Points</Title>
+				<Function>GFEA515</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012072</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ponto,pátio,portaria,doca,balança,controle</KeyWord>
+					<KeyWord lang="es">Punto,patio,porteria,darsena,balanza,control</KeyWord>
+					<KeyWord lang="en">Point,yard,decree,dock,balance,control</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Endereços de Carga</Title>
+				<Title lang="es">Direcc de Carga</Title>
+				<Title lang="en">Shipping Addresses</Title>
+				<Function>GFEA514</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012074</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pátio,portaria,doca,fila</KeyWord>
+					<KeyWord lang="es">Patio,porteria,darsena,cola</KeyWord>
+					<KeyWord lang="en">Yard,decree,dock,queue</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operações</Title>
+				<Title lang="es">Operaciones</Title>
+				<Title lang="en">Operations</Title>
+				<Function>GFEA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012070</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação</KeyWord>
+					<KeyWord lang="es">Operacion</KeyWord>
+					<KeyWord lang="en">Operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config Operações</Title>
+				<Title lang="es">Config Operaciones</Title>
+				<Title lang="en">Operation Config</Title>
+				<Function>GFEA518</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012192</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação,</KeyWord>
+					<KeyWord lang="es">Operacion</KeyWord>
+					<KeyWord lang="en">Operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recorrências</Title>
+				<Title lang="es">Recurrencias</Title>
+				<Title lang="en">Recurrence</Title>
+				<Function>GFEA512</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012075</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recorrência,programação</KeyWord>
+					<KeyWord lang="es">Recurrencia,programacion</KeyWord>
+					<KeyWord lang="en">Recurrence,programming</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrências</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Events</Title>
+			<ItemID>0000012076</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Ocorrência</Title>
+				<Title lang="es">Tipos Ocurrencia</Title>
+				<Title lang="en">Event Types</Title>
+				<Function>GFEA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012077</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,ocorrência</KeyWord>
+					<KeyWord lang="es">Tipo,ocurrencia</KeyWord>
+					<KeyWord lang="en">Type,event</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos Ocorrência</Title>
+				<Title lang="es">Motivos Ocurrencia</Title>
+				<Title lang="en">Event Reason</Title>
+				<Function>GFEA031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012078</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motivo,ocorrência,justificativa</KeyWord>
+					<KeyWord lang="es">Motivo,ocurrencia,justificativa</KeyWord>
+					<KeyWord lang="en">Reason,event,reasoning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quebra Peso</Title>
+				<Title lang="es">División de Peso</Title>
+				<Title lang="en">Weight Break</Title>
+				<Function>GFEA033</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013719</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Peso</KeyWord>
+					<KeyWord lang="es">Peso</KeyWord>
+					<KeyWord lang="en">Weight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas de Frete</Title>
+			<Title lang="es">Tablas de Flete</Title>
+			<Title lang="en">Freight Tables</Title>
+			<ItemID>0000012079</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regiões</Title>
+				<Title lang="es">Regiones</Title>
+				<Title lang="en">Regions</Title>
+				<Function>GFEA021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Região</KeyWord>
+					<KeyWord lang="es">Region</KeyWord>
+					<KeyWord lang="en">Region</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classific de Frete</Title>
+				<Title lang="es">Clasific de Flete</Title>
+				<Title lang="en">Freight Classific</Title>
+				<Function>GFEA042</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,tipo,serviço,produto</KeyWord>
+					<KeyWord lang="es">Clasificacion,tipo,servicio,producto</KeyWord>
+					<KeyWord lang="en">Classification,type,service,product</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Veículo</Title>
+				<Title lang="es">Tipos de Vehiculo</Title>
+				<Title lang="en">Vehicle Types</Title>
+				<Function>GFEA045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,veículo,embarcarção,aeronave,navio,container,vagão</KeyWord>
+					<KeyWord lang="es">Tipo,vehiculo,embarcacion,aeronave,navio,contenedor,vagon</KeyWord>
+					<KeyWord lang="en">Type,vehicle,vessel,aircraft,ship,container,car</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Componentes Frete</Title>
+				<Title lang="es">Componentes Flete</Title>
+				<Title lang="en">Freight Components</Title>
+				<Function>GFEA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Componente,tarifa</KeyWord>
+					<KeyWord lang="es">Componente,tarifa</KeyWord>
+					<KeyWord lang="en">Component,fee</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conversões Un Med</Title>
+				<Title lang="es">Convers. Un. Med</Title>
+				<Title lang="en">Measur Unit Conver</Title>
+				<Function>GFEA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012085</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conversão,unidade,medida,configuração</KeyWord>
+					<KeyWord lang="es">Conversion,unidad,medida,configuracion</KeyWord>
+					<KeyWord lang="en">Conversion,unit,measure,configuration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Suframa</Title>
+				<Title lang="es">Tabla Sufram</Title>
+				<Title lang="en">Suframa Table</Title>
+				<Function>GFEA068</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012086</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Zona,franca,manaus</KeyWord>
+					<KeyWord lang="es">Zona,franca,manaus</KeyWord>
+					<KeyWord lang="en">Zone,free,manaus</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovadores Tabela</Title>
+				<Title lang="es">Aprobadores Tabla</Title>
+				<Title lang="en">Table Approvers</Title>
+				<Function>GFEA063</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovar,tabela,aprovação</KeyWord>
+					<KeyWord lang="es">Aprobar,tabla,aprobacion</KeyWord>
+					<KeyWord lang="en">Aprove,table,approval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Serviço</Title>
+				<Title lang="es">Tipos de Servicio</Title>
+				<Title lang="en">Types Of Service</Title>
+				<Function>GFEA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012633</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Serviço,tipo</KeyWord>
+					<KeyWord lang="es">Servicio,tipo</KeyWord>
+					<KeyWord lang="en">Service,type</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Referência</Title>
+				<Title lang="es">Flete de Referencia</Title>
+				<Title lang="en">Reference Freight</Title>
+				<Function>GFEA029</Function>
+				<Type>1</Type>
+				<Tables>GUN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013898</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Frete,frete Referência</KeyWord>
+					<KeyWord lang="es">Flete,flete Referencia</KeyWord>
+					<KeyWord lang="en">Freight,freight Reference</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Observações Contrato Transporte</Title>
+				<Title lang="es">Observaciones Contrato Transporte</Title>
+				<Title lang="en">Transport Contract Notes</Title>
+				<Function>GFEA039</Function>
+				<Type>1</Type>
+				<Tables>GUO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015465</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculo de Frete</Title>
+			<Title lang="es">Calculo de Flete</Title>
+			<Title lang="en">Freight Calculat</Title>
+			<ItemID>0000012088</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tributações Por Uf</Title>
+				<Title lang="es">Tribut. Por Est.</Title>
+				<Title lang="en">Taxation Per State</Title>
+				<Function>GFEA013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tributação,configuração,icms,estado,imposto,alíquota</KeyWord>
+					<KeyWord lang="es">Tributacion,configuracion,icms,estado,impuesto,alicuota</KeyWord>
+					<KeyWord lang="en">Taxation,configuration,icms,state,tax,rate</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Item</Title>
+				<Title lang="es">Tipos de Item</Title>
+				<Title lang="en">Item Types</Title>
+				<Function>GFEA014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012089</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,item,produto,configuração,contábil,contabilização</KeyWord>
+					<KeyWord lang="es">Tipo,item,producto,configuracion,contable,contabilidad</KeyWord>
+					<KeyWord lang="en">Type,item,product,configuration,fiscal,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendário Transp</Title>
+				<Title lang="es">Calendario Transp</Title>
+				<Title lang="en">Transp. Calendar</Title>
+				<Function>GFEA016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Feriado</KeyWord>
+					<KeyWord lang="es">Feriado</KeyWord>
+					<KeyWord lang="en">Holiday</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurador de Tributos</Title>
+				<Title lang="es">Configurador de Tributos</Title>
+				<Title lang="en">Tax Configurator</Title>
+				<Function>FISA170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000023909</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestor de Tributos</Title>
+				<Title lang="es">Administrador de Tributos</Title>
+				<Title lang="en">Taxes Manager</Title>
+				<Function>CALLCONFIG</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000023911</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Doc Frete/faturas</Title>
+			<Title lang="es">Doc.flete/facturas</Title>
+			<Title lang="en">Freg.doc/invoices</Title>
+			<ItemID>0000012092</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espécies Doc Frete</Title>
+				<Title lang="es">Especies Doc Flete</Title>
+				<Title lang="en">Freight Doc Types</Title>
+				<Function>GFEA017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012093</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Espécie,tipo,ctrc,nfs,cte,conhecimento</KeyWord>
+					<KeyWord lang="es">Especie,tipo,ctrc,fs,cte,conocimiento</KeyWord>
+					<KeyWord lang="en">Specimen,type,ctrc,nfs,cte,knowledge</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Operação Tributária</Title>
+				<Title lang="es">Configuración Operación Tributaria</Title>
+				<Title lang="en">Tax Operation Configuration</Title>
+				<Function>GFEX021</Function>
+				<Type>1</Type>
+				<Tables>GVS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015455</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operação,tributação</KeyWord>
+					<KeyWord lang="es">Operación,tributación</KeyWord>
+					<KeyWord lang="en">Operation,taxation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contrato Autônomos</Title>
+			<Title lang="es">Contrato Autonomos</Title>
+			<Title lang="en">Autonomous Contrac</Title>
+			<ItemID>0000012094</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Ir</Title>
+				<Title lang="es">Tabla Ir</Title>
+				<Title lang="en">Ir Table</Title>
+				<Function>GFEA103</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012095</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Irrf,tabela,progressiva,imposto,configuração,autônomo</KeyWord>
+					<KeyWord lang="es">Irrf,tabla,progresiva,impuesto,configuracion,autonomo</KeyWord>
+					<KeyWord lang="en">Irrf,table,progressive,tax,configuration,autonomous</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilidad</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000012096</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Contábeis</Title>
+				<Title lang="es">Cuentas Contables</Title>
+				<Title lang="en">Ledger Accounts</Title>
+				<Function>GFEA090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012182</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conta,contábil,contabilização</KeyWord>
+					<KeyWord lang="es">Cuenta,contable,contabilidad</KeyWord>
+					<KeyWord lang="en">Account,accountancy,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custo</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>GFEA089</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000011934</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cc,centro,</KeyWord>
+					<KeyWord lang="es">Cc,centro</KeyWord>
+					<KeyWord lang="en">Cc,center</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Por Filial</Title>
+				<Title lang="es">Cuentas Por Sucurs</Title>
+				<Title lang="en">Accounts By Branch</Title>
+				<Function>GFEA091</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conta,contábil,contabilização,filial,estabelecimento,configuração,provisão,provisionamento</KeyWord>
+					<KeyWord lang="es">Cuenta,contable,contabilidad,sucursal,establecimiento,configuracion,provision,aprovisionamiento</KeyWord>
+					<KeyWord lang="en">Account,account,accounting,branch,facility,configuration,provision,provisioning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Para Rateio</Title>
+				<Title lang="es">Cuentas P/prorrate</Title>
+				<Title lang="en">Acounts By Prorati</Title>
+				<Function>GFEA092</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conta,contábil,contabilização,configuração,provisão,provisionamento,rateio,grupo,agrupamento</KeyWord>
+					<KeyWord lang="es">Cuenta,contable,contabilidad,configuracion,provision,aprovisionamiento,prorrateo,grupo,agrupacion</KeyWord>
+					<KeyWord lang="en">Account,accountancy,accounting,configuration,provision,provisioning,apportionment,group,grouping</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentação</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Movement</Title>
+			<ItemID>0000012312</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedição/recebim</Title>
+			<Title lang="es">Expedicion/recep</Title>
+			<Title lang="en">Dispatch/receipt</Title>
+			<ItemID>0000012186</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Carga</Title>
+				<Title lang="es">Documentos Carga</Title>
+				<Title lang="en">Shipping Documents</Title>
+				<Function>GFEA044</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012187</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,documento</KeyWord>
+					<KeyWord lang="es">Factura,documento</KeyWord>
+					<KeyWord lang="en">Invoice,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Romaneios de Carga</Title>
+				<Title lang="es">Remitos de Carga</Title>
+				<Title lang="en">Packing Lists</Title>
+				<Function>GFEA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012188</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,carregamento,embarque,viagem</KeyWord>
+					<KeyWord lang="es">Lista,cargamento,embarque,viaje</KeyWord>
+					<KeyWord lang="en">Packing,loading,boarding,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão Romaneio</Title>
+				<Title lang="es">Emision Lista Emb.</Title>
+				<Title lang="en">Packing List Issue</Title>
+				<Function>GFEA052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011491</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,carregamento,embarque,viagem,impressão,</KeyWord>
+					<KeyWord lang="es">Lista,cargamento,embarque,viaje,impresion</KeyWord>
+					<KeyWord lang="en">Packing,loading,boarding,trip,printing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberar Romaneios</Title>
+				<Title lang="es">Autorizar Listas de Embarque</Title>
+				<Title lang="en">Release Packing Slips</Title>
+				<Function>GFEA054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000018743</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,liberar,lote</KeyWord>
+					<KeyWord lang="es">Lista_de_embarque,autorizar,lote</KeyWord>
+					<KeyWord lang="en">Packingslip,release,lot</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registrar Entrega</Title>
+				<Title lang="es">Registrar Entrega</Title>
+				<Title lang="en">Register Delivery</Title>
+				<Function>GFEA051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,canhoto,comprovante</KeyWord>
+					<KeyWord lang="es">Ocurrencia,talon,comprobante</KeyWord>
+					<KeyWord lang="en">Occurence,stubb,evidence</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerenc. Viagem</Title>
+				<Title lang="es">Adminis. Viaje</Title>
+				<Title lang="en">Trip Manag.</Title>
+				<Function>GFEA058</Function>
+				<Type>1</Type>
+				<Tables>GWP</Tables>
+				<Tables>GWN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024018</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Consolidacao,compartilhada,carga,viagem</KeyWord>
+					<KeyWord lang="es">Consolidación,compartida,carga,viaje</KeyWord>
+					<KeyWord lang="en">Consolidation,shared,load,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pátios e Portarias</Title>
+			<Title lang="es">Patios Y Porterias</Title>
+			<Title lang="en">Yards And Entrance</Title>
+			<ItemID>0000012190</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agendamentos</Title>
+				<Title lang="es">Agendamientos</Title>
+				<Title lang="en">Scheduling</Title>
+				<Function>GFEA517</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Agendamento,autorização</KeyWord>
+					<KeyWord lang="es">Programacion,autorizacion</KeyWord>
+					<KeyWord lang="en">Scheduling,authorization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acesso Veículos</Title>
+				<Title lang="es">Acceso Vehiculos</Title>
+				<Title lang="en">Access To Vehicles</Title>
+				<Function>GFEA522</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pátio,portaria</KeyWord>
+					<KeyWord lang="es">Patio,resolucion</KeyWord>
+					<KeyWord lang="en">Yard,reception</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Pátio</Title>
+				<Title lang="es">Control Patio</Title>
+				<Title lang="en">Patio Control</Title>
+				<Function>GFEA519</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012193</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimento,pátio,portaria,movimentação</KeyWord>
+					<KeyWord lang="es">Movimiento,patio,porteria,movimiento</KeyWord>
+					<KeyWord lang="en">Movement,yard,decree,moving</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operar Pto Control</Title>
+				<Title lang="es">Operar Pto Control</Title>
+				<Title lang="en">Operate Control Pt</Title>
+				<Function>GFEA523</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016867</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ponto,pátio,portaria</KeyWord>
+					<KeyWord lang="es">Punto,patio,resolucion</KeyWord>
+					<KeyWord lang="en">Point,yard,reception</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proc Recorrências</Title>
+				<Title lang="es">Proc Recurrencias</Title>
+				<Title lang="en">Recurrence Proc</Title>
+				<Function>GFEA521</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recorrência,processar,executar</KeyWord>
+					<KeyWord lang="es">Recurrencia,procesar,ejecutar</KeyWord>
+					<KeyWord lang="en">Recurrence,processing,running</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrências</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Events</Title>
+			<ItemID>0000012196</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>GFEA032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012197</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,sinistro,reentrega,devolução,</KeyWord>
+					<KeyWord lang="es">Ocurrencia,siniestro,reentrega,devolucion</KeyWord>
+					<KeyWord lang="en">Event,claim,delivery,return</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas de Frete</Title>
+			<Title lang="es">Tablas de Flete</Title>
+			<Title lang="en">Freight Tables</Title>
+			<ItemID>0000012198</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Frete</Title>
+				<Title lang="es">Tablas de Flete</Title>
+				<Title lang="en">Freight Tables</Title>
+				<Function>GFEA061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012199</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tarifa,frete,serviço,tabela,preço,tarifação</KeyWord>
+					<KeyWord lang="es">Tarifa,flete,servicio,tabla,precio,tarifacion</KeyWord>
+					<KeyWord lang="en">Fee,freight,service,table,price,taxation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tarifas Por Emitente</Title>
+				<Title lang="es">Tarifas Por Emisor</Title>
+				<Title lang="en">Fess Per Issuer</Title>
+				<Function>GFEA069</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012375</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tde,trt,tarifa,tarifação,adicionais,emitente</KeyWord>
+					<KeyWord lang="es">Tde,trt,tarifa,tarifación,adicionales,emisor</KeyWord>
+					<KeyWord lang="en">Tde,trt,rate,rate,additional,issuer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovar Tabelas</Title>
+				<Title lang="es">Aprobar Tablas</Title>
+				<Title lang="en">Approve Tables</Title>
+				<Function>GFEA064</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012200</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovação,tabela</KeyWord>
+					<KeyWord lang="es">Aprobacion,tabla</KeyWord>
+					<KeyWord lang="en">Approval,table</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cópia e Reajuste</Title>
+				<Title lang="es">Copia Y Reajuste</Title>
+				<Title lang="en">Copy And Adjustmen</Title>
+				<Function>GFEA062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Copiar,reajustar,tarifa,tabela,frete,preço</KeyWord>
+					<KeyWord lang="es">Copiar,reajustar,tarifa,tabla,flete,precio</KeyWord>
+					<KeyWord lang="en">Copy,readjust,fee,table,freight,price</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisitar Negociação de Frete</Title>
+				<Title lang="es">Requisitar Negoc. de Flete</Title>
+				<Title lang="en">Request Freight Negotiation</Title>
+				<Function>GFEA059</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013963</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Requisitar, Negociação, Frete</KeyWord>
+					<KeyWord lang="es">Requisitar,negociación,flete</KeyWord>
+					<KeyWord lang="en">Request,negotiation,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Requisições</Title>
+				<Title lang="es">Panel Requisic.</Title>
+				<Title lang="en">Request Panel</Title>
+				<Function>GFEA078</Function>
+				<Type>1</Type>
+				<Tables>GXR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Requisições</KeyWord>
+					<KeyWord lang="es">Requisiciones</KeyWord>
+					<KeyWord lang="en">Requests</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos de Transporte</Title>
+				<Title lang="es">Contratos de Transporte</Title>
+				<Title lang="en">Transport Contracts</Title>
+				<Function>GFEA079</Function>
+				<Type>1</Type>
+				<Tables>GXT</Tables>
+				<Tables>GXU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013961</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,transporte,rotas</KeyWord>
+					<KeyWord lang="es">Contrato,transporte,rutas</KeyWord>
+					<KeyWord lang="en">Contract,transport,routes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculo de Frete</Title>
+			<Title lang="es">Calculo de Flete</Title>
+			<Title lang="en">Freight Calculat</Title>
+			<ItemID>0000012202</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calcular Romaneios</Title>
+				<Title lang="es">Calcular Remitos</Title>
+				<Title lang="en">Calculate Pack.lis</Title>
+				<Function>GFEA081</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012203</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cálculo,lote,batch,faixa</KeyWord>
+					<KeyWord lang="es">Calculo,lote,batch,rango</KeyWord>
+					<KeyWord lang="en">Calculation,lot,batch,range</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agrupar Cálculos</Title>
+				<Title lang="es">Agrupar Calculos</Title>
+				<Title lang="en">Group Calculation</Title>
+				<Function>GFEA082</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Agrupamento</KeyWord>
+					<KeyWord lang="es">Agrupacion</KeyWord>
+					<KeyWord lang="en">Grouping</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Combinado</Title>
+				<Title lang="es">Flete Combinado</Title>
+				<Title lang="en">Combined Freight</Title>
+				<Function>GFEA084</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012206</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Combinar,cálculo,negociação</KeyWord>
+					<KeyWord lang="es">Combinar,calculo,negociacion</KeyWord>
+					<KeyWord lang="en">Check,calculation,negotiation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovar Ajustes</Title>
+				<Title lang="es">Aprobar Ajustes</Title>
+				<Title lang="en">Approve Adjustment</Title>
+				<Function>GFEA085</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajuste,cálculo,negociação</KeyWord>
+					<KeyWord lang="es">Ajuste,calculo,negociacion</KeyWord>
+					<KeyWord lang="en">Adjustment,calculation,negotiation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Período</Title>
+				<Title lang="es">Calculo Periodo</Title>
+				<Title lang="en">Period Calculation</Title>
+				<Function>GFEA086</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fechamento,dedicado,locação,cota,franquia</KeyWord>
+					<KeyWord lang="es">Cierre,dedicado,alquiler,cuota,franquicia</KeyWord>
+					<KeyWord lang="en">Closing,dedicated,hiring,quota,franchise</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manut Calc Período</Title>
+				<Title lang="es">Mant.calc.periodo</Title>
+				<Title lang="en">Period Calc. Maint</Title>
+				<Function>GFEA087</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cálculo,fechamento,dedicado,locação,cota,franquia</KeyWord>
+					<KeyWord lang="es">Calculo,cierre,dedicado,alquiler,cuota,franquicia</KeyWord>
+					<KeyWord lang="en">Calculation,closing,dedicated,hiring,quota,franchise</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simular Fretes</Title>
+				<Title lang="es">Simular Fletes</Title>
+				<Title lang="en">Simulate Freight</Title>
+				<Function>GFEX010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Simulação,cálculo</KeyWord>
+					<KeyWord lang="es">Simulacion,calculo</KeyWord>
+					<KeyWord lang="en">Simulation,calculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simul Simplificada</Title>
+				<Title lang="es">Simul.simplificada</Title>
+				<Title lang="en">Simpl. Simulation</Title>
+				<Function>GFEX011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015000</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Simulação,simular,cálculo</KeyWord>
+					<KeyWord lang="es">Simulacion,simular,calculo</KeyWord>
+					<KeyWord lang="en">Simulation,simulate,calculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estimar Fretes</Title>
+				<Title lang="es">Estimar Fletes</Title>
+				<Title lang="en">Estimate Freight</Title>
+				<Function>GFEA088</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016861</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estimativa,cálculo,provisão,provisionamento,contabilização</KeyWord>
+					<KeyWord lang="es">Estimacion,calculo,provision,provisionamiento,contabilizacion</KeyWord>
+					<KeyWord lang="en">Estimation,calculation,provision,provisioning,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparar Fretes</Title>
+				<Title lang="es">Comparar Fletes</Title>
+				<Title lang="en">Compare Freight</Title>
+				<Function>GFEX061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comparação,comparativo,cálculo</KeyWord>
+					<KeyWord lang="es">Comparacion,comparativo,calculo</KeyWord>
+					<KeyWord lang="en">Comparisson,comparative,calculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pré-faturas</Title>
+			<Title lang="es">Pre Facturas</Title>
+			<Title lang="en">Pro Forma Invoices</Title>
+			<ItemID>0000012211</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Pré-faturas</Title>
+				<Title lang="es">Generar Pre Factur</Title>
+				<Title lang="en">Generate Pf Invoic</Title>
+				<Function>GFEA055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Préfatura,prefat</KeyWord>
+					<KeyWord lang="es">Factprevia,factprev</KeyWord>
+					<KeyWord lang="en">Preinvoice,preinv</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Enviar Pré-faturas</Title>
+				<Title lang="es">Enviar Pre Factura</Title>
+				<Title lang="en">Send Pf Invoices</Title>
+				<Function>GFEA056</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012213</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Préfatura,prefat</KeyWord>
+					<KeyWord lang="es">Factprevia,factprev</KeyWord>
+					<KeyWord lang="en">Preinvoice,preinv</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo</Title>
+				<Title lang="es">Demostrativo</Title>
+				<Title lang="en">Statement</Title>
+				<Function>GFER091</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confirmar/cancelar</Title>
+				<Title lang="es">Confirmar/cancelar</Title>
+				<Title lang="en">Confirm/cancel</Title>
+				<Function>GFEA057</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Préfatura,prefat</KeyWord>
+					<KeyWord lang="es">Factprevia,factprev</KeyWord>
+					<KeyWord lang="en">Preinvoice,preinv</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Doc Frete/faturas</Title>
+			<Title lang="es">Doc Flete/factura</Title>
+			<Title lang="en">Freight Doc/invoic</Title>
+			<ItemID>0000012215</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Frete</Title>
+				<Title lang="es">Documentos Flete</Title>
+				<Title lang="en">Freight Documents</Title>
+				<Function>GFEA065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento,conhecimento,ctr,ctrc,nfs,awb,conemb,cte</KeyWord>
+					<KeyWord lang="es">Documento,documento,ctr,ctrc,fs,awb,conemb,cte</KeyWord>
+					<KeyWord lang="en">Document,knowledge,ctr,ctrc,nfs,awb,conemb,cte</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas de Frete</Title>
+				<Title lang="es">Facturas de Flete</Title>
+				<Title lang="en">Freight Invoices</Title>
+				<Function>GFEA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Doccob</KeyWord>
+					<KeyWord lang="es">Doccob</KeyWord>
+					<KeyWord lang="en">Doccob</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contrato Autônomo</Title>
+			<Title lang="es">Contrato Autonomo</Title>
+			<Title lang="en">Autonomous Contrac</Title>
+			<ItemID>0000012218</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos/rpa</Title>
+				<Title lang="es">Contratos/rpa</Title>
+				<Title lang="en">Contracts/rpa</Title>
+				<Function>GFEA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,autônomo,terceiro,rpa,ciot</KeyWord>
+					<KeyWord lang="es">Contrato,autonomo,tercero,rpa,ciot</KeyWord>
+					<KeyWord lang="en">Contract,autonomous,third,rpa,ciot</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Por Lote</Title>
+				<Title lang="es">Gen. Por Lote</Title>
+				<Title lang="en">Generate By Lot</Title>
+				<Function>GFEA101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,rpa</KeyWord>
+					<KeyWord lang="es">Contrato,rpa</KeyWord>
+					<KeyWord lang="en">Contract,rpa</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão Contrato</Title>
+				<Title lang="es">Emision Contrato</Title>
+				<Title lang="en">Contract Issue</Title>
+				<Function>GFEA102</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012221</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rpa,impressão</KeyWord>
+					<KeyWord lang="es">Rpa,impresion</KeyWord>
+					<KeyWord lang="en">Rpa,printing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Auditoria de Frete</Title>
+			<Title lang="es">Auditoria de Flete</Title>
+			<Title lang="en">Freight Audit</Title>
+			<ItemID>0000012222</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovar Doc Frete</Title>
+				<Title lang="es">Aprobar Doc Flete</Title>
+				<Title lang="en">Approve Freightdoc</Title>
+				<Function>GFEA066</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Auditoria,conhecimento,documento,ctrc,ctr,aprovação,conferência,conferir</KeyWord>
+					<KeyWord lang="es">Auditoria,conocimiento,documento,ctrc,ctr,aprobacion,verificacion,verificar</KeyWord>
+					<KeyWord lang="en">Audit,knowledge,document,ctrc,ctr,approval,checking,check</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovar Faturas</Title>
+				<Title lang="es">Aprobar Facturas</Title>
+				<Title lang="en">Approve Invoices</Title>
+				<Function>GFEA071</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Auditoria,fatura,aprovação,conferência,conferir</KeyWord>
+					<KeyWord lang="es">Auditoria,factura,aprobacion,verificacion,verificar</KeyWord>
+					<KeyWord lang="en">Audit,invoice,approval,checking,check</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliar Vale Ped</Title>
+				<Title lang="es">Conciliar Vale Ped</Title>
+				<Title lang="en">Conc Order Vouch</Title>
+				<Function>GFEA053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015798</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pedágio,vale-pedágio</KeyWord>
+					<KeyWord lang="es">Peaje,ticket-peaje</KeyWord>
+					<KeyWord lang="en">Toll,toll Voucher</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilidad</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000012225</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Provisões</Title>
+				<Title lang="es">Gen. Provisiones</Title>
+				<Title lang="en">Generate Provision</Title>
+				<Function>GFEA093</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Provisão,provisionar</KeyWord>
+					<KeyWord lang="es">Provision,aprovisionar</KeyWord>
+					<KeyWord lang="en">Provision,provisioning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Contabiliz</Title>
+				<Title lang="es">Gene. Contabilidad</Title>
+				<Title lang="en">Generate Accountin</Title>
+				<Function>GFEA095</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012229</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilização,contabilizar</KeyWord>
+					<KeyWord lang="es">Contabilidad,contabilizar</KeyWord>
+					<KeyWord lang="en">Accounting,account</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estornar Provisão</Title>
+				<Title lang="es">Revertir Provisión</Title>
+				<Title lang="en">Reverse Provision</Title>
+				<Function>GFEA105</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012717</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Provisionar,estorno</KeyWord>
+					<KeyWord lang="es">Aprovisionar,reversión</KeyWord>
+					<KeyWord lang="en">Provisioning,reversal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Contábil</Title>
+				<Title lang="es">Monitor Contable</Title>
+				<Title lang="en">Accounting Monitor</Title>
+				<Function>GFEA094</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilização,provisão,provisionamento</KeyWord>
+					<KeyWord lang="es">Contabilizacion,provision,provisionamiento</KeyWord>
+					<KeyWord lang="en">Accounting,provision,provisioning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotes de Provisão</Title>
+				<Title lang="es">Lotes de Provision</Title>
+				<Title lang="en">Provision Lots</Title>
+				<Function>GFEA096</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Provisionamento,provisionar</KeyWord>
+					<KeyWord lang="es">Provisionamiento,aprovisionar</KeyWord>
+					<KeyWord lang="en">Provisioning,provision</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000012236</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Erp</Title>
+			<Title lang="es">Erp</Title>
+			<Title lang="en">Erp</Title>
+			<ItemID>0000012557</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Doc Carga</Title>
+				<Title lang="es">Monitor Doc Carga</Title>
+				<Title lang="en">Ship.doc. Monitor</Title>
+				<Function>GFEX101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integr Pré-faturas</Title>
+				<Title lang="es">Integr Prefacturas</Title>
+				<Title lang="en">Integrate Pf Inv.</Title>
+				<Function>GFEA099</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,erp</KeyWord>
+					<KeyWord lang="es">Integracion,erp</KeyWord>
+					<KeyWord lang="en">Integration,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integr Lote Provis</Title>
+				<Title lang="es">Integr Lote Provis</Title>
+				<Title lang="en">Integr Provis Lots</Title>
+				<Function>GFEA104</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016864</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,erp</KeyWord>
+					<KeyWord lang="es">Integracion,erp</KeyWord>
+					<KeyWord lang="en">Integration,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrar Doc Frete</Title>
+				<Title lang="es">Integrar Doc Flete</Title>
+				<Title lang="en">Integrate Frei.doc</Title>
+				<Function>GFEA067</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012241</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,erp</KeyWord>
+					<KeyWord lang="es">Integracion,erp</KeyWord>
+					<KeyWord lang="en">Integration,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrar Contratos</Title>
+				<Title lang="es">Integrar Contratos</Title>
+				<Title lang="en">Integrate Contract</Title>
+				<Function>GFEA098</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,erp</KeyWord>
+					<KeyWord lang="es">Integracion,erp</KeyWord>
+					<KeyWord lang="en">Integration,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrar Faturas</Title>
+				<Title lang="es">Integrar Facturas</Title>
+				<Title lang="en">Integrate Invoices</Title>
+				<Function>GFEA097</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,erp</KeyWord>
+					<KeyWord lang="es">Integracion,erp</KeyWord>
+					<KeyWord lang="en">Integration,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Integração</Title>
+				<Title lang="es">Monitor Integrac.</Title>
+				<Title lang="en">Integrationmonitor</Title>
+				<Function>GFEX100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012710</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Erp</KeyWord>
+					<KeyWord lang="es">Erp</KeyWord>
+					<KeyWord lang="en">Erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Facilitador de Atualização de Faturas de Frete</Title>
+				<Title lang="es">Facilitador de Actualización de Facturas de Flete</Title>
+				<Title lang="en">Freight Invoices Updating Facilitator</Title>
+				<Function>GFEA072</Function>
+				<Type>1</Type>
+				<Tables>GW6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016455</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integraçâo,fatura,erp</KeyWord>
+					<KeyWord lang="es">Integración,factura,erp</KeyWord>
+					<KeyWord lang="en">Integration,invoice,erp</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sincroniz. Protheus</Title>
+				<Title lang="es">Sincroniz. Protheus</Title>
+				<Title lang="en">Protheus Synchronizing</Title>
+				<Function>GFEM011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000018925</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,protheus</KeyWord>
+					<KeyWord lang="es">Integración,protheus</KeyWord>
+					<KeyWord lang="en">Integration,protheus</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ct-e</Title>
+			<Title lang="es">Ct-e</Title>
+			<Title lang="en">Ct-e</Title>
+			<ItemID>0000013714</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Ct-e</Title>
+				<Title lang="es">Importar Ct-e</Title>
+				<Title lang="en">Import Ct-e</Title>
+				<Function>GFEA118</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013715</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cte,colaboração,importar,importação,conhecimento,documento,conemb</KeyWord>
+					<KeyWord lang="es">Cte,colaboracion,importar,importacion,conocimiento,documento,conemb</KeyWord>
+					<KeyWord lang="en">Cte,collaboration,import,importing,knowledge,document,conemb</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Edi</Title>
+			<Title lang="es">Edi</Title>
+			<Title lang="en">Edi</Title>
+			<ItemID>0000012230</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportar Notfis</Title>
+				<Title lang="es">Exportar Notfis</Title>
+				<Title lang="en">Export Notfis</Title>
+				<Function>GFEA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,edi,proceda,exportação,exportar</KeyWord>
+					<KeyWord lang="es">Factura,edi,proceda,exportacion,exportar</KeyWord>
+					<KeyWord lang="en">Invoice,edi,proceed,export,export</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportar Prefat</Title>
+				<Title lang="es">Exportar Prefat</Title>
+				<Title lang="en">Export Prefat</Title>
+				<Function>GFEA111</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Proceda,edi,exportação,préfatura,exportar</KeyWord>
+					<KeyWord lang="es">Proceda,edi,exportacion,factprevia,exportar</KeyWord>
+					<KeyWord lang="en">Proceed,edi,export,preinvoice,export</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Conemb</Title>
+				<Title lang="es">Importar Conemb</Title>
+				<Title lang="en">Import Conemb</Title>
+				<Function>GFEA115</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012233</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimento,ctr,ctrc,edi,proceda,importação,importar</KeyWord>
+					<KeyWord lang="es">Conocimiento,ctr,ctrc,edi,proceda,importacion,importar</KeyWord>
+					<KeyWord lang="en">Knowledge,ctr,crtc,edi,proceed,import,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Doccob</Title>
+				<Title lang="es">Importar Doccob</Title>
+				<Title lang="en">Import Doccob</Title>
+				<Function>GFEA116</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012234</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura,proceda,edi,importação,importar</KeyWord>
+					<KeyWord lang="es">Factura,proceda,edi,importacion,importar</KeyWord>
+					<KeyWord lang="en">Invoice,proceed,edi,import,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Ocoren</Title>
+				<Title lang="es">Importar Ocoren</Title>
+				<Title lang="en">Import Ocoren</Title>
+				<Function>GFEA117</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,entrega,edi,proceda,importação,importar</KeyWord>
+					<KeyWord lang="es">Ocurrencia,entrega,edi,proceda,importacion,importar</KeyWord>
+					<KeyWord lang="en">Occurance,delivery,edi,proceed,import,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bi</Title>
+			<Title lang="es">Bi</Title>
+			<Title lang="en">Bi</Title>
+			<ItemID>0000012553</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros</Title>
+				<Title lang="es">Archivos</Title>
+				<Title lang="en">Registers</Title>
+				<Function>GFEBI00</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012854</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Datasul</KeyWord>
+					<KeyWord lang="es">Datasul</KeyWord>
+					<KeyWord lang="en">Datasul</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrência Transp.</Title>
+				<Title lang="es">Ocurrencia Transp.</Title>
+				<Title lang="en">Occurences Transp.</Title>
+				<Function>GFEBI02</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012555</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Datasul</KeyWord>
+					<KeyWord lang="es">Datasul</KeyWord>
+					<KeyWord lang="en">Datasul</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazos de Entrega</Title>
+				<Title lang="es">Plazos de Entrega</Title>
+				<Title lang="en">Deadlines</Title>
+				<Function>GFEBI03</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012556</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Datasul</KeyWord>
+					<KeyWord lang="es">Datasul</KeyWord>
+					<KeyWord lang="en">Datasul</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesa de Frete</Title>
+				<Title lang="es">Gasto de Flete</Title>
+				<Title lang="en">Freight Expenses</Title>
+				<Function>GFEBI01</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Datasul</KeyWord>
+					<KeyWord lang="es">Datasul</KeyWord>
+					<KeyWord lang="en">Datasul</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cockpit Logístico</Title>
+			<Title lang="es">Cockpit Logístico</Title>
+			<Title lang="en">Logistic Cockpit</Title>
+			<ItemID>0000021490</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Integração</Title>
+				<Title lang="es">Parâmetros Integración</Title>
+				<Title lang="en">Integration Parameters</Title>
+				<Function>GFEX003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000021492</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Neolog,cockpit,cpl</KeyWord>
+					<KeyWord lang="es">Neolog,neolog,cockpit,cpl</KeyWord>
+					<KeyWord lang="en">Neolog,cockpit,cpl</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Sigatms</Title>
+			<Title lang="es">Sigatms</Title>
+			<Title lang="en">Sigatms</Title>
+			<ItemID>0000016842</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocor Doc Transp</Title>
+				<Title lang="es">Ocor.doc.transp.</Title>
+				<Title lang="en">Transp.doc.occurr.</Title>
+				<Function>GFEC054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,transporte,tms,sigatms,integração</KeyWord>
+					<KeyWord lang="es">Ocurrencia,transporte,tms,sigatms,integracion</KeyWord>
+					<KeyWord lang="en">Occurrence,transport,tms,sigatms,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências Gfe</Title>
+				<Title lang="es">Ocurrencias Gfe</Title>
+				<Title lang="en">Gfe Occurrences</Title>
+				<Function>GFEA106</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012673</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,ocorrências,transporte,tms,sigatms,integração</KeyWord>
+					<KeyWord lang="es">Ocurrencia,ocurrencias,transporte,tms,sigatms,integración</KeyWord>
+					<KeyWord lang="en">Occurence,occurences,transport,tms,sigatms,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fretebras</Title>
+			<Title lang="es">Fretebras</Title>
+			<Title lang="en">Fretebras</Title>
+			<ItemID>0000016983</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Integração</Title>
+				<Title lang="es">Configurac Integrac</Title>
+				<Title lang="en">Integration Configuration</Title>
+				<Function>TMSAC13</Function>
+				<Type>1</Type>
+				<Tables>DM1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016984</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,fretebras,frete,romaneio de Carga</KeyWord>
+					<KeyWord lang="es">Integración,fretebras,flete,lta_emb_carga</KeyWord>
+					<KeyWord lang="en">Integration,freightbras,freight,cargo Packing List</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Integração Fretebras</Title>
+				<Title lang="es">Monitor Integrac Fretebras</Title>
+				<Title lang="en">Fretebras Integration Monitor</Title>
+				<Function>GFEX201</Function>
+				<Type>1</Type>
+				<Tables>GZY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016985</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fretebras,informações Frete</KeyWord>
+					<KeyWord lang="es">Fretebras,informacion Flete</KeyWord>
+					<KeyWord lang="en">Freightbras,freight Information</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A780000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerais</Title>
+			<Title lang="es">Generales</Title>
+			<Title lang="en">General</Title>
+			<ItemID>0000015038</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cidades</Title>
+				<Title lang="es">Ciudades</Title>
+				<Title lang="en">Cities</Title>
+				<Function>GFEC020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015384</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Municípios</KeyWord>
+					<KeyWord lang="es">Municipios</KeyWord>
+					<KeyWord lang="en">Cities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Transportad</Title>
+				<Title lang="es">Panel Transportad.</Title>
+				<Title lang="en">Carrier Panel</Title>
+				<Function>GFEC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015134</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transportador,gerencial</KeyWord>
+					<KeyWord lang="es">Transportador,gestion</KeyWord>
+					<KeyWord lang="en">Carrier,management</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Filiais</Title>
+				<Title lang="es">Panel Sucursales</Title>
+				<Title lang="en">Branch Panel</Title>
+				<Function>GFEC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015153</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estebalecimento,gerencial</KeyWord>
+					<KeyWord lang="es">Establecimiento,gestion</KeyWord>
+					<KeyWord lang="en">Establishment,managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Clientes</Title>
+				<Title lang="es">Panel Clientes</Title>
+				<Title lang="en">Pannel Customers</Title>
+				<Function>GFEC003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015152</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gerencial</KeyWord>
+					<KeyWord lang="es">Gestion</KeyWord>
+					<KeyWord lang="en">Managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário Pendências</Title>
+				<Title lang="es">Resumen Pendencias</Title>
+				<Title lang="en">Pendency Summary</Title>
+				<Function>GFEC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015039</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedição/recebim</Title>
+			<Title lang="es">Expedicion/recep.</Title>
+			<Title lang="en">Dispatch/receipt</Title>
+			<ItemID>0000012266</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Carga</Title>
+				<Title lang="es">Documentos Carga</Title>
+				<Title lang="en">Freight Documents</Title>
+				<Function>GFEC040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012267</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,</KeyWord>
+					<KeyWord lang="es">Factura</KeyWord>
+					<KeyWord lang="en">Invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Romaneios de Carga</Title>
+				<Title lang="es">Remitos de Carga</Title>
+				<Title lang="en">Packing Lists</Title>
+				<Function>GFEC050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012268</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Embarque,carregamento,romaneio,viagem</KeyWord>
+					<KeyWord lang="es">Embarque,cargamento,lista,viaje</KeyWord>
+					<KeyWord lang="en">Boarding,loading,packing,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Carregtos</Title>
+				<Title lang="es">Monitor Cargamento</Title>
+				<Title lang="en">Load Monitor</Title>
+				<Function>GFEC053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Carregamento,romaneio,embarque,viagem</KeyWord>
+					<KeyWord lang="es">Cargamento,lista,embarque,viaje</KeyWord>
+					<KeyWord lang="en">Loading,p.list,shipment,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Entregas</Title>
+				<Title lang="es">Monitor Entregas</Title>
+				<Title lang="en">Delivery Monitor</Title>
+				<Function>GFEC041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015386</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entrega,prazo,atraso</KeyWord>
+					<KeyWord lang="es">Entrega,plazo,atraso</KeyWord>
+					<KeyWord lang="en">Delivery,term,delay</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mov Cargas Período</Title>
+				<Title lang="es">Mov.cargas Periodo</Title>
+				<Title lang="en">Cargo Oper Period</Title>
+				<Function>GFEC011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015040</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curva Transp Carga</Title>
+				<Title lang="es">Curva Transp Carga</Title>
+				<Title lang="en">Load Trasnp.curve</Title>
+				<Function>GFEC021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Abc,transportador,transportadora</KeyWord>
+					<KeyWord lang="es">Abc,transportador,transportadora</KeyWord>
+					<KeyWord lang="en">Abc,carrier,carrier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viagem</Title>
+				<Title lang="es">Viaje</Title>
+				<Title lang="en">Trip</Title>
+				<Function>GFEC058</Function>
+				<Type>1</Type>
+				<Tables>GWP</Tables>
+				<Tables>GWN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Compartilhada,consolidacao,carga,viagem</KeyWord>
+					<KeyWord lang="es">Compartida,consolidación,carga,viaje</KeyWord>
+					<KeyWord lang="en">Shared,consolidation,load,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pátios e Portarias</Title>
+			<Title lang="es">Patios Y Porterias</Title>
+			<Title lang="en">Yards And Entrance</Title>
+			<ItemID>0000012269</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Tráfego</Title>
+				<Title lang="es">Monitor de Trafico</Title>
+				<Title lang="en">Traffic Monitor</Title>
+				<Function>GFEC510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pátio,fila</KeyWord>
+					<KeyWord lang="es">Patio,cola</KeyWord>
+					<KeyWord lang="en">Yard,queue</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Veículos</Title>
+				<Title lang="es">Panel Vehiculos</Title>
+				<Title lang="en">Vehicles Panel</Title>
+				<Function>GFEC511</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018499</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Veiculo,movimentação,patio,romaneio,ocorrencia</KeyWord>
+					<KeyWord lang="es">Vehiculo,movimiento,patio,lista_de_embarque,ocurrencia</KeyWord>
+					<KeyWord lang="en">Vehicle,transaction,yard,apportionment,occurrence</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel Motoristas</Title>
+				<Title lang="es">Panel Conductores</Title>
+				<Title lang="en">Drivers Panel</Title>
+				<Function>GFEC512</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018500</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Motorista,movimentação,patio,romaneio,ocorrência</KeyWord>
+					<KeyWord lang="es">Conductor,movimiento,patio,lista_de_embarque,ocurrencia</KeyWord>
+					<KeyWord lang="en">Driver,transaction,yard,apportionment,occurrence</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movto Pátio</Title>
+				<Title lang="es">Movto Patio</Title>
+				<Title lang="en">Patio Transfer</Title>
+				<Function>GFEC513</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018501</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentacao,patio,controle</KeyWord>
+					<KeyWord lang="es">Movimiento,patio,control</KeyWord>
+					<KeyWord lang="en">Transaction,yard,control</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movto  Portarias</Title>
+				<Title lang="es">Movto  Porterias</Title>
+				<Title lang="en">Entries Transfer</Title>
+				<Function>GFEC514</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018502</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentacao,portaria</KeyWord>
+					<KeyWord lang="es">Movimiento,resolucion_normativa</KeyWord>
+					<KeyWord lang="en">Transaction,decree</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Pontos de Controle</Title>
+				<Title lang="es">Monitor Puntos de Control</Title>
+				<Title lang="en">Control Points Monitor</Title>
+				<Function>GFEC515</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018503</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentacao,</KeyWord>
+					<KeyWord lang="es">Movimiento</KeyWord>
+					<KeyWord lang="en">Transaction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Filas</Title>
+				<Title lang="es">Monitor de Colas</Title>
+				<Title lang="en">Lines Monitor</Title>
+				<Function>GFEC516</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018504</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fila,endereço</KeyWord>
+					<KeyWord lang="es">Cola,direccion</KeyWord>
+					<KeyWord lang="en">Queue,address</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Endereços</Title>
+				<Title lang="es">Monitor de Direcciones</Title>
+				<Title lang="en">Monitor Of Addresses</Title>
+				<Function>GFEC517</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Endereço,veiculo,fila</KeyWord>
+					<KeyWord lang="es">Direccion,vehiculo,cola</KeyWord>
+					<KeyWord lang="en">Address,vehicle,queue</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ativid Usuário</Title>
+				<Title lang="es">Actividad Usuario</Title>
+				<Title lang="en">User Activity</Title>
+				<Function>GFEC518</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018506</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuario,movimentacao,patio,atividade</KeyWord>
+					<KeyWord lang="es">Usuario,movimiento,patio,actividad</KeyWord>
+					<KeyWord lang="en">User,transaction,yard,activity</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrências</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Events</Title>
+			<ItemID>0000012271</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>GFEC032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012272</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,sinistro,reentrega</KeyWord>
+					<KeyWord lang="es">Ocurrencia,siniestro,reentrega</KeyWord>
+					<KeyWord lang="en">Occurence,casualty,redelivery</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curva Transp Ocorr</Title>
+				<Title lang="es">Curva Transp Ocurr</Title>
+				<Title lang="en">Occrr.transp.curve</Title>
+				<Function>GFEC023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transportador,transportadora,ocorrência,abc</KeyWord>
+					<KeyWord lang="es">Transportador,transportadora,ocurrencia,abc</KeyWord>
+					<KeyWord lang="en">Carrier,carrier,occurence,abc</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas de Frete</Title>
+			<Title lang="es">Tablas de Flete</Title>
+			<Title lang="en">Freight Tables</Title>
+			<ItemID>0000012273</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Componentes Frete</Title>
+				<Title lang="es">Componentes Flete</Title>
+				<Title lang="en">Freight Components</Title>
+				<Function>GFEC060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012274</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Componente</KeyWord>
+					<KeyWord lang="es">Componente</KeyWord>
+					<KeyWord lang="en">Component</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Frete</Title>
+				<Title lang="es">Tablas de Flete</Title>
+				<Title lang="en">Freight Tables</Title>
+				<Function>GFEC061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012275</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tabela,tarifa,negociação</KeyWord>
+					<KeyWord lang="es">Tabla,tarifa,negociacion</KeyWord>
+					<KeyWord lang="en">Table,fee,negotiation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requis Neg Frete</Title>
+				<Title lang="es">Requis Neg Flete</Title>
+				<Title lang="en">Freight Neg Req</Title>
+				<Function>GFEC059</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014564</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Requisição,negociação,frete</KeyWord>
+					<KeyWord lang="es">Requisición,negociación,flete</KeyWord>
+					<KeyWord lang="en">Request,negotiation,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Result Neg Frete</Title>
+				<Title lang="es">Result Neg Flete</Title>
+				<Title lang="en">Freight Neg Result</Title>
+				<Function>GFEC078</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014615</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cotação,negociaçao,frete</KeyWord>
+					<KeyWord lang="es">Cotización,negociación,flete</KeyWord>
+					<KeyWord lang="en">Quotation,negotiation,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta do Contrato de Transporte</Title>
+				<Title lang="es">Consulta de Contrato de Transporte</Title>
+				<Title lang="en">Transport Contract Search</Title>
+				<Function>GFEC079</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015995</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculo de Frete</Title>
+			<Title lang="es">Calculo de Flete</Title>
+			<Title lang="en">Freight Calculat</Title>
+			<ItemID>0000012276</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculos de Frete</Title>
+				<Title lang="es">Calculo de Flete</Title>
+				<Title lang="en">Freight Calculat</Title>
+				<Function>GFEC080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cálculo</KeyWord>
+					<KeyWord lang="es">Calculo</KeyWord>
+					<KeyWord lang="en">Calculation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Período</Title>
+				<Title lang="es">Flete Periodo</Title>
+				<Title lang="en">Freight Period</Title>
+				<Function>GFEC012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015042</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curva Transp Frete</Title>
+				<Title lang="es">Curva Transp Flete</Title>
+				<Title lang="en">Freight Tran.curve</Title>
+				<Function>GFEC022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014246</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gasto,despesa,custo,transportador,transportadora,abc</KeyWord>
+					<KeyWord lang="es">Gasto,gasto,costo,transportador,transportadora,abc</KeyWord>
+					<KeyWord lang="en">Spending,expense,cost,carrier,carrier,abc</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Memória de Cálculo</Title>
+				<Title lang="es">Memoria de Calculo</Title>
+				<Title lang="en">Calculation Chart</Title>
+				<Function>GFEX001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000011981</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Log</KeyWord>
+					<KeyWord lang="es">Log</KeyWord>
+					<KeyWord lang="en">Log</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pré-faturas</Title>
+			<Title lang="es">Pre Facturas</Title>
+			<Title lang="en">Pro Forma Invoices</Title>
+			<ItemID>0000012278</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-faturas</Title>
+				<Title lang="es">Pre Facturas</Title>
+				<Title lang="en">Pro Forma Invoices</Title>
+				<Function>GFEC055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012279</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Doc Frete/faturas</Title>
+			<Title lang="es">Doc Flete/facturas</Title>
+			<Title lang="en">Freight Doc/invoic</Title>
+			<ItemID>0000012280</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Frete</Title>
+				<Title lang="es">Documentos Flete</Title>
+				<Title lang="en">Freight Documents</Title>
+				<Function>GFEC065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012281</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimento,ctr,ctrc,nfs,cte,documento</KeyWord>
+					<KeyWord lang="es">Conocimiento,ctr,ctrc,fs,cte,documento</KeyWord>
+					<KeyWord lang="en">Knowledge,ctr,ctrc,nfs,cte,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas de Frete</Title>
+				<Title lang="es">Facturas de Flete</Title>
+				<Title lang="en">Freight Invoices</Title>
+				<Function>GFEC070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura</KeyWord>
+					<KeyWord lang="es">Factura</KeyWord>
+					<KeyWord lang="en">Invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contrato Autônomo</Title>
+			<Title lang="es">Contrato Autonomo</Title>
+			<Title lang="en">Autonomous Contrac</Title>
+			<ItemID>0000012283</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos/rpa</Title>
+				<Title lang="es">Contratos/rpa</Title>
+				<Title lang="en">Contracts/rpa</Title>
+				<Function>GFEC100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,rpa,</KeyWord>
+					<KeyWord lang="es">Contrato,rpa</KeyWord>
+					<KeyWord lang="en">Contract,rpa</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Auditoria de Frete</Title>
+			<Title lang="es">Auditoria de Flete</Title>
+			<Title lang="en">Freight Audit</Title>
+			<ItemID>0000014245</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Curva Transp Audit</Title>
+				<Title lang="es">Curva Transp Audit</Title>
+				<Title lang="en">Audit Transp Curve</Title>
+				<Function>GFEC024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Abc,transportador,transportadora,auditoria</KeyWord>
+					<KeyWord lang="es">Abc,transportador,transportadora,auditoria</KeyWord>
+					<KeyWord lang="en">Abc,carrier,carrier,audit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilización</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000012450</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sublotes de Provisão</Title>
+				<Title lang="es">Sublotes de Provisión</Title>
+				<Title lang="en">Provision Sub-lots</Title>
+				<Function>GFEC105</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012453</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sublote,provisão,estorno,lote</KeyWord>
+					<KeyWord lang="es">Sublote,provisión,reversión,parcial</KeyWord>
+					<KeyWord lang="en">Sublot,provision,reversal,partial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A780000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Expedição/recebim</Title>
+			<Title lang="es">Expedicion/recepc</Title>
+			<Title lang="en">Dispatch/receipt</Title>
+			<ItemID>0000012287</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Carga</Title>
+				<Title lang="es">Documentos Carga</Title>
+				<Title lang="en">Freight Documents</Title>
+				<Function>GFER040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012288</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,documento</KeyWord>
+					<KeyWord lang="es">Factura,documento</KeyWord>
+					<KeyWord lang="en">Invoice,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doc Carga Trânsito</Title>
+				<Title lang="es">Doc Carga Transito</Title>
+				<Title lang="en">Transit Ship. Doc.</Title>
+				<Function>GFER051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015390</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,documento</KeyWord>
+					<KeyWord lang="es">Factura,documento</KeyWord>
+					<KeyWord lang="en">Invoice,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Romaneios de Carga</Title>
+				<Title lang="es">Remitos de Carga</Title>
+				<Title lang="en">Packing Lists</Title>
+				<Function>GFER050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012289</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,carregamento,embarque,viagem</KeyWord>
+					<KeyWord lang="es">Lista,cargamento,embarque,viaje</KeyWord>
+					<KeyWord lang="en">Packing,loading,boarding,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Expedição de Romaneios</Title>
+				<Title lang="es">Exp. List. Embarque</Title>
+				<Title lang="en">Manifest Dispatch</Title>
+				<Function>GFER056</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000019545</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneios,expedicao,expedição</KeyWord>
+					<KeyWord lang="es">Listembarque,expedicion,expedicion</KeyWord>
+					<KeyWord lang="en">Manifest,dispatch,dispatch</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carga e Frete</Title>
+				<Title lang="es">Carga Y Flete</Title>
+				<Title lang="en">Load & Freight</Title>
+				<Function>GFER052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015387</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,despesa,carregamento,embarque,viagem</KeyWord>
+					<KeyWord lang="es">Lista.empaque,gasto,cargamento,embarque,viaje</KeyWord>
+					<KeyWord lang="en">P.list,expense,loading,shipment,trip</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vale Pedágio</Title>
+				<Title lang="es">Ticket Peaje</Title>
+				<Title lang="en">Toll Voucher</Title>
+				<Function>GFER253</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Vale-pedágio</KeyWord>
+					<KeyWord lang="es">Ticket-peaje</KeyWord>
+					<KeyWord lang="en">Toll Voucher</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocup Veic Romaneio</Title>
+				<Title lang="es">Ocup Veh. Lista Em</Title>
+				<Title lang="en">P.list Veh. Occup.</Title>
+				<Function>GFER150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupação,lotação,veículo</KeyWord>
+					<KeyWord lang="es">Ocupacion,capacidad,vehiculo</KeyWord>
+					<KeyWord lang="en">Occupation,capacity,vehicle</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocup Veic Transp</Title>
+				<Title lang="es">Ocup Vehic Transp</Title>
+				<Title lang="en">Car. Veh. Occup.</Title>
+				<Function>GFER151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupação,lotação,veículo,transportador</KeyWord>
+					<KeyWord lang="es">Ocupacion,capacidad,vehiculo,transportador</KeyWord>
+					<KeyWord lang="en">Occupation,capacity,vehicle,carrier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocup Veic Filial</Title>
+				<Title lang="es">Ocup Vehic Suc.</Title>
+				<Title lang="en">Branch Veh. Occup.</Title>
+				<Function>GFER152</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015397</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupação,lotação,veículo</KeyWord>
+					<KeyWord lang="es">Ocupacion,capacidad,vehiculo</KeyWord>
+					<KeyWord lang="en">Occupation,capacity,vehicle</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocup Veic Tip Veic</Title>
+				<Title lang="es">Ocup Vehic Tip Veh</Title>
+				<Title lang="en">Veh.tp. Veh. Occup</Title>
+				<Function>GFER153</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015398</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupação,lotação,veículo</KeyWord>
+					<KeyWord lang="es">Ocupacion,capacidad,vehiculo</KeyWord>
+					<KeyWord lang="en">Occupation,capacity,vehicle</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocup Veic Tip Oper</Title>
+				<Title lang="es">Ocup Vehic Tip Ope</Title>
+				<Title lang="en">Op. Tp. Veh. Occup</Title>
+				<Function>GFER154</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015399</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocupação,lotação,veículo,operação</KeyWord>
+					<KeyWord lang="es">Ocupacion,capacidad,vehiculo,operacion</KeyWord>
+					<KeyWord lang="en">Occupation,capacity,vehicle,operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Utilização Veículo</Title>
+				<Title lang="es">Utilizac.vehiculo</Title>
+				<Title lang="en">Vehicle Usage</Title>
+				<Function>GFER162</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estoque Trânsito</Title>
+				<Title lang="es">Stock Transito</Title>
+				<Title lang="en">Transit Stock</Title>
+				<Function>GFER054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015388</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Romaneio,carga,produto,item</KeyWord>
+					<KeyWord lang="es">Lista.de.empaque,carga,producto,item</KeyWord>
+					<KeyWord lang="en">P.list,load,product,item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estoq Trânsito Trp</Title>
+				<Title lang="es">Stock Transtio Trp</Title>
+				<Title lang="en">Trp Transit Stock</Title>
+				<Function>GFER053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estoque,trânsito,transportador,produto,item</KeyWord>
+					<KeyWord lang="es">Stock,transito,transportador,producto,item</KeyWord>
+					<KeyWord lang="en">Stock,transit,carrier,product,item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entregas</Title>
+				<Title lang="es">Entregas</Title>
+				<Title lang="en">Deliveries</Title>
+				<Function>GFER060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012560</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Prazo,atraso,entrega</KeyWord>
+					<KeyWord lang="es">Plazo,atraso,entrega</KeyWord>
+					<KeyWord lang="en">Term,delay,delivery</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eficiência Transp</Title>
+				<Title lang="es">Eficiencia Transp</Title>
+				<Title lang="en">Transp. Efficiency</Title>
+				<Function>GFER058</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015154</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Prazo,atraso,entrega,performance,transportador</KeyWord>
+					<KeyWord lang="es">Plazo,atraso,entrega,desempeno,transportador</KeyWord>
+					<KeyWord lang="en">Term,delay,delivery,performance,carrier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eficiência Filiais</Title>
+				<Title lang="es">Eficiencia Sucursa</Title>
+				<Title lang="en">Branch Efficiency</Title>
+				<Function>GFER059</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015155</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Prazo,atraso,entrega,performance,embarcador,estabelecimento</KeyWord>
+					<KeyWord lang="es">Plazo,atraso,entrega,desempeno,embarcador,establecimiento</KeyWord>
+					<KeyWord lang="en">Term,delay,delivery,performance,shipper,establishment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roman Frota Dedic</Title>
+				<Title lang="es">Lis.emb.flot.dedic</Title>
+				<Title lang="en">Dedic Freight Pack</Title>
+				<Function>GFER161</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação Doc Carga</Title>
+				<Title lang="es">Movimiento Doc Carga</Title>
+				<Title lang="en">Load Doc Transaction</Title>
+				<Function>GFER041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020404</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimento,carga,frete,provisao,fatura,documento,</KeyWord>
+					<KeyWord lang="es">Movimiento,carga,flete,provisión,factura,documento</KeyWord>
+					<KeyWord lang="en">Transaction,shipment,freight,provision,invoice,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visão Geral de Fretes</Title>
+				<Title lang="es">Vis. General de Fletes</Title>
+				<Title lang="en">Freight General View</Title>
+				<Function>GFER002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015525</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pátios e Portarias</Title>
+			<Title lang="es">Patios Y Porterias</Title>
+			<Title lang="en">Yards And Entrance</Title>
+			<ItemID>0000012290</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agendamentos</Title>
+				<Title lang="es">Programaciones</Title>
+				<Title lang="en">Scheduling</Title>
+				<Function>GFER510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Programação,entradas,saídas</KeyWord>
+					<KeyWord lang="es">Programacion,entradas,salidas</KeyWord>
+					<KeyWord lang="en">Programing,inflow,outflow</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indic Usuário</Title>
+				<Title lang="es">Indic Usuario</Title>
+				<Title lang="en">User Ind.</Title>
+				<Function>GFER521</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuario,indicadores,reprovacao,atendimento,tempo</KeyWord>
+					<KeyWord lang="es">Usuario,indicadores,reprobacion,atencion,tiempo</KeyWord>
+					<KeyWord lang="en">User,indicators,rejection,service,time</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indic Operação</Title>
+				<Title lang="es">Indic Operacion</Title>
+				<Title lang="en">Operation Ind.</Title>
+				<Function>GFER520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018495</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operacao,indicadores,atendimento,tempo</KeyWord>
+					<KeyWord lang="es">Operacion,indicadores,atencion,tiempo</KeyWord>
+					<KeyWord lang="en">Operation,indicadores,service,time</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reprovações</Title>
+				<Title lang="es">Reprobaciones</Title>
+				<Title lang="en">Disapproval</Title>
+				<Function>GFER522</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018497</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprovação,checklist</KeyWord>
+					<KeyWord lang="es">Reprobacion,checklist</KeyWord>
+					<KeyWord lang="en">Rejection,checklist</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorr Movimentação</Title>
+				<Title lang="es">Ocurr Movimiento</Title>
+				<Title lang="en">Perform Transfer</Title>
+				<Function>GFER531</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018498</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrencia,patio,movimentação</KeyWord>
+					<KeyWord lang="es">Ocurrencia,patio,movimiento</KeyWord>
+					<KeyWord lang="en">Occurrence,yard,transaction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movim Diária</Title>
+				<Title lang="es">Movim Diario</Title>
+				<Title lang="en">Daily Transfer</Title>
+				<Function>GFER519</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000018493</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentação,movimento,patio,</KeyWord>
+					<KeyWord lang="es">Movimiento,movimiento,patio</KeyWord>
+					<KeyWord lang="en">Transaction,transaction,yard</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrências</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Events</Title>
+			<ItemID>0000012292</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>GFER031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,reentrega,sinistro</KeyWord>
+					<KeyWord lang="es">Ocurrencia,reentrega,siniestro</KeyWord>
+					<KeyWord lang="en">Occurenc,redelivery,casualty</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doc Carga Ocorrenc</Title>
+				<Title lang="es">Doc Carga Ocurrenc</Title>
+				<Title lang="en">Event Shipping Doc</Title>
+				<Function>GFER032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012294</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,nota,sinistro,reentrega</KeyWord>
+					<KeyWord lang="es">Ocurrencia,factura,siniestro,reentrega</KeyWord>
+					<KeyWord lang="en">Occurrence,inoice,casualty,redelivery</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências Tipo</Title>
+				<Title lang="es">Ocurrencias Tipo</Title>
+				<Title lang="en">Event Type</Title>
+				<Function>GFER033</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012295</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,reentrega,sinistro</KeyWord>
+					<KeyWord lang="es">Ocurrencia,reentrega,siniestro</KeyWord>
+					<KeyWord lang="en">Occurrence,redelivery,casualty</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências Transp</Title>
+				<Title lang="es">Ocurrencias Transp</Title>
+				<Title lang="en">Carrier Events</Title>
+				<Function>GFER034</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrência,transportador,sinistro,reentrega</KeyWord>
+					<KeyWord lang="es">Ocurrencia,transportador,siniestro,reentrega</KeyWord>
+					<KeyWord lang="en">Event,carrier,claim,redelivery</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quebras de Peso</Title>
+				<Title lang="es">Divisiones de Peso</Title>
+				<Title lang="en">Weight Breaks</Title>
+				<Function>GFER035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014384</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Quebras,peso,tolerancia,indenização,ocorrência</KeyWord>
+					<KeyWord lang="es">Divisiones,peso,tolerancia,indemnización,ocurrencia</KeyWord>
+					<KeyWord lang="en">Breaks,weight,tolerance,compensation,occurrence</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculo de Frete</Title>
+			<Title lang="es">Calculo de Flete</Title>
+			<Title lang="en">Freightcalculation</Title>
+			<ItemID>0000012558</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Transp</Title>
+				<Title lang="es">Flete Transp</Title>
+				<Title lang="en">Transp. Freight</Title>
+				<Function>GFER081</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014234</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transportador,transportadora,prestador,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Transportador,transportadora,prestador,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Carrier,carrier,provider,expense,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Transp/uf</Title>
+				<Title lang="es">Flete Transp/e/p/r</Title>
+				<Title lang="en">Transp. Freight/st</Title>
+				<Function>GFER085</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014705</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estado,transportador,transportadora,prestador,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Estado,transportador,transportadora,prestador,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">State,carrier,carrier,supplier,spending,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Uf/região</Title>
+				<Title lang="es">Flete Est/prov/reg</Title>
+				<Title lang="en">Freight St/region</Title>
+				<Function>GFER084</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014707</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estado,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Estado,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">State,spending,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Repres/dest</Title>
+				<Title lang="es">Flete Repres/dest</Title>
+				<Title lang="en">Freight Repres/des</Title>
+				<Function>GFER087</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014704</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Representante,destinatário,cliente,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Representante,destinatario,cliente,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Representative,recipient,customer,expense,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Item</Title>
+				<Title lang="es">Flete Item</Title>
+				<Title lang="en">Freight Item</Title>
+				<Function>GFER083</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,mercadoria,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Producto,mercaderia,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Product,good,expense,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Class Frete</Title>
+				<Title lang="es">Flete Tipo Flete</Title>
+				<Title lang="en">Freight Class Frei</Title>
+				<Function>GFER086</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014708</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Clasificacion,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Classification,expense,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Doc Carga</Title>
+				<Title lang="es">Flete Doc.carga</Title>
+				<Title lang="en">Freight Shipm Doc</Title>
+				<Function>GFER082</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014236</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Factura,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Invoice,spending,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete It Doc Carga</Title>
+				<Title lang="es">Flete It.doc.carga</Title>
+				<Title lang="en">Freig.shipm.doc.it</Title>
+				<Function>GFER080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012559</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item,mercadoria,despesa,custo,gasto</KeyWord>
+					<KeyWord lang="es">Producto,item,mercaderia,gasto,costo,gasto</KeyWord>
+					<KeyWord lang="en">Product,item,good,expense,cost,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Frete Frota Dedic</Title>
+				<Title lang="es">Flete Flota Dedic</Title>
+				<Title lang="en">Dedic Fleet Freigh</Title>
+				<Function>GFER160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Negoc Frota Dedic</Title>
+				<Title lang="es">Negoc.flota Dedic</Title>
+				<Title lang="en">Dedic Fleet Negot.</Title>
+				<Function>GFER163</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas de Frete</Title>
+			<Title lang="es">Tablas de Flete</Title>
+			<Title lang="en">Freight Tables</Title>
+			<ItemID>0000012296</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Frete</Title>
+				<Title lang="es">Tablas de Flete</Title>
+				<Title lang="en">Freight Tables</Title>
+				<Function>GFER061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tabela,tarifa,negociação</KeyWord>
+					<KeyWord lang="es">Tabla,tarifa,negociacion</KeyWord>
+					<KeyWord lang="en">Table,fee,negotiation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo de Tarifas</Title>
+				<Title lang="es">Comparacion de Tareas</Title>
+				<Title lang="en">Fee Comparison</Title>
+				<Function>GFER064</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000019522</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tarifas,comparativo,comparar</KeyWord>
+					<KeyWord lang="es">Tarifas,comparacion,comparar</KeyWord>
+					<KeyWord lang="en">Fees,comparison,compare</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tarifas de Frete Por Cidade Destino</Title>
+				<Title lang="es">Tarifas de Flete Por Ciudad Destino</Title>
+				<Title lang="en">Freight Fee Per Destination City</Title>
+				<Function>GFER063</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000019518</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tarifas,cidade,destino,frete</KeyWord>
+					<KeyWord lang="es">Tarifas,ciudad,destino,flete</KeyWord>
+					<KeyWord lang="en">Fees,city,destination,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tarifas das Tabelas de Frete</Title>
+				<Title lang="es">Tarifas de Tabelas de Flete</Title>
+				<Title lang="en">Freight Table Fees</Title>
+				<Function>GFER062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000019517</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tarifas,tabelas,frete</KeyWord>
+					<KeyWord lang="es">Tarifas,tablas,flete</KeyWord>
+					<KeyWord lang="en">Feed,tables,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pré-faturas</Title>
+			<Title lang="es">Pre Facturas</Title>
+			<Title lang="en">Pro Forma Invoices</Title>
+			<ItemID>0000012298</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-faturas</Title>
+				<Title lang="es">Pre Facturas</Title>
+				<Title lang="en">Pro Forma Invoices</Title>
+				<Function>GFER055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Doc Frete/faturas</Title>
+			<Title lang="es">Doc Flete/facturas</Title>
+			<Title lang="en">Freight Doc/invoic</Title>
+			<ItemID>0000012300</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Frete</Title>
+				<Title lang="es">Documentos Flete</Title>
+				<Title lang="en">Freight Documents</Title>
+				<Function>GFER065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012301</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimento,ctr,ctrc,cte,nfs,documento</KeyWord>
+					<KeyWord lang="es">Conocimiento,ctr,ctrc,cte,fs,documento</KeyWord>
+					<KeyWord lang="en">Knowledge,ctr,ctrc,cte,nfs,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Frete</Title>
+				<Title lang="es">Saldo Flete</Title>
+				<Title lang="en">Freight Balance</Title>
+				<Function>GFER066</Function>
+				<Type>1</Type>
+				<Tables>GW3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimento,saldo,frete,conciliação,fatura</KeyWord>
+					<KeyWord lang="es">Conocimiento,saldo,flete,conciliación,factura</KeyWord>
+					<KeyWord lang="en">Waybill,balance,freight,reconciliation,invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas de Frete</Title>
+				<Title lang="es">Facturas de Flete</Title>
+				<Title lang="en">Freight Invoices</Title>
+				<Function>GFER070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fatura</KeyWord>
+					<KeyWord lang="es">Factura</KeyWord>
+					<KeyWord lang="en">Invoice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo Tarifas</Title>
+				<Title lang="es">Comparación Tarifas</Title>
+				<Title lang="en">Fees Comparison</Title>
+				<Function>GFER064</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020794</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comparativo,tarifa,negociacao</KeyWord>
+					<KeyWord lang="es">Comparación,tarifa,negociación</KeyWord>
+					<KeyWord lang="en">Comparative,fee,negotiation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contrato Autônomo</Title>
+			<Title lang="es">Contrato Autonomo</Title>
+			<Title lang="en">Autonomous Contrac</Title>
+			<ItemID>0000012303</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos/rpa</Title>
+				<Title lang="es">Contratos/rpa</Title>
+				<Title lang="en">Contracts/rpa</Title>
+				<Function>GFER100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contrato,rpa</KeyWord>
+					<KeyWord lang="es">Contrato,rpa</KeyWord>
+					<KeyWord lang="en">Contract,rpa</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impostos dos Autônomos</Title>
+				<Title lang="es">Impuestos de Autonomos</Title>
+				<Title lang="en">Freelance Taxes</Title>
+				<Function>GFER101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000019514</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Imposto,autônomo,imposto Autônomo</KeyWord>
+					<KeyWord lang="es">Impuesto,autonomo,impuesto Autonomo</KeyWord>
+					<KeyWord lang="en">Tax,independent,independent Tax</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilidad</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000012305</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doc Carga Sem Prov</Title>
+				<Title lang="es">Doc Carga Sin Prov</Title>
+				<Title lang="en">Ship.doc. W/o Prov</Title>
+				<Function>GFER094</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000014367</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Nota,provisão,contábil</KeyWord>
+					<KeyWord lang="es">Factura,provision,contable</KeyWord>
+					<KeyWord lang="en">Invoice,provision,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliação Contab</Title>
+				<Title lang="es">Conciliacion Conta</Title>
+				<Title lang="en">Acc.reconciliation</Title>
+				<Function>GFER093</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilização,contábil</KeyWord>
+					<KeyWord lang="es">Contabilidad,contable</KeyWord>
+					<KeyWord lang="en">Accounting,fiscal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contab. Fretes</Title>
+				<Title lang="es">Contab. Fletes</Title>
+				<Title lang="en">Shipment Accnt.</Title>
+				<Function>GFER096</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012468</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sublote,provisão,estorno,parcial</KeyWord>
+					<KeyWord lang="es">Sublote,provisión,reversión,parcial</KeyWord>
+					<KeyWord lang="en">Sublot,provision,reversal,partial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumarizado Fretes</Title>
+				<Title lang="es">Totalización de Fletes</Title>
+				<Title lang="en">Total Shipments</Title>
+				<Function>GFER097</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012469</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sublote,provisão,estorno,parcial</KeyWord>
+					<KeyWord lang="es">Sublote,provisión,reversión,parcial</KeyWord>
+					<KeyWord lang="en">Sublot,provision,reversal,partial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contab. Detalhado</Title>
+				<Title lang="es">Contab. Detallada</Title>
+				<Title lang="en">Detailed Accnt.</Title>
+				<Function>GFER995</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012470</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sublote,provisão,estorno,parcial</KeyWord>
+					<KeyWord lang="es">Sublote,provisión,reversión,parcial</KeyWord>
+					<KeyWord lang="en">Sublot,provision,reversal,partial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Contábil</Title>
+				<Title lang="es">Extracto Contable</Title>
+				<Title lang="en">Accounting Statement</Title>
+				<Function>GFER001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000015114</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sublote,provisão,estorno,parcial,fatura,frete</KeyWord>
+					<KeyWord lang="es">Sublote,provisión,reversión,parcial,factura,flete</KeyWord>
+					<KeyWord lang="en">Subbatch,provision,reversal,partial,invoice,freight</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A780000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Executar Programas</Title>
+				<Title lang="es">Ejecutar Programas</Title>
+				<Title lang="en">Run Programs</Title>
+				<Function>GFEFUNGE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000012315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Executar,função,programa,rotina</KeyWord>
+					<KeyWord lang="es">Ejecutar,funcion,programa,rutina</KeyWord>
+					<KeyWord lang="en">Run,function,program,routine</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visualizar Logs</Title>
+				<Title lang="es">Visualizar Logs</Title>
+				<Title lang="en">View Logs</Title>
+				<Function>GFEX002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000013282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Log,arquivo</KeyWord>
+					<KeyWord lang="es">Log,archivo</KeyWord>
+					<KeyWord lang="en">Log,file</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sincroniz Protheus</Title>
+				<Title lang="es">Sincroniz.protheus</Title>
+				<Title lang="en">Synchr.protheus</Title>
+				<Function>OMSM011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>78</Module>
+				<Owner>78</Owner>
+				<ItemID>0000016840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B780000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B780000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

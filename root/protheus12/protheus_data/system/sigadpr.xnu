@@ -1,0 +1,588 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGADPR</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A820000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000012648</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto Desenvolvido</Title>
+				<Title lang="es">Producto Desarrollado</Title>
+				<Title lang="en">Developed Product</Title>
+				<Function>DPRA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012572</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Versão Produto</Title>
+				<Title lang="es">Version Producto</Title>
+				<Title lang="en">Product Version</Title>
+				<Function>DPRA300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012616</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Família</Title>
+				<Title lang="es">Familia</Title>
+				<Title lang="en">Family</Title>
+				<Function>SFCA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012942</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Estoque</Title>
+				<Title lang="es">Grupo de Stcok</Title>
+				<Title lang="en">Inventory Group</Title>
+				<Function>SFCA021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012943</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Depósito</Title>
+				<Title lang="es">Deposito</Title>
+				<Title lang="en">Warehouse</Title>
+				<Function>SFCA022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012945</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Medida</Title>
+				<Title lang="es">Unidad de Medida</Title>
+				<Title lang="en">Unit Of Measuremen</Title>
+				<Function>SFCA023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012946</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Trabalho</Title>
+				<Title lang="es">Centro de Trabajo</Title>
+				<Title lang="en">Labour Center</Title>
+				<Function>SFCA001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014328</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Máquina</Title>
+				<Title lang="es">Maquina</Title>
+				<Title lang="en">Machinary</Title>
+				<Function>SFCA002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014327</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recurso</Title>
+				<Title lang="es">Recurso</Title>
+				<Title lang="en">Resource</Title>
+				<Function>SFCA006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014326</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critério de Qualidade</Title>
+				<Title lang="es">Criterio de Calidad</Title>
+				<Title lang="en">Quality Criteria</Title>
+				<Function>DPRA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012638</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Peso do Critério</Title>
+				<Title lang="es">Peso de Criterio</Title>
+				<Title lang="en">Criteria Weight</Title>
+				<Function>DPRA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012639</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Preço Produto Concorrente</Title>
+				<Title lang="es">Precio Producto Competidor</Title>
+				<Title lang="en">Price Competition Product</Title>
+				<Function>DPRA101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012649</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Turnover</Title>
+			<ItemID>0000012651</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem Protótipo</Title>
+				<Title lang="es">Orden Prototipo</Title>
+				<Title lang="en">Proto.order</Title>
+				<Function>DPRA340</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012654</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000012656</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação Versão</Title>
+				<Title lang="es">Aprovacion Version</Title>
+				<Title lang="en">Version Approval</Title>
+				<Function>DPRA341</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberação Versão</Title>
+				<Title lang="es">Liberacion Version</Title>
+				<Title lang="en">Version Release</Title>
+				<Function>DPRA342</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012658</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendência Desenvolvimento</Title>
+				<Title lang="es">Pendencia Desarrollo</Title>
+				<Title lang="en">Pending Development</Title>
+				<Function>DPRA350</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016719</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Qualidade</Title>
+			<Title lang="es">Calidad</Title>
+			<Title lang="en">Quality</Title>
+			<ItemID>0000016958</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaios</Title>
+				<Title lang="es">Ensayos</Title>
+				<Title lang="en">Rehearsal</Title>
+				<Function>QIPA020</Function>
+				<Type>1</Type>
+				<Tables>QP1</Tables>
+				<Tables>QP2</Tables>
+				<Tables>QP7</Tables>
+				<Tables>QP8</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QPR</Tables>
+				<Tables>QEE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000016959</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Skip-lote</Title>
+				<Title lang="es">Skip-lote</Title>
+				<Title lang="en">Skip-lot</Title>
+				<Function>QIPA130</Function>
+				<Type>1</Type>
+				<Tables>QPF</Tables>
+				<Tables>QPX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000016960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Planos</Title>
+				<Title lang="es">Tipos de Planes</Title>
+				<Title lang="en">Plan Types</Title>
+				<Function>QIPA150</Function>
+				<Type>1</Type>
+				<Tables>QQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000018336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Amostragem</Title>
+				<Title lang="es">Plan de Muestra</Title>
+				<Title lang="en">Sampling Plan</Title>
+				<Function>QIPA160</Function>
+				<Type>1</Type>
+				<Tables>QA6</Tables>
+				<Tables>QA7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000018337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Skip-teste Individual</Title>
+				<Title lang="es">Skip-prueba Indiv</Title>
+				<Title lang="en">Individual Skip-test</Title>
+				<Function>QIPA170</Function>
+				<Type>1</Type>
+				<Tables>QPH</Tables>
+				<Tables>QPI</Tables>
+				<Tables>QPN</Tables>
+				<Tables>QPY</Tables>
+				<Tables>QPA</Tables>
+				<Tables>QP6</Tables>
+				<Tables>QP7</Tables>
+				<Tables>QP8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000018338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especificação Produtos</Title>
+				<Title lang="es">Especificac Prod</Title>
+				<Title lang="en">Product Specification</Title>
+				<Function>QIPA010</Function>
+				<Type>1</Type>
+				<Tables>QP6</Tables>
+				<Tables>SB1</Tables>
+				<Tables>QP7</Tables>
+				<Tables>QP8</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QP1</Tables>
+				<Tables>QM1</Tables>
+				<Tables>QPS</Tables>
+				<Tables>QPT</Tables>
+				<Tables>QEE</Tables>
+				<Tables>SH3</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SH1</Tables>
+				<Tables>SH7</Tables>
+				<Tables>SH4</Tables>
+				<Tables>QQ1</Tables>
+				<Tables>QQ2</Tables>
+				<Tables>QQ3</Tables>
+				<Tables>QQH</Tables>
+				<Tables>QQG</Tables>
+				<Tables>SHB</Tables>
+				<Tables>SAH</Tables>
+				<Tables>QQK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>25</Owner>
+				<ItemID>0000016964</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A820000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000012863</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto</Title>
+				<Title lang="es">Producto</Title>
+				<Title lang="en">Product</Title>
+				<Function>SFCC101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014254</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000012645</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Versão</Title>
+				<Title lang="es">Historial Version</Title>
+				<Title lang="en">Version History</Title>
+				<Function>DPRC300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Preço Novo Produto</Title>
+				<Title lang="es">Precio Nvo Product</Title>
+				<Title lang="en">New Product Price</Title>
+				<Function>DPRC322</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Fabricação</Title>
+				<Title lang="es">Costo Fabricacion</Title>
+				<Title lang="en">Manufacturing Cost</Title>
+				<Function>DPRC324</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo Concorrente</Title>
+				<Title lang="es">Comparativo Compet</Title>
+				<Title lang="en">Competition Comparative</Title>
+				<Function>DPRC323</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulação Roi</Title>
+				<Title lang="es">Simulac. Roi</Title>
+				<Title lang="en">Roi Simulation</Title>
+				<Function>DPRC321</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo Versão</Title>
+				<Title lang="es">Comparativo Versio</Title>
+				<Title lang="en">Version Comparison</Title>
+				<Function>DPRC310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>82</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B820000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B820000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

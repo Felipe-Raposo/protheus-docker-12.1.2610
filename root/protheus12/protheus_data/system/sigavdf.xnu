@@ -1,0 +1,2037 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAVDF</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A860000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Básicos</Title>
+			<Title lang="es">Archivos Básicos</Title>
+			<Title lang="en">Basic Files</Title>
+			<ItemID>0000021078</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Deparments</Title>
+				<Function>CSAA100</Function>
+				<Type>1</Type>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Departamento,lotação,lotacao</KeyWord>
+					<KeyWord lang="es">Departamento,asignación,asignación</KeyWord>
+					<KeyWord lang="en">Department,allotment,allotment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custos</Title>
+				<Title lang="es">Centros de Costos</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021088</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>GPEA370</Function>
+				<Type>1</Type>
+				<Tables>SQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021089</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Roles</Title>
+				<Function>GPEA030</Function>
+				<Type>1</Type>
+				<Tables>SRJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entrâncias</Title>
+				<Title lang="es">Cat. Comarcas</Title>
+				<Title lang="en">Grades</Title>
+				<Function>APTA040</Function>
+				<Type>1</Type>
+				<Tables>RER</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comarcas</Title>
+				<Title lang="es">Comarcas</Title>
+				<Title lang="en">Judicial District</Title>
+				<Function>APTA050</Function>
+				<Type>1</Type>
+				<Tables>REC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021092</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ponto Eletrônico</Title>
+			<Title lang="es">Reloj Registrador Electronico</Title>
+			<Title lang="en">Electronic Attendance</Title>
+			<ItemID>0000021122</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turnos de Trabalho</Title>
+				<Title lang="es">Turnos de Trabajo</Title>
+				<Title lang="en">Work Shifts</Title>
+				<Function>GPEA080</Function>
+				<Type>1</Type>
+				<Tables>SR6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021123</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Horários</Title>
+				<Title lang="es">Tabla de Horarios</Title>
+				<Title lang="en">Schedule Table</Title>
+				<Function>PONA080</Function>
+				<Type>1</Type>
+				<Tables>SPJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021124</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras</Title>
+				<Title lang="es">Reglas</Title>
+				<Title lang="en">Rules</Title>
+				<Function>PONA060</Function>
+				<Type>1</Type>
+				<Tables>SPA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021125</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Definições Cálculo</Title>
+			<Title lang="es">Definiciones Cálculo</Title>
+			<Title lang="en">Calculation Definition</Title>
+			<ItemID>0000021126</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Processes</Title>
+				<Function>GPEA420</Function>
+				<Type>1</Type>
+				<Tables>RCJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021127</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Tabelas</Title>
+				<Title lang="es">Mantenimiento Tablas</Title>
+				<Title lang="en">Tables Maintenance</Title>
+				<Function>GPEA320</Function>
+				<Type>1</Type>
+				<Tables>RCB</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Subsídios</Title>
+				<Title lang="es">Tabla de Subsidio</Title>
+				<Title lang="en">Subsidies Table</Title>
+				<Function>CSAA070</Function>
+				<Type>1</Type>
+				<Tables>RB6</Tables>
+				<Tables>RBR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021129</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Ausências</Title>
+				<Title lang="es">Tipos de Ausencias</Title>
+				<Title lang="en">Types Of Absences</Title>
+				<Function>GPEA430</Function>
+				<Type>1</Type>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021130</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Concursos</Title>
+			<Title lang="es">Concursos</Title>
+			<Title lang="en">Contests</Title>
+			<ItemID>0000021132</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Concursos</Title>
+				<Title lang="es">Concursos</Title>
+				<Title lang="en">Contests</Title>
+				<Function>VDFA010</Function>
+				<Type>1</Type>
+				<Tables>REW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisitos Gerais</Title>
+				<Title lang="es">Requisitos Generales</Title>
+				<Title lang="en">General Requests</Title>
+				<Function>VDFA020</Function>
+				<Type>1</Type>
+				<Tables>REV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021134</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Função/requis P/concurso</Title>
+				<Title lang="es">Función/requis P/concurso</Title>
+				<Title lang="en">Role/request For Contest</Title>
+				<Function>VDFA030</Function>
+				<Type>1</Type>
+				<Tables>RI7</Tables>
+				<Tables>REX</Tables>
+				<Tables>REW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021135</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação Resultados</Title>
+				<Title lang="es">Importación Resultados</Title>
+				<Title lang="en">Result Import</Title>
+				<Function>VDFM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos</Title>
+				<Title lang="es">Candidatos</Title>
+				<Title lang="en">Candidates</Title>
+				<Function>RSPA010</Function>
+				<Type>1</Type>
+				<Tables>SQG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021137</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Candidatos X Concursos</Title>
+				<Title lang="es">Candidatos Vs. Concursos</Title>
+				<Title lang="en">Candidates X Contests</Title>
+				<Function>VDFA040</Function>
+				<Type>1</Type>
+				<Tables>SQG</Tables>
+				<Tables>REY</Tables>
+				<Tables>REZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021138</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Convoca/registra Ato/portaria</Title>
+				<Title lang="es">Convoca/registra Acto/resolución</Title>
+				<Title lang="en">Call/register Act/ordinance</Title>
+				<Function>VDFM030</Function>
+				<Type>1</Type>
+				<Tables>SQG</Tables>
+				<Tables>RI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021139</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Servidores</Title>
+			<Title lang="es">Servidores</Title>
+			<Title lang="en">Servers</Title>
+			<ItemID>0000021143</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidores</Title>
+				<Title lang="es">Sub Grupo</Title>
+				<Title lang="en">Servers</Title>
+				<Function>GPEA010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dependentes</Title>
+				<Title lang="es">Dependientes</Title>
+				<Title lang="en">Dependents</Title>
+				<Function>GPEA020</Function>
+				<Type>1</Type>
+				<Tables>SRB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021145</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Beneficiários</Title>
+				<Title lang="es">Beneficiarios</Title>
+				<Title lang="en">Beneficiaries</Title>
+				<Function>GPEA280</Function>
+				<Type>1</Type>
+				<Tables>SRQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021146</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aposentados/pensionistas</Title>
+				<Title lang="es">Jubilados/pensionistas</Title>
+				<Title lang="en">Retired/social Secutiry Beneficiaries</Title>
+				<Function>VDFA170</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021147</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ausências</Title>
+				<Title lang="es">Ausencias</Title>
+				<Title lang="en">Absences</Title>
+				<Function>GPEA240</Function>
+				<Type>1</Type>
+				<Tables>SR8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dias de Direito</Title>
+				<Title lang="es">Días de Derecho</Title>
+				<Title lang="en">Entitled Days</Title>
+				<Function>GPEA051</Function>
+				<Type>1</Type>
+				<Tables>SRF</Tables>
+				<Tables>RIA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perícias</Title>
+				<Title lang="es">Pericias</Title>
+				<Title lang="en">Report</Title>
+				<Function>VDFA090</Function>
+				<Type>1</Type>
+				<Tables>RIP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021150</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Substituições</Title>
+				<Title lang="es">Sustituciones</Title>
+				<Title lang="en">Substitutions</Title>
+				<Function>VDFA070</Function>
+				<Type>1</Type>
+				<Tables>RI8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021151</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Abono Permanência</Title>
+				<Title lang="es">Subsidio Permanencia</Title>
+				<Title lang="en">Permanence Bonus</Title>
+				<Function>VDFA110</Function>
+				<Type>1</Type>
+				<Tables>RIJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021152</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Subsídios</Title>
+				<Title lang="es">Historial de Subsidios</Title>
+				<Title lang="en">Subsidies History</Title>
+				<Function>GPEA250</Function>
+				<Type>1</Type>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021153</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Atos/portarias</Title>
+				<Title lang="es">Historial Actos/resoluciones</Title>
+				<Title lang="en">History Acts/ordinances</Title>
+				<Function>VDFA210</Function>
+				<Type>1</Type>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021154</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vitaliciamento Membros</Title>
+				<Title lang="es">Prepetuación Miembros</Title>
+				<Title lang="en">Lifelong Members</Title>
+				<Function>VDFC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021155</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Averbação Tempo Contribuição</Title>
+				<Title lang="es">Anotación Tiempo Aporte</Title>
+				<Title lang="en">Contribution Time Annotation</Title>
+				<Function>VDFA100</Function>
+				<Type>1</Type>
+				<Tables>RIF</Tables>
+				<Tables>RIG</Tables>
+				<Tables>RIH</Tables>
+				<Tables>RII</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021156</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certidão Tempo Contribuição</Title>
+				<Title lang="es">Certificado Tiempo Aporte</Title>
+				<Title lang="en">Contribution Time Certificate</Title>
+				<Function>VDFM060</Function>
+				<Type>1</Type>
+				<Tables>RIE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021158</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000021160</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relotação</Title>
+				<Title lang="es">Reasignación</Title>
+				<Title lang="en">Reallocation</Title>
+				<Function>GPEA180</Function>
+				<Type>1</Type>
+				<Tables>SRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021164</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Troca de Turno/jornada</Title>
+				<Title lang="es">Cambio de Turno/jornada</Title>
+				<Title lang="en">Shift/working Hours Change</Title>
+				<Function>PONA161</Function>
+				<Type>1</Type>
+				<Tables>SPF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021165</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração Cargos/subsídios</Title>
+				<Title lang="es">Modificación Cargos/subsidios</Title>
+				<Title lang="en">Change Positions/subsidies</Title>
+				<Function>VDFM180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021166</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Designações</Title>
+				<Title lang="es">Asignaciones</Title>
+				<Title lang="en">Designations</Title>
+				<Function>VDFA220</Function>
+				<Type>1</Type>
+				<Tables>RIL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021167</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Adidos/cedidos</Title>
+				<Title lang="es">Historial Agregados/cedidos</Title>
+				<Title lang="en">History Granted/assigned</Title>
+				<Function>VDFC020</Function>
+				<Type>1</Type>
+				<Tables>RID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021168</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Promotores Eleitorais</Title>
+				<Title lang="es">Promotores Electorales</Title>
+				<Title lang="en">Election Promoters</Title>
+				<Function>VDFA150</Function>
+				<Type>1</Type>
+				<Tables>RIM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021169</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exoneração/demissão</Title>
+				<Title lang="es">Exoneración/despido</Title>
+				<Title lang="en">Dismissal</Title>
+				<Function>GPEM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021171</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A860000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000021098</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genéricos</Title>
+				<Title lang="en">Generics</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021097</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Registro</Title>
+				<Title lang="es">Ficha de Registro</Title>
+				<Title lang="en">Record File</Title>
+				<Function>GPEA260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021100</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A860000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Nomeação e Exoneração</Title>
+			<Title lang="es">Nombramiento Y Exoneración</Title>
+			<Title lang="en">Naming And Exoneration</Title>
+			<ItemID>0000021099</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nomeações</Title>
+				<Title lang="es">Nombramientos</Title>
+				<Title lang="en">Appointment</Title>
+				<Function>VDFR130</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021102</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exonerações e Demissões</Title>
+				<Title lang="es">Exoneraciones Y Despidos</Title>
+				<Title lang="en">Terminations And Dismissals</Title>
+				<Function>VDFR140</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021103</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relotações</Title>
+				<Title lang="es">Reasignaciones</Title>
+				<Title lang="en">Reallocations</Title>
+				<Function>VDFR150</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021104</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Remoções</Title>
+				<Title lang="es">Remociones</Title>
+				<Title lang="en">Removals</Title>
+				<Function>VDFR160</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021105</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Afastamentos</Title>
+				<Title lang="es">Licencias</Title>
+				<Title lang="en">Leaves Of Absence</Title>
+				<Function>VDFR170</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021106</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Afastamentos</Title>
+				<Title lang="es">Retorno Licencias</Title>
+				<Title lang="en">Leaves Return</Title>
+				<Function>VDFR180</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021107</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aposentadorias</Title>
+				<Title lang="es">Jubilaciones</Title>
+				<Title lang="en">Retirements</Title>
+				<Function>VDFR190</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRE</Tables>
+				<Tables>SRG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021108</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Quadro de Servidores</Title>
+			<Title lang="es">Plantilla de Servidores</Title>
+			<Title lang="en">Servants Staff</Title>
+			<ItemID>0000021109</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Afastamentos</Title>
+				<Title lang="es">Licencias</Title>
+				<Title lang="en">Leaves Of Absence</Title>
+				<Function>VDFR100</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021110</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidores Cedidos</Title>
+				<Title lang="es">Servidores Cedidos</Title>
+				<Title lang="en">Servers Grantes</Title>
+				<Function>VDFR110</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RID</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021111</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidores Adidos</Title>
+				<Title lang="es">Servidores Agregados</Title>
+				<Title lang="en">Added Servers</Title>
+				<Function>VDFR120</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RID</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021112</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Provimentos</Title>
+			<Title lang="es">Provisiones</Title>
+			<Title lang="en">Supplies</Title>
+			<ItemID>0000021113</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Provimento Efetivo Categ.</Title>
+				<Title lang="es">Provisión Efectivo Gateg.</Title>
+				<Title lang="en">Supply Effective Categ.</Title>
+				<Function>VDFR250</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RCC</Tables>
+				<Tables>RBR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021114</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Provimento Comissão Categ.</Title>
+				<Title lang="es">Provisión Efectivo Gateg.</Title>
+				<Title lang="en">Categ. Commission Provision</Title>
+				<Function>VDFR260</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RCC</Tables>
+				<Tables>RBR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021115</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">% Comiss Reserv.p/efetivo</Title>
+				<Title lang="es">% Comis Reserv.p/efectivo</Title>
+				<Title lang="en">Commiss % Reserv.f/active</Title>
+				<Function>VDFR270</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021116</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Provimento Membro Categ.</Title>
+				<Title lang="es">Provisión Miembro Categ.</Title>
+				<Title lang="en">Categ. Member Provision</Title>
+				<Function>VDFR280</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>RBR</Tables>
+				<Tables>REC</Tables>
+				<Tables>RER</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021117</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissionados e Efetivos</Title>
+				<Title lang="es">Comisionados Y Efectivos</Title>
+				<Title lang="en">Commissioned And Active</Title>
+				<Function>VDFR300</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SPF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021118</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Férias</Title>
+			<Title lang="es">Vacaciones</Title>
+			<Title lang="en">Vacations</Title>
+			<ItemID>0000021119</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Prazo de Férias</Title>
+				<Title lang="es">Control Plazo de Vacaciones</Title>
+				<Title lang="en">Vacation Term Control</Title>
+				<Function>VDFR090</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RFS</Tables>
+				<Tables>RV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Período Aquisitivo Férias</Title>
+				<Title lang="es">Período Adquisitivo Vacaciones</Title>
+				<Title lang="en">Vacation Acquisition Period</Title>
+				<Function>VDFR070</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RFS</Tables>
+				<Tables>RV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021121</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Férias Já Usufruídas</Title>
+				<Title lang="es">Vacaciones Disfrutadas</Title>
+				<Title lang="en">Vacations Enjoyed</Title>
+				<Function>VDFR080</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RIA</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Férias Indenizadas</Title>
+				<Title lang="es">Vacaciones Indemnizadas</Title>
+				<Title lang="en">Compensated Vacations</Title>
+				<Function>VDFR220</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRV</Tables>
+				<Tables>RIA</Tables>
+				<Tables>SRF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tce</Title>
+			<Title lang="es">Tce</Title>
+			<Title lang="en">Tbi</Title>
+			<ItemID>0000021185</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tce - Admitidos</Title>
+				<Title lang="es">Tce - Ingresados</Title>
+				<Title lang="en">Tce - Hired</Title>
+				<Function>VDFR340</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tce - Exonerados</Title>
+				<Title lang="es">Tce - Exonerados</Title>
+				<Title lang="en">Tce - Exonerated</Title>
+				<Function>VDFR350</Function>
+				<Type>1</Type>
+				<Tables>SAS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021187</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tce - Lotacionograma</Title>
+				<Title lang="es">Tce - Organigrama de Asignación</Title>
+				<Title lang="en">Tce - Allocation Chart</Title>
+				<Function>VDFR360</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RCC</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021188</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Exerc.cumul. e Dif.provimento</Title>
+			<Title lang="es">Ejerc.acumul. Y Dif. Previsión</Title>
+			<Title lang="en">Cummul.exerc. & Diff. Provision</Title>
+			<ItemID>0000021190</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exerc.cumulativo de Função</Title>
+				<Title lang="es">Ejerc.acumulativo de Función</Title>
+				<Title lang="en">Cummulative Function Exercise</Title>
+				<Function>VDFR380</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RI8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exerc.difícil Provimento</Title>
+				<Title lang="es">Ejerc.difícil Provisión</Title>
+				<Title lang="en">Difficult Provision Exercise</Title>
+				<Function>VDFR390</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RI8</Tables>
+				<Tables>RIK</Tables>
+				<Tables>SRE</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021192</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estagiários</Title>
+			<Title lang="es">Pasantes</Title>
+			<Title lang="en">Interns</Title>
+			<ItemID>0000021193</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recesso Remunerado</Title>
+				<Title lang="es">Receso Remunerado</Title>
+				<Title lang="en">Compensated Recess</Title>
+				<Function>VDFR240</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RIA</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021194</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estagiários Ativos (alfabética)</Title>
+				<Title lang="es">Pasantes Activos (alfabética)</Title>
+				<Title lang="en">Active Interns (alphabetical)</Title>
+				<Function>VDFR330</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>REC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estagiários Existentes</Title>
+				<Title lang="es">Pasantes Existentes</Title>
+				<Title lang="en">Existing Interns</Title>
+				<Function>VDFR400</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>RCC</Tables>
+				<Tables>REC</Tables>
+				<Tables>RER</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021196</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Decl.certid.certificado Estag.</Title>
+				<Title lang="es">Decl. Certificado de Pasantía</Title>
+				<Title lang="en">Decl Certif Certificate Intern</Title>
+				<Function>VDFR410</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021197</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Diversos</Title>
+			<Title lang="es">Diversos</Title>
+			<Title lang="en">Various</Title>
+			<ItemID>0000021199</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidores Horario Especial</Title>
+				<Title lang="es">Servidores Horario Especial</Title>
+				<Title lang="en">Special Time Servers</Title>
+				<Function>VDFR030</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021200</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidores Jornada Trabalho</Title>
+				<Title lang="es">Servidores Jornada Laboral</Title>
+				<Title lang="en">Public Servants Workday</Title>
+				<Function>VDFR020</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SPF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Licenças</Title>
+				<Title lang="es">Licencias</Title>
+				<Title lang="en">Licenses</Title>
+				<Function>VDFR290</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021202</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ausências</Title>
+				<Title lang="es">Ausencias</Title>
+				<Title lang="en">Absences</Title>
+				<Function>GPER580</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021203</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Antiguidade de Membros</Title>
+				<Title lang="es">Antigüedad de Miembros</Title>
+				<Title lang="en">Members Seniority</Title>
+				<Function>VDFR320</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>RII</Tables>
+				<Tables>RB6</Tables>
+				<Tables>SRE</Tables>
+				<Tables>RER</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Antig.membros Eleitoral</Title>
+				<Title lang="es">Antig.miembros Electoral</Title>
+				<Title lang="en">Electoral Members Seniority</Title>
+				<Function>VDFR200</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>REC</Tables>
+				<Tables>RIM</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SRE</Tables>
+				<Tables>RII</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021205</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pagto Verbas X Afastamentos</Title>
+				<Title lang="es">Pago Conceptos Vs. Licencias</Title>
+				<Title lang="en">Payroll Items X Leaves Of Absence Paymt.</Title>
+				<Function>VDFR210</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021206</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verbas da Folha</Title>
+				<Title lang="es">Conceptos de La Planilla</Title>
+				<Title lang="en">Payroll Items</Title>
+				<Function>VDFR230</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>REC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Progr.funcional (mensal/indiv)</Title>
+				<Title lang="es">Progr.funcional (mensual/indiv)</Title>
+				<Title lang="en">Functional Progr. (monthly/indiv)</Title>
+				<Function>VDFR370</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR3</Tables>
+				<Tables>RB6</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel Calc Tempo P/aposentadoria</Title>
+				<Title lang="es">Inf Cálc Tiempo P/jubilación</Title>
+				<Title lang="en">Time To Retirement Calc Report</Title>
+				<Function>VDFR460</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RII</Tables>
+				<Tables>RCC</Tables>
+				<Tables>RIF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Designações (modelo 1)</Title>
+				<Title lang="es">Designaciones (modelo 1)</Title>
+				<Title lang="en">Designations (model 1)</Title>
+				<Function>VDFR420</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RIL</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Designações (modelo 2)</Title>
+				<Title lang="es">Designaciones (modelo 2)</Title>
+				<Title lang="en">Designations (model 2)</Title>
+				<Function>VDFR430</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RIL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotacionograma</Title>
+				<Title lang="es">Organigrama de Asignación</Title>
+				<Title lang="en">Allocation Chart</Title>
+				<Function>VDFR440</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Tables>RIL</Tables>
+				<Tables>RBR</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotacionograma Word</Title>
+				<Title lang="es">Organigrama de Asignación Word</Title>
+				<Title lang="en">Allocation Chart Word</Title>
+				<Function>VDFR450</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021213</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A860000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atos/portarias</Title>
+			<Title lang="es">Decretos/resoluciones</Title>
+			<Title lang="en">Decrees/ordinances</Title>
+			<ItemID>0000021215</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Doc de Atos/portarias</Title>
+				<Title lang="es">Genera Doc de Decretos/resoluciones</Title>
+				<Title lang="en">Creates Doc Of Decrees/ordinances</Title>
+				<Function>VDFM020</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RI5</Tables>
+				<Tables>RI6</Tables>
+				<Tables>RCC</Tables>
+				<Tables>REY</Tables>
+				<Tables>SQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Editor Modelos Atos/portarias</Title>
+				<Title lang="es">Editor Modelos Decretos/resoluciones</Title>
+				<Title lang="en">Editor Models Decrees/ordinances</Title>
+				<Function>VDFM220</Function>
+				<Type>1</Type>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Reajuste</Title>
+			<Title lang="es">Reajuste</Title>
+			<Title lang="en">Adjustment</Title>
+			<ItemID>0000021218</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reajuste de Subsídios</Title>
+				<Title lang="es">Reajuste de Subsidios</Title>
+				<Title lang="en">Subsidies Adjustment</Title>
+				<Function>GPER200</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reaj.subsídio Por Tabela</Title>
+				<Title lang="es">Reaj.subsidio Por Tabla</Title>
+				<Title lang="en">Subsidy Adjustmt. By Table</Title>
+				<Function>CSAM010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RBR</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Execução Manual Jobs</Title>
+			<Title lang="es">Execución Manual Jobs</Title>
+			<Title lang="en">Jobs Manual Execution</Title>
+			<ItemID>0000021221</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Email Vitaliciamento</Title>
+				<Title lang="es">Email Perpetuación</Title>
+				<Title lang="en">Tenuring Email</Title>
+				<Function>VDFM050</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Email Prazo de Perícia</Title>
+				<Title lang="es">Email Plazo de Pericia</Title>
+				<Title lang="en">Expert Opinion Expiration Email</Title>
+				<Function>VDFM090</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RIP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Portal Vida Funcional</Title>
+			<Title lang="es">Portal Vida Funcional</Title>
+			<Title lang="en">Functional Life Portal</Title>
+			<ItemID>0000021224</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pessoas Portal</Title>
+				<Title lang="es">Personas Portal</Title>
+				<Title lang="en">Portal Persons</Title>
+				<Function>APDA020</Function>
+				<Type>1</Type>
+				<Tables>RDZ</Tables>
+				<Tables>RD0</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários Portal</Title>
+				<Title lang="es">Usuarios Portal</Title>
+				<Title lang="en">Portal Users</Title>
+				<Function>FATA220</Function>
+				<Type>1</Type>
+				<Tables>AI3</Tables>
+				<Tables>AI4</Tables>
+				<Tables>AI5</Tables>
+				<Tables>AI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Senhas Pessoas</Title>
+				<Title lang="es">Mantenimiento Contraseñas Personales</Title>
+				<Title lang="en">Personal Password Maintenance</Title>
+				<Function>TCFA130</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Menus Portais</Title>
+				<Title lang="es">Menús Portales</Title>
+				<Title lang="en">Portal Menus</Title>
+				<Function>FATA240</Function>
+				<Type>1</Type>
+				<Tables>AI8</Tables>
+				<Tables>AI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021228</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Web Services</Title>
+				<Title lang="es">Web Services</Title>
+				<Title lang="en">Web Services</Title>
+				<Function>FATA230</Function>
+				<Type>1</Type>
+				<Tables>AI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021229</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Workflow Aprovação</Title>
+				<Title lang="es">Workflow Aprobación</Title>
+				<Title lang="en">Workflow Approval</Title>
+				<Function>VDFA080</Function>
+				<Type>1</Type>
+				<Tables>RIB</Tables>
+				<Tables>RIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021230</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivação Solicit.portal</Title>
+				<Title lang="es">Hace Efectiva Solicit. Portal</Title>
+				<Title lang="en">Portal Request Activation</Title>
+				<Function>TCFA040</Function>
+				<Type>1</Type>
+				<Tables>RH3</Tables>
+				<Tables>RH4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>86</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B860000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B860000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

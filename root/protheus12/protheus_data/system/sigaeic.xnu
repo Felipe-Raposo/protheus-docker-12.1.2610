@@ -1,0 +1,3923 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAEIC</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A170000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas</Title>
+			<Title lang="es">Tablas</Title>
+			<Title lang="en">Tables</Title>
+			<ItemID>0000003805</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Familias</Title>
+				<Title lang="es">Familias</Title>
+				<Title lang="en">Families</Title>
+				<Function>EICA120</Function>
+				<Type>1</Type>
+				<Tables>SW2</Tables>
+				<Tables>SYS</Tables>
+				<Tables>SW1</Tables>
+				<Tables>SW7</Tables>
+				<Tables>SW0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003806</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integracao Ncm</Title>
+				<Title lang="es">Integracion Ncm</Title>
+				<Title lang="en">N C M Integration</Title>
+				<Function>EASYTEC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003807</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">N.c.m.</Title>
+				<Title lang="es">N.c.m.</Title>
+				<Title lang="en">N C M</Title>
+				<Function>EICA130</Function>
+				<Type>1</Type>
+				<Tables>SYD</Tables>
+				<Tables>SAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003808</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Compradores</Title>
+				<Title lang="es">Compradores</Title>
+				<Title lang="en">Buyers</Title>
+				<Function>EICA010</Function>
+				<Type>1</Type>
+				<Tables>SYI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003812</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Entrega</Title>
+				<Title lang="es">Lugares de Entrega</Title>
+				<Title lang="en">Delivery Locations</Title>
+				<Function>EICA020</Function>
+				<Type>1</Type>
+				<Tables>SJ6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003813</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades Requisit.</Title>
+				<Title lang="es">Unidades Solicit.</Title>
+				<Title lang="en">Requesting Unit</Title>
+				<Function>EICA030</Function>
+				<Type>1</Type>
+				<Tables>SY3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003814</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agentes Transp.</Title>
+				<Title lang="es">Agentes Transp.</Title>
+				<Title lang="en">Transp. Agent</Title>
+				<Function>EICA040</Function>
+				<Type>1</Type>
+				<Tables>SY4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003815</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despachantes</Title>
+				<Title lang="es">Despachantes</Title>
+				<Title lang="en">Forwarders</Title>
+				<Function>EICA050</Function>
+				<Type>1</Type>
+				<Tables>SY5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003816</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Incoterms</Title>
+				<Title lang="es">Incoterms</Title>
+				<Title lang="en">Incoterms</Title>
+				<Function>EICA190</Function>
+				<Type>1</Type>
+				<Tables>SYJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003817</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Condicoes de Pag</Title>
+				<Title lang="es">Condicion de Pago</Title>
+				<Title lang="en">Payment Conditions</Title>
+				<Function>EICA060</Function>
+				<Type>1</Type>
+				<Tables>SY6</Tables>
+				<Tables>SJ7</Tables>
+				<Tables>SJ8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003818</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mensagens</Title>
+				<Title lang="es">Mensajes</Title>
+				<Title lang="en">Messages</Title>
+				<Function>EICA070</Function>
+				<Type>1</Type>
+				<Tables>SY7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003819</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fundamento Legal</Title>
+				<Title lang="es">Fundamento Legal</Title>
+				<Title lang="en">Legal Grounds</Title>
+				<Function>EICA080</Function>
+				<Type>1</Type>
+				<Tables>SY8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003820</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Portos/aeroportos</Title>
+				<Title lang="es">Puertos/ Aeropuert</Title>
+				<Title lang="en">Ports/airports</Title>
+				<Function>EICA090</Function>
+				<Type>1</Type>
+				<Tables>SY9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003821</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Paises</Title>
+				<Title lang="es">Paises</Title>
+				<Title lang="en">Countries</Title>
+				<Function>EICA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003822</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro Minist.</Title>
+				<Title lang="es">Registro Minist.</Title>
+				<Title lang="en">Ministry Reg.</Title>
+				<Function>EICA200</Function>
+				<Type>1</Type>
+				<Tables>SYG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003823</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas Seguro</Title>
+				<Title lang="es">Tablas Seguro</Title>
+				<Title lang="en">Insurance Tables</Title>
+				<Function>EICCA210</Function>
+				<Type>1</Type>
+				<Tables>SYK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003824</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Corretoras</Title>
+				<Title lang="es">Corredoras</Title>
+				<Title lang="en">Stockbrokers</Title>
+				<Function>EICCR100</Function>
+				<Type>1</Type>
+				<Tables>SYW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003825</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">C.f.o.</Title>
+				<Title lang="es">C.f.o.</Title>
+				<Title lang="en">C F o</Title>
+				<Function>EICOP100</Function>
+				<Type>1</Type>
+				<Tables>SWX</Tables>
+				<Tables>SWZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>31</Owner>
+				<ItemID>0000003826</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Armadores</Title>
+				<Title lang="es">Armadores</Title>
+				<Title lang="en">Shipyards</Title>
+				<Function>EECAC175</Function>
+				<Type>1</Type>
+				<Tables>EE3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>29</Owner>
+				<ItemID>0000003827</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ipi de Pauta</Title>
+				<Title lang="es">Ipi de Pauta</Title>
+				<Title lang="en">Settled Ipi</Title>
+				<Function>EICA300</Function>
+				<Type>1</Type>
+				<Tables>SWX</Tables>
+				<Tables>SWZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012562</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos Contabeis</Title>
+				<Title lang="es">Eventos Contables</Title>
+				<Title lang="en">Accounting Events</Title>
+				<Function>ECOA002</Function>
+				<Type>1</Type>
+				<Tables>EC6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>31</Owner>
+				<ItemID>0000012565</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nomeação de Navio</Title>
+				<Title lang="es">Identif. de Barco</Title>
+				<Title lang="en">Assignment Of Ship</Title>
+				<Function>EECAC170A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>29</Owner>
+				<ItemID>0000003830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Workflow</Title>
+				<Title lang="es">Archivo Workflow</Title>
+				<Title lang="en">Workflow Register</Title>
+				<Function>EASYCADWOR</Function>
+				<Type>1</Type>
+				<Tables>EJ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012417</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Preco</Title>
+				<Title lang="es">Unidade de Precio</Title>
+				<Title lang="en">Price Unit</Title>
+				<Function>EICAM102</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportadoras</Title>
+				<Title lang="es">Transportadoras</Title>
+				<Title lang="en">Carriers</Title>
+				<Function>MATA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012877</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000003832</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importadores</Title>
+				<Title lang="es">Importadores</Title>
+				<Title lang="en">Importers</Title>
+				<Function>EICA005</Function>
+				<Type>1</Type>
+				<Tables>SYT</Tables>
+				<Tables>SY1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SY2</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos</Title>
+				<Title lang="es">Bancos</Title>
+				<Title lang="en">Banks</Title>
+				<Function>MATA070</Function>
+				<Type>1</Type>
+				<Tables>SYA</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SE5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>6</Owner>
+				<ItemID>0000003834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SYC</Tables>
+				<Tables>SJC</Tables>
+				<Tables>SJ1</Tables>
+				<Tables>SJ2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Lugares de Stock</Title>
+				<Title lang="en">Inventory Place</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>67</Owner>
+				<ItemID>0000012686</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fabricante/forn.</Title>
+				<Title lang="es">Fabricante/ Provee</Title>
+				<Title lang="en">Manufact./supplier</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtoxfornecedor</Title>
+				<Title lang="es">Producto Vs. Prov.</Title>
+				<Title lang="en">Prod. Vs. Supplier</Title>
+				<Function>MATA061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos Suframa</Title>
+				<Title lang="es">Produc Z. Franca</Title>
+				<Title lang="en">Suframa Products</Title>
+				<Function>EIYZ100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tributos Suframa</Title>
+				<Title lang="es">Tributos Suframa</Title>
+				<Title lang="en">Suframa Taxes</Title>
+				<Function>EICTRI100</Function>
+				<Type>1</Type>
+				<Tables>EJC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Engenharia</Title>
+				<Title lang="es">Lista Ingenieria</Title>
+				<Title lang="en">Engineering List</Title>
+				<Function>EICYV100</Function>
+				<Type>1</Type>
+				<Tables>SYV</Tables>
+				<Tables>SYX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>CRMA980</Function>
+				<Type>1</Type>
+				<Tables>SA3</Tables>
+				<Tables>SA4</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SF2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>EICA150</Function>
+				<Type>1</Type>
+				<Tables>SYF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cotacao das Moedas</Title>
+				<Title lang="es">Cotiz. de Monedas</Title>
+				<Title lang="en">Currency Rates</Title>
+				<Function>EICA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vias de Transporte</Title>
+				<Title lang="es">Vias de Transporte</Title>
+				<Title lang="en">Means Of Transp.</Title>
+				<Function>EICCV100</Function>
+				<Type>1</Type>
+				<Tables>SYQ</Tables>
+				<Tables>SYR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Classes</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>6</Owner>
+				<ItemID>0000003844</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servicos</Title>
+				<Title lang="es">Servicios</Title>
+				<Title lang="en">Services</Title>
+				<Function>EICAM101</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012134</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regime Tributario</Title>
+				<Title lang="es">Reg. Tributario</Title>
+				<Title lang="en">Tax Regime</Title>
+				<Function>EICSJP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fundamento Legal Duimp</Title>
+				<Title lang="es">Fund. Legal Duimp</Title>
+				<Title lang="en">Duimp Legal Foundation</Title>
+				<Function>EICFL100</Function>
+				<Type>1</Type>
+				<Tables>EKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021989</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regime de Tributaçao Duimp</Title>
+				<Title lang="es">Rég Tributac Duimp</Title>
+				<Title lang="en">Duimp Taxation System</Title>
+				<Function>EICTRB100</Function>
+				<Type>1</Type>
+				<Tables>EKR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016962</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Portal Unico</Title>
+			<Title lang="es">Portal Único</Title>
+			<Title lang="en">Single Portal</Title>
+			<ItemID>0000016823</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atributos Portal Unico</Title>
+				<Title lang="es">Atributos Portal Único</Title>
+				<Title lang="en">Unique Portal Attributes</Title>
+				<Function>EICAT400</Function>
+				<Type>1</Type>
+				<Tables>EKG</Tables>
+				<Tables>EKH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016447</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operador Estrangeiro</Title>
+				<Title lang="es">Operador Extranjer</Title>
+				<Title lang="en">Foreign Operator</Title>
+				<Function>EICOE400</Function>
+				<Type>1</Type>
+				<Tables>EKJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Catalogo de Produtos</Title>
+				<Title lang="es">Catálogo de Productos</Title>
+				<Title lang="en">Catalog Of Products</Title>
+				<Function>EICCP400</Function>
+				<Type>1</Type>
+				<Tables>EK9</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SB1</Tables>
+				<Tables>EKA</Tables>
+				<Tables>EKB</Tables>
+				<Tables>EKC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>17</Owner>
+				<ItemID>0000015461</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Integração Catálogo de Produtos</Title>
+				<Title lang="es">Histórico de Integração Catálogo de Produtos</Title>
+				<Title lang="en">Product Catalog Integration History</Title>
+				<Function>EICCP401</Function>
+				<Type>1</Type>
+				<Tables>EK9</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SB1</Tables>
+				<Tables>EKA</Tables>
+				<Tables>EKB</Tables>
+				<Tables>EKC</Tables>
+				<Tables>EKD</Tables>
+				<Tables>EKE</Tables>
+				<Tables>EKF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016376</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orgão Anuente</Title>
+				<Title lang="es">Org. Anuente</Title>
+				<Title lang="en">Consenting Body</Title>
+				<Function>EICSJJ</Function>
+				<Type>1</Type>
+				<Tables>SJJ</Tables>
+				<Tables>EKL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016824</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Form. Lpco X N.c.m</Title>
+				<Title lang="es">Form. Lpco Vs. Ncm</Title>
+				<Title lang="en">Form Lpco X N.c.m.</Title>
+				<Function>EICLP400</Function>
+				<Type>1</Type>
+				<Tables>EKM</Tables>
+				<Tables>EKN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lpco</Title>
+				<Title lang="es">Lpco</Title>
+				<Title lang="en">Lpco</Title>
+				<Function>EICLP401</Function>
+				<Type>1</Type>
+				<Tables>EKO</Tables>
+				<Tables>EKP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016894</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Lpco</Title>
+				<Title lang="es">Integrac Lpco</Title>
+				<Title lang="en">Lpco Integration</Title>
+				<Function>EICLP402</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016945</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Duimp</Title>
+				<Title lang="es">Integrac. Duimp</Title>
+				<Title lang="en">Duimp Integration</Title>
+				<Function>EICDU100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016988</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Solic. Importacao</Title>
+			<Title lang="es">Solic. Importacion</Title>
+			<Title lang="en">Import Request</Title>
+			<ItemID>0000003846</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintain</Title>
+				<Function>EICSI400</Function>
+				<Type>1</Type>
+				<Tables>SW0</Tables>
+				<Tables>SW1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003847</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cotacao de Precos</Title>
+				<Title lang="es">Cotizacion Precios</Title>
+				<Title lang="en">Price Quotation</Title>
+				<Function>EICQC210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003849</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Purchase Order</Title>
+			<Title lang="es">Purchase Order</Title>
+			<Title lang="en">Purchase Order</Title>
+			<ItemID>0000003850</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintain</Title>
+				<Function>EICPO400</Function>
+				<Type>1</Type>
+				<Tables>SW2</Tables>
+				<Tables>SW3</Tables>
+				<Tables>SY6</Tables>
+				<Tables>SYE</Tables>
+				<Tables>SY7</Tables>
+				<Tables>SYJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003851</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressao</Title>
+				<Title lang="es">Impresion</Title>
+				<Title lang="en">Print</Title>
+				<Function>EICPO150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003852</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carta P/ Envio</Title>
+				<Title lang="es">Carta P/ Envio</Title>
+				<Title lang="en">Letter To Send</Title>
+				<Function>EICPO551</Function>
+				<Type>1</Type>
+				<Tables>SWO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Invoice Antecipada</Title>
+				<Title lang="es">Invoice Anticipada</Title>
+				<Title lang="en">Pre-invoice</Title>
+				<Function>EICEV100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003854</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pagto Antecipado</Title>
+				<Title lang="es">Pago Anticipado</Title>
+				<Title lang="en">Payment In Advance</Title>
+				<Function>EICPO430</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003855</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proforma Invoice</Title>
+				<Title lang="es">Proforma Invoice</Title>
+				<Title lang="en">Proforma Invoice</Title>
+				<Function>EICPO570</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003856</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proposta Import.</Title>
+				<Title lang="es">Propuesta Import.</Title>
+				<Title lang="en">Import Proposal</Title>
+				<Function>EICPO562</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003857</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inf. Proc. Import.</Title>
+				<Title lang="es">Inf. Proc. Import.</Title>
+				<Title lang="en">Import Proc. Inf.</Title>
+				<Function>EICPO560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003858</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pedidos Cancelados</Title>
+				<Title lang="es">Pedidos Anulados</Title>
+				<Title lang="en">Cancelled Orders</Title>
+				<Function>EICPO111</Function>
+				<Type>1</Type>
+				<Tables>EI4</Tables>
+				<Tables>EI5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Licenca de Import</Title>
+			<Title lang="es">Licencia Importac.</Title>
+			<Title lang="en">Import License</Title>
+			<ItemID>0000003861</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao P.l.i.</Title>
+				<Title lang="es">Mantenim. P.l.i.</Title>
+				<Title lang="en">P.l.i. Maintenance</Title>
+				<Function>EICGI400</Function>
+				<Type>1</Type>
+				<Tables>SW4</Tables>
+				<Tables>SW5</Tables>
+				<Tables>SWP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao L.i.</Title>
+				<Title lang="es">Mantenimiento L.i.</Title>
+				<Title lang="en">L.i. Maintenance</Title>
+				<Function>EICGI401</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003863</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integ Siscomex Web</Title>
+				<Title lang="es">Integ Siscomex Web</Title>
+				<Title lang="en">Integ Siscomex Web</Title>
+				<Function>EICDI100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015529</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pli Easy-suframa</Title>
+				<Title lang="es">Pli Easy-suframa</Title>
+				<Title lang="en">Pli Easy-suframa</Title>
+				<Function>EICSU100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">L.i. Easy-suframa</Title>
+				<Title lang="es">L.i. Easy-suframa</Title>
+				<Title lang="en">L.i. Easy-suframa</Title>
+				<Function>EICLIRSU</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021745</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Validade de L.i.</Title>
+				<Title lang="es">Validez de L.i.</Title>
+				<Title lang="en">L.i. Validity</Title>
+				<Function>EICTR225</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manut. Lotes</Title>
+				<Title lang="es">Manten. Lotes</Title>
+				<Title lang="en">Lot Maintenance</Title>
+				<Function>EICGI210</Function>
+				<Type>1</Type>
+				<Tables>SWV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003867</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">L.i.s Canceladas</Title>
+				<Title lang="es">L. I. Anuladas</Title>
+				<Title lang="en">Cancelled I Ls</Title>
+				<Function>EICGI111</Function>
+				<Type>1</Type>
+				<Tables>EIS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003868</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Embarque</Title>
+			<Title lang="es">Embarque</Title>
+			<Title lang="en">Shipment</Title>
+			<ItemID>0000003870</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>EICDI501</Function>
+				<Type>1</Type>
+				<Tables>SW6</Tables>
+				<Tables>SW7</Tables>
+				<Tables>EIJ</Tables>
+				<Tables>SJL</Tables>
+				<Tables>SJH</Tables>
+				<Tables>SJR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003872</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ship. Instructions</Title>
+				<Title lang="es">Ship. Instructions</Title>
+				<Title lang="en">Ship. Instructions</Title>
+				<Function>EICPO552</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003873</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">New Ship. Instruc.</Title>
+				<Title lang="es">New Ship. Instruc.</Title>
+				<Title lang="en">New Ship. Instruc.</Title>
+				<Function>EICPO553</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003874</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ship. Confirmation</Title>
+				<Title lang="es">Ship. Confirmation</Title>
+				<Title lang="en">Ship. Confirmation</Title>
+				<Function>EICPO556</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003875</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow Embarque</Title>
+				<Title lang="es">Follow Embarque</Title>
+				<Title lang="en">Follow Shipment</Title>
+				<Function>EICGI600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003876</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Commercial Invoice</Title>
+				<Title lang="es">Commercial Invoice</Title>
+				<Title lang="en">Commercial Invoice</Title>
+				<Function>EICPO558</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003877</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicit.numerario</Title>
+				<Title lang="es">Solicit.numerario</Title>
+				<Title lang="en">Cash Request</Title>
+				<Function>EICNU400</Function>
+				<Type>1</Type>
+				<Tables>EIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003878</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Altera Pli P/emb.</Title>
+				<Title lang="es">Modif. Pli P/ Emb.</Title>
+				<Title lang="en">Edit Ilr For Ship.</Title>
+				<Function>EICGI430</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003879</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Desembaraco</Title>
+			<Title lang="es">Despacho</Title>
+			<Title lang="en">Clearance</Title>
+			<ItemID>0000003881</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>EICDI502</Function>
+				<Type>1</Type>
+				<Tables>SW8</Tables>
+				<Tables>SW9</Tables>
+				<Tables>SWA</Tables>
+				<Tables>SWB</Tables>
+				<Tables>SWD</Tables>
+				<Tables>EIK</Tables>
+				<Tables>EIL</Tables>
+				<Tables>EIM</Tables>
+				<Tables>EIN</Tables>
+				<Tables>EIO</Tables>
+				<Tables>EIP</Tables>
+				<Tables>EIQ</Tables>
+				<Tables>EIR</Tables>
+				<Tables>EIS</Tables>
+				<Tables>SJ9</Tables>
+				<Tables>EII</Tables>
+				<Tables>EIF</Tables>
+				<Tables>EIG</Tables>
+				<Tables>EIH</Tables>
+				<Tables>SJL</Tables>
+				<Tables>SJH</Tables>
+				<Tables>SJR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003883</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Invoices</Title>
+				<Title lang="es">Invoices</Title>
+				<Title lang="en">Invoices</Title>
+				<Function>EICIV110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003884</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Adiant.despachante</Title>
+				<Title lang="es">Adelant.despach.</Title>
+				<Title lang="en">Forwarder Adv.</Title>
+				<Function>EICCA150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003885</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Docto(despachante)</Title>
+				<Title lang="es">Docto(despachante)</Title>
+				<Title lang="en">Doc. (forwarder)</Title>
+				<Function>EICC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003886</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Receb. Importacao</Title>
+				<Title lang="es">Recep. Importacion</Title>
+				<Title lang="en">Import Receipt</Title>
+				<Function>EICDI154</Function>
+				<Type>1</Type>
+				<Tables>SD1</Tables>
+				<Tables>SWN</Tables>
+				<Tables>SWW</Tables>
+				<Tables>EI1</Tables>
+				<Tables>EI2</Tables>
+				<Tables>EI3</Tables>
+				<Tables>SF3</Tables>
+				<Tables>SWX</Tables>
+				<Tables>SWZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003887</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrucao Despacho</Title>
+				<Title lang="es">Instruc. Despacho</Title>
+				<Title lang="en">Dispatch Instruct.</Title>
+				<Function>EICDI160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003890</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apropriacao Cfo</Title>
+				<Title lang="es">Apropiacion Cfo</Title>
+				<Title lang="en">Cfo Appropriation</Title>
+				<Function>EICOP110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003891</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Container</Title>
+				<Title lang="es">Control Container</Title>
+				<Title lang="en">Container Control</Title>
+				<Function>EICDI410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003892</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Demurrage</Title>
+				<Title lang="es">Control Demoras</Title>
+				<Title lang="en">Demurrage Control</Title>
+				<Function>EASYDM400</Function>
+				<Type>1</Type>
+				<Tables>EJ5</Tables>
+				<Tables>EJ6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tab. Armazenagem</Title>
+				<Title lang="es">Tab. Almacenaje</Title>
+				<Title lang="en">Wareh.table</Title>
+				<Function>EICAM100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012135</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Armaze</Title>
+				<Title lang="es">Control de Almacen</Title>
+				<Title lang="en">Wareh.control</Title>
+				<Function>EICAM103</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nf de Despesas</Title>
+				<Title lang="es">Fact de Gastos</Title>
+				<Title lang="en">Expenses Inv.</Title>
+				<Function>EICDI158</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nf Transferencia</Title>
+				<Title lang="es">Fact Transferencia</Title>
+				<Title lang="en">Transfer Invoice</Title>
+				<Function>EICCO100</Function>
+				<Type>1</Type>
+				<Tables>EIW</Tables>
+				<Tables>EIY</Tables>
+				<Tables>EIZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Demurrage Por Nav.</Title>
+			<Title lang="es">Demurrage P/ Nav.</Title>
+			<Title lang="en">Demurrage By Ship</Title>
+			<ItemID>0000003897</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>AVGDM400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003898</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Performance</Title>
+				<Title lang="es">Desempeno</Title>
+				<Title lang="en">Performance</Title>
+				<Function>AVGPF150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003899</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório</Title>
+				<Title lang="es">Informe</Title>
+				<Title lang="en">Report</Title>
+				<Function>AVGRD150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003900</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Por Porto</Title>
+				<Title lang="es">Inf. Por Puerto</Title>
+				<Title lang="en">Rel. Per Point</Title>
+				<Function>AVGDM150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003901</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa</Title>
+				<Title lang="es">Mapa</Title>
+				<Title lang="en">Map</Title>
+				<Function>AVGMD150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003902</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desconto</Title>
+				<Title lang="es">Descuento</Title>
+				<Title lang="en">Discount</Title>
+				<Function>AVGDE150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003904</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Entreposto</Title>
+			<Title lang="es">Almacen</Title>
+			<Title lang="en">Customs Warehouse</Title>
+			<ItemID>0000003905</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prep.dados Nacion.</Title>
+				<Title lang="es">Prep.datos Nacion.</Title>
+				<Title lang="en">Nation. Data Prep.</Title>
+				<Function>EICNA400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003906</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pedido Nacionaliz.</Title>
+				<Title lang="es">Pedido Nacionaliz.</Title>
+				<Title lang="en">National. Request</Title>
+				<Function>EICPO401</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003907</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desemb.nacionaliz.</Title>
+				<Title lang="es">Desemb.nacionaliz.</Title>
+				<Title lang="en">Nationaliz. Clear.</Title>
+				<Function>EICDI503</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003909</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Encerramento Saldo</Title>
+				<Title lang="es">Cierre Saldo</Title>
+				<Title lang="en">Balance Closing</Title>
+				<Function>EICPN400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003910</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Saldo Armazem</Title>
+				<Title lang="es">Inf Saldo Almacen</Title>
+				<Title lang="en">List Wareh. Balanc</Title>
+				<Function>EICDA150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003911</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Re.l de Nacionaliz</Title>
+				<Title lang="es">Re.l de Nacionaliz</Title>
+				<Title lang="en">National. Re.l</Title>
+				<Function>EICDA151</Function>
+				<Type>1</Type>
+				<Tables>SW2</Tables>
+				<Tables>SW3</Tables>
+				<Tables>SW5</Tables>
+				<Tables>SW6</Tables>
+				<Tables>SW7</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Financeiro</Title>
+			<Title lang="es">Financiero</Title>
+			<Title lang="en">Financial</Title>
+			<ItemID>0000003914</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Despesas</Title>
+				<Title lang="es">Arch. Gastos</Title>
+				<Title lang="en">Expense Registr.</Title>
+				<Function>EICA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003915</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Pre-calculo</Title>
+				<Title lang="es">Tabla Calculo Prev</Title>
+				<Title lang="en">Table Pre-calc.</Title>
+				<Function>EICTC210</Function>
+				<Type>1</Type>
+				<Tables>SYE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003916</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pre-calculo</Title>
+				<Title lang="es">Calc. Prev.</Title>
+				<Title lang="en">Pre-calculation</Title>
+				<Function>EICTP25A</Function>
+				<Type>1</Type>
+				<Tables>SW3</Tables>
+				<Tables>SW5</Tables>
+				<Tables>SYI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003917</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previs. Desembolso</Title>
+				<Title lang="es">Previs. Desembolso</Title>
+				<Title lang="en">Estim. Outlay</Title>
+				<Function>EICTP252</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003918</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carta de Credito</Title>
+				<Title lang="es">Carta de Credito</Title>
+				<Title lang="en">Letter Of Credit</Title>
+				<Function>EICLC100</Function>
+				<Type>1</Type>
+				<Tables>SWC</Tables>
+				<Tables>SYH</Tables>
+				<Tables>SWP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003919</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fup Carta Credito</Title>
+				<Title lang="es">Fup Carta Credito</Title>
+				<Title lang="en">Fup Letter Of Cred</Title>
+				<Function>EICTR370</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003920</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Cambio</Title>
+				<Title lang="es">Control Cambio</Title>
+				<Title lang="en">Exchange Control</Title>
+				<Function>EICAP100</Function>
+				<Type>1</Type>
+				<Tables>SWA</Tables>
+				<Tables>SW6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003921</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow-up Cambio</Title>
+				<Title lang="es">Follow-up Cambio</Title>
+				<Title lang="en">Exchange Follow-up</Title>
+				<Function>EICTR350</Function>
+				<Type>1</Type>
+				<Tables>SW4</Tables>
+				<Tables>SWO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003922</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cotacao de Cambio</Title>
+				<Title lang="es">Cotiz. de Cambio</Title>
+				<Title lang="en">Exchange Quot.</Title>
+				<Function>EICCC400</Function>
+				<Type>1</Type>
+				<Tables>EID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003923</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel.cot./fech Camb</Title>
+				<Title lang="es">Rel.cot./cierr Cam</Title>
+				<Title lang="en">Rel. Quot./clos.ex</Title>
+				<Function>EICCC150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003924</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desembolso Realiz.</Title>
+				<Title lang="es">Desembolso Realiz.</Title>
+				<Title lang="en">Otlay</Title>
+				<Function>EICTP253</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003925</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Pagtos</Title>
+				<Title lang="es">Control Pagos</Title>
+				<Title lang="en">Paym. Control</Title>
+				<Function>EICTR600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003926</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao Ffc</Title>
+				<Title lang="es">Manten. Ffc</Title>
+				<Title lang="en">Ffc Maintenance</Title>
+				<Function>EICLO100</Function>
+				<Type>1</Type>
+				<Tables>SWB</Tables>
+				<Tables>SW9</Tables>
+				<Tables>SW8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003927</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previsao de Caixa</Title>
+				<Title lang="es">Prevision de Caja</Title>
+				<Title lang="en">Cash Forecast</Title>
+				<Function>EICLO150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003928</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pos. Diaria de Ffc</Title>
+				<Title lang="es">Pos. Diaria de Ffc</Title>
+				<Title lang="en">Ffc Daily Position</Title>
+				<Function>EICLO151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003929</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Cambio</Title>
+				<Title lang="es">Rel. Cambio</Title>
+				<Title lang="en">Exchange Rel.</Title>
+				<Function>EICAP150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003930</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação de Parcelas</Title>
+				<Title lang="es">Variación de Cuotas</Title>
+				<Title lang="en">Installments Variation</Title>
+				<Function>EICAP153</Function>
+				<Type>1</Type>
+				<Tables>SWA</Tables>
+				<Tables>SWB</Tables>
+				<Tables>SW6</Tables>
+				<Tables>SW9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017793</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel.pos.fornecedor</Title>
+				<Title lang="es">Rel.pos.proveed.</Title>
+				<Title lang="en">Rel. Supplier Pos.</Title>
+				<Function>EICAP151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003931</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos S/cambio</Title>
+				<Title lang="es">Procesos S/cambio</Title>
+				<Title lang="en">Processes W/o Exch</Title>
+				<Function>EICAP152</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003932</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geracao de Pa</Title>
+				<Title lang="es">Generacion de Pa</Title>
+				<Title lang="en">Generate P a</Title>
+				<Function>FI400GERPA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estat. de Cambio</Title>
+			<Title lang="es">Estad. de Cambio</Title>
+			<Title lang="en">Exchange Statist.</Title>
+			<ItemID>0000003935</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comis. Corretores</Title>
+				<Title lang="es">Comis. Corretores</Title>
+				<Title lang="en">Commis. Brokers</Title>
+				<Function>EICAP180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003936</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Importacoes</Title>
+				<Title lang="es">Rel. Importac.</Title>
+				<Title lang="en">Rel. Imports</Title>
+				<Function>EICAP181</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Cambio Fech.</Title>
+				<Title lang="es">Rel. Cambio Cierr.</Title>
+				<Title lang="en">Rel. Clos. Exch.</Title>
+				<Function>EICAP182</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003938</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Estatisticas</Title>
+				<Title lang="es">Inf. Estadisticas</Title>
+				<Title lang="en">List Statistics</Title>
+				<Function>EICAP183</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003939</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tabelas Siscomex</Title>
+			<Title lang="es">Tablas Siscomex</Title>
+			<Title lang="en">Siscomex Tables</Title>
+			<ItemID>0000003941</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Destaques Ncm</Title>
+				<Title lang="es">Destaques Ncm</Title>
+				<Title lang="en">Ncm Details</Title>
+				<Function>EECDU010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Natureza Operacao</Title>
+				<Title lang="es">Modal. Operac.</Title>
+				<Title lang="en">Nature Of Operat.</Title>
+				<Function>EICSJV</Function>
+				<Type>1</Type>
+				<Tables>SJV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003943</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sisccad (siscomex)</Title>
+				<Title lang="es">Sisccad (siscomex)</Title>
+				<Title lang="en">Sisccad (siscomex)</Title>
+				<Function>EICMX100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003942</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">U R F's</Title>
+				<Title lang="es">U R F</Title>
+				<Title lang="en">U R F's</Title>
+				<Function>EICUR100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003944</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naladi s H</Title>
+				<Title lang="es">Naladi s H</Title>
+				<Title lang="en">Naladi s H</Title>
+				<Function>EICNS100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003945</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aladi</Title>
+				<Title lang="es">Aladi</Title>
+				<Title lang="en">Aladi</Title>
+				<Function>EICAL100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003946</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naladi N C C a</Title>
+				<Title lang="es">Naladi N C C a</Title>
+				<Title lang="en">Naladi N C C a</Title>
+				<Function>EICNC100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Units Of Meas.</Title>
+				<Function>EICUN100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conversao Unidades</Title>
+				<Title lang="es">Conversion Unidade</Title>
+				<Title lang="en">Conversion Of Unit</Title>
+				<Function>EICTU100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003949</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orgao Em.ato Legal</Title>
+				<Title lang="es">Org Em.acto Legal</Title>
+				<Title lang="en">Iss. Ag. Legal Act</Title>
+				<Function>EICSJJ</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003961</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modalidade Pagto</Title>
+				<Title lang="es">Modalidad Pago</Title>
+				<Title lang="en">Paym. Modality</Title>
+				<Function>EICMO100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003950</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inst.financiadoras</Title>
+				<Title lang="es">Inst.financiadoras</Title>
+				<Title lang="en">Finance Entity</Title>
+				<Function>EICIF100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003951</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos S/ Cobert.</Title>
+				<Title lang="es">Motivos S/ Cobert.</Title>
+				<Title lang="en">Reasons W/o Cover.</Title>
+				<Function>EICMT100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003952</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agencias Secex</Title>
+				<Title lang="es">Agencias Secex</Title>
+				<Title lang="en">Secex Agencies</Title>
+				<Function>EICAS100</Function>
+				<Type>1</Type>
+				<Tables>SJ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003953</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recint.alfandegado</Title>
+				<Title lang="es">Recint.aduanero</Title>
+				<Title lang="en">Bonded Wareh.</Title>
+				<Function>EICAR100</Function>
+				<Type>1</Type>
+				<Tables>SJA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003954</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Declaracao</Title>
+				<Title lang="es">Tipo de Declarac.</Title>
+				<Title lang="en">Declaration Type</Title>
+				<Function>EICTD100</Function>
+				<Type>1</Type>
+				<Tables>SJB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003955</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Doc.p/ Instr.desp.</Title>
+				<Title lang="es">Doc.p/ Instr.desp.</Title>
+				<Title lang="en">Doc. For Exp.instr</Title>
+				<Function>EICSJE</Function>
+				<Type>1</Type>
+				<Tables>SJE</Tables>
+				<Tables>SJF</Tables>
+				<Tables>SJG</Tables>
+				<Tables>SJH</Tables>
+				<Tables>SJI</Tables>
+				<Tables>SJJ</Tables>
+				<Tables>SJK</Tables>
+				<Tables>SJL</Tables>
+				<Tables>SJM</Tables>
+				<Tables>SJN</Tables>
+				<Tables>SJO</Tables>
+				<Tables>SJP</Tables>
+				<Tables>SJR</Tables>
+				<Tables>SJT</Tables>
+				<Tables>SJU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003956</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Embalagem</Title>
+				<Title lang="es">Tipos de Embalaje</Title>
+				<Title lang="en">Types Of Package</Title>
+				<Function>EICSJF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003957</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Setor Importacao</Title>
+				<Title lang="es">Sector Importac.</Title>
+				<Title lang="en">Import Sector</Title>
+				<Function>EICSJG</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003958</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cod.receita Trib.</Title>
+				<Title lang="es">Cod.ingreso Trib.</Title>
+				<Title lang="en">Cd. Tax Revenue</Title>
+				<Function>EICSJH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003959</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Ato Legal</Title>
+				<Title lang="es">Tipo de Acto Legal</Title>
+				<Title lang="en">Type Of Legal Act</Title>
+				<Function>EICSJI</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atributo Para N.v.a.e</Title>
+				<Title lang="es">Atributo Para N.v.</Title>
+				<Title lang="en">Attribute For N.v.a.e.</Title>
+				<Function>EICSJK</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003962</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especificaçao Para N.v.a.e</Title>
+				<Title lang="es">Especificación Para N.v.a.e</Title>
+				<Title lang="en">Specification For N.v.a.e.</Title>
+				<Function>EICSJL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003963</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metodos Valoracao</Title>
+				<Title lang="es">Metodos Valor.</Title>
+				<Title lang="en">Valuation Methods</Title>
+				<Function>EICSJM</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003964</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas Acrescimos</Title>
+				<Title lang="es">Tablas Aumentos</Title>
+				<Title lang="en">Table Increases</Title>
+				<Function>EICSJN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003965</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Deducoes</Title>
+				<Title lang="es">Tabla de Descuento</Title>
+				<Title lang="en">Table Deductions</Title>
+				<Function>EICSJO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003966</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motiv.adm.temporia</Title>
+				<Title lang="es">Motiv.adm.temporal</Title>
+				<Title lang="en">Reas.temp.adm.</Title>
+				<Function>EICSJR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003968</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Recipientes</Title>
+				<Title lang="es">Tipos Recipientes</Title>
+				<Title lang="en">Types Container</Title>
+				<Function>EICSJT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Taxas de Juros</Title>
+				<Title lang="es">Tasas de Intereses</Title>
+				<Title lang="en">Interest Rates</Title>
+				<Function>EICSJU</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003970</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras da Dsi</Title>
+				<Title lang="es">Reglas de La Dsi</Title>
+				<Title lang="en">Dsi Rules</Title>
+				<Function>EICSJW</Function>
+				<Type>1</Type>
+				<Tables>SJW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fund.leg.p/c</Title>
+				<Title lang="es">Fund.leg.p/c</Title>
+				<Title lang="en">P/c Leg. Fund.</Title>
+				<Function>EICFLEGPC</Function>
+				<Type>1</Type>
+				<Tables>SJY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fund.leg.red.p/c</Title>
+				<Title lang="es">Fund.leg.red.p/c</Title>
+				<Title lang="en">P/c Red. Leg. Fund</Title>
+				<Function>EICFREDPC</Function>
+				<Type>1</Type>
+				<Tables>SJZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018233</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A170000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Consulta</Title>
+			<Title lang="es">Consulta</Title>
+			<Title lang="en">Query</Title>
+			<ItemID>0000003971</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>99</Owner>
+				<ItemID>0000003972</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Follow-up</Title>
+			<Title lang="es">Follow-up</Title>
+			<Title lang="en">Follow-up</Title>
+			<ItemID>0000003974</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Em Negociacao</Title>
+				<Title lang="es">En Negociacion</Title>
+				<Title lang="en">Under Negotiation</Title>
+				<Function>EICTR200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003975</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confeccoes L.i.s</Title>
+				<Title lang="es">Confeccion L.i.</Title>
+				<Title lang="en">Imp. License Prep.</Title>
+				<Function>EICTR210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003976</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">L.i.s Em Aprovacao</Title>
+				<Title lang="es">L.i. En Aprobac.</Title>
+				<Title lang="en">Imp. Lic.being App</Title>
+				<Function>EICTR226</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003977</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aguard. Embarque</Title>
+				<Title lang="es">Espera Embarque</Title>
+				<Title lang="en">Awaiting Shipment</Title>
+				<Function>EICTR250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003978</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ag. Documentos</Title>
+				<Title lang="es">Espera Documentos</Title>
+				<Title lang="en">Awaiting Docum.</Title>
+				<Function>EICTR255</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003979</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aguard. Atracacao</Title>
+				<Title lang="es">Espera Atraque</Title>
+				<Title lang="en">Awaiting Mooring</Title>
+				<Function>EICTR260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aguardando Di / da</Title>
+				<Title lang="es">Esperando Di / da</Title>
+				<Title lang="en">Awaiting I D/a d</Title>
+				<Function>EICTR261</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003981</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ag.desembaraco</Title>
+				<Title lang="es">Ag. Despacho</Title>
+				<Title lang="en">Clearance Agent</Title>
+				<Function>EICTR262</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003982</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Avaliacoes</Title>
+			<Title lang="es">Evaluaciones</Title>
+			<Title lang="en">Evaluations</Title>
+			<ItemID>0000003984</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agentes</Title>
+				<Title lang="es">Agentes</Title>
+				<Title lang="en">Agents</Title>
+				<Function>EICTR270</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003985</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despachantes</Title>
+				<Title lang="es">Despachantes</Title>
+				<Title lang="en">Brokers</Title>
+				<Function>EICTR275</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003986</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportes</Title>
+				<Title lang="es">Transportes</Title>
+				<Title lang="en">Transports</Title>
+				<Function>EICTR280</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003987</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Duracao Processo</Title>
+				<Title lang="es">Duracion Proceso</Title>
+				<Title lang="en">Process Duration</Title>
+				<Function>EICTR285</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003988</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazo Fechto. P.o.</Title>
+				<Title lang="es">Plazo Cierre P.o.</Title>
+				<Title lang="en">P o Closing Date</Title>
+				<Function>EICTR290</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003989</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Abc</Title>
+				<Title lang="es">Tabla Abc</Title>
+				<Title lang="en">a B C Table</Title>
+				<Function>EICTR300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003990</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico Mensal</Title>
+				<Title lang="es">Historial Mensual</Title>
+				<Title lang="en">Monthly History</Title>
+				<Function>EICTR310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003991</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acompanhamentos</Title>
+			<Title lang="es">Seguimientos</Title>
+			<Title lang="en">Follow-up</Title>
+			<ItemID>0000003993</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Ult. Compras</Title>
+				<Title lang="es">Hist. Ult. Compras</Title>
+				<Title lang="en">Last Purc. History</Title>
+				<Function>EICHC150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003994</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Report</Title>
+				<Title lang="es">Estatus Report</Title>
+				<Title lang="en">Status Report</Title>
+				<Function>EICOC210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003995</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Si Fora Lead Time</Title>
+				<Title lang="es">Si Fuera Lead Time</Title>
+				<Title lang="en">To Out Of Leadtime</Title>
+				<Function>EICTR320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status do Pedido</Title>
+				<Title lang="es">Estatus de Pedido</Title>
+				<Title lang="en">Order Status</Title>
+				<Function>EICIP170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003997</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status do Item</Title>
+				<Title lang="es">Estatus de Item</Title>
+				<Title lang="en">Item Status</Title>
+				<Function>EICIP175</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003998</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazo Fornecedor</Title>
+				<Title lang="es">Plazo Proveedor</Title>
+				<Title lang="en">Supplier Deadline</Title>
+				<Function>EICTR330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003999</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previsao de Datas</Title>
+				<Title lang="es">Previs. de Fechas</Title>
+				<Title lang="en">Date Forecast</Title>
+				<Function>EICTR500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004000</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comex Data Qa</Title>
+				<Title lang="es">Comex Fch Qa</Title>
+				<Title lang="en">Comex Data Qa</Title>
+				<Function>CD100CDQA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020104</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config Comex Data Qa</Title>
+				<Title lang="es">Config Comex Data</Title>
+				<Title lang="en">Config. Comex Data Qa</Title>
+				<Function>CD100CFQA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020105</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A170000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status da Importação</Title>
+				<Title lang="es">Estatus de Import.</Title>
+				<Title lang="en">Status Of Import</Title>
+				<Function>EICSV001</Function>
+				<Type>1</Type>
+				<Tables>SW0</Tables>
+				<Tables>SW1</Tables>
+				<Tables>SW2</Tables>
+				<Tables>SW3</Tables>
+				<Tables>SW4</Tables>
+				<Tables>SW5</Tables>
+				<Tables>SW6</Tables>
+				<Tables>SW7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020283</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens Comprados</Title>
+				<Title lang="es">Items Comprados</Title>
+				<Title lang="en">Purchased Items</Title>
+				<Function>EDCSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004008</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Follow-up</Title>
+			<Title lang="es">Follow-up</Title>
+			<Title lang="en">Follow-up</Title>
+			<ItemID>0000020295</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Analítico</Title>
+				<Title lang="es">Analítico</Title>
+				<Title lang="en">Detailed</Title>
+				<Function>EICSV002</Function>
+				<Type>1</Type>
+				<Tables>SWA</Tables>
+				<Tables>SWB</Tables>
+				<Tables>SW6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sintético</Title>
+				<Title lang="es">Sintético</Title>
+				<Title lang="en">Summarized</Title>
+				<Function>EICSV003</Function>
+				<Type>1</Type>
+				<Tables>SWA</Tables>
+				<Tables>SWB</Tables>
+				<Tables>SW6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatórios</Title>
+			<Title lang="es">Informes</Title>
+			<Title lang="en">Reports</Title>
+			<ItemID>0000020285</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens Pendentes</Title>
+				<Title lang="es">Items Pendientes</Title>
+				<Title lang="en">Pending Items</Title>
+				<Function>EICIP150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004003</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desembaracos</Title>
+				<Title lang="es">Despachos</Title>
+				<Title lang="en">Clearances</Title>
+				<Function>EICRD150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004004</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embarques</Title>
+				<Title lang="es">Embarques</Title>
+				<Title lang="en">Shipments</Title>
+				<Function>EICRD151</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004005</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha de Seguro</Title>
+				<Title lang="es">Planilla de Seguro</Title>
+				<Title lang="en">Insurance Worksht.</Title>
+				<Function>EICDI180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004006</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Geral</Title>
+				<Title lang="es">Control General</Title>
+				<Title lang="en">General Control</Title>
+				<Function>EICIP160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localiz.processo</Title>
+				<Title lang="es">Localiz. Proceso</Title>
+				<Title lang="en">Process Locat.</Title>
+				<Function>EICLP100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004009</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliacao - Paises</Title>
+				<Title lang="es">Evaluac. - Paises</Title>
+				<Title lang="en">Eval. - Countries</Title>
+				<Function>EICRD153</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004010</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa de Importação</Title>
+				<Title lang="es">Mapa de Importac.</Title>
+				<Title lang="en">Map Of Import</Title>
+				<Function>EICRMAPA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004011</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Custos</Title>
+				<Title lang="es">Rel. Costos</Title>
+				<Title lang="en">Cost Rel.</Title>
+				<Function>EICRCUST</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004012</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Embalagens Especia</Title>
+				<Title lang="es">Embalaj Especiales</Title>
+				<Title lang="en">Special Packages</Title>
+				<Function>EASYADM100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011753</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Armazenagem</Title>
+				<Title lang="es">Costo Almacenaje</Title>
+				<Title lang="en">Wareh.cost</Title>
+				<Function>EICAM104</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012137</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo do P.o.</Title>
+				<Title lang="es">Resumen Del P.o.</Title>
+				<Title lang="en">Po Summmary</Title>
+				<Function>EICRE150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A170000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualiza Movimento</Title>
+				<Title lang="es">Actual. Movimiento</Title>
+				<Title lang="en">Update Transaction</Title>
+				<Function>EICAP200</Function>
+				<Type>1</Type>
+				<Tables>SWF</Tables>
+				<Tables>SWH</Tables>
+				<Tables>SWI</Tables>
+				<Tables>SWJ</Tables>
+				<Tables>SWK</Tables>
+				<Tables>SWN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004014</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerador Relatorios</Title>
+				<Title lang="es">Generador Informes</Title>
+				<Title lang="en">Report Generator</Title>
+				<Function>EICIP300</Function>
+				<Type>1</Type>
+				<Tables>SWQ</Tables>
+				<Tables>SWR</Tables>
+				<Tables>SWS</Tables>
+				<Tables>SWT</Tables>
+				<Tables>SYL</Tables>
+				<Tables>SYM</Tables>
+				<Tables>SYN</Tables>
+				<Tables>SYO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004015</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela De/para</Title>
+				<Title lang="es">Tabla De/ a</Title>
+				<Title lang="en">From/to Table</Title>
+				<Function>EICTE110</Function>
+				<Type>1</Type>
+				<Tables>SJ0</Tables>
+				<Tables>SJ5</Tables>
+				<Tables>SJ6</Tables>
+				<Tables>SYL</Tables>
+				<Tables>SYM</Tables>
+				<Tables>SYN</Tables>
+				<Tables>SYO</Tables>
+				<Tables>SYU</Tables>
+				<Tables>SYV</Tables>
+				<Tables>SYX</Tables>
+				<Tables>SYZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004016</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Int. Despachante</Title>
+				<Title lang="es">Int. Despachante</Title>
+				<Title lang="en">Forw. Ag. Int.</Title>
+				<Function>EICEI100</Function>
+				<Type>1</Type>
+				<Tables>SYL</Tables>
+				<Tables>SYM</Tables>
+				<Tables>SYN</Tables>
+				<Tables>SYO</Tables>
+				<Tables>SYU</Tables>
+				<Tables>SYV</Tables>
+				<Tables>SYX</Tables>
+				<Tables>SYZ</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SY2</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SA1</Tables>
+				<Tables>EWZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004017</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelo de P.o.</Title>
+				<Title lang="es">Modelo de P.o.</Title>
+				<Title lang="en">P o Model</Title>
+				<Function>EICWU100</Function>
+				<Type>1</Type>
+				<Tables>SY0</Tables>
+				<Tables>SY8</Tables>
+				<Tables>SYG</Tables>
+				<Tables>SYH</Tables>
+				<Tables>SYA</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SYC</Tables>
+				<Tables>SJC</Tables>
+				<Tables>SJ1</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SA3</Tables>
+				<Tables>SA4</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SYF</Tables>
+				<Tables>SYQ</Tables>
+				<Tables>SYR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004018</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integracao</Title>
+				<Title lang="es">Integracion</Title>
+				<Title lang="en">Integration</Title>
+				<Function>EICIN100</Function>
+				<Type>1</Type>
+				<Tables>SW0</Tables>
+				<Tables>SW1</Tables>
+				<Tables>SW2</Tables>
+				<Tables>SW3</Tables>
+				<Tables>SY6</Tables>
+				<Tables>SYE</Tables>
+				<Tables>SY7</Tables>
+				<Tables>SYJ</Tables>
+				<Tables>SWO</Tables>
+				<Tables>SW4</Tables>
+				<Tables>SW5</Tables>
+				<Tables>SWP</Tables>
+				<Tables>SW6</Tables>
+				<Tables>SW7</Tables>
+				<Tables>SW8</Tables>
+				<Tables>SW9</Tables>
+				<Tables>SWA</Tables>
+				<Tables>SWB</Tables>
+				<Tables>SWD</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SWN</Tables>
+				<Tables>SWW</Tables>
+				<Tables>SYB</Tables>
+				<Tables>SWQ</Tables>
+				<Tables>SWR</Tables>
+				<Tables>SWS</Tables>
+				<Tables>SWT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Int. Taxa de Cambi</Title>
+				<Title lang="es">Int.tasa de Cambio</Title>
+				<Title lang="en">Int. Exch Rt</Title>
+				<Function>INTBCOCENT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Templates</Title>
+				<Title lang="es">Templates</Title>
+				<Title lang="en">Templates</Title>
+				<Function>EASYTEMPLA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011941</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lanc. Contab.</Title>
+				<Title lang="es">Asto. Contab.</Title>
+				<Title lang="en">Account Trans</Title>
+				<Function>EICLC500</Function>
+				<Type>1</Type>
+				<Tables>ECF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>17</Owner>
+				<ItemID>0000019267</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004023</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004024</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuarios</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004025</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rotinas Tss</Title>
+			<Title lang="es">Rutinas Tss</Title>
+			<Title lang="en">Tss Routines</Title>
+			<ItemID>0000018969</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Gerais Tss</Title>
+				<Title lang="es">Conf. Generales Tss</Title>
+				<Title lang="en">Tss General Settings</Title>
+				<Function>SPEDCFGTSS</Function>
+				<Type>1</Type>
+				<Tables>FX7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>17</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018975</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B170000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B170000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

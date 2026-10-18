@@ -1,0 +1,1213 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAQNC</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A360000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atualizações</Title>
+			<Title lang="es">Actualizaciones</Title>
+			<Title lang="en">Updates</Title>
+			<ItemID>0000006568</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Ocorrência e de Não Conformidade</Title>
+				<Title lang="es">Ficha de Ocurrencia Y de No Conformidad</Title>
+				<Title lang="en">Occurrence And Non-conformity Form</Title>
+				<Function>QNCA040</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QIA</Tables>
+				<Tables>QAA</Tables>
+				<Tables>QA4</Tables>
+				<Tables>SH9</Tables>
+				<Tables>ST3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STA</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STK</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>STQ</Tables>
+				<Tables>QIE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006569</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrencia,conformidade</KeyWord>
+					<KeyWord lang="es">Ocurrencia,conformidad</KeyWord>
+					<KeyWord lang="en">Event,conformance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ação</Title>
+				<Title lang="es">Plan de Acción</Title>
+				<Title lang="en">Action Plan</Title>
+				<Function>QNCA030</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QIA</Tables>
+				<Tables>QAA</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QA4</Tables>
+				<Tables>QID</Tables>
+				<Tables>QIF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006570</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências</Title>
+				<Title lang="es">Pendencias</Title>
+				<Title lang="en">Pending Issues</Title>
+				<Function>QNCA050</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Follow Up</Title>
+			<Title lang="es">Follow Up</Title>
+			<Title lang="en">Follow-up</Title>
+			<ItemID>0000006572</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas</Title>
+				<Title lang="es">Etapas</Title>
+				<Title lang="en">Stages</Title>
+				<Function>QNCA060</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006573</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QNCA090</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006574</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estatístico</Title>
+				<Title lang="es">Estatistico</Title>
+				<Title lang="en">Statistical</Title>
+				<Function>QNCA100</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006575</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Gerais</Title>
+			<Title lang="es">Archivos Generales</Title>
+			<Title lang="en">Generic Files</Title>
+			<ItemID>0000006577</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas</Title>
+				<Title lang="es">Tablas</Title>
+				<Title lang="en">Tables</Title>
+				<Function>QNCA010</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006578</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Etapas</Title>
+				<Title lang="es">Archivo Etapas</Title>
+				<Title lang="en">Stage Register</Title>
+				<Function>QNCA110</Function>
+				<Type>1</Type>
+				<Tables>QID</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos de Passos e Etapas</Title>
+				<Title lang="es">Modelos de Pasos Y Etapas</Title>
+				<Title lang="en">Step And Stages Models</Title>
+				<Function>QNCA080</Function>
+				<Type>1</Type>
+				<Tables>QIB</Tables>
+				<Tables>QIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006580</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Etapas</KeyWord>
+					<KeyWord lang="es">Etapas</KeyWord>
+					<KeyWord lang="en">Stages</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disposições</Title>
+				<Title lang="es">Disposiciones</Title>
+				<Title lang="en">Provisions</Title>
+				<Function>QNCA020</Function>
+				<Type>1</Type>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006581</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Units Of Measurem.</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Tables>SAH</Tables>
+				<Tables>QEK</Tables>
+				<Tables>QE6</Tables>
+				<Tables>QE7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>21</Owner>
+				<ItemID>0000006582</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QNCA070</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QAC</Tables>
+				<Tables>QAD</Tables>
+				<Tables>QAB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006583</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos e Funções</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Tables>QAA</Tables>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>24</Owner>
+				<ItemID>0000006584</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamento e Setor</Title>
+				<Title lang="es">Departamento Y Sector</Title>
+				<Title lang="en">Department And Sector</Title>
+				<Function>QAXA030</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Tables>QAA</Tables>
+				<Tables>QAD</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>24</Owner>
+				<ItemID>0000006585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Departamento,setor</KeyWord>
+					<KeyWord lang="es">Departamento,sector</KeyWord>
+					<KeyWord lang="en">Department,sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Países</Title>
+				<Title lang="es">Paises</Title>
+				<Title lang="en">Countries</Title>
+				<Function>QIEA290</Function>
+				<Type>1</Type>
+				<Tables>SYA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>21</Owner>
+				<ItemID>0000006586</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SDD</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SYD</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SID</Tables>
+				<Tables>SJ2</Tables>
+				<Tables>SJC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>2</Owner>
+				<ItemID>0000006587</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item</KeyWord>
+					<KeyWord lang="es">Item</KeyWord>
+					<KeyWord lang="en">Item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complemento do Produto</Title>
+				<Title lang="es">Complemento Del Producto</Title>
+				<Title lang="en">Product Complement</Title>
+				<Function>MATA180</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>2</Owner>
+				<ItemID>0000006588</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item,complemento,adicionais</KeyWord>
+					<KeyWord lang="es">Producto,item,complemento,adicionales</KeyWord>
+					<KeyWord lang="en">Product,item,complement,additional Items</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>2</Owner>
+				<ItemID>0000006589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Participante,empresa,licitante,provedor</KeyWord>
+					<KeyWord lang="es">Participante,empresa,licitante,proveedor</KeyWord>
+					<KeyWord lang="en">Employee,company,bidder,provider</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>CRMA980</Function>
+				<Type>1</Type>
+				<Tables>SC5</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SAE</Tables>
+				<Tables>VCB</Tables>
+				<Tables>SAO</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>5</Owner>
+				<ItemID>0000006590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="es">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="en">Bidder,company,purchaser</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto X Fornecedor</Title>
+				<Title lang="es">Producto X Proveedor</Title>
+				<Title lang="en">Product X Supplier</Title>
+				<Function>MATA061</Function>
+				<Type>1</Type>
+				<Tables>SA5</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>2</Owner>
+				<ItemID>0000006591</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Produto,item,catálogo,lista,provedor,empresa</KeyWord>
+					<KeyWord lang="es">Producto,item,catalogo,lista,proveedor,empresa</KeyWord>
+					<KeyWord lang="en">Product,item,catalog,list,provider,company</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto X Cliente</Title>
+				<Title lang="es">Producto Vs. Clien</Title>
+				<Title lang="en">Product X Customer</Title>
+				<Function>MATA370</Function>
+				<Type>1</Type>
+				<Tables>SA7</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>5</Owner>
+				<ItemID>0000006592</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Item,empresa</KeyWord>
+					<KeyWord lang="es">Item,empresa</KeyWord>
+					<KeyWord lang="en">Item,company</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000006594</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências</Title>
+				<Title lang="es">Pendencias</Title>
+				<Title lang="en">Pending Issues</Title>
+				<Function>QNCA200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006595</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Etapas</Title>
+				<Title lang="es">Grupo de Etapas</Title>
+				<Title lang="en">Stages Group</Title>
+				<Function>QNCA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006596</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapa X Habilidade</Title>
+				<Title lang="es">Etapa Vs Habilidad</Title>
+				<Title lang="en">Step X Ability</Title>
+				<Function>QNCA130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006597</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Documento</Title>
+				<Title lang="es">Tipo de Documento</Title>
+				<Title lang="en">Type Of Document</Title>
+				<Function>QNCA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006598</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documento X Etapa</Title>
+				<Title lang="es">Documento Vs Etapa</Title>
+				<Title lang="en">Document X Stage</Title>
+				<Function>QNCA150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006599</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permissão de Etapa</Title>
+				<Title lang="es">Permision de Etapa</Title>
+				<Title lang="en">Stage Permission</Title>
+				<Function>QNCA170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A360000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros Genéricos</Title>
+				<Title lang="es">Archivos Genericos</Title>
+				<Title lang="en">Generic Registers</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006601</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestao À Vista</Title>
+			<Title lang="es">Gestión a La Vista</Title>
+			<Title lang="en">Visible Management</Title>
+			<ItemID>0000017418</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestão À Vista - Visões</Title>
+				<Title lang="es">Gestión a La Vista - Visiones</Title>
+				<Title lang="en">Visible Management - Views</Title>
+				<Function>PCPMONITOR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000017421</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A360000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000006602</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATR020</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>5</Owner>
+				<ItemID>0000006604</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="es">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="en">Bidder,company,buyer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferência</Title>
+				<Title lang="es">Transferencia</Title>
+				<Title lang="en">Transfer</Title>
+				<Function>QNCR075</Function>
+				<Type>1</Type>
+				<Tables>QIG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006605</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000006609</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Ocorrências  e Não Conformidade</Title>
+				<Title lang="es">Ficha de Ocurrencias Y No Conformidad</Title>
+				<Title lang="en">Occurrence And Non-conformity Form</Title>
+				<Function>QNCR020</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006610</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ocorrencia,conformidade</KeyWord>
+					<KeyWord lang="es">Ocurrencia,conformidad</KeyWord>
+					<KeyWord lang="en">Occurrence,conformity</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Formulário</Title>
+				<Title lang="es">Ficha de Formulario</Title>
+				<Title lang="en">Form File</Title>
+				<Function>QNCR050</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006611</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ação</Title>
+				<Title lang="es">Plan de Accion</Title>
+				<Title lang="en">Action Plan</Title>
+				<Function>QNCR010</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006612</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ação de Formulário</Title>
+				<Title lang="es">Plan de Accion de Formulario</Title>
+				<Title lang="en">Form Action Plan</Title>
+				<Function>QNCR060</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006613</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Formulário</KeyWord>
+					<KeyWord lang="es">Formulario</KeyWord>
+					<KeyWord lang="en">Form</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ações Pré-impressas</Title>
+				<Title lang="es">Plan de Acciones Preimpresas</Title>
+				<Title lang="en">Pre-printed Action Plan</Title>
+				<Function>QNCR040</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006614</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impressão</KeyWord>
+					<KeyWord lang="es">Impresion</KeyWord>
+					<KeyWord lang="en">Print</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Ações Pré-impressas de Formulários</Title>
+				<Title lang="es">Plan de Acciones Preimpresas de Formularios</Title>
+				<Title lang="en">Pre-printed Action Plan Forms</Title>
+				<Function>QNCR080</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006615</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Plano,impressao</KeyWord>
+					<KeyWord lang="es">Plan,impresion</KeyWord>
+					<KeyWord lang="en">Plan,print</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagrama de Causa e Efeito</Title>
+				<Title lang="es">Diagrama de Causa Y Efecto</Title>
+				<Title lang="en">Cause And Effect Diagram</Title>
+				<Function>QNCR070</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006616</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Diagrama</KeyWord>
+					<KeyWord lang="es">Diagrama</KeyWord>
+					<KeyWord lang="en">Diagram</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow Up Etapas</Title>
+				<Title lang="es">Follow Up Etapas</Title>
+				<Title lang="en">Follow Up Stages</Title>
+				<Function>QNCR030</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006617</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Pendências</Title>
+				<Title lang="es">Informe de Pendientes</Title>
+				<Title lang="en">Pendings Report</Title>
+				<Function>QNCR100</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006618</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Verificação</Title>
+				<Title lang="es">Lista de Verificacion</Title>
+				<Title lang="en">Check List</Title>
+				<Function>QNCR090</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006619</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências Vencidas e a Vencer</Title>
+				<Title lang="es">Pendientes Vencidos Y Por Vencer</Title>
+				<Title lang="en">Overdue And Due Pendings</Title>
+				<Function>QNCR110</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006620</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pendentes</KeyWord>
+					<KeyWord lang="es">Pendientes</KeyWord>
+					<KeyWord lang="en">Pendings</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Não Conformidade Por Produtos</Title>
+				<Title lang="es">No Conformidad Por Productos</Title>
+				<Title lang="en">Non Conformity By Products</Title>
+				<Function>QNCR120</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006621</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conformidade,item,produto</KeyWord>
+					<KeyWord lang="es">Conformidad,item,producto</KeyWord>
+					<KeyWord lang="en">Conformity,item,product</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Não Conformidade Para Projetos</Title>
+				<Title lang="es">No Conformidad Para Proyectos</Title>
+				<Title lang="en">Non Conformity For Projects</Title>
+				<Function>QNCR130</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI1</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI4</Tables>
+				<Tables>QI5</Tables>
+				<Tables>QI6</Tables>
+				<Tables>QI7</Tables>
+				<Tables>QI8</Tables>
+				<Tables>QI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006622</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conformidade,projeto</KeyWord>
+					<KeyWord lang="es">Conformidad,proyecto</KeyWord>
+					<KeyWord lang="en">Conformity,project</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Não Conformidade Analítica</Title>
+				<Title lang="es">Ficha de No Conformidad Analitica</Title>
+				<Title lang="en">Analytic Non-conformity Form</Title>
+				<Function>QNCR170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006623</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conformidade</KeyWord>
+					<KeyWord lang="es">Conformidad</KeyWord>
+					<KeyWord lang="en">Conformity</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas X Ficha de Não Conformidade Analítica</Title>
+				<Title lang="es">Etapas Vs Ficha de No Conformidad Analitica</Title>
+				<Title lang="en">Stages X Form Analytic Non Conformity</Title>
+				<Function>QNCR160</Function>
+				<Type>1</Type>
+				<Tables>QI2</Tables>
+				<Tables>QI3</Tables>
+				<Tables>QI5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006624</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conformidade,analitico</KeyWord>
+					<KeyWord lang="es">Conformidad,analitico</KeyWord>
+					<KeyWord lang="en">Conformity,analytic</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A360000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000006625</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006626</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Por Usuários</Title>
+				<Title lang="es">Procesos Por Usuarios</Title>
+				<Title lang="en">User Process</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006627</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000006628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anonimização Lgpd</Title>
+				<Title lang="es">Anonimización Lgpd</Title>
+				<Title lang="en">Gdpr Anonymization</Title>
+				<Function>QLT100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>36</Module>
+				<Owner>36</Owner>
+				<ItemID>0000017097</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B360000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B360000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

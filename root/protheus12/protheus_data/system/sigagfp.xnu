@@ -1,0 +1,2464 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGFP</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A610000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000014994</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Subsídios</Title>
+				<Title lang="es">Tabla de Subsidios</Title>
+				<Title lang="en">Subsidy Table</Title>
+				<Function>CSAA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014995</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotações</Title>
+				<Title lang="es">Asignaciones</Title>
+				<Title lang="en">Allocations</Title>
+				<Function>CSAA100</Function>
+				<Type>1</Type>
+				<Tables>RCD</Tables>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Functions</Title>
+				<Function>GPEA030</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SRS</Tables>
+				<Tables>AA1</Tables>
+				<Tables>DC6</Tables>
+				<Tables>DCI</Tables>
+				<Tables>RAL</Tables>
+				<Tables>RB4</Tables>
+				<Tables>RB5</Tables>
+				<Tables>RB7</Tables>
+				<Tables>RC6</Tables>
+				<Tables>RDB</Tables>
+				<Tables>TAK</Tables>
+				<Tables>TAN</Tables>
+				<Tables>TCB</Tables>
+				<Tables>TMO</Tables>
+				<Tables>TMV</Tables>
+				<Tables>TNB</Tables>
+				<Tables>TNC</Tables>
+				<Tables>TNO</Tables>
+				<Tables>TO0</Tables>
+				<Tables>TOA</Tables>
+				<Tables>TNF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014997</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>GPEA370</Function>
+				<Type>1</Type>
+				<Tables>SQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014998</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos/agências</Title>
+				<Title lang="es">Bancos/agencias</Title>
+				<Title lang="en">Banks/branches</Title>
+				<Function>MATA070</Function>
+				<Type>1</Type>
+				<Tables>SA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014999</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015003</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sindicatos</Title>
+				<Title lang="es">Sindicatos</Title>
+				<Title lang="en">Unions</Title>
+				<Function>GPEA340</Function>
+				<Type>1</Type>
+				<Tables>RCE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015006</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complementos Trabalhistas</Title>
+				<Title lang="es">Complementos Laborales</Title>
+				<Title lang="en">Labor Complements</Title>
+				<Function>GPEA850</Function>
+				<Type>1</Type>
+				<Tables>RF1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Definições de Cálculo</Title>
+			<Title lang="es">Definiciones de Cálculo</Title>
+			<Title lang="en">Calculation Settings</Title>
+			<ItemID>0000015011</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos</Title>
+				<Title lang="es">Procesos</Title>
+				<Title lang="en">Processes</Title>
+				<Function>GPEA420</Function>
+				<Type>1</Type>
+				<Tables>RCJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015013</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Períodos</Title>
+				<Title lang="es">Archivo de Períodos</Title>
+				<Title lang="en">Period Register</Title>
+				<Function>GPEA400</Function>
+				<Type>1</Type>
+				<Tables>RFQ</Tables>
+				<Tables>RCH</Tables>
+				<Tables>RCF</Tables>
+				<Tables>RCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015014</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Período Padrão</Title>
+				<Title lang="es">Config. Período Estándar</Title>
+				<Title lang="en">Default Period Setting</Title>
+				<Function>GPEA500</Function>
+				<Type>1</Type>
+				<Tables>RG5</Tables>
+				<Tables>RG6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015015</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Período Padrão</Title>
+				<Title lang="es">Gener. Período Estándar</Title>
+				<Title lang="en">Default Period Creation</Title>
+				<Function>GPEA490</Function>
+				<Type>1</Type>
+				<Tables>RFQ</Tables>
+				<Tables>RCH</Tables>
+				<Tables>RCF</Tables>
+				<Tables>RCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015016</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Turnos</Title>
+				<Title lang="es">Generación de Turnos</Title>
+				<Title lang="en">Creation Of Shifts</Title>
+				<Function>GPEA491</Function>
+				<Type>1</Type>
+				<Tables>RFQ</Tables>
+				<Tables>RCH</Tables>
+				<Tables>RCF</Tables>
+				<Tables>RCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015017</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Ausências</Title>
+				<Title lang="es">Tipo de Ausencias</Title>
+				<Title lang="en">Types Of Absence</Title>
+				<Function>GPEA430</Function>
+				<Type>1</Type>
+				<Tables>RCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verbas</Title>
+				<Title lang="es">Conceptos</Title>
+				<Title lang="en">Funds</Title>
+				<Function>GPEA040</Function>
+				<Type>1</Type>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Definição de Tabelas</Title>
+				<Title lang="es">Definición de Tablas</Title>
+				<Title lang="en">Table Setting</Title>
+				<Function>GPEA310</Function>
+				<Type>1</Type>
+				<Tables>RCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015021</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção de Tabelas</Title>
+				<Title lang="es">Manten. Tablas</Title>
+				<Title lang="en">Table Maintenance</Title>
+				<Function>GPEA320</Function>
+				<Type>1</Type>
+				<Tables>RCB</Tables>
+				<Tables>RCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mnemônicos</Title>
+				<Title lang="es">Mnemónicos</Title>
+				<Title lang="en">Mnemonics</Title>
+				<Function>GPEA300</Function>
+				<Type>1</Type>
+				<Tables>RCA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015023</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Biblioteca de Funções</Title>
+				<Title lang="es">Biblioteca de Funciones</Title>
+				<Title lang="en">Library Of Features</Title>
+				<Function>GPEA330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015024</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Fórmulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>GPEA290</Function>
+				<Type>1</Type>
+				<Tables>RC2</Tables>
+				<Tables>RC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015025</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiros de Cálculo</Title>
+				<Title lang="es">Proced. de Cálculo</Title>
+				<Title lang="en">Calculation Plans</Title>
+				<Function>GPEA160</Function>
+				<Type>1</Type>
+				<Tables>SRY</Tables>
+				<Tables>SRM</Tables>
+				<Tables>RGA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout de Importação</Title>
+				<Title lang="es">Layout de Importación</Title>
+				<Title lang="en">Import Layout</Title>
+				<Function>GPEA200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015027</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Membros/servidores</Title>
+			<Title lang="es">Miembros/servidores</Title>
+			<Title lang="en">Members/servers</Title>
+			<ItemID>0000015033</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Membros/servidores</Title>
+				<Title lang="es">Miembros/servidores</Title>
+				<Title lang="en">Members/servers</Title>
+				<Function>GPEA010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SPA</Tables>
+				<Tables>SR9</Tables>
+				<Tables>TLI</Tables>
+				<Tables>RCP</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SR8</Tables>
+				<Tables>SRF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dependentes</Title>
+				<Title lang="es">Dependientes</Title>
+				<Title lang="en">Dependents</Title>
+				<Function>GPEA020</Function>
+				<Type>1</Type>
+				<Tables>SRB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015035</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Beneficiários</Title>
+				<Title lang="es">Beneficiarios</Title>
+				<Title lang="en">Beneficiaries</Title>
+				<Function>GPEA280</Function>
+				<Type>1</Type>
+				<Tables>SRQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Dias de Direito</Title>
+				<Title lang="es">Control Días de Derecho</Title>
+				<Title lang="en">Control Of Entitled Days</Title>
+				<Function>GPEA051</Function>
+				<Type>1</Type>
+				<Tables>RIA</Tables>
+				<Tables>SRF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015037</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Subsídios</Title>
+				<Title lang="es">Historial de Subsidios</Title>
+				<Title lang="en">Subsidy History</Title>
+				<Function>GPEA250</Function>
+				<Type>1</Type>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015041</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>GPEA180</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRE</Tables>
+				<Tables>SR9</Tables>
+				<Tables>RGB</Tables>
+				<Tables>SRK</Tables>
+				<Tables>RCK</Tables>
+				<Tables>SR8</Tables>
+				<Tables>RG1</Tables>
+				<Tables>RG7</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRF</Tables>
+				<Tables>RCP</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SRQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015043</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ponto Eletrônico</Title>
+			<Title lang="es">Reloj Electrónico</Title>
+			<Title lang="en">Electronic Attendance Control</Title>
+			<ItemID>0000015045</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turnos de Trabalho</Title>
+				<Title lang="es">Turnos de Trabajo</Title>
+				<Title lang="en">Work Shifts</Title>
+				<Function>GPEA080</Function>
+				<Type>1</Type>
+				<Tables>SR6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015046</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Horários</Title>
+				<Title lang="es">Tabla de Horarios</Title>
+				<Title lang="en">Time Table</Title>
+				<Function>PONA080</Function>
+				<Type>1</Type>
+				<Tables>SR6</Tables>
+				<Tables>SPJ</Tables>
+				<Tables>RF2</Tables>
+				<Tables>RF4</Tables>
+				<Tables>RF5</Tables>
+				<Tables>RF8</Tables>
+				<Tables>RF9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015047</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras</Title>
+				<Title lang="es">Reglas</Title>
+				<Title lang="en">Rules</Title>
+				<Function>PONA060</Function>
+				<Type>1</Type>
+				<Tables>SPA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015052</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Trocas de Turno</Title>
+				<Title lang="es">Cambios de Turno</Title>
+				<Title lang="en">Change Of Shift</Title>
+				<Function>PONA161</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SPF</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SPJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015053</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Benefícios</Title>
+			<Title lang="es">Beneficios</Title>
+			<Title lang="en">Benefits</Title>
+			<ItemID>0000015288</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Benefícios P/ Funcionário</Title>
+				<Title lang="es">Inf. Beneficios P/empleado</Title>
+				<Title lang="en">Rel. Benefits F/ Employee</Title>
+				<Function>GPER011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localidades</Title>
+				<Title lang="es">Localidades</Title>
+				<Title lang="en">Locations</Title>
+				<Function>GPEA660</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Integração</Title>
+				<Title lang="es">Arch. Integración</Title>
+				<Title lang="en">Integration File</Title>
+				<Function>GPEXBENEF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Calculo Automático</Title>
+			<Title lang="es">Cálculo Automático</Title>
+			<Title lang="en">Automatic Calculation</Title>
+			<ItemID>0000015294</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Definição de Plano de Saúde</Title>
+				<Title lang="es">Definic. Seg. de Salud</Title>
+				<Title lang="en">Defining Health Care Plan</Title>
+				<Function>GPEA063</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015295</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critérios de Benefícios</Title>
+				<Title lang="es">Criterios de Beneficios</Title>
+				<Title lang="en">Benefit Criteria</Title>
+				<Function>GPEA062</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento de Vínculos</Title>
+				<Title lang="es">Registro de Vínculos</Title>
+				<Title lang="en">Entry Of Relationships</Title>
+				<Function>GPEA061</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processamento Plano Saúde Hierarquia</Title>
+				<Title lang="es">Procesam. Seg. Salud Jerarquía</Title>
+				<Title lang="en">Processing Hierarchy Health Plan</Title>
+				<Function>GPEM027</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015298</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Benefícios P/ Entidade</Title>
+				<Title lang="es">Inf. Beneficios P/ente</Title>
+				<Title lang="en">Rel. Benefits For Entity</Title>
+				<Function>GPER010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Divergências</Title>
+				<Title lang="es">Informe de Divergencias</Title>
+				<Title lang="en">Report Of Divergences</Title>
+				<Function>GPER012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015300</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planos de Saúde</Title>
+			<Title lang="es">Seguros de Salud</Title>
+			<Title lang="en">Health Care Plans</Title>
+			<ItemID>0000015301</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planos de Saúde Ativos</Title>
+				<Title lang="es">Seg. Salud Activos</Title>
+				<Title lang="en">Active Health Care Plans</Title>
+				<Function>GPEA001</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Alteraçoes de Planos</Title>
+				<Title lang="es">Hist. Modificaciones de Seguros</Title>
+				<Title lang="en">History Of Plan Changes</Title>
+				<Function>GPEA002</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Co-participações / Reembolsos</Title>
+				<Title lang="es">Coparticipaciones/reembolsos</Title>
+				<Title lang="en">Co-participations / Reimburses</Title>
+				<Function>GPEA003</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Tables>RHO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Planos de Saúde</Title>
+				<Title lang="es">Cálc. Seg. de Salud</Title>
+				<Title lang="en">Health Care Plan Calculation</Title>
+				<Function>GPEM016</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Tables>RHR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015305</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelar Cálc. Plano de Saúde</Title>
+				<Title lang="es">Anular Cálc. Seg.salud</Title>
+				<Title lang="en">Cancel Health Care Plan Calc.</Title>
+				<Function>GPEM011</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Tables>RHR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Plano de Saúde P/ Folha</Title>
+				<Title lang="es">Integr. Seg. Salud Con Planilla</Title>
+				<Title lang="en">Integration Health Care Plan F/ Payroll</Title>
+				<Function>GPEM009</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Tables>RHR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015307</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento Planos de Saúde</Title>
+				<Title lang="es">Cierre Seguros de Salud</Title>
+				<Title lang="en">Health Care Plans Closing</Title>
+				<Function>GP001FECH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. de Cálculo Plano de Saúde</Title>
+				<Title lang="es">Inf. Cálc. Seg. Salud</Title>
+				<Title lang="en">Health Care Plan Calculation Rel.</Title>
+				<Function>GPER008</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RHK</Tables>
+				<Tables>RHL</Tables>
+				<Tables>RHM</Tables>
+				<Tables>RHN</Tables>
+				<Tables>RHR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vt / Vr / Va</Title>
+			<Title lang="es">Tt / Tr / Tc</Title>
+			<Title lang="en">Vt / Vr / Va</Title>
+			<ItemID>0000015310</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Vale Refeição</Title>
+				<Title lang="es">Reg. Ticket Rest.</Title>
+				<Title lang="en">Meal Voucher Register</Title>
+				<Function>GPEA012</Function>
+				<Type>1</Type>
+				<Tables>RFO</Tables>
+				<Tables>RFP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Vale Alimentação</Title>
+				<Title lang="es">Reg. Ticket Canasta</Title>
+				<Title lang="en">Meal Voucher Register</Title>
+				<Function>GPEA013</Function>
+				<Type>1</Type>
+				<Tables>RFO</Tables>
+				<Tables>RFP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015312</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Meios de Transporte</Title>
+				<Title lang="es">Reg. Medios de Transporte</Title>
+				<Title lang="en">Means Of Transportation Register</Title>
+				<Function>GPEA140</Function>
+				<Type>1</Type>
+				<Tables>SRN</Tables>
+				<Tables>RFP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout Vt</Title>
+				<Title lang="es">Layout Tt</Title>
+				<Title lang="en">Layout Vt</Title>
+				<Function>GPEA014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização Vt/vr/va</Title>
+				<Title lang="es">Actualiz Tt/tr/tc</Title>
+				<Title lang="en">Vt/vr/va Updating</Title>
+				<Function>GPEA131</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR0</Tables>
+				<Tables>RG2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Vt/vr/va</Title>
+				<Title lang="es">Cálculo Tt/tr/tc</Title>
+				<Title lang="en">Calculates Vt/vr/va</Title>
+				<Function>GP131CALC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015318</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Vt/vr/va P/ Folha</Title>
+				<Title lang="es">Integrac. Tt/tr/tc P/planilla</Title>
+				<Title lang="en">Integration Vt/vr/va For Payroll</Title>
+				<Function>GPEM015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015319</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressão do Mapa</Title>
+				<Title lang="es">Impresión Del Mapa</Title>
+				<Title lang="en">Map Printing</Title>
+				<Function>GPER009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015320</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento Vt/vr/va</Title>
+				<Title lang="es">Cierre Tt/tr/tc</Title>
+				<Title lang="en">Vt/vr/va Closing</Title>
+				<Function>GP131FECH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recibo Vale Transporte e Diferenças</Title>
+				<Title lang="es">Recibo Ticket Transporte Y Diferencias</Title>
+				<Title lang="en">Receipt Transportation Allowance And Differences</Title>
+				<Function>GPER220</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR0</Tables>
+				<Tables>RG2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Outros Benefícios</Title>
+			<Title lang="es">Otros Beneficios</Title>
+			<Title lang="en">Other Benefits</Title>
+			<ItemID>0000015324</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Definição de Benefícios</Title>
+				<Title lang="es">Definición de Beneficios</Title>
+				<Title lang="en">Definition Of Benefits</Title>
+				<Function>GPEA067</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015326</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Outros Benefícios</Title>
+				<Title lang="es">Manten. Otros Beneficios</Title>
+				<Title lang="en">Maintenance Other Benefits</Title>
+				<Function>GPEA065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Outros Benefícios</Title>
+				<Title lang="es">Cálc. Otros Beneficios</Title>
+				<Title lang="en">Calculation Other Benefits</Title>
+				<Function>GP131CALCA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico de Cálculo Outros Benefícios</Title>
+				<Title lang="es">Hist. Cálc. Otros Beneficios</Title>
+				<Title lang="en">Calculation History Other Benefits</Title>
+				<Function>GPEA066</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015333</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Outros Benefícios P/ Folha</Title>
+				<Title lang="es">Integr. Otros Beneficios P/planilla</Title>
+				<Title lang="en">Integration Other Benefits For Payroll</Title>
+				<Function>GPEM015A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento Outros Beneficios</Title>
+				<Title lang="es">Cierre Otros Beneficios</Title>
+				<Title lang="en">Closing Other Benefits</Title>
+				<Function>GP068FECH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. de Cálculo Outros Beneficios</Title>
+				<Title lang="es">Inf. Cálc. Otros Beneficios</Title>
+				<Title lang="en">Rel. Of Calculation Other Benefits</Title>
+				<Function>GPER065</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Emtries</Title>
+			<ItemID>0000015055</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Automáticos</Title>
+				<Title lang="es">Asientos Automáticos</Title>
+				<Title lang="en">Automatic Entries</Title>
+				<Function>VDFA120</Function>
+				<Type>1</Type>
+				<Tables>RIK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015056</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Por Período</Title>
+				<Title lang="es">Asientos Por Período</Title>
+				<Title lang="en">Entries By Period</Title>
+				<Function>GPEA580</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015057</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Por Verba</Title>
+				<Title lang="es">Asientos Por Concepto</Title>
+				<Title lang="en">Entries Per Fund</Title>
+				<Function>GPEA590</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015058</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos de Ausências</Title>
+				<Title lang="es">Asientos Por Ausencias</Title>
+				<Title lang="en">Entries Of Absences</Title>
+				<Function>GPEA240</Function>
+				<Type>1</Type>
+				<Tables>SR8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015059</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valores Futuros</Title>
+				<Title lang="es">Valores Futuros</Title>
+				<Title lang="en">Future Values</Title>
+				<Function>GPEA110</Function>
+				<Type>1</Type>
+				<Tables>SRK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015060</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta Corrente Valores Futuros</Title>
+				<Title lang="es">Cta Cte Valores Futuros</Title>
+				<Title lang="en">Checking Account Future Values</Title>
+				<Function>GPEA415</Function>
+				<Type>1</Type>
+				<Tables>SRK</Tables>
+				<Tables>RCK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015061</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Fixos</Title>
+				<Title lang="es">Asientos Fijos</Title>
+				<Title lang="en">Fixed Entries</Title>
+				<Function>GPEA550</Function>
+				<Type>1</Type>
+				<Tables>RG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015063</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Rra</Title>
+				<Title lang="es">Manten. Rra</Title>
+				<Title lang="en">Rra Maintenance</Title>
+				<Function>GPEA840</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RF1</Tables>
+				<Tables>RFC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A610000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000015137</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genéricos</Title>
+				<Title lang="en">Generics</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015141</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Registro</Title>
+				<Title lang="es">Ficha de Registro</Title>
+				<Title lang="en">Record Form</Title>
+				<Function>GPEA260</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SPA</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SR8</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRK</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015142</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recibo de Pagamento</Title>
+				<Title lang="es">Recibo de Pago</Title>
+				<Title lang="en">Payment Receipt</Title>
+				<Function>GPEA630</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRV</Tables>
+				<Tables>SRI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015143</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Acumulados</Title>
+				<Title lang="es">Consulta Acumulados</Title>
+				<Title lang="en">Accrual Query</Title>
+				<Function>GPEA120</Function>
+				<Type>1</Type>
+				<Tables>SRD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genérico Relacional</Title>
+				<Title lang="es">Genérico Relacional</Title>
+				<Title lang="en">Relational Generic</Title>
+				<Function>MPVIEW</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015145</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculos</Title>
+			<Title lang="es">Cálculos</Title>
+			<Title lang="en">Calculation</Title>
+			<ItemID>0000015147</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Cálc. Por Servidor</Title>
+				<Title lang="es">Consulta Cálc. Por Servidor</Title>
+				<Title lang="en">Query Calc Per Server</Title>
+				<Function>GPEA090</Function>
+				<Type>1</Type>
+				<Tables>SRC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Cálc. Por Verba</Title>
+				<Title lang="es">Consulta Cálc. Concepto</Title>
+				<Title lang="en">Calc. Query Per Fund</Title>
+				<Function>GPEA100</Function>
+				<Type>1</Type>
+				<Tables>SRC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A610000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Periódicos</Title>
+			<Title lang="es">Periódicos</Title>
+			<Title lang="en">Periodic</Title>
+			<ItemID>0000015150</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Folha de Pagamento</Title>
+				<Title lang="es">Planilla de Haberes</Title>
+				<Title lang="en">Payroll</Title>
+				<Function>GPER040</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRV</Tables>
+				<Tables>RCH</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SRY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015163</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo Por Competência</Title>
+				<Title lang="es">Resumen Por Vigencia</Title>
+				<Title lang="en">Summary Per Competence</Title>
+				<Function>GPER670</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRV</Tables>
+				<Tables>RCH</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SRY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015164</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Líquidos</Title>
+				<Title lang="es">Netos</Title>
+				<Title lang="en">Net Values</Title>
+				<Function>GPER020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015165</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gps / Grps</Title>
+				<Title lang="es">Gps / Grps</Title>
+				<Title lang="en">Gps / Grps</Title>
+				<Function>GPER240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015166</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferência Gps</Title>
+				<Title lang="es">Verif. Gps</Title>
+				<Title lang="en">Gps Verification</Title>
+				<Function>GPER241</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015168</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dirf Mensal / Darf</Title>
+				<Title lang="es">Dirf Mensual/darf</Title>
+				<Title lang="en">Dirf Monthly/darf</Title>
+				<Function>GPER050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015169</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dirf / Darf Rra</Title>
+				<Title lang="es">Dirf / Darf Rra</Title>
+				<Title lang="en">Dirf / Darf Rra</Title>
+				<Function>GPER930</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015170</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Recibos</Title>
+			<Title lang="es">Recibos</Title>
+			<Title lang="en">Receipts</Title>
+			<ItemID>0000015172</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recibos de Pagamento</Title>
+				<Title lang="es">Recibos de Pago</Title>
+				<Title lang="en">Payment Receipts</Title>
+				<Function>GPER030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015174</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Emtries</Title>
+			<ItemID>0000015176</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Período Vertical</Title>
+				<Title lang="es">Por Período Vertical</Title>
+				<Title lang="en">Per Vertical Period</Title>
+				<Function>GPER102</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015177</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Período Horizontal</Title>
+				<Title lang="es">Por Período Horizontal</Title>
+				<Title lang="en">Per Horizontal Period</Title>
+				<Function>GPER103</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015178</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Vertical</Title>
+				<Title lang="es">Asientos Vertical</Title>
+				<Title lang="en">Vertical Entries</Title>
+				<Function>GPER104</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Horizontal</Title>
+				<Title lang="es">Asientos Horizontal</Title>
+				<Title lang="en">Horizontal Entries</Title>
+				<Function>GPER105</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015180</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Acumulados</Title>
+				<Title lang="es">Informe de Acumulados</Title>
+				<Title lang="en">Report Of Accrual</Title>
+				<Function>GPER510</Function>
+				<Type>1</Type>
+				<Tables>SRD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015181</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valores Futuros</Title>
+				<Title lang="es">Valores Futuros</Title>
+				<Title lang="en">Future Values</Title>
+				<Function>GPER570</Function>
+				<Type>1</Type>
+				<Tables>SRK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Horas</Title>
+				<Title lang="es">Informe de Horas</Title>
+				<Title lang="en">Statement Of Hours</Title>
+				<Function>GPER330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha Financeira</Title>
+				<Title lang="es">Ficha Financiera</Title>
+				<Title lang="en">Financial Form</Title>
+				<Function>GPER270</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015185</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Folha de Rescisões</Title>
+				<Title lang="es">Planilla de Rescisiones</Title>
+				<Title lang="en">Termination Sheet</Title>
+				<Function>GPER630</Function>
+				<Type>1</Type>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A610000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculos</Title>
+			<Title lang="es">Cálculos</Title>
+			<Title lang="en">Calculation</Title>
+			<ItemID>0000015187</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálc. Por Roteiros</Title>
+				<Title lang="es">Cálc. Por Procedimientos</Title>
+				<Title lang="en">Calc. Per Scripts</Title>
+				<Function>GPEM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rescisão</Title>
+				<Title lang="es">Rescisión</Title>
+				<Title lang="en">Termination</Title>
+				<Function>GPEM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015203</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelamento de Cálculo</Title>
+				<Title lang="es">Anulación de Cálculo</Title>
+				<Title lang="en">Cancellation Of Calculation</Title>
+				<Function>GPEM160</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Tables>SRC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Verbas</Title>
+				<Title lang="es">Generación de Conceptos</Title>
+				<Title lang="en">Funds Generation</Title>
+				<Function>GPEM170</Function>
+				<Type>1</Type>
+				<Tables>RGB</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrações</Title>
+				<Title lang="es">Integraciones</Title>
+				<Title lang="en">Integrations</Title>
+				<Function>GPEM019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fgts</Title>
+			<Title lang="es">Fgts</Title>
+			<Title lang="en">Fgts</Title>
+			<ItemID>0000015229</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Sefip</Title>
+				<Title lang="es">Generación Sefip</Title>
+				<Title lang="en">Sefip Generation</Title>
+				<Function>GPEM610</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015233</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Previdência</Title>
+			<Title lang="es">Previsión Social</Title>
+			<Title lang="en">Social Security</Title>
+			<ItemID>0000015238</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Magnético</Title>
+				<Title lang="es">Archivo Magnético</Title>
+				<Title lang="en">Magnetic File</Title>
+				<Function>GPEM400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015239</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Líquido</Title>
+			<Title lang="es">Neto</Title>
+			<Title lang="en">Net</Title>
+			<ItemID>0000015244</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Arquivo de Líquidos</Title>
+				<Title lang="es">Generación Archivo de Netos</Title>
+				<Title lang="en">Generation Of Net Files</Title>
+				<Function>GPEM080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015248</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Reajustes</Title>
+			<Title lang="es">Reajustes</Title>
+			<Title lang="en">Adjustments</Title>
+			<ItemID>0000015250</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reajuste de Subsídios</Title>
+				<Title lang="es">Reajuste de Subsidios</Title>
+				<Title lang="en">Subsidies Adjustment</Title>
+				<Function>GPER200</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015251</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reajuste de Subsídios Por Tabela</Title>
+				<Title lang="es">Reajuste de Subsidios Por Tabla</Title>
+				<Title lang="en">Subsidies Adjustment Per Table</Title>
+				<Function>CSAM010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RBR</Tables>
+				<Tables>RI6</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015252</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Retroativos</Title>
+			<Title lang="es">Retroactivos</Title>
+			<Title lang="en">Retroactive</Title>
+			<ItemID>0000015254</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dissídio</Title>
+				<Title lang="es">Acuerdo Lab.</Title>
+				<Title lang="en">Collective Agreement</Title>
+				<Function>GPEM691</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Promoção / Progressão Retroativa</Title>
+				<Title lang="es">Promoción / Progresión Retroactiva</Title>
+				<Title lang="en">Promotion / Retroactive Progression</Title>
+				<Function>GPEM695</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015256</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processa Rra</Title>
+				<Title lang="es">Procesa Rra</Title>
+				<Title lang="en">Processes Rra</Title>
+				<Function>GP691RRA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015257</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelamento Cálculo Retroativo</Title>
+				<Title lang="es">Anulación de Cálculo Retroactivo</Title>
+				<Title lang="en">Retroactive Calculation Cancellation</Title>
+				<Function>GP691EXC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015260</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Retroativos Para Folha</Title>
+				<Title lang="es">Integración Retroactivos Para Planilla</Title>
+				<Title lang="en">Retroactive Integration Per Payroll</Title>
+				<Function>GP691GRV</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015261</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fechamentos</Title>
+			<Title lang="es">Cierres</Title>
+			<Title lang="en">Closing</Title>
+			<ItemID>0000015263</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento de Períodos</Title>
+				<Title lang="es">Cierre de Períodos</Title>
+				<Title lang="en">Periods Closing</Title>
+				<Function>GPEM120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015264</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rais</Title>
+			<Title lang="es">Rais</Title>
+			<Title lang="en">Rais</Title>
+			<ItemID>0000015268</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Arquivo Rais</Title>
+				<Title lang="es">Generar Archivo Rais</Title>
+				<Title lang="en">Generate Rais File</Title>
+				<Function>GPEM500</Function>
+				<Type>1</Type>
+				<Tables>SR2</Tables>
+				<Tables>RCU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015269</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Arquivo Rais</Title>
+				<Title lang="es">Mantenimiento Archivo Rais</Title>
+				<Title lang="en">Rais File Maintenance</Title>
+				<Function>GPEM510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Rais</Title>
+				<Title lang="es">Informe Rais</Title>
+				<Title lang="en">Rais Report</Title>
+				<Function>GPEM520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015271</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Magnético Rais</Title>
+				<Title lang="es">Archivo Magnético Rais</Title>
+				<Title lang="en">Rais Magnetic File</Title>
+				<Function>GPEM530</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015272</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Dirf</Title>
+			<Title lang="es">Dirf</Title>
+			<Title lang="en">Dirf</Title>
+			<ItemID>0000015275</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Arquivo Dirf</Title>
+				<Title lang="es">Generar Archivo Dirf</Title>
+				<Title lang="en">Generate Dirf File</Title>
+				<Function>GPEM550</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Arquivo Dirf</Title>
+				<Title lang="es">Mantenimiento Archivo Dirf</Title>
+				<Title lang="en">Dirf File Maintenance</Title>
+				<Function>GPEM560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Conferência Dirf</Title>
+				<Title lang="es">Informe de Verificación Dirf</Title>
+				<Title lang="en">Dirf Verification Report</Title>
+				<Function>GPEM570</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015278</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Informe de Rendimentos</Title>
+				<Title lang="es">Informe de Remuneraciones</Title>
+				<Title lang="en">Income Report</Title>
+				<Function>GPEM580</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015279</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Magnético Dirf</Title>
+				<Title lang="es">Archivo Magnético Dirf</Title>
+				<Title lang="en">Dirf Magnetic File</Title>
+				<Function>GPEM590</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015280</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Importação</Title>
+			<Title lang="es">Importación</Title>
+			<Title lang="en">Import</Title>
+			<ItemID>0000015282</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação de Variáveis</Title>
+				<Title lang="es">Importación de Variables</Title>
+				<Title lang="en">Variable Import</Title>
+				<Function>GPEA210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015283</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Portal Protheus</Title>
+			<Title lang="es">Portal Protheus</Title>
+			<Title lang="en">Protheus Portal</Title>
+			<ItemID>0000015285</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivar Solicitações</Title>
+				<Title lang="es">Hacer Efectivas Solicitudes</Title>
+				<Title lang="en">Execute Requests</Title>
+				<Function>TCFA040</Function>
+				<Type>1</Type>
+				<Tables>RH3</Tables>
+				<Tables>RH4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015286</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Consignação</Title>
+			<Title lang="es">Consignación</Title>
+			<Title lang="en">Consignment</Title>
+			<ItemID>0000013755</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Consignação</Title>
+				<Title lang="es">Archivo Consignación</Title>
+				<Title lang="en">Consignment File</Title>
+				<Function>GPEM700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>61</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013758</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B610000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B610000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

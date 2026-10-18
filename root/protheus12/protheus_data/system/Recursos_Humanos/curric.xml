@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<moduledata>
+<entity tablename="Ent" formatname="Curriculum">
+<define name="ParamNome">Testando Da Costa Matos</define>
+
+<SigaFiles Text="SQG">
+<Dados>
+<attribute domainname="UCN">000100</attribute>
+<attribute domainname="AreaInteresse">001</attribute>
+<attribute domainname="AreaInteresse">Designer</attribute>
+<attribute domainname="Nome">Testando Da Costa Matos</attribute>
+<attribute domainname="Endereco">Rua Apeninos, 156</attribute>
+<attribute domainname="Complemento">Casa 8</attribute>
+<attribute domainname="Bairro">Pereira</attribute>
+<attribute domainname="Municipio">Pedreira</attribute>
+<attribute domainname="Estado">SP</attribute>
+<attribute domainname="Cep">050000-123</attribute>
+<attribute domainname="Fone">011-6255-7788</attribute>
+<attribute domainname="Rg">015454465456-X</attribute>
+<attribute domainname="CIC">35328720059</attribute>
+<attribute domainname="NumCp">0145454</attribute>
+<attribute domainname="SerCp">AB454</attribute>
+<attribute domainname="UfCp">SP</attribute>
+<attribute domainname="NumeroHabilitacao">0456465465</attribute>
+<attribute domainname="Reservista">132798465465</attribute>
+<attribute domainname="TituloEleitor">324654654657</attribute>
+<attribute domainname="ZonaSec">Z/L MMo</attribute>
+<attribute domainname="NomePai">Pai  Da Costa Matos</attribute>
+<attribute domainname="NomeMae">Mãe  Da Costa Matos</attribute>
+<attribute domainname="Sexo">M</attribute>
+<attribute domainname="EstadoCivil">S</attribute>
+<attribute domainname="Natural">SP</attribute>
+<attribute domainname="Nacionalidade">BR</attribute>
+<attribute domainname="AnoChegada">00</attribute>
+<attribute domainname="DataNascimento">13/10/1977</attribute>
+<attribute domainname="DataCadastro">27/05/2003</attribute>
+<attribute domainname="Funcao">Estagiário</attribute>
+<attribute domainname="UltSalario">578,74</attribute>
+<attribute domainname="PretencaoSalarial">1547,41</attribute>
+<attribute domainname="BitMap"></attribute>
+<attribute domainname="Analise">Legal</attribute>
+<attribute domainname="PIS">33254</attribute>
+<attribute domainname="Exper">As criancas perdem muito tempo em frente da televisao e na internet. Deveriam ler mais livros
+A tecnologia de pesquisa na internet em breve vai permitir classificar os sites pela qualidade da informacao que oferecem
+O declinio dos tubaroes no mundo dos negocios eh inevitavel</attribute>
+<attribute domainname="IndicadoPor">Maria da Silva</attribute>
+<attribute domainname="Nota">0</attribute>
+<attribute domainname="Situacao">001</attribute>
+<attribute domainname="CC"></attribute>
+<attribute domainname="Meio_en"></attribute>
+<attribute domainname="DataTeste">00:00:00</attribute>
+<attribute domainname="Tptrab">0</attribute>
+<attribute domainname="TpExper">0</attribute>
+<attribute domainname="Grupo">01</attribute>
+</Dados>
+</SigaFiles>
+
+<SigaFiles Text="SQM">
+<Dados>
+<attribute domainname="CursoEntidade">Senac</attribute>
+<attribute domainname="CursoDtConcl">01/05/01</attribute>
+<attribute domainname="CursoCodigo">0001</attribute>
+<attribute domainname="CursoEscolarSN">N</attribute>
+</Dados>
+<Dados>
+<attribute domainname="CursoEntidade">Microsoft</attribute>
+<attribute domainname="CursoDtConcl">25/06/02</attribute>
+<attribute domainname="CursoCodigo">0002</attribute>
+<attribute domainname="CursoEscolarSN">N</attribute>
+</Dados>
+</SigaFiles>
+
+<SigaFiles Text="SQI">
+<Dados>
+<attribute domainname="QualifGrupo">01</attribute>
+<attribute domainname="QualifFator">01</attribute>
+<attribute domainname="QualifGrau">01</attribute>
+<attribute domainname="QualifData">01/01/03</attribute>
+</Dados>
+<Dados>
+<attribute domainname="QualifGrupo">01</attribute>
+<attribute domainname="QualifFator">02</attribute>
+<attribute domainname="QualifGrau">03</attribute>
+<attribute domainname="QualifData">25/02/03</attribute>
+</Dados>
+</SigaFiles>
+
+<SigaFiles Text="SQL">
+<Dados>
+<attribute domainname="HistEmpresa">Fuzzy</attribute>
+<attribute domainname="HistFuncao">Analista Sistemas</attribute>
+<attribute domainname="HistAdmicao">01/01/2000</attribute>
+<attribute domainname="HistDemicao">01/01/2002</attribute>
+<attribute domainname="HistAtivMemo">Teste</attribute>
+<attribute domainname="HistArea">001</attribute>
+</Dados>
+<Dados>
+<attribute domainname="HistEmpresa">RedeCard</attribute>
+<attribute domainname="HistFuncao">Administrador Banco Dados</attribute>
+<attribute domainname="HistAdmicao">02/01/2002</attribute>
+<attribute domainname="HistDemicao">01/01/2004</attribute>
+<attribute domainname="HistAtivMemo">Teste2</attribute>
+<attribute domainname="HistArea">001</attribute>
+</Dados>
+</SigaFiles>
+
+</entity>
+</moduledata>
+

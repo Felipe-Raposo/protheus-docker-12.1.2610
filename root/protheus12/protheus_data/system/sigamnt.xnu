@@ -1,0 +1,6228 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAMNT</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A190000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Basicos</Title>
+			<Title lang="es">Archivos Basicos</Title>
+			<Title lang="en">Basic Files</Title>
+			<ItemID>0000004047</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendários</Title>
+				<Title lang="es">Calendarios</Title>
+				<Title lang="en">Calendars</Title>
+				<Function>MATA780</Function>
+				<Type>1</Type>
+				<Tables>SH7</Tables>
+				<Tables>SED</Tables>
+				<Tables>TPD</Tables>
+				<Tables>SQA</Tables>
+				<Tables>SAN</Tables>
+				<Tables>SAI</Tables>
+				<Tables>QP6</Tables>
+				<Tables>TPE</Tables>
+				<Tables>TPI</Tables>
+				<Tables>TPP</Tables>
+				<Tables>TPW</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>STY</Tables>
+				<Tables>ST0</Tables>
+				<Tables>STN</Tables>
+				<Tables>STP</Tables>
+				<Tables>TPS</Tables>
+				<Tables>TPY</Tables>
+				<Tables>TPZ</Tables>
+				<Tables>SG7</Tables>
+				<Tables>SG8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004048</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro Custos</Title>
+				<Title lang="es">Centro Costos</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>34</Owner>
+				<ItemID>0000004049</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros Trabalho</Title>
+				<Title lang="es">Centros Trabajo</Title>
+				<Title lang="en">Work Centers</Title>
+				<Function>MATA770</Function>
+				<Type>1</Type>
+				<Tables>SHB</Tables>
+				<Tables>TPS</Tables>
+				<Tables>SDC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004050</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produto</Title>
+				<Title lang="es">Producto</Title>
+				<Title lang="en">Product</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SC3</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SAH</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SBG</Tables>
+				<Tables>SBH</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SCK</Tables>
+				<Tables>VE1</Tables>
+				<Tables>SYP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>2</Owner>
+				<ItemID>0000004051</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Lugares de Stock</Title>
+				<Title lang="en">Stock Location</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>67</Owner>
+				<ItemID>0000012683</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SYA</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SB6</Tables>
+				<Tables>TPO</Tables>
+				<Tables>SYP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>2</Owner>
+				<ItemID>0000004052</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Calendár.</Title>
+				<Title lang="es">Excepciones Calendarios</Title>
+				<Title lang="en">Calendar Exceptions</Title>
+				<Function>MATA640</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004054</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ferramentas</Title>
+				<Title lang="es">Herramientas</Title>
+				<Title lang="en">Tools</Title>
+				<Function>MATA620</Function>
+				<Type>1</Type>
+				<Tables>SH4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004055</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recursos</Title>
+				<Title lang="es">Recursos</Title>
+				<Title lang="en">Resources</Title>
+				<Function>MATA610</Function>
+				<Type>1</Type>
+				<Tables>SH1</Tables>
+				<Tables>SH2</Tables>
+				<Tables>SH9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004056</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ativos</Title>
+				<Title lang="es">Activos</Title>
+				<Title lang="en">Assets</Title>
+				<Function>ATFA012</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SFA</Tables>
+				<Tables>SF9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>1</Owner>
+				<ItemID>0000004057</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>GPEA010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SPA</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRG</Tables>
+				<Tables>SR4</Tables>
+				<Tables>SRI</Tables>
+				<Tables>SRK</Tables>
+				<Tables>SRL</Tables>
+				<Tables>SRO</Tables>
+				<Tables>SRR</Tables>
+				<Tables>SR5</Tables>
+				<Tables>SR0</Tables>
+				<Tables>SR1</Tables>
+				<Tables>SR2</Tables>
+				<Tables>SRH</Tables>
+				<Tables>SRS</Tables>
+				<Tables>SRW</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SRX</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SR3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>7</Owner>
+				<ItemID>0000004058</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Imagens</Title>
+				<Title lang="es">Imagenes</Title>
+				<Title lang="en">Images</Title>
+				<Function>CFGX012</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SPA</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRG</Tables>
+				<Tables>SR4</Tables>
+				<Tables>SRI</Tables>
+				<Tables>SRK</Tables>
+				<Tables>SRL</Tables>
+				<Tables>SRO</Tables>
+				<Tables>SRR</Tables>
+				<Tables>SR5</Tables>
+				<Tables>SR0</Tables>
+				<Tables>SR1</Tables>
+				<Tables>SR2</Tables>
+				<Tables>SRH</Tables>
+				<Tables>SRS</Tables>
+				<Tables>SRW</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SRX</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SR3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>99</Owner>
+				<ItemID>0000004059</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Filiais</Title>
+				<Title lang="es">Grupo Sucursales</Title>
+				<Title lang="en">Branch Group</Title>
+				<Function>MNTA885</Function>
+				<Type>1</Type>
+				<Tables>TSK</Tables>
+				<Tables>TSL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011732</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filiais</Title>
+				<Title lang="es">Sucursales</Title>
+				<Title lang="en">Branches</Title>
+				<Function>MNTA855</Function>
+				<Type>1</Type>
+				<Tables>TSK</Tables>
+				<Tables>TSL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011924</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Árvore</Title>
+			<Title lang="es">Árbol</Title>
+			<Title lang="en">Tree</Title>
+			<ItemID>0000004061</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Árvore</Title>
+				<Title lang="es">Árbol</Title>
+				<Title lang="en">Tree</Title>
+				<Function>MNTA902</Function>
+				<Type>1</Type>
+				<Tables>TAF</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STN</Tables>
+				<Tables>STC</Tables>
+				<Tables>STJ</Tables>
+				<Tables>TPC</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STF</Tables>
+				<Tables>CTT</Tables>
+				<Tables>SHB</Tables>
+				<Tables>TPE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004063</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bens</Title>
+			<Title lang="es">Bienes</Title>
+			<Title lang="en">Assets</Title>
+			<ItemID>0000004065</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Características</Title>
+				<Title lang="es">Características</Title>
+				<Title lang="en">Features</Title>
+				<Function>MNTA045</Function>
+				<Type>1</Type>
+				<Tables>TPR</Tables>
+				<Tables>TPS</Tables>
+				<Tables>TPJ</Tables>
+				<Tables>TPL</Tables>
+				<Tables>TPY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004066</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localização</Title>
+				<Title lang="es">Ubicación</Title>
+				<Title lang="en">Location</Title>
+				<Function>MNTA055</Function>
+				<Type>1</Type>
+				<Tables>TPR</Tables>
+				<Tables>TPS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004067</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Família de Bens</Title>
+				<Title lang="es">Familia de Bienes</Title>
+				<Title lang="en">Family Of Assets</Title>
+				<Function>MNTA050</Function>
+				<Type>1</Type>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STI</Tables>
+				<Tables>STR</Tables>
+				<Tables>TPR</Tables>
+				<Tables>TPS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004068</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos</Title>
+				<Title lang="es">Modelos</Title>
+				<Title lang="en">Models</Title>
+				<Function>MNTA094</Function>
+				<Type>1</Type>
+				<Tables>TQR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004069</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fabricantes Bens</Title>
+				<Title lang="es">Fabricantes Bienes</Title>
+				<Title lang="en">Asset Manufacturer</Title>
+				<Function>MNTA070</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST7</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TPE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004070</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status</Title>
+				<Title lang="es">Estatus</Title>
+				<Title lang="en">Status</Title>
+				<Function>MNTA710</Function>
+				<Type>1</Type>
+				<Tables>TQY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Padrão</Title>
+				<Title lang="es">Bienes Estándar</Title>
+				<Title lang="en">Default Assets</Title>
+				<Function>MNTA170</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH7</Tables>
+				<Tables>SHB</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST7</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STI</Tables>
+				<Tables>TP9</Tables>
+				<Tables>TPB</Tables>
+				<Tables>TPK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004072</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens</Title>
+				<Title lang="es">Bienes</Title>
+				<Title lang="en">Assets</Title>
+				<Function>MNTA080</Function>
+				<Type>1</Type>
+				<Tables>SH1</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STB</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STR</Tables>
+				<Tables>SN1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004073</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Penhora</Title>
+				<Title lang="es">Empeno</Title>
+				<Title lang="en">Pledge</Title>
+				<Function>MNTA525</Function>
+				<Type>1</Type>
+				<Tables>TS3</Tables>
+				<Tables>TRW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011993</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura Padrão</Title>
+				<Title lang="es">Estructura Estándar</Title>
+				<Title lang="en">Default Structure</Title>
+				<Function>MNTA095</Function>
+				<Type>1</Type>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004074</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura de Bens</Title>
+				<Title lang="es">Estruc. de Bienes</Title>
+				<Title lang="en">Asset Structure</Title>
+				<Function>MNTA090</Function>
+				<Type>1</Type>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004075</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rodízio Estrutura</Title>
+				<Title lang="es">Alternancia de Estructura</Title>
+				<Title lang="en">Structure Rotation</Title>
+				<Function>MNTA098</Function>
+				<Type>1</Type>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004076</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação Bem</Title>
+				<Title lang="es">Movimiento de Bien</Title>
+				<Title lang="en">Asset Movement</Title>
+				<Function>MNTA471</Function>
+				<Type>1</Type>
+				<Tables>TPN</Tables>
+				<Tables>TPP</Tables>
+				<Tables>TPW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004077</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Manutenção</Title>
+			<Title lang="es">Mantenimiento</Title>
+			<Title lang="en">Maintenance</Title>
+			<ItemID>0000004079</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas Genéricas</Title>
+				<Title lang="es">Etapas Genéricas</Title>
+				<Title lang="en">Generic Stages</Title>
+				<Function>MNTA016</Function>
+				<Type>1</Type>
+				<Tables>TPA</Tables>
+				<Tables>TPC</Tables>
+				<Tables>TPX</Tables>
+				<Tables>TP1</Tables>
+				<Tables>TP2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tarefas Genéricas</Title>
+				<Title lang="es">Tareas Genéricas</Title>
+				<Title lang="en">Generic Tasks</Title>
+				<Function>MNTA240</Function>
+				<Type>1</Type>
+				<Tables>ST5</Tables>
+				<Tables>STG</Tables>
+				<Tables>STA</Tables>
+				<Tables>STH</Tables>
+				<Tables>STK</Tables>
+				<Tables>TT9</Tables>
+				<Tables>STL</Tables>
+				<Tables>STM</Tables>
+				<Tables>STF</Tables>
+				<Tables>STN</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STT</Tables>
+				<Tables>STV</Tables>
+				<Tables>STX</Tables>
+				<Tables>TP1</Tables>
+				<Tables>TP5</Tables>
+				<Tables>TP2</Tables>
+				<Tables>TPG</Tables>
+				<Tables>TPH</Tables>
+				<Tables>TPM</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>TPX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especialidades</Title>
+				<Title lang="es">Especialidades</Title>
+				<Title lang="en">Specialties</Title>
+				<Function>MNTA010</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST2</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004082</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>MNTA020</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SH7</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST2</Tables>
+				<Tables>STG</Tables>
+				<Tables>STK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipes</Title>
+				<Title lang="es">Equipos</Title>
+				<Title lang="en">Teams</Title>
+				<Function>MNTA800</Function>
+				<Type>1</Type>
+				<Tables>TP4</Tables>
+				<Tables>TP6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Áreas Manutenção</Title>
+				<Title lang="es">Áreas de Mantenimiento</Title>
+				<Title lang="en">Maintenance Areas</Title>
+				<Function>MNTA100</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004085</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Manutenção</Title>
+				<Title lang="es">Tipos de Mantenimiento</Title>
+				<Title lang="en">Maintenance Types</Title>
+				<Function>MNTA110</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004086</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Serviços</Title>
+				<Title lang="es">Servicios</Title>
+				<Title lang="en">Services</Title>
+				<Function>MNTA040</Function>
+				<Type>1</Type>
+				<Tables>ST2</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STD</Tables>
+				<Tables>STE</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Fornecedor</Title>
+				<Title lang="es">Costo Proveedor</Title>
+				<Title lang="en">Supplier Cost</Title>
+				<Function>MNTA250</Function>
+				<Type>1</Type>
+				<Tables>TPO</Tables>
+				<Tables>SA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004088</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção Padrão</Title>
+				<Title lang="es">Mantenimiento Estándar</Title>
+				<Title lang="en">Default Maintenance</Title>
+				<Function>MNTA180</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STP</Tables>
+				<Tables>TP5</Tables>
+				<Tables>TPF</Tables>
+				<Tables>TPG</Tables>
+				<Tables>TPH</Tables>
+				<Tables>TPM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004089</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>MNTA120</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STM</Tables>
+				<Tables>STP</Tables>
+				<Tables>TP5</Tables>
+				<Tables>TPH</Tables>
+				<Tables>TPM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências Manut.</Title>
+				<Title lang="es">Ocurrencias Mant.</Title>
+				<Title lang="en">Maint. Occurrences</Title>
+				<Function>MNTA125</Function>
+				<Type>1</Type>
+				<Tables>ST8</Tables>
+				<Tables>STI</Tables>
+				<Tables>STN</Tables>
+				<Tables>TQ5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desgaste Produção</Title>
+				<Title lang="es">Desgaste Producc.</Title>
+				<Title lang="en">Production Wear</Title>
+				<Function>MNTA060</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SG1</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004092</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Atraso O.s.</Title>
+				<Title lang="es">Motivo Atraso O.s.</Title>
+				<Title lang="en">S.o. Delay Reason</Title>
+				<Function>MNTA025</Function>
+				<Type>1</Type>
+				<Tables>TPJ</Tables>
+				<Tables>TPL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004093</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos</Title>
+				<Title lang="es">Contratos</Title>
+				<Title lang="en">Contracts</Title>
+				<Function>MNTA185</Function>
+				<Type>1</Type>
+				<Tables>TP3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004094</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Contrato O.s</Title>
+				<Title lang="es">Costo Contrato O.s</Title>
+				<Title lang="en">S.o. Contract Cost</Title>
+				<Function>MNTA175</Function>
+				<Type>1</Type>
+				<Tables>TP3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004095</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Irregular.</Title>
+				<Title lang="es">Tipos Irregular</Title>
+				<Title lang="en">Irregular Types</Title>
+				<Function>MNTA205</Function>
+				<Type>1</Type>
+				<Tables>TP7</Tables>
+				<Tables>TP8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004096</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocor. Irregular.</Title>
+				<Title lang="es">Ocurr. Irregular.</Title>
+				<Title lang="en">Irregular.occur.</Title>
+				<Function>MNTA215</Function>
+				<Type>1</Type>
+				<Tables>TP7</Tables>
+				<Tables>TP8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004097</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sintomas</Title>
+				<Title lang="es">Sintomas</Title>
+				<Title lang="en">Symptoms</Title>
+				<Function>MNTA935</Function>
+				<Type>1</Type>
+				<Tables>TTB</Tables>
+				<Tables>TTC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004098</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Check List</Title>
+			<Title lang="es">Check List</Title>
+			<Title lang="en">Check List</Title>
+			<ItemID>0000004100</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Check List Padrão</Title>
+				<Title lang="es">Check List Estándar</Title>
+				<Title lang="en">Default Checklist</Title>
+				<Function>MNTA730</Function>
+				<Type>1</Type>
+				<Tables>TTD</Tables>
+				<Tables>TTE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004101</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Check List</Title>
+				<Title lang="es">Devolución Check List</Title>
+				<Title lang="en">Return Checklist</Title>
+				<Function>MNTA735</Function>
+				<Type>1</Type>
+				<Tables>TTD</Tables>
+				<Tables>TTG</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TTE</Tables>
+				<Tables>TTF</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STJ</Tables>
+				<Tables>TQB</Tables>
+				<Tables>TPE</Tables>
+				<Tables>ST1</Tables>
+				<Tables>TQR</Tables>
+				<Tables>ST6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004102</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos Básicos</Title>
+			<Title lang="es">Movimientos Básicos</Title>
+			<Title lang="en">Basic Transactions</Title>
+			<ItemID>0000004104</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens de Produção</Title>
+				<Title lang="es">Órdenes de Producción</Title>
+				<Title lang="en">Production Orders</Title>
+				<Function>MATA650</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC5</Tables>
+				<Tables>STO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004105</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio Recursos</Title>
+				<Title lang="es">Bloqueo Recursos</Title>
+				<Title lang="en">Resource Blockage</Title>
+				<Function>MATA660</Function>
+				<Type>1</Type>
+				<Tables>SH1</Tables>
+				<Tables>SH9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004106</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio Ferramen.</Title>
+				<Title lang="es">Bloqueo Herramient</Title>
+				<Title lang="en">Tool Blockage</Title>
+				<Function>MATA790</Function>
+				<Type>1</Type>
+				<Tables>SH1</Tables>
+				<Tables>SH9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>10</Owner>
+				<ItemID>0000004107</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicit.de Compras</Title>
+				<Title lang="es">Solicit.de Compras</Title>
+				<Title lang="en">Purchase Request</Title>
+				<Function>MATA110</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>2</Owner>
+				<ItemID>0000004108</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Em Estoque</Title>
+				<Title lang="es">Saldo En Stock</Title>
+				<Title lang="en">Stock Balance</Title>
+				<Function>MATA225</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>4</Owner>
+				<ItemID>0000004109</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empenhos Estoque</Title>
+				<Title lang="es">Reservas Stock</Title>
+				<Title lang="en">Stock Allocation</Title>
+				<Function>MATA380</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>4</Owner>
+				<ItemID>0000004110</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Movimentação</Title>
+				<Title lang="es">Tipo de Movimiento</Title>
+				<Title lang="en">Transaction Types</Title>
+				<Function>MATA230</Function>
+				<Type>1</Type>
+				<Tables>SF5</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017721</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Plano Acompanham.</Title>
+			<Title lang="es">Plan Seguim.</Title>
+			<Title lang="en">Follow-up Plan</Title>
+			<ItemID>0000004112</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano</Title>
+				<Title lang="es">Plan</Title>
+				<Title lang="en">Plan</Title>
+				<Function>MNTA310</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STO</Tables>
+				<Tables>STP</Tables>
+				<Tables>TQA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004113</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confirmação</Title>
+				<Title lang="es">Confirmación</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>MNTA320</Function>
+				<Type>1</Type>
+				<Tables>STO</Tables>
+				<Tables>STP</Tables>
+				<Tables>STW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004114</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Retorno</Title>
+				<Title lang="en">Return</Title>
+				<Function>MNTA390</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STP</Tables>
+				<Tables>STW</Tables>
+				<Tables>TQA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004115</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reabertura O.s.</Title>
+				<Title lang="es">Reapertura O.s.</Title>
+				<Title lang="en">S.o. Reopening</Title>
+				<Function>MNTA255</Function>
+				<Type>1</Type>
+				<Tables>TQA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004116</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Plano Manutenção</Title>
+			<Title lang="es">Plan de Mantenim.</Title>
+			<Title lang="en">Maintenance Plan</Title>
+			<ItemID>0000004118</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano</Title>
+				<Title lang="es">Plan</Title>
+				<Title lang="en">Plan</Title>
+				<Function>MNTA331</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SH1</Tables>
+				<Tables>SH9</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST2</Tables>
+				<Tables>ST3</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STA</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STK</Tables>
+				<Tables>STL</Tables>
+				<Tables>STM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004119</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confirmação</Title>
+				<Title lang="es">Confirmación</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>MNTA340</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SH9</Tables>
+				<Tables>ST3</Tables>
+				<Tables>STA</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STK</Tables>
+				<Tables>STL</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Substituição O.s.</Title>
+				<Title lang="es">Sustitución O.s.</Title>
+				<Title lang="en">O.s. Substitution</Title>
+				<Function>MNTA365</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004121</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Esquema de Rodados</Title>
+			<Title lang="es">Esquema de Ejes</Title>
+			<Title lang="en">Tires Plan</Title>
+			<ItemID>0000004123</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Esquema Padrão</Title>
+				<Title lang="es">Esquema Estándar</Title>
+				<Title lang="en">Default Layout</Title>
+				<Function>MNTA220</Function>
+				<Type>1</Type>
+				<Tables>TQ0</Tables>
+				<Tables>TQ1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004124</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Esquema de Bens</Title>
+				<Title lang="es">Esquema de Bienes</Title>
+				<Title lang="en">Asset Scheme</Title>
+				<Function>MNTA230</Function>
+				<Type>1</Type>
+				<Tables>TQ0</Tables>
+				<Tables>TQ1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004125</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Retorno O.s.</Title>
+			<Title lang="es">Retorno O.s.</Title>
+			<Title lang="en">S.o. Return</Title>
+			<ItemID>0000004127</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Retorno</Title>
+				<Title lang="en">Return</Title>
+				<Function>MNTA400</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>TPD</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>TPX</Tables>
+				<Tables>STY</Tables>
+				<Tables>STZ</Tables>
+				<Tables>TP1</Tables>
+				<Tables>TP2</Tables>
+				<Tables>TP5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Mod. 2</Title>
+				<Title lang="es">Retorno Mod. 2</Title>
+				<Title lang="en">Return Mod. 2</Title>
+				<Function>MNTA435</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>TPD</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>TPX</Tables>
+				<Tables>STY</Tables>
+				<Tables>STZ</Tables>
+				<Tables>TP1</Tables>
+				<Tables>TP2</Tables>
+				<Tables>TP5</Tables>
+				<Tables>TPL</Tables>
+				<Tables>TPZ</Tables>
+				<Tables>TPA</Tables>
+				<Tables>TPC</Tables>
+				<Tables>STQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004129</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Simplific.</Title>
+				<Title lang="es">Retorno Simplific.</Title>
+				<Title lang="en">Simplif.return</Title>
+				<Function>MNTA415</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>TPD</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>TPX</Tables>
+				<Tables>STY</Tables>
+				<Tables>STZ</Tables>
+				<Tables>TP1</Tables>
+				<Tables>TP2</Tables>
+				<Tables>TP5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004130</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Em Lote</Title>
+				<Title lang="es">Retorno En Lote</Title>
+				<Title lang="en">Return In Lot</Title>
+				<Function>MNTA401</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004131</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Etapas</Title>
+				<Title lang="es">Retorno Etapas</Title>
+				<Title lang="en">Stage Return</Title>
+				<Function>MNTA480</Function>
+				<Type>1</Type>
+				<Tables>TPD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004132</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento Em Lote</Title>
+				<Title lang="es">Cierre En Lote</Title>
+				<Title lang="en">Closing In Lot</Title>
+				<Function>MNTA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reabertura O.s.</Title>
+				<Title lang="es">Reapertura O.s.</Title>
+				<Title lang="en">Reopening S.o.</Title>
+				<Function>MNTA880</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004134</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atraso Ordem Serv.</Title>
+				<Title lang="es">Atraso Orden Serv.</Title>
+				<Title lang="en">Serv.order Delay</Title>
+				<Function>MNTA035</Function>
+				<Type>1</Type>
+				<Tables>TPL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004135</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio de Insumos</Title>
+				<Title lang="es">Prorrateo Insumos</Title>
+				<Title lang="en">Input Apportionm.</Title>
+				<Function>MNTA402</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bloqueios</Title>
+			<Title lang="es">Bloqueos</Title>
+			<Title lang="en">Blockages</Title>
+			<ItemID>0000004138</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bem</Title>
+				<Title lang="es">Bbien</Title>
+				<Title lang="en">Asset</Title>
+				<Function>MNTA150</Function>
+				<Type>1</Type>
+				<Tables>SH1</Tables>
+				<Tables>ST3</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004139</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionário</Title>
+				<Title lang="es">Empleado</Title>
+				<Title lang="en">Employee</Title>
+				<Function>MNTA160</Function>
+				<Type>1</Type>
+				<Tables>ST1</Tables>
+				<Tables>STI</Tables>
+				<Tables>STK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004140</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Reforma</Title>
+			<Title lang="es">Reforma</Title>
+			<Title lang="en">Reform</Title>
+			<ItemID>0000004142</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Serviço</Title>
+				<Title lang="es">Orden de Servicio</Title>
+				<Title lang="en">Service Order</Title>
+				<Function>MNTA450</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004143</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Devolucion</Title>
+				<Title lang="en">Return</Title>
+				<Function>MNTA460</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Roteiro</Title>
+			<Title lang="es">Procedimiento</Title>
+			<Title lang="en">Sequence</Title>
+			<ItemID>0000004146</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro</Title>
+				<Title lang="es">Itinerario</Title>
+				<Title lang="en">Procedure</Title>
+				<Function>MNTA075</Function>
+				<Type>1</Type>
+				<Tables>TPU</Tables>
+				<Tables>TPV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004147</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens do Roteiro</Title>
+				<Title lang="es">Bienes Del Proced.</Title>
+				<Title lang="en">Procedure Assets</Title>
+				<Function>MNTA065</Function>
+				<Type>1</Type>
+				<Tables>TPU</Tables>
+				<Tables>TPV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lubrificação</Title>
+			<Title lang="es">Lubricación</Title>
+			<Title lang="en">Lubrication</Title>
+			<ItemID>0000004150</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos</Title>
+				<Title lang="es">Puntos</Title>
+				<Title lang="en">Points</Title>
+				<Function>MNTA122</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004151</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamento</Title>
+				<Title lang="es">Planeamiento</Title>
+				<Title lang="en">Planning</Title>
+				<Function>MNTA350</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004152</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confirmação</Title>
+				<Title lang="es">Confirmación</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>MNTA355</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004153</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Devolucion</Title>
+				<Title lang="en">Return</Title>
+				<Function>MNTA360</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004154</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Solicitação de Serviço</Title>
+			<Title lang="es">Solicitud de Servicio</Title>
+			<Title lang="en">Service Request</Title>
+			<ItemID>0000004156</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Serviços</Title>
+				<Title lang="es">Tipo de Servicios</Title>
+				<Title lang="en">Type Of Services</Title>
+				<Function>MNTA285</Function>
+				<Type>1</Type>
+				<Tables>TQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004157</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação</Title>
+				<Title lang="es">Solicitud</Title>
+				<Title lang="en">Request</Title>
+				<Function>MNTA280</Function>
+				<Type>1</Type>
+				<Tables>TQ4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004158</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Satisfação da S.s.</Title>
+				<Title lang="es">Satisfacción de S.s.</Title>
+				<Title lang="en">S.r. Satisfaction</Title>
+				<Function>MNTA305</Function>
+				<Type>1</Type>
+				<Tables>TQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004159</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Simplificado</Title>
+			<Title lang="es">Simplificado</Title>
+			<Title lang="en">Simplified</Title>
+			<ItemID>0000017726</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Executante S.s.</Title>
+				<Title lang="es">Ejecutante S.s.</Title>
+				<Title lang="en">S.s. Executor</Title>
+				<Function>MNTA300</Function>
+				<Type>1</Type>
+				<Tables>TQ4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuição de S.s.</Title>
+				<Title lang="es">Distribución de S.s.</Title>
+				<Title lang="en">S.r. Distribution</Title>
+				<Function>MNTA295</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017727</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuição  Lote</Title>
+				<Title lang="es">Distribución  Lote</Title>
+				<Title lang="en">Batch Distribution</Title>
+				<Function>MNTA315</Function>
+				<Type>1</Type>
+				<Tables>TQB</Tables>
+				<Tables>TQ3</Tables>
+				<Tables>TQ4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004161</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento</Title>
+				<Title lang="es">Cierre</Title>
+				<Title lang="en">Closing</Title>
+				<Function>MNTA290</Function>
+				<Type>1</Type>
+				<Tables>TQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004162</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Facilities</Title>
+			<Title lang="es">Facilities</Title>
+			<Title lang="en">Facilities</Title>
+			<ItemID>0000017729</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>MNTA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017731</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagnóstico</Title>
+				<Title lang="es">Diagnóstico</Title>
+				<Title lang="en">Diagnostic</Title>
+				<Function>MNTA299</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017732</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criticidade</Title>
+				<Title lang="es">Criticidad</Title>
+				<Title lang="en">Criticality</Title>
+				<Function>MNTA293</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017733</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critérios de Distribuição</Title>
+				<Title lang="es">Criterios de Distribución</Title>
+				<Title lang="en">Distribution Criteria</Title>
+				<Function>MNTA298</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017734</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Definições de Atendimento</Title>
+				<Title lang="es">Definiciones de Atención</Title>
+				<Title lang="en">Service Definitions</Title>
+				<Function>MNTA294</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017735</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuição</Title>
+				<Title lang="es">Distribución</Title>
+				<Title lang="en">Distribution</Title>
+				<Function>MNTA296</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017736</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento</Title>
+				<Title lang="es">Atención</Title>
+				<Title lang="en">Service</Title>
+				<Function>MNTA291</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Perguntas</Title>
+				<Title lang="es">Grupo de Preguntas</Title>
+				<Title lang="en">Question Group</Title>
+				<Function>MNTA306</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017739</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionário de Satisfação</Title>
+				<Title lang="es">Cuestionario de Satisfacción</Title>
+				<Title lang="en">Satisfaction Questionnaire</Title>
+				<Function>MNTA307</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017740</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ordem de Serviço</Title>
+			<Title lang="es">Orden de Servicio</Title>
+			<Title lang="en">Service Order</Title>
+			<ItemID>0000004166</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Manual</Title>
+				<Title lang="es">O.s. Manual</Title>
+				<Title lang="en">Manual S.o.</Title>
+				<Function>MNTA410</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004167</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Preventiva Múltipla</Title>
+				<Title lang="es">O.s. Preventiva Múltiple</Title>
+				<Title lang="en">Multiple Preventative S.o.</Title>
+				<Function>MNTA411</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>ST5</Tables>
+				<Tables>STF</Tables>
+				<Tables>STQ</Tables>
+				<Tables>ST9</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>ST4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017526</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Corretiva</Title>
+				<Title lang="es">O.s. Correctiva</Title>
+				<Title lang="en">Corrective S.o.</Title>
+				<Function>MNTA420</Function>
+				<Type>1</Type>
+				<Tables>SC2</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STE</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004168</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Histórico</Title>
+				<Title lang="es">O.s. Historial</Title>
+				<Title lang="en">S.o. History</Title>
+				<Function>MNTA430</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004169</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Liberação de O.s.</Title>
+				<Title lang="es">Liberación de O.s.</Title>
+				<Title lang="en">S.o. Release</Title>
+				<Function>MNTA490</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SH9</Tables>
+				<Tables>ST3</Tables>
+				<Tables>STA</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STK</Tables>
+				<Tables>STL</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004170</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelamento O.s</Title>
+				<Title lang="es">Anulacion O.s</Title>
+				<Title lang="en">S.o.cancellation</Title>
+				<Function>MNTA260</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004171</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Programação O.s.</Title>
+				<Title lang="es">Programación O.s.</Title>
+				<Title lang="en">S.o. Scheduling</Title>
+				<Function>MNTA990</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>SCP</Tables>
+				<Tables>TT1</Tables>
+				<Tables>TT2</Tables>
+				<Tables>TT3</Tables>
+				<Tables>TT4</Tables>
+				<Tables>TT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004172</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração de O.s.</Title>
+				<Title lang="es">Modificación de O.s.</Title>
+				<Title lang="en">S.o. Modification</Title>
+				<Function>MNTA265</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STI</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STF</Tables>
+				<Tables>STA</Tables>
+				<Tables>STL</Tables>
+				<Tables>STK</Tables>
+				<Tables>SH9</Tables>
+				<Tables>STC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004173</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contador</Title>
+			<Title lang="es">Contador</Title>
+			<Title lang="en">Counter</Title>
+			<ItemID>0000004175</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno   Produção</Title>
+				<Title lang="es">Devolución de Producción</Title>
+				<Title lang="en">Return Of Production</Title>
+				<Function>MNTA380</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STR</Tables>
+				<Tables>STY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004176</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Informa   Contador</Title>
+				<Title lang="es">Informa   Contador</Title>
+				<Title lang="en">Enter     Counter</Title>
+				<Function>MNTA830</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004177</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quebra    Contador</Title>
+				<Title lang="es">Quiebra    Contad.</Title>
+				<Title lang="en">Break    Counter</Title>
+				<Function>MNTA840</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004178</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acerto Contador</Title>
+				<Title lang="es">Ajuste Contador</Title>
+				<Title lang="en">Adjust Counter</Title>
+				<Function>MNTA875</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004181</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo Conta E-mail</Title>
+				<Title lang="es">Grupo Cta E-mail</Title>
+				<Title lang="en">E-mail Account Grp</Title>
+				<Function>MNTA225</Function>
+				<Type>1</Type>
+				<Tables>TPT</Tables>
+				<Tables>TP0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004182</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">G.c. E-mail/func.</Title>
+				<Title lang="es">G.c. E-mail/empl.</Title>
+				<Title lang="en">G.c. E-mail/empl.</Title>
+				<Function>MNTA235</Function>
+				<Type>1</Type>
+				<Tables>TPT</Tables>
+				<Tables>TP0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alerta Tend. Falha</Title>
+				<Title lang="es">Alerta Tend. Fallo</Title>
+				<Title lang="en">Warn.failure Tend.</Title>
+				<Function>MNTW005</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>TP7</Tables>
+				<Tables>TP8</Tables>
+				<Tables>CTT</Tables>
+				<Tables>SHB</Tables>
+				<Tables>TP0</Tables>
+				<Tables>SRA</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alerta O.s Atrás.</Title>
+				<Title lang="es">Aviso O.s Atrás.</Title>
+				<Title lang="en">Warning S.o Back</Title>
+				<Function>MNTW010</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>ST9</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004185</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manut. Prev. Atrás</Title>
+				<Title lang="es">Mant. Prev. Atrás</Title>
+				<Title lang="en">Prev Maint Back</Title>
+				<Function>MNTW020</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>CTT</Tables>
+				<Tables>ST9</Tables>
+				<Tables>SRA</Tables>
+				<Tables>TPT</Tables>
+				<Tables>TP0</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Garan.venc./a Ven.</Title>
+				<Title lang="es">Garan.venc./a Ven.</Title>
+				<Title lang="en">Exp.war./war.to Ex</Title>
+				<Function>MNTW210</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013181</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação Exec/work.</Title>
+				<Title lang="es">Relación Ejec/work</Title>
+				<Title lang="en">Relation Exec/work</Title>
+				<Function>MNTW030</Function>
+				<Type>1</Type>
+				<Tables>TQB</Tables>
+				<Tables>TQ4</Tables>
+				<Tables>TQ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004164</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Status da os</Title>
+			<Title lang="es">Estatus de La os</Title>
+			<Title lang="en">S.o. Status</Title>
+			<ItemID>0000004188</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Status</Title>
+				<Title lang="es">Tipo de Estatus</Title>
+				<Title lang="en">Status Type</Title>
+				<Function>MNTA325</Function>
+				<Type>1</Type>
+				<Tables>TQW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alt. Status os</Title>
+				<Title lang="es">Modif. Estatus os</Title>
+				<Title lang="en">So Status Change</Title>
+				<Function>MNTA335</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>TQ9</Tables>
+				<Tables>TQW</Tables>
+				<Tables>TT0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004190</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confir.os Execução</Title>
+				<Title lang="es">Confir.os Ejecución</Title>
+				<Title lang="en">Confir So Execution</Title>
+				<Function>MNTA275</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planta Gráfica</Title>
+			<Title lang="es">Planta Gráfica</Title>
+			<Title lang="en">Floor Plan</Title>
+			<ItemID>0000011375</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Imagem</Title>
+				<Title lang="es">Archivo de Imagen</Title>
+				<Title lang="en">Image Register</Title>
+				<Function>MNTA906</Function>
+				<Type>1</Type>
+				<Tables>TU0</Tables>
+				<Tables>TU1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011423</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Edição</Title>
+				<Title lang="es">Edición</Title>
+				<Title lang="en">Edition</Title>
+				<Function>MNTA905</Function>
+				<Type>1</Type>
+				<Tables>TU0</Tables>
+				<Tables>TU1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011427</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel de Gestão</Title>
+				<Title lang="es">Panel de Gestión</Title>
+				<Title lang="en">Management Panel</Title>
+				<Function>MNTA907</Function>
+				<Type>1</Type>
+				<Tables>TU0</Tables>
+				<Tables>TU1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mão-de-obra</Title>
+			<Title lang="es">Mano de Obra</Title>
+			<Title lang="en">Labor</Title>
+			<ItemID>0000011437</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Horas</Title>
+				<Title lang="es">Tipos de Horas</Title>
+				<Title lang="en">Hour Type</Title>
+				<Function>MNTA991</Function>
+				<Type>1</Type>
+				<Tables>TTJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011438</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reporte de Horas</Title>
+				<Title lang="es">Reporte de Horas</Title>
+				<Title lang="en">Hour Report</Title>
+				<Function>MNTA992</Function>
+				<Type>1</Type>
+				<Tables>TTL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mntng</Title>
+			<Title lang="es">Mntng</Title>
+			<Title lang="en">Mntng</Title>
+			<ItemID>0000017365</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>MNTA915</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017367</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permissões e Usuários</Title>
+				<Title lang="es">Permisos Y Usuarios</Title>
+				<Title lang="en">Permissions And Users</Title>
+				<Function>MNTA916</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filtros</Title>
+				<Title lang="es">Filtros</Title>
+				<Title lang="en">Filters</Title>
+				<Function>MNTA917</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017371</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A190000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genericos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>99</Owner>
+				<ItemID>0000004192</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004194</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bem</Title>
+				<Title lang="es">Bien</Title>
+				<Title lang="en">Asset</Title>
+				<Function>MNTC600</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STB</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencoes do Bem</Title>
+				<Title lang="es">Mantenim. de Bien</Title>
+				<Title lang="en">Maintain Asset</Title>
+				<Function>MNTC605</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004196</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas do Bem</Title>
+				<Title lang="es">Etapas Del Bien</Title>
+				<Title lang="en">Asset Stages</Title>
+				<Function>MNTC780</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STQ</Tables>
+				<Tables>TPA</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Tables>STX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004197</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao/servico</Title>
+				<Title lang="es">Mantenim/ Servicio</Title>
+				<Title lang="en">Maint./service</Title>
+				<Function>MNTC610</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004198</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Produto</Title>
+				<Title lang="es">os - Usa Producto</Title>
+				<Title lang="en">s O- Use Product</Title>
+				<Function>MNTC560</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004199</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Especial.</Title>
+				<Title lang="es">os - Usa Especial.</Title>
+				<Title lang="en">s O- Use Specialty</Title>
+				<Function>MNTC565</Function>
+				<Type>1</Type>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004200</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Funcion.</Title>
+				<Title lang="es">os - Usa Emplead.</Title>
+				<Title lang="en">s O- Use Employee</Title>
+				<Function>MNTC570</Function>
+				<Type>1</Type>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Ferramenta</Title>
+				<Title lang="es">os - Usa Herram.</Title>
+				<Title lang="en">s O- Use Tool</Title>
+				<Function>MNTC575</Function>
+				<Type>1</Type>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004202</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Terceiros</Title>
+				<Title lang="es">os - Usa Terceros</Title>
+				<Title lang="en">s O- Use Third Par</Title>
+				<Function>MNTC580</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004203</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionarios/espec</Title>
+				<Title lang="es">Empleados/ Espec.</Title>
+				<Title lang="en">Employees/special.</Title>
+				<Function>MNTC590</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servicos da Area</Title>
+				<Title lang="es">Servicios Del Area</Title>
+				<Title lang="en">Area Services</Title>
+				<Function>MNTC670</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004205</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servicos do Tipo</Title>
+				<Title lang="es">Servicios Del Tipo</Title>
+				<Title lang="en">Service Types</Title>
+				<Function>MNTC680</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004206</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens da Familia</Title>
+				<Title lang="es">Bienes de Familia</Title>
+				<Title lang="en">Family Assets</Title>
+				<Function>MNTC690</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens do Fabricante</Title>
+				<Title lang="es">Bienes de Fabric.</Title>
+				<Title lang="en">Manufacturer Asset</Title>
+				<Function>MNTC700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Similaridade</Title>
+				<Title lang="es">Similaridad</Title>
+				<Title lang="en">Similarity</Title>
+				<Function>MNTC665</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreamento Prod.</Title>
+				<Title lang="es">Rastreo Prod.</Title>
+				<Title lang="en">Track Product</Title>
+				<Function>MNTC300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentacao</Title>
+				<Title lang="es">Movimiento</Title>
+				<Title lang="en">Transactions</Title>
+				<Function>MNTC740</Function>
+				<Type>1</Type>
+				<Tables>STZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Solicitações</Title>
+			<Title lang="es">Solicitudes</Title>
+			<Title lang="en">Requests</Title>
+			<ItemID>0000004213</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendencias</Title>
+				<Title lang="es">Pendencias</Title>
+				<Title lang="en">Pending</Title>
+				<Function>MNTC080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento</Title>
+				<Title lang="es">Atencion</Title>
+				<Title lang="en">Customer Service</Title>
+				<Function>MNTC140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Simplificado</Title>
+			<Title lang="es">Simplificado</Title>
+			<Title lang="en">Simplified</Title>
+			<ItemID>0000017742</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Gerencial</Title>
+				<Title lang="es">Consulta Gestion</Title>
+				<Title lang="en">Managerial Query</Title>
+				<Function>MNTC280</Function>
+				<Type>1</Type>
+				<Tables>TQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Facilities</Title>
+			<Title lang="es">Facilities</Title>
+			<Title lang="en">Facilities</Title>
+			<ItemID>0000017748</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta S.s.</Title>
+				<Title lang="es">Consulta S.s.</Title>
+				<Title lang="en">S.r. Query</Title>
+				<Function>MNTC285</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017751</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerencial de S.s.</Title>
+				<Title lang="es">Gestión de S.s.</Title>
+				<Title lang="en">S.r. Managerial</Title>
+				<Function>MNTC286</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017753</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planos</Title>
+			<Title lang="es">Planes</Title>
+			<Title lang="en">Plans</Title>
+			<ItemID>0000004218</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens Plano Acom.</Title>
+				<Title lang="es">Ord. Plan Seguim.</Title>
+				<Title lang="en">Follow-up Plan Ord</Title>
+				<Function>MNTC500</Function>
+				<Type>1</Type>
+				<Tables>STO</Tables>
+				<Tables>STP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens Plano Manut</Title>
+				<Title lang="es">Ordenes Plan Mant.</Title>
+				<Title lang="en">Maint. Plan Orders</Title>
+				<Function>MNTC550</Function>
+				<Type>1</Type>
+				<Tables>STA</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens da Especial</Title>
+				<Title lang="es">Ordenes de Espec.</Title>
+				<Title lang="en">Speciality Orders</Title>
+				<Function>MNTC620</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004221</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens do Funcion.</Title>
+				<Title lang="es">Ordenes de Emplead</Title>
+				<Title lang="en">Employee Orders</Title>
+				<Function>MNTC630</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens da Ferram.</Title>
+				<Title lang="es">Ordenes de Herram.</Title>
+				<Title lang="en">Tool Orders</Title>
+				<Function>MNTC650</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens do Produto</Title>
+				<Title lang="es">Ordenes de Product</Title>
+				<Title lang="en">Product Orders</Title>
+				<Function>MNTC660</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens do Terceiro</Title>
+				<Title lang="es">Ordenes de Tercero</Title>
+				<Title lang="en">Third Party Orders</Title>
+				<Function>MNTC640</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens do Servico</Title>
+				<Title lang="es">Ordenes de Servic.</Title>
+				<Title lang="en">Service Orders</Title>
+				<Function>MNTC710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens da Manutenc</Title>
+				<Title lang="es">Ordenes de Manten.</Title>
+				<Title lang="en">Maintenance Orders</Title>
+				<Function>MNTC720</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens do Bem</Title>
+				<Title lang="es">Ordenes de Bien</Title>
+				<Title lang="en">Asset Orders</Title>
+				<Function>MNTC730</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004228</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico</Title>
+				<Title lang="es">Historial</Title>
+				<Title lang="en">History</Title>
+				<Function>MNTC510</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Tables>STU</Tables>
+				<Tables>STV</Tables>
+				<Tables>STX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004229</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens de Servico</Title>
+				<Title lang="es">Ordenes de Servic.</Title>
+				<Title lang="en">Service Orders</Title>
+				<Function>MNTC790</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004230</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nivelamento de Mdo</Title>
+				<Title lang="es">Nivelacion de Mdo</Title>
+				<Title lang="en">Mdo Leverage</Title>
+				<Function>MNTC815</Function>
+				<Type>1</Type>
+				<Tables>STL</Tables>
+				<Tables>ST1</Tables>
+				<Tables>STK</Tables>
+				<Tables>TP6</Tables>
+				<Tables>TP4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s./manut. Atras.</Title>
+				<Title lang="es">O.s./mant. Atras.</Title>
+				<Title lang="en">Expir.so/mainten.</Title>
+				<Function>MNTC990</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STE</Tables>
+				<Tables>STD</Tables>
+				<Tables>ST4</Tables>
+				<Tables>TQW</Tables>
+				<Tables>STF</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta de O.s.</Title>
+				<Title lang="es">Consulta de O.s.</Title>
+				<Title lang="en">S.o. Check</Title>
+				<Function>MNTC755</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SCP</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SH9</Tables>
+				<Tables>ST5</Tables>
+				<Tables>STA</Tables>
+				<Tables>STV</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Tables>STK</Tables>
+				<Tables>STL</Tables>
+				<Tables>STT</Tables>
+				<Tables>STN</Tables>
+				<Tables>STU</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STX</Tables>
+				<Tables>TPA</Tables>
+				<Tables>TPC</Tables>
+				<Tables>TPL</Tables>
+				<Tables>TQ6</Tables>
+				<Tables>TPQ</Tables>
+				<Tables>TQB</Tables>
+				<Tables>TT9</Tables>
+				<Tables>TTC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Evolucao de Etapas</Title>
+				<Title lang="es">Evolución Etapas</Title>
+				<Title lang="en">Progress Of Stages</Title>
+				<Function>MNTC410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenções Múltiplas</Title>
+				<Title lang="es">Mantenimientos Múltiples</Title>
+				<Title lang="en">Multiple Maintenances</Title>
+				<Function>MNTC696</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STN</Tables>
+				<Tables>ST5</Tables>
+				<Tables>STH</Tables>
+				<Tables>STG</Tables>
+				<Tables>STM</Tables>
+				<Tables>STF</Tables>
+				<Tables>STP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017529</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Custos</Title>
+			<Title lang="es">Costos</Title>
+			<Title lang="en">Costs</Title>
+			<ItemID>0000004234</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Plano Manut.</Title>
+				<Title lang="es">Costo Plan Manten.</Title>
+				<Title lang="en">Maint. Plan Cost</Title>
+				<Function>MNTC800</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Bem Manuten.</Title>
+				<Title lang="es">Costo Bien Manten.</Title>
+				<Title lang="en">Maint.assets Cost</Title>
+				<Function>MNTC840</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004236</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Reforma</Title>
+			<Title lang="es">Reforma</Title>
+			<Title lang="en">Repairs</Title>
+			<ItemID>0000004238</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo</Title>
+				<Title lang="es">Costo</Title>
+				<Title lang="en">Cost</Title>
+				<Function>MNTC450</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004239</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Grafico Horas</Title>
+			<Title lang="es">Grafico Horas</Title>
+			<Title lang="en">Hour Chart</Title>
+			<ItemID>0000004241</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disponibilidade</Title>
+				<Title lang="es">Disponibilidad</Title>
+				<Title lang="en">Availability</Title>
+				<Function>MNTC905</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>MNTC900</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST1</Tables>
+				<Tables>STA</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Tables>STV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/ano</Title>
+				<Title lang="es">Servicio/ Ano</Title>
+				<Title lang="en">Service/year</Title>
+				<Function>MNTC940</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/bianual</Title>
+				<Title lang="es">Servicio/ Bianual</Title>
+				<Title lang="en">Service/bi-annual</Title>
+				<Function>MNTC950</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004245</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicacao Per/mes</Title>
+				<Title lang="es">Aplicac. Per/ Mes</Title>
+				<Title lang="en">Applic. By Month</Title>
+				<Function>MNTC210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004246</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Paradas Periodo</Title>
+				<Title lang="es">Paradas Periodo</Title>
+				<Title lang="en">Period Downtime</Title>
+				<Function>MNTC230</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicacao Periodo</Title>
+				<Title lang="es">Aplicac. Periodo</Title>
+				<Title lang="en">Period Applicat.</Title>
+				<Function>MNTC250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004248</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo Manutencao</Title>
+				<Title lang="es">Tipo Mantenim.</Title>
+				<Title lang="en">Maintenance Type</Title>
+				<Function>MNTC260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004249</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Area Manutencao</Title>
+				<Title lang="es">Area Mantenim.</Title>
+				<Title lang="en">Maintenance Area</Title>
+				<Function>MNTC270</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004250</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hrs Disp.x Ind.bem</Title>
+				<Title lang="es">Hrs Disp Vs Ind Bi</Title>
+				<Title lang="en">Avail.hr Vs. Asset</Title>
+				<Function>MNTC335</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004251</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Grafico Custos</Title>
+			<Title lang="es">Grafico Costos</Title>
+			<Title lang="en">Cost Chart</Title>
+			<ItemID>0000004253</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipamento</Title>
+				<Title lang="es">Equipo</Title>
+				<Title lang="en">Equipment</Title>
+				<Function>MNTC200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004254</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico</Title>
+				<Title lang="es">Servicio</Title>
+				<Title lang="en">Service</Title>
+				<Function>MNTC920</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/bianual</Title>
+				<Title lang="es">Servicio/ Bianual</Title>
+				<Title lang="en">Service/bi-annual</Title>
+				<Function>MNTC930</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004256</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/c.custo</Title>
+				<Title lang="es">Servicio/ C. Costo</Title>
+				<Title lang="en">Service/c.center</Title>
+				<Function>MNTC960</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004257</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/c.cus/bian</Title>
+				<Title lang="es">Serv/ C Cos/ Bianu</Title>
+				<Title lang="en">Serv/c.cent/bi-ann</Title>
+				<Function>MNTC970</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004258</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico/c.cus/tria</Title>
+				<Title lang="es">Serv/ C Cos/ Trian</Title>
+				<Title lang="en">Sv/c.cent/3 Years</Title>
+				<Function>MNTC980</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004259</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo Manutencao</Title>
+				<Title lang="es">Tipo Mantenim.</Title>
+				<Title lang="en">Maintenance Type</Title>
+				<Function>MNTC220</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004260</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Grafico Movtos.</Title>
+			<Title lang="es">Grafico Movtos.</Title>
+			<Title lang="en">Transaction Chart</Title>
+			<ItemID>0000004262</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentacao O.s.</Title>
+				<Title lang="es">Movimiento O.s.</Title>
+				<Title lang="en">s o Transactions</Title>
+				<Function>MNTC910</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Intervencoes</Title>
+				<Title lang="es">Intervenciones</Title>
+				<Title lang="en">Interventions</Title>
+				<Function>MNTC240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004264</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Indicadores</Title>
+			<Title lang="es">Indicadores</Title>
+			<Title lang="en">Indicators</Title>
+			<ItemID>0000004266</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. de Indicad</Title>
+				<Title lang="es">Config. de Indicad</Title>
+				<Title lang="en">Indicator Configur</Title>
+				<Function>NGIND006</Function>
+				<Type>1</Type>
+				<Tables>TZ1</Tables>
+				<Tables>TZ2</Tables>
+				<Tables>TZ3</Tables>
+				<Tables>TZ4</Tables>
+				<Tables>TZ5</Tables>
+				<Tables>TZ6</Tables>
+				<Tables>TZ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004267</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cons. Indicadores</Title>
+				<Title lang="es">Cons. Indicadores</Title>
+				<Title lang="en">Indicator Query</Title>
+				<Function>NGIND001</Function>
+				<Type>1</Type>
+				<Tables>TZ1</Tables>
+				<Tables>TZ2</Tables>
+				<Tables>TZ3</Tables>
+				<Tables>TZ4</Tables>
+				<Tables>TZ5</Tables>
+				<Tables>TZ6</Tables>
+				<Tables>TZ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004268</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerencial</Title>
+			<Title lang="es">Gerencial</Title>
+			<Title lang="en">Managerial</Title>
+			<ItemID>0000011876</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mao-de-obra</Title>
+				<Title lang="es">Mano de Obra</Title>
+				<Title lang="en">Labor</Title>
+				<Function>MNTC400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011870</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custos</Title>
+				<Title lang="es">Costos</Title>
+				<Title lang="en">Costs</Title>
+				<Function>MNTC935</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>TQN</Tables>
+				<Tables>TRX</Tables>
+				<Tables>TS2</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TRH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012748</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equip. C/ Menor Disp.</Title>
+				<Title lang="es">Equip. C/ Menor Disp.</Title>
+				<Title lang="en">Equip W/ Less Availab</Title>
+				<Function>MNTC420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A190000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004269</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens</Title>
+				<Title lang="es">Bienes</Title>
+				<Title lang="en">Assets</Title>
+				<Function>MNTR600</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST7</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STB</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Penhorados</Title>
+				<Title lang="es">Bienes Empenado</Title>
+				<Title lang="en">Distrained Assets</Title>
+				<Function>MNTR915</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016784</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencoes do Bem</Title>
+				<Title lang="es">Mantenim. de Bien</Title>
+				<Title lang="en">Asset Maintenance</Title>
+				<Function>MNTR605</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STD</Tables>
+				<Tables>STE</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Tables>STM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004271</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manuten. a Vencer</Title>
+				<Title lang="es">Manten. Por Vencer</Title>
+				<Title lang="en">Maintenance Due</Title>
+				<Function>MNTR010</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004272</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Man.a Vencer C/tol</Title>
+				<Title lang="es">Man.por Venc C/tol</Title>
+				<Title lang="en">Main.to Exp.w/tol.</Title>
+				<Function>MNTR011</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004273</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manuten. Atrasadas</Title>
+				<Title lang="es">Manten. Atrasados</Title>
+				<Title lang="en">Delay.maintenance</Title>
+				<Function>MNTR895</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004274</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens do Servico</Title>
+				<Title lang="es">Bienes de Servicio</Title>
+				<Title lang="en">Service Assets</Title>
+				<Function>MNTR610</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Tables>STM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004275</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estruturas</Title>
+				<Title lang="es">Estructuras</Title>
+				<Title lang="en">Structures</Title>
+				<Function>MNTR615</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especial.funcion.</Title>
+				<Title lang="es">Especial. Emplead.</Title>
+				<Title lang="en">Employee Spec.</Title>
+				<Function>MNTR820</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Produto</Title>
+				<Title lang="es">os - Usa Producto</Title>
+				<Title lang="en">So -use Product</Title>
+				<Function>MNTR620</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004278</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Especial.</Title>
+				<Title lang="es">os - Usa Especial</Title>
+				<Title lang="en">So -use Specialty</Title>
+				<Function>MNTR625</Function>
+				<Type>1</Type>
+				<Tables>ST0</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004279</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Funcion.</Title>
+				<Title lang="es">os - Usa Emplead.</Title>
+				<Title lang="en">So -use Employee</Title>
+				<Function>MNTR630</Function>
+				<Type>1</Type>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004280</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Ferramenta</Title>
+				<Title lang="es">os - Usa Herram.</Title>
+				<Title lang="en">So -use Tool</Title>
+				<Function>MNTR635</Function>
+				<Type>1</Type>
+				<Tables>SH4</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004281</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O-s-usa Terceiros</Title>
+				<Title lang="es">os - Usa Terceros</Title>
+				<Title lang="en">So -use Third Part</Title>
+				<Function>MNTR640</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixas</Title>
+				<Title lang="es">Bajas</Title>
+				<Title lang="en">Postings</Title>
+				<Function>MNTR270</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004283</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Por Irregul.</Title>
+				<Title lang="es">Bienes P. Irregul.</Title>
+				<Title lang="en">Assets By Irregul.</Title>
+				<Function>MNTR815</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>STJ</Tables>
+				<Tables>TP7</Tables>
+				<Tables>TP8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>SHB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Enviados 3º s</Title>
+				<Title lang="es">Bienes Enviad 3ºs</Title>
+				<Title lang="en">Assets Sent 3rds</Title>
+				<Function>MNTR825</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>ST9</Tables>
+				<Tables>CTT</Tables>
+				<Tables>SI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004285</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bem X Manut. Prev.</Title>
+				<Title lang="es">Bien Vs. Mant. Pre</Title>
+				<Title lang="en">Asset X Exp.maint.</Title>
+				<Function>MNTR030</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST6</Tables>
+				<Tables>SHB</Tables>
+				<Tables>ST9</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004286</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Código de Barras / Qr Bem</Title>
+				<Title lang="es">Código de Barras / Qr Bien</Title>
+				<Title lang="en">Barcode/qr Code</Title>
+				<Function>MNTR601</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planos</Title>
+			<Title lang="es">Planes</Title>
+			<Title lang="en">Plans</Title>
+			<ItemID>0000004288</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano  Acompanham.</Title>
+				<Title lang="es">Plan Seguimiento</Title>
+				<Title lang="en">Follow-up Plan</Title>
+				<Function>MNTR645</Function>
+				<Type>1</Type>
+				<Tables>SHB</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STP</Tables>
+				<Tables>SAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004289</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano  Manutencao</Title>
+				<Title lang="es">Plan Mantenimiento</Title>
+				<Title lang="en">Maintenance Plan</Title>
+				<Function>MNTR650</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STA</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004290</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Grafica</Title>
+				<Title lang="es">O.s. Grafica</Title>
+				<Title lang="en">Graphic S.o.</Title>
+				<Function>MNTR050</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>STD</Tables>
+				<Tables>SH4</Tables>
+				<Tables>STE</Tables>
+				<Tables>SI3</Tables>
+				<Tables>STF</Tables>
+				<Tables>ST0</Tables>
+				<Tables>STJ</Tables>
+				<Tables>ST1</Tables>
+				<Tables>STL</Tables>
+				<Tables>ST4</Tables>
+				<Tables>STQ</Tables>
+				<Tables>ST5</Tables>
+				<Tables>TPA</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TPC</Tables>
+				<Tables>STC</Tables>
+				<Tables>TT9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s.acomp.pendente</Title>
+				<Title lang="es">os Seguim. Pendien</Title>
+				<Title lang="en">Pend. Follow-up So</Title>
+				<Function>MNTR655</Function>
+				<Type>1</Type>
+				<Tables>SHB</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s.manut.pendente</Title>
+				<Title lang="es">os Mant Pendiente</Title>
+				<Title lang="en">Pending Maint. s o</Title>
+				<Function>MNTR660</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>ST1</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Serviço</Title>
+				<Title lang="es">os de Mantenim.</Title>
+				<Title lang="en">Maintenance s o</Title>
+				<Function>MNTR676</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>SHB</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STC</Tables>
+				<Tables>STB</Tables>
+				<Tables>STD</Tables>
+				<Tables>STE</Tables>
+				<Tables>STF</Tables>
+				<Tables>STG</Tables>
+				<Tables>STH</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004294</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s. Por Localiz.</Title>
+				<Title lang="es">O.s. Por Localiz.</Title>
+				<Title lang="en">S.o.by Location</Title>
+				<Function>MNTR110</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Tables>ST4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004295</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro do Plano</Title>
+				<Title lang="es">Ruta de Plan</Title>
+				<Title lang="en">Plan Procedure</Title>
+				<Function>MNTR320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proj.cons.o.s.</Title>
+				<Title lang="es">Proy. Cons. os</Title>
+				<Title lang="en">s o Cons. Project.</Title>
+				<Function>MNTR680</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Proj.cons.insumo</Title>
+				<Title lang="es">Proy. Cons. Insumo</Title>
+				<Title lang="en">Input Cons. Proj.</Title>
+				<Function>MNTR685</Function>
+				<Type>1</Type>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004298</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desvio do Plano</Title>
+				<Title lang="es">Desvio Del Plan</Title>
+				<Title lang="en">Plan Deviation</Title>
+				<Function>MNTR690</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>ST1</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa de Manutencao</Title>
+				<Title lang="es">Mapa de Mantenim.</Title>
+				<Title lang="en">Maintenance Map</Title>
+				<Function>MNTR695</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004300</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa Manut. Mensal</Title>
+				<Title lang="es">Mapa Manten. Mens.</Title>
+				<Title lang="en">Monthly Maint. Map</Title>
+				<Function>MNTR740</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004301</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa Manu. Por Bem</Title>
+				<Title lang="es">Mapa Man. Por Bien</Title>
+				<Title lang="en">Main.map By Asset</Title>
+				<Function>MNTR990</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo do Plano</Title>
+				<Title lang="es">Resumen Del Plan</Title>
+				<Title lang="en">Plan Summary</Title>
+				<Function>MNTR775</Function>
+				<Type>1</Type>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Detalhes do Plano</Title>
+				<Title lang="es">Detalles Del Plan</Title>
+				<Title lang="en">Plan Details</Title>
+				<Function>MNTR910</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>ST5</Tables>
+				<Tables>STI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s.lib. Aberto</Title>
+				<Title lang="es">O.s. Lib. Abierta</Title>
+				<Title lang="en">Rel.s.o.open</Title>
+				<Function>MNTR835</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>SI3</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004305</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">O.s.por Cent.custo</Title>
+				<Title lang="es">O.s. Por Cent. Cos</Title>
+				<Title lang="en">S.o. By C.center</Title>
+				<Function>MNTR870</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>SI3</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lubrificacao</Title>
+			<Title lang="es">Lubricacion</Title>
+			<Title lang="en">Lubrication</Title>
+			<ItemID>0000004308</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro</Title>
+				<Title lang="es">Procedimiento</Title>
+				<Title lang="en">Procedure</Title>
+				<Function>MNTR705</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro de Lubrif.</Title>
+				<Title lang="es">Proc. de Lubric.</Title>
+				<Title lang="en">Lubric. Procedure</Title>
+				<Function>MNTR970</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004310</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Solicitacao Serv.</Title>
+			<Title lang="es">Solicitud Serv.</Title>
+			<Title lang="en">Service Request</Title>
+			<ItemID>0000004312</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicit.de Servico</Title>
+				<Title lang="es">Solicitud de Serv.</Title>
+				<Title lang="en">Service Request</Title>
+				<Function>MNTR120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004313</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sol.servico Pend.</Title>
+				<Title lang="es">Sol. Serv. Pend.</Title>
+				<Title lang="en">Pending Service Rq</Title>
+				<Function>MNTR130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Custos</Title>
+			<Title lang="es">Costos</Title>
+			<Title lang="en">Costs</Title>
+			<ItemID>0000004316</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro Custo</Title>
+				<Title lang="es">Centro Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>MNTR750</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SH4</Tables>
+				<Tables>SI3</Tables>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STF</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004317</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano</Title>
+				<Title lang="es">Plan</Title>
+				<Title lang="en">Plan</Title>
+				<Function>MNTR830</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004318</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bem</Title>
+				<Title lang="es">Bien</Title>
+				<Title lang="en">Assets</Title>
+				<Function>MNTR840</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004319</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servico</Title>
+				<Title lang="es">Servicio</Title>
+				<Title lang="en">Service</Title>
+				<Function>MNTR850</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004320</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Servico</Title>
+				<Title lang="es">Orden de Servicio</Title>
+				<Title lang="en">Service Order</Title>
+				<Function>MNTR860</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004321</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo Mes</Title>
+				<Title lang="es">Resumen Mes</Title>
+				<Title lang="en">Month Summary</Title>
+				<Function>MNTR250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutencao</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>MNTR260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hrs Trab. Contrato</Title>
+				<Title lang="es">H. Trab. Contrato</Title>
+				<Title lang="en">Contract Hrs. Work</Title>
+				<Function>MNTR715</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004324</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicacao Contrato</Title>
+				<Title lang="es">Aplicac. Contrato</Title>
+				<Title lang="en">Contr. Application</Title>
+				<Function>MNTR725</Function>
+				<Type>1</Type>
+				<Tables>TP3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004325</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mdo de Terceiros</Title>
+				<Title lang="es">Mdo de Terceros</Title>
+				<Title lang="en">3rds Mdo</Title>
+				<Function>MNTR020</Function>
+				<Type>1</Type>
+				<Tables>ST1</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STL</Tables>
+				<Tables>STT</Tables>
+				<Tables>STS</Tables>
+				<Tables>STJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004326</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Historicos</Title>
+			<Title lang="es">Historiales</Title>
+			<Title lang="en">History</Title>
+			<ItemID>0000004328</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico do Bem</Title>
+				<Title lang="es">Historial de Bien</Title>
+				<Title lang="en">Asset History</Title>
+				<Function>MNTR780</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>ST0</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST5</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST7</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STB</Tables>
+				<Tables>STC</Tables>
+				<Tables>STF</Tables>
+				<Tables>STH</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Tables>STU</Tables>
+				<Tables>STV</Tables>
+				<Tables>STX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens da Manutencao</Title>
+				<Title lang="es">Bienes de Mantenim</Title>
+				<Title lang="en">Maintenance Assets</Title>
+				<Function>MNTR785</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004330</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastrear Componen.</Title>
+				<Title lang="es">Rastrear Componen.</Title>
+				<Title lang="en">Track Component</Title>
+				<Function>MNTR795</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Defeitos  Frequen</Title>
+				<Title lang="es">Defectos Frec.</Title>
+				<Title lang="en">Defects Frequen.</Title>
+				<Function>MNTR800</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Defeito/causa/sol.</Title>
+				<Title lang="es">Defec/ Causa/ Solu</Title>
+				<Title lang="en">Def./cause/solut.</Title>
+				<Function>MNTR805</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004333</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas Executadas</Title>
+				<Title lang="es">Etapas Ejecutadas</Title>
+				<Title lang="en">Stages Executed</Title>
+				<Function>MNTR200</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Insumos Aplicados</Title>
+				<Title lang="es">Insumos Aplicados</Title>
+				<Title lang="en">Inputs Applied</Title>
+				<Function>MNTR210</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horas Paradas</Title>
+				<Title lang="es">Horas Paradas</Title>
+				<Title lang="en">Downtime Hours</Title>
+				<Function>MNTR730</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004336</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apropriacao Horas</Title>
+				<Title lang="es">Atribucion Horas</Title>
+				<Title lang="en">Hour Appropriat.</Title>
+				<Function>MNTR240</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Analise Mtbf/mttr</Title>
+				<Title lang="es">Anal. Mtbf/ Mttr</Title>
+				<Title lang="en">Mtbf/mttr Analysis</Title>
+				<Function>MNTR360</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localizacao do Bem</Title>
+				<Title lang="es">Ubic. Del Bien</Title>
+				<Title lang="en">Asset Location</Title>
+				<Function>MNTR100</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contador do Bem</Title>
+				<Title lang="es">Contador Del Bien</Title>
+				<Title lang="en">Asset Counter</Title>
+				<Function>MNTR105</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST8</Tables>
+				<Tables>ST9</Tables>
+				<Tables>STD</Tables>
+				<Tables>STF</Tables>
+				<Tables>STI</Tables>
+				<Tables>STS</Tables>
+				<Tables>STU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens de Servico</Title>
+				<Title lang="es">Ordenes de Servic.</Title>
+				<Title lang="en">Service Orders</Title>
+				<Function>MNTR665</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004341</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura Organiz</Title>
+				<Title lang="es">Estructura Organiz</Title>
+				<Title lang="en">Organiz. Structure</Title>
+				<Function>SGAR130</Function>
+				<Type>1</Type>
+				<Tables>TCJ</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004342</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mao-de-obra</Title>
+			<Title lang="es">Mano de Obra</Title>
+			<Title lang="en">Labor</Title>
+			<ItemID>0000004363</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Utilizacao</Title>
+				<Title lang="es">Utilizacion</Title>
+				<Title lang="en">Utilization</Title>
+				<Function>MNTR790</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004364</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atividade</Title>
+				<Title lang="es">Actividad</Title>
+				<Title lang="en">Activity</Title>
+				<Function>MNTR220</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004365</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicada Fornec.</Title>
+				<Title lang="es">Aplicada Proveed.</Title>
+				<Title lang="en">Provider Applied</Title>
+				<Function>MNTR235</Function>
+				<Type>1</Type>
+				<Tables>STL</Tables>
+				<Tables>STJ</Tables>
+				<Tables>SA2</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004366</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Reforma</Title>
+			<Title lang="es">Reforma</Title>
+			<Title lang="en">Repair</Title>
+			<ItemID>0000004368</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo os Reforma</Title>
+				<Title lang="es">Costo os Reforma</Title>
+				<Title lang="en">Rep. s o Cost Rep.</Title>
+				<Function>MNTR470</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Outros</Title>
+			<Title lang="es">Otros</Title>
+			<Title lang="en">Others</Title>
+			<ItemID>0000004371</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prod. Em Garantia</Title>
+				<Title lang="es">Prod. En Garantia</Title>
+				<Title lang="en">Prod. In Warranty</Title>
+				<Function>MNTR720</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004372</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Check List Padrao</Title>
+				<Title lang="es">Checklist</Title>
+				<Title lang="en">Checklist</Title>
+				<Function>MNTR205</Function>
+				<Type>1</Type>
+				<Tables>TTE</Tables>
+				<Tables>ST6</Tables>
+				<Tables>TQR</Tables>
+				<Tables>TTD</Tables>
+				<Tables>TTF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004373</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Satisf. Check List</Title>
+				<Title lang="es">Satisf. Checklist</Title>
+				<Title lang="en">Checklist Satifact</Title>
+				<Function>MNTR225</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>ST4</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TQB</Tables>
+				<Tables>ST6</Tables>
+				<Tables>TTG</Tables>
+				<Tables>STJ</Tables>
+				<Tables>TTF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004374</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000020030</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação de Serviço</Title>
+				<Title lang="es">Solicitud de Servicio</Title>
+				<Title lang="en">Service Request</Title>
+				<Function>MNTSVWSS</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020031</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Serviço</Title>
+				<Title lang="es">Orden de Servicio</Title>
+				<Title lang="en">Service Order</Title>
+				<Function>MNTSVWOS</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020088</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenções a Vencer</Title>
+				<Title lang="es">Mantenimientos Por Vencer</Title>
+				<Title lang="en">Maintenances Due</Title>
+				<Function>MNTSVWMANAVENC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A190000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Arquivos</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004375</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Project</Title>
+				<Title lang="es">Proyecto</Title>
+				<Title lang="en">Project</Title>
+				<Function>MNTC130</Function>
+				<Type>1</Type>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>ST9</Tables>
+				<Tables>SH7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gera Bens</Title>
+			<Title lang="es">Genera Bienes</Title>
+			<Title lang="en">Generate Assets</Title>
+			<ItemID>0000004380</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">a Partir de Texto</Title>
+				<Title lang="es">a Partir de Texto</Title>
+				<Title lang="en">From Text</Title>
+				<Function>MNTA105</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004381</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">a Partir do Atf</Title>
+				<Title lang="es">a Partir de Atf</Title>
+				<Title lang="en">From Atf</Title>
+				<Function>MNTA115</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004382</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gera Preventivas</Title>
+			<Title lang="es">Genera Preventivas</Title>
+			<Title lang="en">Gener. Preventive</Title>
+			<ItemID>0000004384</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">a Partir do Padrao</Title>
+				<Title lang="es">a Partir de Estand</Title>
+				<Title lang="en">From Default</Title>
+				<Function>MNTA135</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004385</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Padrao Para Padrao</Title>
+				<Title lang="es">Estand. a Estand.</Title>
+				<Title lang="en">Default To Default</Title>
+				<Function>MNTA155</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004386</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manut. Para Manut.</Title>
+				<Title lang="es">Manten. a Manten.</Title>
+				<Title lang="en">Maint. To Maint.</Title>
+				<Function>MNTA165</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004387</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">de Bem Para Bens</Title>
+				<Title lang="es">de Bien a Bienes</Title>
+				<Title lang="en">Fr.assets To Asset</Title>
+				<Function>MNTA166</Function>
+				<Type>1</Type>
+				<Tables>STF</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004388</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Historico</Title>
+			<Title lang="es">Historial</Title>
+			<Title lang="en">History</Title>
+			<ItemID>0000004390</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acum.historico Aco</Title>
+				<Title lang="es">Acum Histor Seguim</Title>
+				<Title lang="en">Ac. Accum. History</Title>
+				<Function>MNTA820</Function>
+				<Type>1</Type>
+				<Tables>STO</Tables>
+				<Tables>STP</Tables>
+				<Tables>STW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acum.historico Man</Title>
+				<Title lang="es">Acum Histor Manten</Title>
+				<Title lang="en">Maint. Accum. Hist</Title>
+				<Function>MNTA825</Function>
+				<Type>1</Type>
+				<Tables>STA</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Tables>STU</Tables>
+				<Tables>STV</Tables>
+				<Tables>STX</Tables>
+				<Tables>TQ6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004392</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferencia Bem</Title>
+				<Title lang="es">Transferencia Bien</Title>
+				<Title lang="en">Asset Transfer</Title>
+				<Function>MNTA550</Function>
+				<Type>1</Type>
+				<Tables>TQ2</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TPE</Tables>
+				<Tables>STF</Tables>
+				<Tables>ST5</Tables>
+				<Tables>STM</Tables>
+				<Tables>STG</Tables>
+				<Tables>TP1</Tables>
+				<Tables>STB</Tables>
+				<Tables>STY</Tables>
+				<Tables>STP</Tables>
+				<Tables>TPP</Tables>
+				<Tables>STC</Tables>
+				<Tables>STZ</Tables>
+				<Tables>ST6</Tables>
+				<Tables>ST7</Tables>
+				<Tables>TPJ</Tables>
+				<Tables>SH7</Tables>
+				<Tables>SHB</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Atualizacao</Title>
+			<Title lang="es">Actualizacion</Title>
+			<Title lang="en">Update</Title>
+			<ItemID>0000004395</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atual. Valores Atf</Title>
+				<Title lang="es">Actual Valores Atf</Title>
+				<Title lang="en">Update Atf Values</Title>
+				<Function>MNTA860</Function>
+				<Type>1</Type>
+				<Tables>STA</Tables>
+				<Tables>STI</Tables>
+				<Tables>STJ</Tables>
+				<Tables>STL</Tables>
+				<Tables>STN</Tables>
+				<Tables>STQ</Tables>
+				<Tables>STS</Tables>
+				<Tables>STT</Tables>
+				<Tables>STU</Tables>
+				<Tables>STV</Tables>
+				<Tables>STX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recalc. Custo O.s.</Title>
+				<Title lang="es">Recalc. Costo O.s.</Title>
+				<Title lang="en">Recalc. s o Cost</Title>
+				<Function>MNTA940</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004397</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004399</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004400</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processo Usuario</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004401</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>71</Owner>
+				<ItemID>0000004402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bandag</Title>
+			<Title lang="es">Bandag</Title>
+			<Title lang="en">Bandag</Title>
+			<ItemID>0000004404</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exp. de Hodômetro</Title>
+				<Title lang="es">Exp. de Hodometro</Title>
+				<Title lang="en">Odometer Exp.</Title>
+				<Function>MNTA195</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004405</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Import. de Custos</Title>
+				<Title lang="es">Import. de Costos</Title>
+				<Title lang="en">Cost Import</Title>
+				<Function>MNTA245</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004406</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Sistema</Title>
+			<Title lang="es">Sistema</Title>
+			<Title lang="en">System</Title>
+			<ItemID>0000004408</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Click da Direita</Title>
+				<Title lang="es">Clic de La Derecha</Title>
+				<Title lang="en">Right Click</Title>
+				<Function>MNTA960</Function>
+				<Type>1</Type>
+				<Tables>TQC</Tables>
+				<Tables>TQD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004409</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Restrição Acesso</Title>
+				<Title lang="es">Restriccion Acceso</Title>
+				<Title lang="en">Access Restriction</Title>
+				<Function>MNTA904</Function>
+				<Type>1</Type>
+				<Tables>TUA</Tables>
+				<Tables>TUB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012013</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complementos de Usuário</Title>
+				<Title lang="es">Complementos de Usuario</Title>
+				<Title lang="en">Users Complements</Title>
+				<Function>MNTA909</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>19</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017757</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Custos</Title>
+			<Title lang="es">Costos</Title>
+			<Title lang="en">Costs</Title>
+			<ItemID>0000018004</ItemID>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B190000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B190000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,638 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGPR</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A580000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro</Title>
+			<Title lang="es">Registro</Title>
+			<Title lang="en">File</Title>
+			<ItemID>0000009690</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entrevistadores</Title>
+				<Title lang="es">Encuestadores</Title>
+				<Title lang="en">Interviewers</Title>
+				<Function>GPRA040</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009691</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Pesquisa</Title>
+				<Title lang="es">Reglas Encuesta</Title>
+				<Title lang="en">Survey Rules</Title>
+				<Function>GPRA080</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009692</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Questoes</Title>
+				<Title lang="es">Grupos de Pregunt.</Title>
+				<Title lang="en">Question Groups</Title>
+				<Function>GPRA050</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009693</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sub-grupo Quest.</Title>
+				<Title lang="es">Subgrupo de Preg.</Title>
+				<Title lang="en">Question Sub-group</Title>
+				<Function>GPRA060</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009694</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questöes</Title>
+				<Title lang="es">Preguntas</Title>
+				<Title lang="en">Questions</Title>
+				<Function>GPRA030</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009695</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionarios</Title>
+				<Title lang="es">Cuestionarios</Title>
+				<Title lang="en">Questionnaires</Title>
+				<Function>GPRA020</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009696</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco Conhecimento</Title>
+				<Title lang="es">Banco Conocimiento</Title>
+				<Title lang="en">Knowledge Base</Title>
+				<Function>FATA340</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>5</Owner>
+				<ItemID>0000009697</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentacoes</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000009699</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisas</Title>
+				<Title lang="es">Encuestas</Title>
+				<Title lang="en">Surveys</Title>
+				<Function>GPRA010</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009700</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entrevista Ativa</Title>
+				<Title lang="es">Entrevista Activa</Title>
+				<Title lang="en">Active Interview</Title>
+				<Function>GPRA090</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009701</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Resultados</Title>
+			<Title lang="es">Resultados</Title>
+			<Title lang="en">Results</Title>
+			<ItemID>0000009703</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportacao</Title>
+				<Title lang="es">Exportacion</Title>
+				<Title lang="en">Export</Title>
+				<Function>GPRA100</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009704</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">An. Dissertativo</Title>
+				<Title lang="es">An. Descriptivo</Title>
+				<Title lang="en">Descr. An.</Title>
+				<Function>GPRA110</Function>
+				<Type>1</Type>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Tables>SKL</Tables>
+				<Tables>SKM</Tables>
+				<Tables>SKN</Tables>
+				<Tables>SKO</Tables>
+				<Tables>SKP</Tables>
+				<Tables>SKQ</Tables>
+				<Tables>SKR</Tables>
+				<Tables>SKS</Tables>
+				<Tables>SKT</Tables>
+				<Tables>SKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009705</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A580000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Generica</Title>
+				<Title lang="es">Generica</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SA3</Tables>
+				<Tables>AC4</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU2</Tables>
+				<Tables>SKC</Tables>
+				<Tables>SKD</Tables>
+				<Tables>SKE</Tables>
+				<Tables>SKF</Tables>
+				<Tables>SKG</Tables>
+				<Tables>SKH</Tables>
+				<Tables>SKI</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SKK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009706</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A580000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009707</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisas</Title>
+				<Title lang="es">Encuestas</Title>
+				<Title lang="en">Surveys</Title>
+				<Function>PRR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009708</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisadores</Title>
+				<Title lang="es">Encuestadores</Title>
+				<Title lang="en">Interviewers</Title>
+				<Function>PRR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionários</Title>
+				<Title lang="es">Cuestionarios</Title>
+				<Title lang="en">Questionnaires</Title>
+				<Function>PRR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009710</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Respondentes</Title>
+				<Title lang="es">Encuestados</Title>
+				<Title lang="en">Interviewed</Title>
+				<Function>PRR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009711</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Resultados</Title>
+			<Title lang="es">Resultados</Title>
+			<Title lang="en">Results</Title>
+			<ItemID>0000009713</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Respostas</Title>
+				<Title lang="es">Respuestas</Title>
+				<Title lang="en">Answers</Title>
+				<Function>PRR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009714</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A580000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000009715</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009716</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processo Usuarios</Title>
+				<Title lang="es">Proceso Usuario</Title>
+				<Title lang="en">User Process</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009717</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>58</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009718</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B580000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B580000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

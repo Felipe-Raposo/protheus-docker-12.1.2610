@@ -1,0 +1,2279 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAATF</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A010000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000001</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ativos</Title>
+				<Title lang="es">Activos</Title>
+				<Title lang="en">Assets</Title>
+				<Function>ATFA012</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Tables>SNC</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SFA</Tables>
+				<Tables>SF9</Tables>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000002</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Imobilizados,bens,bem</KeyWord>
+					<KeyWord lang="es">Inmovilizados,bienes,bien</KeyWord>
+					<KeyWord lang="en">Fixed,assets,asset</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planos de Contas</Title>
+				<Title lang="es">Planes de Cuentas</Title>
+				<Title lang="en">Charts Of Accounts</Title>
+				<Function>CTBA020</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CT5</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000003</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contábil,contábeis,entidades</KeyWord>
+					<KeyWord lang="es">Contable,contables,entes</KeyWord>
+					<KeyWord lang="en">Accounting,accounting,entities</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento Padrão</Title>
+				<Title lang="es">Asientos Estandar</Title>
+				<Title lang="en">Standard Entry</Title>
+				<Function>CTBA080</Function>
+				<Type>1</Type>
+				<Tables>CT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>34</Owner>
+				<ItemID>0000000004</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilização,contabilizações,contábil,contábeis,lançamentos,lp,padrões</KeyWord>
+					<KeyWord lang="es">Contabilizacion,contabilizaciones,contable,contables,asientos,gp,estandares</KeyWord>
+					<KeyWord lang="en">Accounting,accounting,accounting,accounting,transactions,lp,standards</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>6</Owner>
+				<ItemID>0000000005</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Câmbio,conversão,conversões,cotação,cotações,financeiro,taxas</KeyWord>
+					<KeyWord lang="es">Cambio,conversion,conversiones,cotizacion,cotizaciones,financiero,tasas</KeyWord>
+					<KeyWord lang="en">Exchange,conversion,conversion,quotation,quotation,financial,rates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio</Title>
+				<Title lang="es">Prorrateo</Title>
+				<Title lang="en">Apportionment</Title>
+				<Function>ATFA011</Function>
+				<Type>1</Type>
+				<Tables>SNW</Tables>
+				<Tables>SNX</Tables>
+				<Tables>SNY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012641</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportionment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Centrodecusto,cadastrodecustos,contábil</KeyWord>
+					<KeyWord lang="es">Centrodecosto,archivodecostos,contable</KeyWord>
+					<KeyWord lang="en">Costcenter,costsregister,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013388</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Itemcontábil,cadastrodecustos,contábil</KeyWord>
+					<KeyWord lang="es">Ítemcontable,archivodecostos,contable</KeyWord>
+					<KeyWord lang="en">Accountingitem,costsregister,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>34</Owner>
+				<ItemID>0000013418</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classevalor,classedevalor,cadastrodecustos,contábil</KeyWord>
+					<KeyWord lang="es">Clasevalor,clasedevalor,archivodecostos,contable</KeyWord>
+					<KeyWord lang="en">Valueclass,valueclass,costsregister,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Descrição Estendida</Title>
+				<Title lang="es">Descripcion Extendida</Title>
+				<Title lang="en">Extended Description</Title>
+				<Function>ATFA160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000008</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,descrições,estendidas,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,descripciones,extendidas,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,asset,descriptions,extended,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventário</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>ATFA210</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000009</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,imobilizados,inventários</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,inmovilizados,inventarios</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,fixed,inventory</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificação de Compras</Title>
+				<Title lang="es">Clasificacion de Compras</Title>
+				<Title lang="en">Purchase Classification</Title>
+				<Function>ATFA240</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SRD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000010</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificações</KeyWord>
+					<KeyWord lang="es">Clasificaciones</KeyWord>
+					<KeyWord lang="en">Classification</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ações</Title>
+				<Title lang="es">Acciones</Title>
+				<Title lang="en">Shares</Title>
+				<Function>ATFA260</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SN9</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000011</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ação,investimentos</KeyWord>
+					<KeyWord lang="es">Accion,inversiones</KeyWord>
+					<KeyWord lang="en">Action,investment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SA4</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF1</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>2</Owner>
+				<ItemID>0000000012</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Abastecedores,empresas,licitantes,participantes,provedores,provisores</KeyWord>
+					<KeyWord lang="es">Abastecedores,empresas,licitantes,participantes,proveedores,provisores</KeyWord>
+					<KeyWord lang="en">Suppliers,companies,bidders,participants,suppliers,supplier</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Tables>AC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>13</Owner>
+				<ItemID>0000000013</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Canal,canais,compradores,comunicação,comunicações,pessoas,relacionamentos,vendedores</KeyWord>
+					<KeyWord lang="es">Canal,canales,compradores,comunicacion,comunicaciones,personas,relaciones,vendedores</KeyWord>
+					<KeyWord lang="en">Channel,channels,purchasers,communication,communications,people,relationships,sales_representatives</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Tables>SM4</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>99</Owner>
+				<ItemID>0000000014</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Customização,customizações,personalização,personalizações</KeyWord>
+					<KeyWord lang="es">Personalizacion,personalizaciones,personalizacion,personalizaciones</KeyWord>
+					<KeyWord lang="en">Customization,customization,customization,customization</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apólice de Seguro</Title>
+				<Title lang="es">Poliza de Seguro</Title>
+				<Title lang="en">Insurance Policy</Title>
+				<Function>ATFA300</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SNB</Tables>
+				<Tables>SNE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000015</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apólices,patrimônios,seguros</KeyWord>
+					<KeyWord lang="es">Polizas,patrimonios,seguros</KeyWord>
+					<KeyWord lang="en">Policies,assets,insurance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Bens</Title>
+				<Title lang="es">Grupo de Bienes</Title>
+				<Title lang="en">Asset Group</Title>
+				<Function>ATFA271</Function>
+				<Type>1</Type>
+				<Tables>SNG</Tables>
+				<Tables>FNG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011719</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bem,grupos,imobilizados</KeyWord>
+					<KeyWord lang="es">Bien,grupos,inmovilizados</KeyWord>
+					<KeyWord lang="en">Asset,group,immobilized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Grupo</Title>
+				<Title lang="es">Configur. de Grupo</Title>
+				<Title lang="en">Group Configuration</Title>
+				<Function>ATFA275</Function>
+				<Type>1</Type>
+				<Tables>SNK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000011340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configurações,grupos,imobilizados</KeyWord>
+					<KeyWord lang="es">Configuraciones,grupos,inmovilizados</KeyWord>
+					<KeyWord lang="en">Configurations,groups,immobilized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco Conhecimento</Title>
+				<Title lang="es">Base Conocimiento</Title>
+				<Title lang="en">Knowledge Base</Title>
+				<Function>FATA340</Function>
+				<Type>1</Type>
+				<Tables>AC9</Tables>
+				<Tables>ACB</Tables>
+				<Tables>ACC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>5</Owner>
+				<ItemID>0000000017</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimentos</KeyWord>
+					<KeyWord lang="es">Conocimientos</KeyWord>
+					<KeyWord lang="en">Knowledge</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Pessoas</Title>
+				<Title lang="es">Archivo de Personas</Title>
+				<Title lang="en">People Register</Title>
+				<Function>APDA020</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>7</Owner>
+				<ItemID>0000000018</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Participantes</KeyWord>
+					<KeyWord lang="es">Participantes</KeyWord>
+					<KeyWord lang="en">Participants</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Responsáveis X Bens</Title>
+				<Title lang="es">Responsables X Bienes</Title>
+				<Title lang="en">Respons. Parties X Assets</Title>
+				<Function>ATFA190</Function>
+				<Type>1</Type>
+				<Tables>SND</Tables>
+				<Tables>SN1</Tables>
+				<Tables>RD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Amarração,amarrações,associação,associações,bem,participantes,responsável,</KeyWord>
+					<KeyWord lang="es">Vinculacion,vinculaciones,asociacion,asociaciones,bien,participantes,responsable</KeyWord>
+					<KeyWord lang="en">Checklist,checklists,association,associations,asset,participants,responsible</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Taxas Regulamentadas</Title>
+				<Title lang="es">Tasas Reglamentarias</Title>
+				<Title lang="en">Regulated Fees</Title>
+				<Function>ATFA290</Function>
+				<Type>1</Type>
+				<Tables>SNH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Índices,regulamentação,regulamentações,regulamentados</KeyWord>
+					<KeyWord lang="es">Indices,reglamentacion,reglamentaciones,reglamentados</KeyWord>
+					<KeyWord lang="en">Indexes,regulation,regulations,regulated</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solic. Baixa Ou Transf. Ou Ampl.</Title>
+				<Title lang="es">Solic. Baja o Transf. o Ampl.</Title>
+				<Title lang="en">Req. Write-off Or Transf. Or Incr.</Title>
+				<Function>ATFA500</Function>
+				<Type>1</Type>
+				<Tables>SNZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000013011</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Mobile,solicitações,transferência,baixa,ampliação</KeyWord>
+					<KeyWord lang="es">Mobile,solicitudes,transferencia,baja,ampliación</KeyWord>
+					<KeyWord lang="en">Mobile,requests,transfer,writeoff,expansion</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dados Auxiliares Ativo Fixo</Title>
+				<Title lang="es">Datos Auxiliares Activo Fijo</Title>
+				<Title lang="en">Fixed Asset Auxiliary Data</Title>
+				<Function>ATFA001</Function>
+				<Type>1</Type>
+				<Tables>SN0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000023</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,fixos,tabelas</KeyWord>
+					<KeyWord lang="es">Activos,fijos,tablas</KeyWord>
+					<KeyWord lang="en">Assets,fixed,tables</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais</Title>
+				<Title lang="es">Lugares</Title>
+				<Title lang="en">Places</Title>
+				<Function>ATFA025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011699</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Local</KeyWord>
+					<KeyWord lang="es">Local</KeyWord>
+					<KeyWord lang="en">Location</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamento Aquisições</Title>
+				<Title lang="es">Planeamiento Adquisiciones</Title>
+				<Title lang="en">Acquisition Planning</Title>
+				<Function>ATFA310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aquisição,planejamentos</KeyWord>
+					<KeyWord lang="es">Adquisicion,planeamientos</KeyWord>
+					<KeyWord lang="en">Acquisition,planning</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens de Terceiros</Title>
+				<Title lang="es">Bienes de Terceros</Title>
+				<Title lang="en">Third Party Assets</Title>
+				<Function>ATFA320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012362</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Em Terceiros</Title>
+				<Title lang="es">Bienes En Terceros</Title>
+				<Title lang="en">Assets 3rdparties</Title>
+				<Function>ATFA321</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012006</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Índices</Title>
+				<Title lang="es">Indices</Title>
+				<Title lang="en">Indexes</Title>
+				<Function>ATFA005</Function>
+				<Type>1</Type>
+				<Tables>FNI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013030</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Taxas</KeyWord>
+					<KeyWord lang="es">Tasas</KeyWord>
+					<KeyWord lang="en">Rates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização Índice</Title>
+				<Title lang="es">Actualizac. Indice</Title>
+				<Title lang="en">Index Update</Title>
+				<Function>ATFA006</Function>
+				<Type>1</Type>
+				<Tables>FNI</Tables>
+				<Tables>FNT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atualizações,cotação,cotações,índices,taxas</KeyWord>
+					<KeyWord lang="es">Actualizaciones,cotizacion,cotizaciones,indices,tasas</KeyWord>
+					<KeyWord lang="en">Updates,quotation,quotations,indexes,rates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projeto Imobilizado</Title>
+				<Title lang="es">Proyecto Inmoviliz.</Title>
+				<Title lang="en">Fixed Project</Title>
+				<Function>ATFA430</Function>
+				<Type>1</Type>
+				<Tables>FNB</Tables>
+				<Tables>FNC</Tables>
+				<Tables>FND</Tables>
+				<Tables>FNE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013075</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,concessionárias,imobilizados,projetos,rodovias</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,concesionarias,inmovilizados,proyectos,autopista</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,car_dealers,fixed,projects,roads</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Margem Gerencial</Title>
+				<Title lang="es">Margen Gerencial</Title>
+				<Title lang="en">Management Margin</Title>
+				<Function>ATFA470</Function>
+				<Type>1</Type>
+				<Tables>FNQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013632</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Avp,gerenciais,margens,regras</KeyWord>
+					<KeyWord lang="es">Avp,gerenciales,margenes,reglas</KeyWord>
+					<KeyWord lang="en">Avp,managerial,margins,rules</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Provisão</Title>
+				<Title lang="es">Control Provision</Title>
+				<Title lang="en">Provision Control</Title>
+				<Function>ATFA490</Function>
+				<Type>1</Type>
+				<Tables>FNU</Tables>
+				<Tables>FNV</Tables>
+				<Tables>FNX</Tables>
+				<Tables>FNW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013716</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Avp,contratos,cotroles,construção,construções,provisões</KeyWord>
+					<KeyWord lang="es">Avp,contratos,controles,construccion,construcciones,provisiones</KeyWord>
+					<KeyWord lang="en">Avp,contracts,controls,building,buildings,provisions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agrupador Patrimonial</Title>
+				<Title lang="es">Agrupador Patrimonial</Title>
+				<Title lang="en">Asset Consolidator</Title>
+				<Function>ATFA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022177</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000000025</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação de Baixa Ou Transferência</Title>
+				<Title lang="es">Solicitacion de Baja o Transferencia</Title>
+				<Title lang="en">Write-off Or Transfer Request</Title>
+				<Function>ATFA125</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SND</Tables>
+				<Tables>SNL</Tables>
+				<Tables>SNM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011381</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Baixa,solicitações,transferências</KeyWord>
+					<KeyWord lang="es">Baja,solicitudes,transferencias</KeyWord>
+					<KeyWord lang="en">Writeoff,requests,transfer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixas</Title>
+				<Title lang="es">Bajas</Title>
+				<Title lang="en">Write-off</Title>
+				<Function>ATFA036</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Tables>SIC</Tables>
+				<Tables>SI4</Tables>
+				<Tables>SID</Tables>
+				<Tables>FN1</Tables>
+				<Tables>FN2</Tables>
+				<Tables>FN3</Tables>
+				<Tables>FN4</Tables>
+				<Tables>FN5</Tables>
+				<Tables>FN6</Tables>
+				<Tables>FN7</Tables>
+				<Tables>FN8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Baixa Ou Transferência</Title>
+				<Title lang="es">Aprobacion de Baja o Transferencia</Title>
+				<Title lang="en">Write-off Or Transfer Approval</Title>
+				<Function>ATFA126</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SNL</Tables>
+				<Tables>SNM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011382</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovações,baixas,trasnferências</KeyWord>
+					<KeyWord lang="es">Aprobaciones,bajas,transferencias</KeyWord>
+					<KeyWord lang="en">Approvals,writeoff,transfer</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixas de  Adiantamento</Title>
+				<Title lang="es">Bajas de  Anticipo</Title>
+				<Title lang="en">Advance Write-offs</Title>
+				<Function>ATFA040</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000029</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Adiantamentos</KeyWord>
+					<KeyWord lang="es">Anticipos</KeyWord>
+					<KeyWord lang="en">Advances</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>ATFA060</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000030</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ampliação</Title>
+				<Title lang="es">Ampliacion</Title>
+				<Title lang="en">Extension</Title>
+				<Function>ATFA150</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000031</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,ampliações,bem,bens,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,ampliaciones,bien,bienes,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,broadening,asset,assets,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ampliação do Bem</Title>
+				<Title lang="es">Ampliac. Del Bien</Title>
+				<Title lang="en">Expansion Of Asset</Title>
+				<Function>ATFA155</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012140</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,ampliações,bens,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,ampliaciones,bienes,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,broadening,assets,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aquisição Por Transferência</Title>
+				<Title lang="es">Adquisicion Por Transferencia</Title>
+				<Title lang="en">Acquisition By Transfer</Title>
+				<Function>ATFA251</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011718</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aquisições,transferências</KeyWord>
+					<KeyWord lang="es">Adquisiciones,transferencias</KeyWord>
+					<KeyWord lang="en">Aquisitions,transfers</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisar Avp</Title>
+				<Title lang="es">Revisar Avp</Title>
+				<Title lang="en">Review Avp</Title>
+				<Function>ATFA440</Function>
+				<Type>1</Type>
+				<Tables>FNF</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,presentes,revisão,revisões,valores</KeyWord>
+					<KeyWord lang="es">Ajustes,presentes,revision,revisiones,valores</KeyWord>
+					<KeyWord lang="en">Adjustments,presents,revision,revisions,values</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulação</Title>
+				<Title lang="es">Simulacion</Title>
+				<Title lang="en">Simulation</Title>
+				<Function>ATFA350</Function>
+				<Type>1</Type>
+				<Tables>SNQ</Tables>
+				<Tables>SNR</Tables>
+				<Tables>SNS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cálculos,depreciação,depreciações,projeção,projeções,simulações</KeyWord>
+					<KeyWord lang="es">Calculos,depreciacion,depreciaciones,proyeccion,proyecciones,simulaciones</KeyWord>
+					<KeyWord lang="en">Calculation,depreciation,depreciation,projection,projections,simulations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamentos de Produção</Title>
+				<Title lang="es">Apuntes de Produccion</Title>
+				<Title lang="en">Production Annotations</Title>
+				<Function>ATFA110</Function>
+				<Type>1</Type>
+				<Tables>FNA</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012510</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apontamento</KeyWord>
+					<KeyWord lang="es">Apunte</KeyWord>
+					<KeyWord lang="en">Annotation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Alçadas</Title>
+			<Title lang="es">Jurisdicc.</Title>
+			<Title lang="en">Jurisdiction</Title>
+			<ItemID>0000013023</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operações de Aprovação</Title>
+				<Title lang="es">Operaciones de Aprobacion</Title>
+				<Title lang="en">Approval Operations</Title>
+				<Function>ATFA002</Function>
+				<Type>1</Type>
+				<Tables>FNH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013024</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Alcadas,aprovadores,aprovações,controles,operação</KeyWord>
+					<KeyWord lang="es">Pertinencias,aprobadores,aprobaciones,controles,operacion</KeyWord>
+					<KeyWord lang="en">Jurisdiction,approvers,approvals,controls,operation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alçadas de Aprovação Por Processo</Title>
+				<Title lang="es">Poder de Aprobacion Por Proceso</Title>
+				<Title lang="en">Approval Jurisdiction Per Process</Title>
+				<Function>ATFA003</Function>
+				<Type>1</Type>
+				<Tables>FNK</Tables>
+				<Tables>FNL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013025</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovações,aprovadores,processos</KeyWord>
+					<KeyWord lang="es">Aprobaciones,aprobadores,procesos</KeyWord>
+					<KeyWord lang="en">Approvals,approvers,processes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos de Aprovação</Title>
+				<Title lang="es">Movimientos de Aprobacion</Title>
+				<Title lang="en">Approval Operations</Title>
+				<Function>ATFA004</Function>
+				<Type>1</Type>
+				<Tables>FNM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013027</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Alçadas,aprovações</KeyWord>
+					<KeyWord lang="es">Pertinencias,aprobaciones</KeyWord>
+					<KeyWord lang="en">Jurisdictions,approvals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mobile</Title>
+			<Title lang="es">Mobile</Title>
+			<Title lang="en">Mobile</Title>
+			<ItemID>0000013004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Intermediadores</Title>
+				<Title lang="es">Intermediadores</Title>
+				<Title lang="en">Mediators</Title>
+				<Function>FATA760</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016807</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A010000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000035</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Generalizados,geral,gerais</KeyWord>
+					<KeyWord lang="es">Generalizados,general,generales</KeyWord>
+					<KeyWord lang="en">Generalized,general,general</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ativos</Title>
+			<Title lang="es">Activos</Title>
+			<Title lang="en">Assets</Title>
+			<ItemID>0000000038</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha do Ativo</Title>
+				<Title lang="es">Ficha Del Activo</Title>
+				<Title lang="en">Asset Card</Title>
+				<Function>ATFC040</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000039</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,fichas,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,fichas,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,forms,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gráfico Depreciação</Title>
+				<Title lang="es">Grafico Depreciacion</Title>
+				<Title lang="en">Graphic Depreciation</Title>
+				<Function>ATFC010</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000040</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,depreciações,gráficos,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,depreciaciones,graficos,inmovilizados</KeyWord>
+					<KeyWord lang="en">Asset,asset,assets,depreciation,graph,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valores Contábeis</Title>
+				<Title lang="es">Valores Contables</Title>
+				<Title lang="en">Accounting Values</Title>
+				<Function>ATFA020</Function>
+				<Type>1</Type>
+				<Tables>SN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000041</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,contábil,contas</KeyWord>
+					<KeyWord lang="es">Activos,contable,cuentas</KeyWord>
+					<KeyWord lang="en">Asset,accounting,account</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000019785</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastrais</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000021543</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventário</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>ATFSV006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021544</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Ativos</Title>
+				<Title lang="es">Registro de Activos</Title>
+				<Title lang="en">Assets Register</Title>
+				<Function>ATFSV008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021548</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha do Ativo</Title>
+				<Title lang="es">Ficha Del Activo</Title>
+				<Title lang="en">Asset Form</Title>
+				<Function>ATFSV011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021551</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo do Ativo Fixo</Title>
+				<Title lang="es">Inf. Activo Fijo</Title>
+				<Title lang="en">Fixed Assets Statement</Title>
+				<Function>ATFSV015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021552</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulação de Depreciação</Title>
+				<Title lang="es">Simul. Depreciac.</Title>
+				<Title lang="en">Depreciation Simulation</Title>
+				<Function>ATFSV026</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Provisão e Realização da Depreciação</Title>
+				<Title lang="es">Provisión Y Realización de La Depreciación</Title>
+				<Title lang="en">Provision And Execution Of Depreciation</Title>
+				<Function>ATFSV027</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021560</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comparativos</Title>
+			<Title lang="es">Comparativos</Title>
+			<Title lang="en">Comparatives</Title>
+			<ItemID>0000021578</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Responsáveis X Bens</Title>
+				<Title lang="es">Responsables Vs. Bienes</Title>
+				<Title lang="en">Responsible X Assets</Title>
+				<Function>ATFSV025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000021581</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Por Centro Custo</Title>
+				<Title lang="es">Astos. Por Centro Costo</Title>
+				<Title lang="en">Entries By Cost Center</Title>
+				<Function>ATFSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021584</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aquisições</Title>
+				<Title lang="es">Adquisiciones</Title>
+				<Title lang="en">Acquisitions</Title>
+				<Function>ATFSV002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posicao Valorizada dos Bens Por Conta</Title>
+				<Title lang="es">Sit. Valorizada Bienes Por Cta</Title>
+				<Title lang="en">Valued Position Of Assets By Account</Title>
+				<Function>ATFSV003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021586</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição Valorizada Por Conta Na Data</Title>
+				<Title lang="es">Sit. Valorizada Por Cta En Fch</Title>
+				<Title lang="en">Position Valued By Account On Date</Title>
+				<Function>ATFSV005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021587</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição de 12 Meses</Title>
+				<Title lang="es">Situac. 12 Meses</Title>
+				<Title lang="en">12-month Position</Title>
+				<Function>ATFSV007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo Por Conta Atualizado</Title>
+				<Title lang="es">Resumen Cta Actualizado</Title>
+				<Title lang="en">Updated Summary By Account</Title>
+				<Function>ATFSV009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos</Title>
+				<Title lang="es">Movimiento</Title>
+				<Title lang="en">Transactions</Title>
+				<Function>ATFSV010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021591</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos a Depreciar</Title>
+				<Title lang="es">Saldos Por Depreciar</Title>
+				<Title lang="en">Balances To Depreciate</Title>
+				<Function>ATFSV013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021592</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>ATFSV014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021593</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Depreciados</Title>
+				<Title lang="es">Bienes Depreciados</Title>
+				<Title lang="en">Depreciated Assets</Title>
+				<Function>ATFSV016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021594</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio de Despesa Por Ativo</Title>
+				<Title lang="es">Prorrateo Gasto Por Activo</Title>
+				<Title lang="en">Expense Apportionment By Asset</Title>
+				<Function>ATFSV017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021595</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Adiantamentos</Title>
+				<Title lang="es">Anticipos</Title>
+				<Title lang="en">Advances</Title>
+				<Function>ATFSV018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021596</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixas</Title>
+				<Title lang="es">Bajas</Title>
+				<Title lang="en">Postings</Title>
+				<Function>ATFSV019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021597</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Correção Monetária</Title>
+				<Title lang="es">Corrección Monetaria</Title>
+				<Title lang="en">Indexation</Title>
+				<Function>ATFSV020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021599</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bens Depreciados Por %</Title>
+				<Title lang="es">Bienes Depreciados Por %</Title>
+				<Title lang="en">Assets Depreciated By %</Title>
+				<Function>ATFSV021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aquisição Por Transferência</Title>
+				<Title lang="es">Adquisición Por Transferencia</Title>
+				<Title lang="en">Acquisition By Transfer</Title>
+				<Function>ATFSV022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021601</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ampliações</Title>
+				<Title lang="es">Ampliaciones</Title>
+				<Title lang="en">Extensions</Title>
+				<Function>ATFSV023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Por Item Contábil</Title>
+				<Title lang="es">Asientos Por Ítem Contable</Title>
+				<Title lang="en">Entries By Ledger Item</Title>
+				<Function>ATFSV024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação do Valor Recuperável de Ativo</Title>
+				<Title lang="es">Lta Valor Recuperable de Activo</Title>
+				<Title lang="en">Asset Recoverable Value Relationship</Title>
+				<Function>ATFSV028</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulação do Valor Recuperável de Ativos</Title>
+				<Title lang="es">Simul. Valor Recup. Activos</Title>
+				<Title lang="en">Recoverable Value Of Assets Simulation</Title>
+				<Function>ATFSV029</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022773</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Alteração de Taxa do Ativo</Title>
+				<Title lang="es">Historial Modificación Tasa Del Activo</Title>
+				<Title lang="en">Asset Rate Change History</Title>
+				<Function>ATFSV030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023006</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Razões</Title>
+			<Title lang="es">Lib. Mayores</Title>
+			<Title lang="en">Ledgers</Title>
+			<ItemID>0000021605</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Auxiliar</Title>
+				<Title lang="es">Libro Mayor Auxiliar</Title>
+				<Title lang="en">Auxiliary Ledger</Title>
+				<Function>ATFSV004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021606</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A010000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000000042</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000000049</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha do Ativo</Title>
+				<Title lang="es">Ficha Del Activo</Title>
+				<Title lang="en">Asset Card</Title>
+				<Function>ATFR030</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000045</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Imobilizados,ativos,fichas</KeyWord>
+					<KeyWord lang="es">Fijos,activos,fichas</KeyWord>
+					<KeyWord lang="en">Fixed,assets,forms</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos a Depreciar</Title>
+				<Title lang="es">Saldos Por Depreciar</Title>
+				<Title lang="en">Balances To Depreciate</Title>
+				<Function>ATFR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valor Recuperável</Title>
+				<Title lang="es">Val Recuperable</Title>
+				<Title lang="en">Recoverable Value</Title>
+				<Function>ATFR410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recuperáveis,valores</KeyWord>
+					<KeyWord lang="es">Recuperables,valores</KeyWord>
+					<KeyWord lang="en">Recuperables,valores</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação do Valor Recuperável de Ativos</Title>
+				<Title lang="es">Movim Val Recup de Activos</Title>
+				<Title lang="en">Recoverable Value Of Assets Transactn</Title>
+				<Function>ATFR411</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020307</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recuperáveis,simulações,valores</KeyWord>
+					<KeyWord lang="es">Recuperables,simulacros,valores</KeyWord>
+					<KeyWord lang="en">Recuperables,simulacros,valores</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos a Depreciar</Title>
+				<Title lang="es">Saldos P Depreciar</Title>
+				<Title lang="en">Balances To Depr.</Title>
+				<Function>ATFR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000050</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,depreciação,depreciações,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,depreciacion,depreciaciones,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,depreciation,depreciation,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A010000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamentos</Title>
+			<Title lang="es">Procesamientos</Title>
+			<Title lang="en">Processings</Title>
+			<ItemID>0000000077</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Mensal</Title>
+				<Title lang="es">Calculo Mensual</Title>
+				<Title lang="en">Monthly Calculation</Title>
+				<Function>ATFA050</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000078</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apuração,apurações,ativos,bem,bens,cálculos,depreciação,depreciações,imobilizados,meses,mensais</KeyWord>
+					<KeyWord lang="es">Calculo,calculos,activos,bien,bienes,calculos,depreciacion,depreciaciones,inmovilizados,meses,mensuales</KeyWord>
+					<KeyWord lang="en">Calculation,calculations,assets,asset,assets,calculation,depreciation,depreciation,fixed,months,monthly</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Descálculo Mensal</Title>
+				<Title lang="es">Reversion de Calculo Mensual</Title>
+				<Title lang="en">Monthly Decalculation</Title>
+				<Function>ATFA070</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000079</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,cálculos,cancelar,cancelamentos,depreciação,depreciações,descálculos,imobilizados,mensal,meses</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,calculos,anular,anulaciones,depreciacion,depreciaciones,descalculos,inmovilizados,mensual,meses</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,calculations,cancel,cancellation,depreciation,depreciation,decalculation,fixed,monthly,months</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio e Desbloqueio de Bens</Title>
+				<Title lang="es">Bloqueo Y Desbloqueo Bienes</Title>
+				<Title lang="en">Blocking/unblocking Of Assets</Title>
+				<Function>ATFA200</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,bem,bens,bloqueios,desbloqueios,depreciações,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,bien,bienes,bloqueos,desbloqueos,depreciaciones,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,asset,assets,blocks,unblocks,depreciation,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Virada Anual</Title>
+				<Title lang="es">Cierre Anual</Title>
+				<Title lang="en">Annual Carryover</Title>
+				<Function>ATFA080</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Anos,anuais,contabil,contábeis,contabilidade,fechamentos,viradas</KeyWord>
+					<KeyWord lang="es">Anos,anuales,contable,contables,contabilidad,cierres,cierres</KeyWord>
+					<KeyWord lang="en">Years,yearly,accounting,accounting,accounting,closing,turns</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off-line</Title>
+				<Title lang="es">Contabilizacion Off-line</Title>
+				<Title lang="en">Off-line Accounting</Title>
+				<Function>CTBAATF</Function>
+				<Type>1</Type>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SNX</Tables>
+				<Tables>SNV</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000082</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contábil,contábeis,contabilidade,contabilizações</KeyWord>
+					<KeyWord lang="es">Contable,contables,contabilidad,contabilizaciones</KeyWord>
+					<KeyWord lang="en">Accounting,accounting,accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Depreciação Acelerada</Title>
+				<Title lang="es">Depreciacion Acelerada</Title>
+				<Title lang="en">Accelerated Depreciation</Title>
+				<Function>ATFA171</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,aceleradas,bem,bens,depreciações,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,aceleradas,bien,bienes,depreciaciones,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,accelerated,asset,assets,depreciation,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Depreciação Acelerada Em Lote</Title>
+				<Title lang="es">Depreciacion Acelerada En Lote</Title>
+				<Title lang="en">Accelerated Lot Depreciation</Title>
+				<Function>ATFA175</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011320</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acelaradas,ativos,bem,bens,depreciações,imobilizados,lotes</KeyWord>
+					<KeyWord lang="es">Aceleradas,activos,bien,bienes,depreciaciones,inmovilizados,lotes</KeyWord>
+					<KeyWord lang="en">Accelerated,assets,asset,assets,depreciation,fixed,batches</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bloqueio de Movimentações</Title>
+				<Title lang="es">Bloqueo de Movimientos</Title>
+				<Title lang="en">Block Transactions</Title>
+				<Function>ATFA330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011604</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentação,movimentos,bloqueios</KeyWord>
+					<KeyWord lang="es">Movimiento,movimientos,bloqueos</KeyWord>
+					<KeyWord lang="en">Transaction,transaction,blocks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Avp</Title>
+				<Title lang="es">Calculo Avp</Title>
+				<Title lang="en">Apv Calculation</Title>
+				<Function>ATFA450</Function>
+				<Type>1</Type>
+				<Tables>FNF</Tables>
+				<Tables>FNP</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013037</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,cálculos,gerenciais,gerencial,presentes,valores</KeyWord>
+					<KeyWord lang="es">Ajustes,calculos,gerenciales,gerencial,presentes,valores</KeyWord>
+					<KeyWord lang="en">Adjustments,calculations,managerial,managerial,presents,values</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apura Provisão Avp</Title>
+				<Title lang="es">Calculo Prov. Avp</Title>
+				<Title lang="en">Avp Provision Calculation</Title>
+				<Function>ATFA460</Function>
+				<Type>1</Type>
+				<Tables>FNN</Tables>
+				<Tables>FNO</Tables>
+				<Tables>SN1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013070</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,apurações,apuração,gerenciais,gerencial,presentes,provisões,valores</KeyWord>
+					<KeyWord lang="es">Ajustes,calculos,calculo,gerenciales,gerencial,presentes,provisiones,valores</KeyWord>
+					<KeyWord lang="en">Adjustments,calculations,calculation,managerial,managerial,presents,provision,values</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custo Empréstimo</Title>
+				<Title lang="es">Costo Prestamo</Title>
+				<Title lang="en">Loan Cost</Title>
+				<Function>ATFA480</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013700</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Custos,empréstimos</KeyWord>
+					<KeyWord lang="es">Costos,prestamos</KeyWord>
+					<KeyWord lang="en">Costs,loans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acertos</Title>
+			<Title lang="es">Ajustes</Title>
+			<Title lang="en">Adjustments</Title>
+			<ItemID>0000000086</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Saldos</Title>
+				<Title lang="es">Rehace Saldos</Title>
+				<Title lang="en">Redo Balances</Title>
+				<Function>ATFA120</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Recálculos,ajustes</KeyWord>
+					<KeyWord lang="es">Recalculos,ajustes</KeyWord>
+					<KeyWord lang="en">Recalcualtions,adjustments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valor Justo Societario + / -</Title>
+				<Title lang="es">Valor Justo Societario + / -</Title>
+				<Title lang="en">Corporate Fair Value +/-</Title>
+				<Function>ATFA385</Function>
+				<Type>1</Type>
+				<Tables>FNY</Tables>
+				<Tables>FNZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000016128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Valor,justo,societario,positivo,negativo</KeyWord>
+					<KeyWord lang="es">Valor,justo,societario,positivo,negativo</KeyWord>
+					<KeyWord lang="en">Value,fair,corporate,positive,negative</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verificar Integridade</Title>
+				<Title lang="es">Verificar Integridad</Title>
+				<Title lang="en">Check Integrity</Title>
+				<Function>ATFA100</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000089</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,integridades,verificação,verificações</KeyWord>
+					<KeyWord lang="es">Ajustes,integridades,verificacion,verificaciones</KeyWord>
+					<KeyWord lang="en">Adjustments,integrity,check,checks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ajuste Contábil</Title>
+				<Title lang="es">Ajuste Contable</Title>
+				<Title lang="en">Accounting Adjustment</Title>
+				<Function>ATFA220</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SN8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,contabilidade,contábies</KeyWord>
+					<KeyWord lang="es">Ajustes,contabilidad,contables</KeyWord>
+					<KeyWord lang="en">Adjustments,accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração da Taxa de Depreciação</Title>
+				<Title lang="es">Modificacion de Tasa de Depreciacion</Title>
+				<Title lang="en">Depreciation Rate Change</Title>
+				<Function>ATFA230</Function>
+				<Type>1</Type>
+				<Tables>SN1</Tables>
+				<Tables>SN3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Alterações,ajustes,depreciações,taxas</KeyWord>
+					<KeyWord lang="es">Modificaciones,ajustes,depreciaciones,tasas</KeyWord>
+					<KeyWord lang="en">Changes,adjustments,depreciation,fees</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração No Código do Bem</Title>
+				<Title lang="es">Modifc. En Codigo de Bien</Title>
+				<Title lang="en">Asset Code Change</Title>
+				<Function>ATFA130</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000092</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ativos,alterações,bens,códigos,fichas,imobilizados</KeyWord>
+					<KeyWord lang="es">Activos,modificaciones,bienes,codigos,fichas,inmovilizados</KeyWord>
+					<KeyWord lang="en">Assets,changes,assets,codes,forms,fixed</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração No Centro de Custo</Title>
+				<Title lang="es">Modificacion En El Centro de Costo</Title>
+				<Title lang="en">Cost Center Change</Title>
+				<Function>ATFA140</Function>
+				<Type>1</Type>
+				<Tables>SI1</Tables>
+				<Tables>SI2</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SI5</Tables>
+				<Tables>SI6</Tables>
+				<Tables>SI7</Tables>
+				<Tables>SI8</Tables>
+				<Tables>SI9</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SN1</Tables>
+				<Tables>SN2</Tables>
+				<Tables>SN3</Tables>
+				<Tables>SN4</Tables>
+				<Tables>SN5</Tables>
+				<Tables>SN6</Tables>
+				<Tables>SNA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>1</Owner>
+				<ItemID>0000000093</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,alterações,centros,custos</KeyWord>
+					<KeyWord lang="es">Ajustes,modificaciones,centros,costos</KeyWord>
+					<KeyWord lang="en">Adjustments,changes,center,costs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valor Recuperável</Title>
+				<Title lang="es">Valor Recuperable</Title>
+				<Title lang="en">Recoverable Value</Title>
+				<Function>ATFA380</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000094</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,valores,recuperáveis</KeyWord>
+					<KeyWord lang="es">Ajustes,valores,recuperables</KeyWord>
+					<KeyWord lang="en">Adjustments,values,recoverable</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integraçoes</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000000095</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000097</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,planilhas</KeyWord>
+					<KeyWord lang="es">Integracion,planillas</KeyWord>
+					<KeyWord lang="en">Integration,spreadsheet</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000000100</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Tables>WF3</Tables>
+				<Tables>WFA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000101</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastreamento,rastrear,rastreios</KeyWord>
+					<KeyWord lang="es">Rastreo,ratrear,rastreos</KeyWord>
+					<KeyWord lang="en">Tracking,track,tracking</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000102</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>0000000103</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comunicação,comunicações,mensagem,mensagens</KeyWord>
+					<KeyWord lang="es">Comunicacion,comunicaciones,mensaje,mensajes</KeyWord>
+					<KeyWord lang="en">Communication,communication,message,message</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B010000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B010000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

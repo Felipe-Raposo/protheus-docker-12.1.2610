@@ -1,0 +1,1270 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAQMT</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A220000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Ordens de Serviços</Title>
+			<Title lang="es">Ordenes de Servicio</Title>
+			<Title lang="en">Service Orders</Title>
+			<ItemID>0000004599</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens de Serviços</Title>
+				<Title lang="es">Ordenes de Servicio</Title>
+				<Title lang="en">Service Orders</Title>
+				<Function>QMTA210</Function>
+				<Type>1</Type>
+				<Tables>QMB</Tables>
+				<Tables>QMZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Coleta de Dados</Title>
+			<Title lang="es">Recolec de Datos</Title>
+			<Title lang="en">Data Collection</Title>
+			<ItemID>0000004602</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calibrações</Title>
+				<Title lang="es">Calibraciones</Title>
+				<Title lang="en">Calibration</Title>
+				<Function>QMTA140</Function>
+				<Type>1</Type>
+				<Tables>QM6</Tables>
+				<Tables>QM7</Tables>
+				<Tables>QM8</Tables>
+				<Tables>QMI</Tables>
+				<Tables>QMJ</Tables>
+				<Tables>QMR</Tables>
+				<Tables>QMS</Tables>
+				<Tables>QMT</Tables>
+				<Tables>QMX</Tables>
+				<Tables>QI2</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Repe e Repro</Title>
+				<Title lang="es">Repe Y Repro</Title>
+				<Title lang="en">Rep And Repro</Title>
+				<Function>QMTA150</Function>
+				<Type>1</Type>
+				<Tables>QM4</Tables>
+				<Tables>QM5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004604</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação</Title>
+				<Title lang="es">Movimiento</Title>
+				<Title lang="en">Transaction</Title>
+				<Function>QMTA160</Function>
+				<Type>1</Type>
+				<Tables>QML</Tables>
+				<Tables>QM2</Tables>
+				<Tables>QM1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004605</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimento de Instrumentos Entre Filiais</Title>
+				<Title lang="es">Movimiento de Instrumentos Entre Sucursales</Title>
+				<Title lang="en">Instrument Transaction Between Branches</Title>
+				<Function>QMTA230</Function>
+				<Type>1</Type>
+				<Tables>QN4</Tables>
+				<Tables>QN5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004606</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentação</KeyWord>
+					<KeyWord lang="es">Movimiento</KeyWord>
+					<KeyWord lang="en">Transaction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenções</Title>
+				<Title lang="es">Mantenimientos</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>QMTA170</Function>
+				<Type>1</Type>
+				<Tables>QME</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004607</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">M.s.a.</Title>
+				<Title lang="es">Msa</Title>
+				<Title lang="en">M s a</Title>
+				<Function>QMTA180</Function>
+				<Type>1</Type>
+				<Tables>QMU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004608</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Instrumentos</Title>
+			<Title lang="es">Instrumentos</Title>
+			<Title lang="en">Instruments</Title>
+			<ItemID>0000004610</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro</Title>
+				<Title lang="es">Archivo</Title>
+				<Title lang="en">Record</Title>
+				<Function>QMTA010</Function>
+				<Type>1</Type>
+				<Tables>QM2</Tables>
+				<Tables>SAH</Tables>
+				<Tables>SYP</Tables>
+				<Tables>QMD</Tables>
+				<Tables>QMF</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QA3</Tables>
+				<Tables>QMG</Tables>
+				<Tables>QMZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004611</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Duplicação</Title>
+				<Title lang="es">Duplicacion</Title>
+				<Title lang="en">Doubling</Title>
+				<Function>QMTA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004612</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Famílias</Title>
+			<Title lang="es">Familias</Title>
+			<Title lang="en">Families</Title>
+			<ItemID>0000004614</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Famílias</Title>
+				<Title lang="es">Familias</Title>
+				<Title lang="en">Families</Title>
+				<Function>QMTA030</Function>
+				<Type>1</Type>
+				<Tables>QM1</Tables>
+				<Tables>QMK</Tables>
+				<Tables>QM9</Tables>
+				<Tables>QMW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004615</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Faixas</Title>
+			<Title lang="es">Rangos</Title>
+			<Title lang="en">Ranges</Title>
+			<ItemID>0000004617</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro</Title>
+				<Title lang="es">Archivo</Title>
+				<Title lang="en">Record</Title>
+				<Function>QMTA040</Function>
+				<Type>1</Type>
+				<Tables>QM9</Tables>
+				<Tables>QMH</Tables>
+				<Tables>QMA</Tables>
+				<Tables>QMQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004618</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Duplicação</Title>
+				<Title lang="es">Duplicacion</Title>
+				<Title lang="en">Doubling</Title>
+				<Function>QMTA045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004619</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Procedimentos</Title>
+			<Title lang="es">Procedimientos</Title>
+			<Title lang="en">Procedures</Title>
+			<ItemID>0000004621</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Medição</Title>
+				<Title lang="es">Medicion</Title>
+				<Title lang="en">Measurement</Title>
+				<Function>QMTA052</Function>
+				<Type>1</Type>
+				<Tables>QA5</Tables>
+				<Tables>QA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004622</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Utilização</Title>
+				<Title lang="es">Utilizacion</Title>
+				<Title lang="en">Use</Title>
+				<Function>QMTA051</Function>
+				<Type>1</Type>
+				<Tables>QA5</Tables>
+				<Tables>QA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004623</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Básicos</Title>
+			<Title lang="es">Archivos Basicos</Title>
+			<Title lang="en">Basic Registers</Title>
+			<ItemID>0000004625</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Padrões</Title>
+				<Title lang="es">Estandares</Title>
+				<Title lang="en">Standards</Title>
+				<Function>QMTA070</Function>
+				<Type>1</Type>
+				<Tables>QM3</Tables>
+				<Tables>QMC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004626</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sistemas de Grandezas</Title>
+				<Title lang="es">Sistemas de Magnitudes</Title>
+				<Title lang="en">Physical Quantity Systems</Title>
+				<Function>QMTA190</Function>
+				<Type>1</Type>
+				<Tables>SAP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004627</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Sistema</KeyWord>
+					<KeyWord lang="es">Sistema</KeyWord>
+					<KeyWord lang="en">System</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Measurement Units</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Tables>SAH</Tables>
+				<Tables>QEK</Tables>
+				<Tables>QE6</Tables>
+				<Tables>QE7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>21</Owner>
+				<ItemID>0000004628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Laboratórios Externos</Title>
+				<Title lang="es">Laboratorios Externos</Title>
+				<Title lang="en">External Labs</Title>
+				<Function>QMTA080</Function>
+				<Type>1</Type>
+				<Tables>QMO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004629</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Externo</KeyWord>
+					<KeyWord lang="es">Externo</KeyWord>
+					<KeyWord lang="en">External</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Incertezas Tipo B</Title>
+				<Title lang="es">Incertezas Tipo B</Title>
+				<Title lang="en">Type B Uncertainty</Title>
+				<Function>QMTA090</Function>
+				<Type>1</Type>
+				<Tables>QMV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004630</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Não Conformidades</Title>
+				<Title lang="es">No Conformidades</Title>
+				<Title lang="en">Non-conformities</Title>
+				<Function>QIEA040</Function>
+				<Type>1</Type>
+				<Tables>SAG</Tables>
+				<Tables>QE2</Tables>
+				<Tables>QE9</Tables>
+				<Tables>QEU</Tables>
+				<Tables>QED</Tables>
+				<Tables>QEE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>21</Owner>
+				<ItemID>0000004631</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes de Não Conformidade</Title>
+				<Title lang="es">Clases de No Conformidad</Title>
+				<Title lang="en">Non-conformity Class</Title>
+				<Function>QIEA160</Function>
+				<Type>1</Type>
+				<Tables>QEE</Tables>
+				<Tables>SAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>21</Owner>
+				<ItemID>0000004632</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conformidades</KeyWord>
+					<KeyWord lang="es">Conformidades</KeyWord>
+					<KeyWord lang="en">Conformance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QIEA050</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAC</Tables>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>21</Owner>
+				<ItemID>0000004633</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos e Funções</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAC</Tables>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004634</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamento</Title>
+				<Title lang="es">Departamento</Title>
+				<Title lang="en">Department</Title>
+				<Function>QAXA030</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAC</Tables>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004635</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Setor</KeyWord>
+					<KeyWord lang="es">Sector</KeyWord>
+					<KeyWord lang="en">Sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status e Instrumentos</Title>
+				<Title lang="es">Estatus e Instrumentos</Title>
+				<Title lang="en">Status And Instruments</Title>
+				<Function>QMTA110</Function>
+				<Type>1</Type>
+				<Tables>QMP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004636</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumento</KeyWord>
+					<KeyWord lang="es">Instrumento</KeyWord>
+					<KeyWord lang="en">Instrument</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A220000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros Genéricos</Title>
+				<Title lang="es">Archivos Genericos</Title>
+				<Title lang="en">Genertic Register</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004637</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Consulta Gráfica</Title>
+			<Title lang="es">Consulta Grafica</Title>
+			<Title lang="en">Graphic Check</Title>
+			<ItemID>0000004638</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">M.s.a.</Title>
+				<Title lang="es">Msa</Title>
+				<Title lang="en">M s a</Title>
+				<Function>QMTC010</Function>
+				<Type>1</Type>
+				<Tables>QMU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004639</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumentos</Title>
+				<Title lang="es">Instrumentos</Title>
+				<Title lang="en">Instruments</Title>
+				<Function>QMTC020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004640</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A220000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Calibração</Title>
+				<Title lang="es">Ficha de Calibracion</Title>
+				<Title lang="en">Callibration Form</Title>
+				<Function>QMTR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004641</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem de Instrumentos</Title>
+				<Title lang="es">Listado de Instrumentos</Title>
+				<Title lang="en">List Instruments</Title>
+				<Function>QMTR300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004642</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Instrumentos Disponíveis</Title>
+				<Title lang="es">Lista de Instrumentos Disponibles</Title>
+				<Title lang="en">List Of Available Instruments</Title>
+				<Function>QMTR310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004643</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Listagem,instrumento,disponíveis</KeyWord>
+					<KeyWord lang="es">Lista,instrumento,disponibles</KeyWord>
+					<KeyWord lang="en">List,instrument,available</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimento de Instrumentos Entre Filiais</Title>
+				<Title lang="es">Movimiento de Instrumentos Entre Sucursales</Title>
+				<Title lang="en">Instrument Movement Between Branches</Title>
+				<Function>QMTR320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentação,instrumentos</KeyWord>
+					<KeyWord lang="es">Movimiento,instrumentos</KeyWord>
+					<KeyWord lang="en">Movements,instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Repe e Repro</Title>
+			<Title lang="es">Repe Y Repro</Title>
+			<Title lang="en">Repe And Repro</Title>
+			<ItemID>0000004646</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geral</Title>
+				<Title lang="es">General</Title>
+				<Title lang="en">General</Title>
+				<Function>QMTR210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004647</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Individual</Title>
+				<Title lang="es">Individual</Title>
+				<Title lang="en">Individual</Title>
+				<Function>QMTR220</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fichas Individuais</Title>
+				<Title lang="es">Fichas Individual.</Title>
+				<Title lang="en">Individual Cards</Title>
+				<Function>QMTR230</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004649</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fichas Por Período</Title>
+				<Title lang="es">Fichas Por Periodo</Title>
+				<Title lang="en">Forms Per Period</Title>
+				<Function>QMTR240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004650</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano Repe  e Repro</Title>
+				<Title lang="es">Plan Repe Y Repr</Title>
+				<Title lang="en">Repe And Repro Plan</Title>
+				<Function>QMTR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004651</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatórios Gerais</Title>
+			<Title lang="es">Informes Generales</Title>
+			<Title lang="en">General Reports</Title>
+			<ItemID>0000004653</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Movimentação</Title>
+				<Title lang="es">Plan de Movimiento</Title>
+				<Title lang="en">Transaction Plan</Title>
+				<Function>QMTR110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004654</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Calibração</Title>
+				<Title lang="es">Plan de Calibracion</Title>
+				<Title lang="en">Callibration Plan</Title>
+				<Function>QMTR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004655</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumento a Calibrar</Title>
+				<Title lang="es">Instrumento a Calibrar</Title>
+				<Title lang="en">Instruments To Calibrate</Title>
+				<Function>QMTR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004656</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previstas e Não Realizadas</Title>
+				<Title lang="es">Previstas Y No Realizadas</Title>
+				<Title lang="en">Foreseen And Not Realized</Title>
+				<Function>QMTR070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Previstas,realizadas</KeyWord>
+					<KeyWord lang="es">Previstas,realizadas</KeyWord>
+					<KeyWord lang="en">Foreseen,realized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Padrões a Calibrar</Title>
+				<Title lang="es">Estandares a Calibrar</Title>
+				<Title lang="en">Standards To Calibrate</Title>
+				<Function>QMTR060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004658</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificados</Title>
+				<Title lang="es">Certificados</Title>
+				<Title lang="en">Certificates</Title>
+				<Function>QMTR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo de Calibrações</Title>
+				<Title lang="es">Resumen de Calibraciones</Title>
+				<Title lang="en">Callibration Summary</Title>
+				<Function>QMTR120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disponibilidade</Title>
+				<Title lang="es">Disponibilidad</Title>
+				<Title lang="en">Availability</Title>
+				<Function>QMTR130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004661</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Instrumentos</Title>
+				<Title lang="es">Historial de Instrumentos</Title>
+				<Title lang="en">Instrument History</Title>
+				<Function>QMTR140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004662</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Referência Cruzada</Title>
+			<Title lang="es">Referencia Cruzada</Title>
+			<Title lang="en">Cross Reference</Title>
+			<ItemID>0000004664</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Padrão X Instrumento</Title>
+				<Title lang="es">Estandar X Instrumento</Title>
+				<Title lang="en">Standard X Instrument</Title>
+				<Function>QMTR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004665</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumento X Padrão Secundário</Title>
+				<Title lang="es">Instrumento X Estandar Secundario</Title>
+				<Title lang="en">Instrument X Standard Secondary</Title>
+				<Function>QMTR090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004666</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Padrão Secundário X Instrumento</Title>
+				<Title lang="es">Estandar Secundario X Instrumento</Title>
+				<Title lang="en">Standard Secondary X Instrument</Title>
+				<Function>QMTR100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos,padrão,secundario</KeyWord>
+					<KeyWord lang="es">Instrumentos,estandar,secundario</KeyWord>
+					<KeyWord lang="en">Instruments,standard,secondary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumento X Instrumento Utilizado</Title>
+				<Title lang="es">Instrumento X Instrumento Utilizado</Title>
+				<Title lang="en">Instrument X Used Instrument</Title>
+				<Function>QMTR160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004668</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos,utilizados</KeyWord>
+					<KeyWord lang="es">Instrumentos,utilizados</KeyWord>
+					<KeyWord lang="en">Instruments,used</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumento Utilizado X Instrumento</Title>
+				<Title lang="es">Instrumento Utilizado X Instrumento</Title>
+				<Title lang="en">Used Instrument X Instrument</Title>
+				<Function>QMTR180</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004669</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos,utilizados</KeyWord>
+					<KeyWord lang="es">Instrumentos,utilizados</KeyWord>
+					<KeyWord lang="en">Instruments,utilized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrumento X Cliente</Title>
+				<Title lang="es">Instrumento X Cliente</Title>
+				<Title lang="en">Instrument X Client</Title>
+				<Function>QMTR170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004670</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Instrumentos</KeyWord>
+					<KeyWord lang="es">Instrumentos</KeyWord>
+					<KeyWord lang="en">Instruments</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Etiquetas</Title>
+			<Title lang="es">Etiquetas</Title>
+			<Title lang="en">Labels</Title>
+			<ItemID>0000004672</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiquetas</Title>
+				<Title lang="es">Etiquetas</Title>
+				<Title lang="en">Labels</Title>
+				<Function>QMTR250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004673</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ordem de Serviço</Title>
+			<Title lang="es">Orden de Servicio</Title>
+			<Title lang="en">Service Order</Title>
+			<ItemID>0000004675</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Servico</Title>
+				<Title lang="es">Orden de Servicio</Title>
+				<Title lang="en">Service Order</Title>
+				<Function>QMTR260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004676</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">M.s.a.</Title>
+			<Title lang="es">M.s.a.</Title>
+			<Title lang="en">M s a</Title>
+			<ItemID>0000004678</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Performance de Sistema de Medição Rr</Title>
+				<Title lang="es">Desempeno de Sistema de Medicion Rr</Title>
+				<Title lang="en">System Performance With Rr Measurement</Title>
+				<Function>QMTR190</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004679</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Medição</KeyWord>
+					<KeyWord lang="es">Medicion</KeyWord>
+					<KeyWord lang="en">Measurement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A220000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Reprogramação de Calibração</Title>
+			<Title lang="es">Reprogramacion de Calibracion</Title>
+			<Title lang="en">Callibration Reprogramming</Title>
+			<ItemID>0000004680</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reprogramação</Title>
+				<Title lang="es">Reprogramacion</Title>
+				<Title lang="en">Reprogramming</Title>
+				<Function>QMTM010</Function>
+				<Type>1</Type>
+				<Tables>QMD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004681</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revalidação</Title>
+				<Title lang="es">Revalidacion</Title>
+				<Title lang="en">Revalidation</Title>
+				<Function>QMTM020</Function>
+				<Type>1</Type>
+				<Tables>QMD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004682</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acertos</Title>
+			<Title lang="es">Ajustes</Title>
+			<Title lang="en">Adjustments</Title>
+			<ItemID>0000004684</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recalculo de Incerteza</Title>
+				<Title lang="es">Recalculo de Incertidumbre</Title>
+				<Title lang="en">Uncertainty Recalculation</Title>
+				<Function>QMTM400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004685</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Incerteza</KeyWord>
+					<KeyWord lang="es">Incertidumbre</KeyWord>
+					<KeyWord lang="en">Uncertainty</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gráficos</Title>
+			<Title lang="es">Graficos</Title>
+			<Title lang="en">Graphs</Title>
+			<ItemID>0000004687</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cartas Individuais</Title>
+				<Title lang="es">Cartas Individual.</Title>
+				<Title lang="en">Individual Letters</Title>
+				<Function>QMTM420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004688</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gráfico de Pareto</Title>
+				<Title lang="es">Modelo de Grafico</Title>
+				<Title lang="en">Pareto Chart</Title>
+				<Function>QMTM060</Function>
+				<Type>1</Type>
+				<Tables>QMJ</Tables>
+				<Tables>SAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004689</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004691</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004692</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Por Usuários</Title>
+				<Title lang="es">Procesos Por Usuarios</Title>
+				<Title lang="en">Processes By User</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004693</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004694</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anonimização Lgpd</Title>
+				<Title lang="es">Anonimización Lgpd</Title>
+				<Title lang="en">Gdpr Anonymization</Title>
+				<Function>QLT100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>22</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017106</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B220000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B220000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

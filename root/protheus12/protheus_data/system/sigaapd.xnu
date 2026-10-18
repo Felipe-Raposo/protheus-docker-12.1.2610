@@ -1,0 +1,1091 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAAPD</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A530000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000009019</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visões</Title>
+				<Title lang="es">Visiones</Title>
+				<Title lang="en">Visions</Title>
+				<Function>APDA010</Function>
+				<Type>1</Type>
+				<Tables>RDK</Tables>
+				<Tables>RD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilidades</Title>
+				<Title lang="es">Habilidades</Title>
+				<Title lang="en">Skills</Title>
+				<Function>CSAA150</Function>
+				<Type>1</Type>
+				<Tables>RDM</Tables>
+				<Tables>RD2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Competências</Title>
+				<Title lang="es">Competencias</Title>
+				<Title lang="en">Competences</Title>
+				<Function>APDA220</Function>
+				<Type>1</Type>
+				<Tables>RDM</Tables>
+				<Tables>RD2</Tables>
+				<Tables>SYP</Tables>
+				<Tables>RDY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009021</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rede</Title>
+				<Title lang="es">Red</Title>
+				<Title lang="en">Network</Title>
+				<Function>APDA030</Function>
+				<Type>1</Type>
+				<Tables>RD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009024</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Avaliação</Title>
+				<Title lang="es">Tipo de Evaluacion</Title>
+				<Title lang="en">Evaluation Type</Title>
+				<Function>APDA040</Function>
+				<Type>1</Type>
+				<Tables>RDH</Tables>
+				<Tables>RD5</Tables>
+				<Tables>RD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009025</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escala/grau de Importância</Title>
+				<Title lang="es">Escala/grado de Importancia</Title>
+				<Title lang="en">Importance Level / Degree</Title>
+				<Function>CSAA130</Function>
+				<Type>1</Type>
+				<Tables>RBK</Tables>
+				<Tables>RBL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questões</Title>
+				<Title lang="es">Preguntas</Title>
+				<Title lang="en">Questions</Title>
+				<Function>RSPA050</Function>
+				<Type>1</Type>
+				<Tables>SQP</Tables>
+				<Tables>SQQ</Tables>
+				<Tables>SQO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009027</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Períodos</Title>
+				<Title lang="es">Periodos</Title>
+				<Title lang="en">Periods</Title>
+				<Function>APDA150</Function>
+				<Type>1</Type>
+				<Tables>RDU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009028</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Objetivo</Title>
+				<Title lang="es">Tipo de Objetivo</Title>
+				<Title lang="en">Objective Type</Title>
+				<Function>APDA110</Function>
+				<Type>1</Type>
+				<Tables>RDI</Tables>
+				<Tables>SYP</Tables>
+				<Tables>RDY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009029</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projetos</Title>
+				<Title lang="es">Proyectos</Title>
+				<Title lang="en">Projects</Title>
+				<Function>APDA130</Function>
+				<Type>1</Type>
+				<Tables>RDN</Tables>
+				<Tables>SYP</Tables>
+				<Tables>RDY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009030</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mensagens</Title>
+				<Title lang="es">Avisos</Title>
+				<Title lang="en">Messages</Title>
+				<Function>APDA060</Function>
+				<Type>1</Type>
+				<Tables>RDG</Tables>
+				<Tables>SYP</Tables>
+				<Tables>RDY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009031</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>34</Owner>
+				<ItemID>0000009032</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013256</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Cursos</Title>
+				<Title lang="es">Tipos de Curso</Title>
+				<Title lang="en">Course Types</Title>
+				<Function>RSPA210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>26</Owner>
+				<ItemID>0000009033</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cursos</Title>
+				<Title lang="es">Cursos</Title>
+				<Title lang="en">Courses</Title>
+				<Function>RSPA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>26</Owner>
+				<ItemID>0000009034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Siglas Registros de Classe</Title>
+				<Title lang="es">Siglas Registros de Clase</Title>
+				<Title lang="en">Accronyms Class Registers</Title>
+				<Function>APTA130</Function>
+				<Type>1</Type>
+				<Tables>RE8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>64</Owner>
+				<ItemID>0000009035</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa Conhecimento</Title>
+				<Title lang="es">Mapa Conocimiento</Title>
+				<Title lang="en">Knowledge Map</Title>
+				<Function>APDA200</Function>
+				<Type>1</Type>
+				<Tables>RBO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo</Title>
+				<Title lang="es">Grupo</Title>
+				<Title lang="en">Group</Title>
+				<Function>TRMA030</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SRX</Tables>
+				<Tables>RBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>40</Owner>
+				<ItemID>0000009037</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Política Consolidada</Title>
+				<Title lang="es">Política Consolidada</Title>
+				<Title lang="en">Consolidated Policy</Title>
+				<Function>APDA280</Function>
+				<Type>1</Type>
+				<Tables>RIX</Tables>
+				<Tables>RIY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024051</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Participantes</Title>
+			<Title lang="es">Participantes</Title>
+			<Title lang="en">Participants</Title>
+			<ItemID>0000009039</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro</Title>
+				<Title lang="es">Archivo</Title>
+				<Title lang="en">File</Title>
+				<Function>APDA020</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>SRA</Tables>
+				<Tables>RDZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009040</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes X Visões</Title>
+				<Title lang="es">Participantes X Visiones</Title>
+				<Title lang="en">Employees X Views</Title>
+				<Function>APDA170</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>RDE</Tables>
+				<Tables>RDK</Tables>
+				<Tables>RD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009041</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alocações</Title>
+				<Title lang="es">Asignaciones</Title>
+				<Title lang="en">Allocations</Title>
+				<Function>APDA070</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>RD4</Tables>
+				<Tables>RDE</Tables>
+				<Tables>RDK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009042</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes X Objetivos</Title>
+				<Title lang="es">Participantes X Objetivos</Title>
+				<Title lang="en">Participants X Objectives</Title>
+				<Function>APDA100</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>RDV</Tables>
+				<Tables>RDJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009043</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes X Mapa</Title>
+				<Title lang="es">Participantes X Mapa</Title>
+				<Title lang="en">Employees X Map</Title>
+				<Function>APDA210</Function>
+				<Type>1</Type>
+				<Tables>RBP</Tables>
+				<Tables>RBQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009044</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Classe</Title>
+				<Title lang="es">Registro de Clase</Title>
+				<Title lang="en">Registration</Title>
+				<Function>APTA120</Function>
+				<Type>1</Type>
+				<Tables>REU</Tables>
+				<Tables>RE8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009045</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Avaliações</Title>
+			<Title lang="es">Evaluaciones</Title>
+			<Title lang="en">Evaluations</Title>
+			<ItemID>0000009047</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelo</Title>
+				<Title lang="es">Modelo</Title>
+				<Title lang="en">Model</Title>
+				<Function>APDA140</Function>
+				<Type>1</Type>
+				<Tables>RD2</Tables>
+				<Tables>RD3</Tables>
+				<Tables>RD8</Tables>
+				<Tables>RDM</Tables>
+				<Tables>RDO</Tables>
+				<Tables>SQP</Tables>
+				<Tables>SQO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009048</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critérios</Title>
+				<Title lang="es">Criterios</Title>
+				<Title lang="en">Criteria</Title>
+				<Function>APDA160</Function>
+				<Type>1</Type>
+				<Tables>RDS</Tables>
+				<Tables>RDT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009049</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Montagem</Title>
+				<Title lang="es">Elaboracion</Title>
+				<Title lang="en">Preparation</Title>
+				<Function>APDA270</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>RDM</Tables>
+				<Tables>RD2</Tables>
+				<Tables>RD6</Tables>
+				<Tables>RDP</Tables>
+				<Tables>RD9</Tables>
+				<Tables>RDA</Tables>
+				<Tables>RDC</Tables>
+				<Tables>RD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009050</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Geração</Title>
+			<Title lang="es">Generación</Title>
+			<Title lang="en">Generation</Title>
+			<ItemID>0000024039</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Metas</Title>
+				<Title lang="es">Plan de Metas</Title>
+				<Title lang="en">Goals Plan</Title>
+				<Function>APDM032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024041</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Desenv. Pessoal</Title>
+				<Title lang="es">Plan de Desarrollo Personal</Title>
+				<Title lang="en">Personal Development Plan</Title>
+				<Function>APDM031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024042</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa de Conhecimento</Title>
+				<Title lang="es">Mapa de Conocimiento</Title>
+				<Title lang="en">Knowledge Map</Title>
+				<Function>APDM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024043</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Apuração</Title>
+			<Title lang="es">Cálculo</Title>
+			<Title lang="en">Calculation</Title>
+			<ItemID>0000024044</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo das Metas</Title>
+				<Title lang="es">Cálculo de Las Metas</Title>
+				<Title lang="en">Goals Calculation</Title>
+				<Function>APDM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024046</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo das Avaliações</Title>
+				<Title lang="es">Cálculo de Las Evaluaciones</Title>
+				<Title lang="en">Evaluation Calculation</Title>
+				<Function>APDM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024047</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo do Consolidado</Title>
+				<Title lang="es">Cálculo Del Consolidado</Title>
+				<Title lang="en">Consolidated Calculation</Title>
+				<Function>APDM050</Function>
+				<Type>1</Type>
+				<Tables>RIZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024048</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A530000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">File</Title>
+			<ItemID>0000009061</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genérica</Title>
+				<Title lang="es">Generica</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009062</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>GPEA010_01</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>7</Owner>
+				<ItemID>0000009063</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filtros</Title>
+				<Title lang="es">Filtros</Title>
+				<Title lang="en">Filters</Title>
+				<Function>GPFILTRO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>7</Owner>
+				<ItemID>0000009064</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acompanhamento</Title>
+			<Title lang="es">Seguimiento</Title>
+			<Title lang="en">Follow-up</Title>
+			<ItemID>0000013666</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Avaliações</Title>
+				<Title lang="es">Estatus Evaluac.</Title>
+				<Title lang="en">Evaluation Status</Title>
+				<Function>APDA240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Respostas</Title>
+			<Title lang="es">Respuestas</Title>
+			<Title lang="en">Answers</Title>
+			<ItemID>0000014098</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Participantes</Title>
+				<Title lang="es">Por Participantes</Title>
+				<Title lang="en">Per Participants</Title>
+				<Function>APDA260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014099</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Avaliações</Title>
+				<Title lang="es">Por Evaluaciones</Title>
+				<Title lang="en">Per Evaluations</Title>
+				<Function>APDA250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014100</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A530000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatório Crystall</Title>
+			<Title lang="es">Informe Crystall</Title>
+			<Title lang="en">Crystall Report</Title>
+			<ItemID>0000009065</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultado Global</Title>
+				<Title lang="es">Resultado Global</Title>
+				<Title lang="en">Global Result</Title>
+				<Function>APDR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009066</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo Global</Title>
+				<Title lang="es">Comparacion Global</Title>
+				<Title lang="en">Global Comparison</Title>
+				<Function>APDR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009067</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Avaliações</Title>
+				<Title lang="es">Estatus Evaluac.</Title>
+				<Title lang="en">Evaluation Status</Title>
+				<Function>APDR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009068</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ranking Performance</Title>
+			<Title lang="es">Ranking Performance</Title>
+			<Title lang="en">Ranking Performanc</Title>
+			<ItemID>0000009069</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliado</Title>
+				<Title lang="es">Evaluado</Title>
+				<Title lang="en">Assessed</Title>
+				<Function>APDR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009070</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visão</Title>
+				<Title lang="es">Vision</Title>
+				<Title lang="en">Vision</Title>
+				<Function>APDR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009071</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultado Avaliação</Title>
+				<Title lang="es">Resultado Evaluacion</Title>
+				<Title lang="en">Result Evaluation</Title>
+				<Function>APDR060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009072</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A530000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000009077</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas de E-mails</Title>
+				<Title lang="es">Cuentas de E-mail</Title>
+				<Title lang="en">E-mail Accounts</Title>
+				<Function>WFC003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009078</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Workflow</Title>
+				<Title lang="es">Procesos Workflow</Title>
+				<Title lang="en">Workflow Processes</Title>
+				<Function>WFA001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009079</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Workflow</Title>
+				<Title lang="es">Estatus Workflow</Title>
+				<Title lang="en">Workflow Status</Title>
+				<Function>WFA002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">Users Process</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-mail Substituto</Title>
+				<Title lang="es">E-mail Sustitutos</Title>
+				<Title lang="en">Substitute E-mails</Title>
+				<Function>WFA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009082</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Workflow</Title>
+				<Title lang="es">Parametros Workflow</Title>
+				<Title lang="en">Workflow Parameters</Title>
+				<Function>WFA000</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">E-mail/proxy</Title>
+			<Title lang="es">E-mail/ Proxy</Title>
+			<Title lang="en">E-mail / Proxy</Title>
+			<ItemID>0000009089</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurar</Title>
+				<Title lang="es">Configurar</Title>
+				<Title lang="en">Configure</Title>
+				<Function>CFGSETMAIL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>53</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B530000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B530000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

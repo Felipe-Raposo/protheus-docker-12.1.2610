@@ -1,0 +1,1460 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGATRM</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A260000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000004851</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Competências</Title>
+				<Title lang="es">Competencias</Title>
+				<Title lang="en">Competences</Title>
+				<Function>APDA050</Function>
+				<Type>1</Type>
+				<Tables>RD2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>53</Owner>
+				<ItemID>0000004852</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>TRMA030</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SRX</Tables>
+				<Tables>RA0</Tables>
+				<Tables>RBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>CSAA100</Function>
+				<Type>1</Type>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004854</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>34</Owner>
+				<ItemID>0000004855</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013252</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013251</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Avaliação Geral</Title>
+				<Title lang="es">Factores Evaluacion General</Title>
+				<Title lang="en">General Evaluation Factors</Title>
+				<Function>CSAA060</Function>
+				<Type>1</Type>
+				<Tables>SQV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004856</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Avaliação Grupo</Title>
+				<Title lang="es">Factores Evaluacion Grupo</Title>
+				<Title lang="en">Group Evaluation Factors</Title>
+				<Function>RSPA110</Function>
+				<Type>1</Type>
+				<Tables>SQ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004857</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escala / Grau de Importância</Title>
+				<Title lang="es">Escala / Grado de Importancia</Title>
+				<Title lang="en">Importance Level / Degree</Title>
+				<Function>CSAA130</Function>
+				<Type>1</Type>
+				<Tables>RBK</Tables>
+				<Tables>RBL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>53</Owner>
+				<ItemID>0000004858</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilidades</Title>
+				<Title lang="es">Habilidades</Title>
+				<Title lang="en">Skills</Title>
+				<Function>CSAA150</Function>
+				<Type>1</Type>
+				<Tables>RBG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>53</Owner>
+				<ItemID>0000004859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Competência X Habilidades</Title>
+				<Title lang="es">Competencia Vs Habilidades</Title>
+				<Title lang="en">Competence X Skills</Title>
+				<Function>CSAA160</Function>
+				<Type>1</Type>
+				<Tables>RBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>53</Owner>
+				<ItemID>0000004860</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>TRMA020</Function>
+				<Type>1</Type>
+				<Tables>SQ1</Tables>
+				<Tables>SQ2</Tables>
+				<Tables>SQ3</Tables>
+				<Tables>SQ4</Tables>
+				<Tables>RA4</Tables>
+				<Tables>RA5</Tables>
+				<Tables>SQB</Tables>
+				<Tables>SQN</Tables>
+				<Tables>SQ0</Tables>
+				<Tables>RBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004861</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Roles</Title>
+				<Function>TRMA210</Function>
+				<Type>1</Type>
+				<Tables>SRJ</Tables>
+				<Tables>RAL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>7</Owner>
+				<ItemID>0000004862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Cursos</Title>
+				<Title lang="es">Tipo de Cursos</Title>
+				<Title lang="en">Course Types</Title>
+				<Function>RSPA210</Function>
+				<Type>1</Type>
+				<Tables>SQX</Tables>
+				<Tables>SQT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>26</Owner>
+				<ItemID>0000004863</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias de Cursos</Title>
+				<Title lang="es">Categorías de Cursos</Title>
+				<Title lang="en">Course Categories</Title>
+				<Function>TRMA110</Function>
+				<Type>1</Type>
+				<Tables>AIQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>26</Owner>
+				<ItemID>0000024008</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cursos Externos</Title>
+				<Title lang="es">Cursos Externos</Title>
+				<Title lang="en">External Courses</Title>
+				<Function>RSPA020</Function>
+				<Type>1</Type>
+				<Tables>SQT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004864</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades</Title>
+				<Title lang="es">Entidades</Title>
+				<Title lang="en">Entities</Title>
+				<Function>TRMA010</Function>
+				<Type>1</Type>
+				<Tables>SQI</Tables>
+				<Tables>RA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Materiais Para Treinamento</Title>
+				<Title lang="es">Materiales Para Capacitacion</Title>
+				<Title lang="en">Training Materials</Title>
+				<Function>TRMA160</Function>
+				<Type>1</Type>
+				<Tables>RAG</Tables>
+				<Tables>RAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cursos Internos</Title>
+				<Title lang="es">Cursos Internos</Title>
+				<Title lang="en">Internal Courses</Title>
+				<Function>TRMA040</Function>
+				<Type>1</Type>
+				<Tables>RA1</Tables>
+				<Tables>RA3</Tables>
+				<Tables>RAG</Tables>
+				<Tables>RAH</Tables>
+				<Tables>RA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004868</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">M-messenger</Title>
+				<Title lang="es">M-messenger</Title>
+				<Title lang="en">M-messenger</Title>
+				<Function>MATA045</Function>
+				<Type>1</Type>
+				<Tables>SAN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004872</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sinônimos Cursos</Title>
+				<Title lang="es">Sinonimos Cursos</Title>
+				<Title lang="en">Equivalent Courses</Title>
+				<Function>TRMA080</Function>
+				<Type>1</Type>
+				<Tables>RA9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004869</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrutores</Title>
+				<Title lang="es">Instructores</Title>
+				<Title lang="en">Instructors</Title>
+				<Function>TRMA140</Function>
+				<Type>1</Type>
+				<Tables>RA7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004870</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contr.acesso Usuar</Title>
+				<Title lang="es">Contr Acceso Usuar</Title>
+				<Title lang="en">User Access Contr.</Title>
+				<Function>GPEA270</Function>
+				<Type>1</Type>
+				<Tables>SRW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>7</Owner>
+				<ItemID>0000004871</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Servidor Conteudo</Title>
+				<Title lang="es">Servidor Contenido</Title>
+				<Title lang="en">Content Server</Title>
+				<Function>TRMA220</Function>
+				<Type>1</Type>
+				<Tables>RAT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012101</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conteudo Treinamamento</Title>
+				<Title lang="es">Contenido Capacitacion</Title>
+				<Title lang="en">Training Content</Title>
+				<Function>TRMA230</Function>
+				<Type>1</Type>
+				<Tables>RAV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012103</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conjunto de Etapas</Title>
+				<Title lang="es">Conjunto de Etapas</Title>
+				<Title lang="en">Stage Group</Title>
+				<Function>TRMA250</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificados</Title>
+				<Title lang="es">Certificados</Title>
+				<Title lang="en">Certificates</Title>
+				<Function>TRMA240</Function>
+				<Type>1</Type>
+				<Tables>RHG</Tables>
+				<Tables>RAX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012105</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Funcionários</Title>
+			<Title lang="es">Empleados</Title>
+			<Title lang="en">Employees</Title>
+			<ItemID>0000004874</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>TRMA100</Function>
+				<Type>1</Type>
+				<Tables>SQ2</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SQ8</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI7</Tables>
+				<Tables>RAF</Tables>
+				<Tables>RBI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>7</Owner>
+				<ItemID>0000004875</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Avaliação Treinamamento</Title>
+			<Title lang="es">Evaluacion Capacitacion</Title>
+			<Title lang="en">Training Assessment</Title>
+			<ItemID>0000004877</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questões/alternativas</Title>
+				<Title lang="es">Cuestiones/alternativas</Title>
+				<Title lang="en">Questions/alternatives</Title>
+				<Function>RSPA050</Function>
+				<Type>1</Type>
+				<Tables>SQO</Tables>
+				<Tables>SQP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004878</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Modelos Testes</Title>
+				<Title lang="es">Archivo de Modelos Pruebas</Title>
+				<Title lang="en">Test Models Register</Title>
+				<Function>RSPA190</Function>
+				<Type>1</Type>
+				<Tables>SQW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004879</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Montagem Aleatória</Title>
+				<Title lang="es">Elabor. Aleatoria</Title>
+				<Title lang="en">Random Assembly</Title>
+				<Function>RSPA200</Function>
+				<Type>1</Type>
+				<Tables>SQW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004880</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Montagem Avaliação</Title>
+				<Title lang="es">Elabor. Evaluacion</Title>
+				<Title lang="en">Evaluat. Assembly</Title>
+				<Function>RSPA040</Function>
+				<Type>1</Type>
+				<Tables>SQQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004881</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planejamentos</Title>
+			<Title lang="es">Planificaciones</Title>
+			<Title lang="en">Planning</Title>
+			<ItemID>0000004883</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamentos</Title>
+				<Title lang="es">Planificaciones</Title>
+				<Title lang="en">Planning</Title>
+				<Function>TRMA130</Function>
+				<Type>1</Type>
+				<Tables>RA8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004884</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cotações de Cursos</Title>
+			<Title lang="es">Cotizaciones de Cursos</Title>
+			<Title lang="en">Course Quotations</Title>
+			<ItemID>0000004886</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Cotações</Title>
+				<Title lang="es">Generar Cotizaciones</Title>
+				<Title lang="en">Generate Quotations</Title>
+				<Function>TRMA131</Function>
+				<Type>1</Type>
+				<Tables>SC1</Tables>
+				<Tables>SC8</Tables>
+				<Tables>SAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004887</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualizar Cotações</Title>
+				<Title lang="es">Actualizar Cotizaciones</Title>
+				<Title lang="en">Update Quotations</Title>
+				<Function>TRMA132</Function>
+				<Type>1</Type>
+				<Tables>SC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004888</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Analisar Cotações</Title>
+				<Title lang="es">Analizar Cotizaciones</Title>
+				<Title lang="en">Analyze Quotations</Title>
+				<Function>TRMA133</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC8</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SCE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004889</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Calendários</Title>
+			<Title lang="es">Calendarios</Title>
+			<Title lang="en">Schedules</Title>
+			<ItemID>0000004891</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamentos</Title>
+				<Title lang="es">Capacitaciones</Title>
+				<Title lang="en">Trainings</Title>
+				<Function>TRMA050</Function>
+				<Type>1</Type>
+				<Tables>RA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004892</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reservas</Title>
+				<Title lang="es">Reservas</Title>
+				<Title lang="en">Reservations</Title>
+				<Function>TRMA060</Function>
+				<Type>1</Type>
+				<Tables>SQC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Despesas</Title>
+				<Title lang="es">Control de Gastos</Title>
+				<Title lang="en">Expense Control</Title>
+				<Function>TRMA090</Function>
+				<Type>1</Type>
+				<Tables>RAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004894</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agendar Avaliações</Title>
+				<Title lang="es">Progam. Evaluacion</Title>
+				<Title lang="en">Schedule Evaluat.</Title>
+				<Function>TRMA200</Function>
+				<Type>1</Type>
+				<Tables>RAJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004895</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Baixa de Treinamentos</Title>
+				<Title lang="es">Baja de Capacitaciones</Title>
+				<Title lang="en">Training Write-off</Title>
+				<Function>TRMA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004896</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Realizar Avaliação</Title>
+			<Title lang="es">Realizar Evaluacio</Title>
+			<Title lang="en">Evaluate</Title>
+			<ItemID>0000004898</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>TRMA190A</Function>
+				<Type>1</Type>
+				<Tables>RAI</Tables>
+				<Tables>RAJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004899</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Outros</Title>
+				<Title lang="es">Otros</Title>
+				<Title lang="en">Others</Title>
+				<Function>TRMA190B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004900</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planilhas</Title>
+			<Title lang="es">Planillas</Title>
+			<Title lang="en">Worksheets</Title>
+			<ItemID>0000004902</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004903</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A260000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004905</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004906</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A260000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Graduação</Title>
+				<Title lang="es">Factores Graduac.</Title>
+				<Title lang="en">Grad. Factors</Title>
+				<Function>CSAR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004907</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>TRMR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004908</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>TRMR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004909</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores X Funcionários</Title>
+				<Title lang="es">Factores Vs Empleados</Title>
+				<Title lang="en">Factors X Employees</Title>
+				<Function>CSAR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004910</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Presença</Title>
+				<Title lang="es">Lista de Presencia</Title>
+				<Title lang="en">Roll</Title>
+				<Function>TRMXTRM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004911</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamentos</Title>
+				<Title lang="es">Capacitaciones</Title>
+				<Title lang="en">Trainings</Title>
+				<Function>TRMXTRM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Convite de Treinamento</Title>
+				<Title lang="es">Invitacion de Capacitacion</Title>
+				<Title lang="en">Training Invitations</Title>
+				<Function>TRMXCONVIT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004913</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificados</Title>
+				<Title lang="es">Certificados</Title>
+				<Title lang="en">Certificates</Title>
+				<Function>TRMXCERT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004914</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejamento dos Treinamentos</Title>
+				<Title lang="es">Planificacion de Capacitaciones</Title>
+				<Title lang="en">Training Plan</Title>
+				<Function>TRMR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004915</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planejado X Realizado</Title>
+				<Title lang="es">Planificado Vs Realizado</Title>
+				<Title lang="en">Planned X Realized</Title>
+				<Function>TRMR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004916</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendário Cursos</Title>
+				<Title lang="es">Calendario Cursos</Title>
+				<Title lang="en">Course Schedule</Title>
+				<Function>TRMR090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004917</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamento Solicitados/baixados</Title>
+				<Title lang="es">Capacitacion Solicitados/dados de Baja</Title>
+				<Title lang="en">Requested/written-off Training</Title>
+				<Function>TRMXTRM060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004918</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Materiais de Curso</Title>
+				<Title lang="es">Materiales Curso</Title>
+				<Title lang="en">Course Material</Title>
+				<Function>TRMR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004919</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades/cursos</Title>
+				<Title lang="es">Entes/ Cursos</Title>
+				<Title lang="en">Entities/courses</Title>
+				<Function>TRMR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004920</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formulário de  Avaliação</Title>
+				<Title lang="es">Formulario de Evaluacion</Title>
+				<Title lang="en">Evaluation Form</Title>
+				<Function>TRMXTRM070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004921</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultado Avaliação</Title>
+				<Title lang="es">Resultado Evaluacion</Title>
+				<Title lang="en">Evaluation Result</Title>
+				<Function>TRMXTRM080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004922</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vencimento de Cursos</Title>
+				<Title lang="es">Vencimiento Cursos</Title>
+				<Title lang="en">Courses Expiration</Title>
+				<Function>TRMR100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Custos Treinamento</Title>
+			<Title lang="es">Costos Capacitacion</Title>
+			<Title lang="en">Training Costs</Title>
+			<ItemID>0000004924</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cursos/funcionário</Title>
+				<Title lang="es">Cursos/empleado</Title>
+				<Title lang="en">Courses/employee</Title>
+				<Function>TRMXTRM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004925</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anual</Title>
+				<Title lang="es">Anual</Title>
+				<Title lang="en">Annual</Title>
+				<Function>TRMXTRM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004926</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A260000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Necessidade de Treinamento</Title>
+				<Title lang="es">Necesidad de Capacitacion</Title>
+				<Title lang="en">Training Needs</Title>
+				<Function>TRMM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004927</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualiza Graduação</Title>
+				<Title lang="es">Actual. Graduacion</Title>
+				<Title lang="en">Update Grad.</Title>
+				<Function>CSAM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>40</Owner>
+				<ItemID>0000004928</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Treinamento Coletivo</Title>
+				<Title lang="es">Registro de Capacitacion Colectiva</Title>
+				<Title lang="en">Collective Training Record</Title>
+				<Function>TRMM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004929</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação de Treinamento Coletivo</Title>
+				<Title lang="es">Solicitud de Capacitacion Colectiva</Title>
+				<Title lang="en">Collective Training Request</Title>
+				<Function>TRMM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004930</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento de Cursos Necessarios Para o Cargo</Title>
+				<Title lang="es">Registros de Cursos Necesarios Para El Cargo</Title>
+				<Title lang="en">Course Transactions Required For The Position</Title>
+				<Function>TRMM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004931</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aviso Treinamento</Title>
+				<Title lang="es">Aviso Capacitacion</Title>
+				<Title lang="en">Training Notice</Title>
+				<Function>TRMM060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004932</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sugestão de Treinamento</Title>
+				<Title lang="es">Sugestion de Entrenamiento</Title>
+				<Title lang="en">Training Suggestion</Title>
+				<Function>TRMM080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004933</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sugestão de Turmas</Title>
+				<Title lang="es">Sugerencia de Grupos</Title>
+				<Title lang="en">Group Suggestion</Title>
+				<Function>TRMM100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Integração Epm/ams</Title>
+			<Title lang="es">Integrac. Epm/ams</Title>
+			<Title lang="en">Epm/ams Integrat.</Title>
+			<ItemID>0000011529</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carga Inicial</Title>
+				<Title lang="es">Carga Inicial</Title>
+				<Title lang="en">Ini.load</Title>
+				<Function>TRMM090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>26</Owner>
+				<ItemID>0000011579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004935</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004936</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000004938</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Portal Protheus</Title>
+			<Title lang="es">Portal Protheus</Title>
+			<Title lang="en">Protheus Portal</Title>
+			<ItemID>0000004940</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivar Solicitação Portal</Title>
+				<Title lang="es">Efectivar Solicitacion Portal</Title>
+				<Title lang="en">Effectivate Portal Requests</Title>
+				<Function>TCFA040</Function>
+				<Type>1</Type>
+				<Tables>RH3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>26</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012419</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B260000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B260000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

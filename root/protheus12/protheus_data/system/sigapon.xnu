@@ -1,0 +1,1958 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPON</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A160000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro de Funcionários</Title>
+			<Title lang="es">Archivo de Emplead</Title>
+			<Title lang="en">Employee Register</Title>
+			<ItemID>0000003681</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>GPEA010</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SRC</Tables>
+				<Tables>SRX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003682</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autônomos</Title>
+				<Title lang="es">Autonomos</Title>
+				<Title lang="en">Freelance</Title>
+				<Function>GPEA265</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003683</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Por Funcionários</Title>
+				<Title lang="es">Excepciones Por Empleados</Title>
+				<Title lang="en">Exceptions Per Employees</Title>
+				<Function>PONA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003684</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Por Período</Title>
+				<Title lang="es">Excepciones Por Periodo</Title>
+				<Title lang="en">Exceptions Per Period</Title>
+				<Function>PONA090</Function>
+				<Type>1</Type>
+				<Tables>SP2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003685</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Troca de Turno</Title>
+				<Title lang="es">Cambio de Turno</Title>
+				<Title lang="en">Change Of Shift</Title>
+				<Function>PONA160</Function>
+				<Type>1</Type>
+				<Tables>SPF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003686</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Crachá Provisório</Title>
+				<Title lang="es">Cred. Provisoria</Title>
+				<Title lang="en">Temporary Badge</Title>
+				<Function>PONA120</Function>
+				<Type>1</Type>
+				<Tables>SPE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003687</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Afastamentos</Title>
+				<Title lang="es">Licencias</Title>
+				<Title lang="en">Leaves</Title>
+				<Function>GPEA240</Function>
+				<Type>1</Type>
+				<Tables>SR8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003688</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faixas de He Autorizadas</Title>
+				<Title lang="es">Rangos de He Autorizadas</Title>
+				<Title lang="en">Authorized He Ranges</Title>
+				<Function>PONA300</Function>
+				<Type>1</Type>
+				<Tables>SPT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003689</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-abonos</Title>
+				<Title lang="es">Abonos Previos</Title>
+				<Title lang="en">Pre-payments</Title>
+				<Function>PONA350</Function>
+				<Type>1</Type>
+				<Tables>RF0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003690</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sobreaviso</Title>
+				<Title lang="es">Estar a Disposición</Title>
+				<Title lang="en">On Call</Title>
+				<Function>PONA425</Function>
+				<Type>1</Type>
+				<Tables>RRS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>16</Owner>
+				<ItemID>0000017366</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Gerais</Title>
+			<Title lang="es">Arch. Generales</Title>
+			<Title lang="en">General Files</Title>
+			<ItemID>0000003692</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Centers</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>34</Owner>
+				<ItemID>0000003693</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013234</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turnos de Trabalho</Title>
+				<Title lang="es">Turnos de Trabajo</Title>
+				<Title lang="en">Work Shifts</Title>
+				<Function>GPEA080</Function>
+				<Type>1</Type>
+				<Tables>SR6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003694</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Functions</Title>
+				<Function>GPEA030</Function>
+				<Type>1</Type>
+				<Tables>SRJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003696</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro de Visitantes</Title>
+			<Title lang="es">Archivo de Visitantes</Title>
+			<Title lang="en">Visitor Register</Title>
+			<ItemID>0000003697</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visitantes</Title>
+				<Title lang="es">Visitantes</Title>
+				<Title lang="en">Visitors</Title>
+				<Function>PONA330</Function>
+				<Type>1</Type>
+				<Tables>SPW</Tables>
+				<Tables>SPY</Tables>
+				<Tables>SPZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003698</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visitas</Title>
+				<Title lang="es">Visitas</Title>
+				<Title lang="en">Visits</Title>
+				<Function>PONA340</Function>
+				<Type>1</Type>
+				<Tables>SPW</Tables>
+				<Tables>SPY</Tables>
+				<Tables>SPZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003699</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro do Ponto</Title>
+			<Title lang="es">Archivo de Rel Elect</Title>
+			<Title lang="en">Point Register</Title>
+			<ItemID>0000003701</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arredondamentos</Title>
+				<Title lang="es">Redondeos</Title>
+				<Title lang="en">Round-offs</Title>
+				<Function>PONA110</Function>
+				<Type>1</Type>
+				<Tables>SPD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003702</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>PONA100</Function>
+				<Type>1</Type>
+				<Tables>SP9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003703</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Feriados</Title>
+				<Title lang="es">Feriados</Title>
+				<Title lang="en">Holidays</Title>
+				<Function>PONA020</Function>
+				<Type>1</Type>
+				<Tables>SP3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003704</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos Abono/justificativa</Title>
+				<Title lang="es">Motivos Abono/justificacion</Title>
+				<Title lang="en">Waiver/justification Reasons</Title>
+				<Function>PONA050</Function>
+				<Type>1</Type>
+				<Tables>SP6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003705</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relógios</Title>
+				<Title lang="es">Relojes</Title>
+				<Title lang="en">Clocks</Title>
+				<Function>PONA030</Function>
+				<Type>1</Type>
+				<Tables>SP0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003706</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras Apontamento</Title>
+				<Title lang="es">Reglas Apunte</Title>
+				<Title lang="en">Annotation Rules</Title>
+				<Function>PONA060</Function>
+				<Type>1</Type>
+				<Tables>SPA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003707</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Horário Padrão</Title>
+				<Title lang="es">Tabla de Horario Estandar</Title>
+				<Title lang="en">Standard Time Table</Title>
+				<Function>PONA080</Function>
+				<Type>1</Type>
+				<Tables>SPJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003708</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos Horas Extras</Title>
+				<Title lang="es">Tipos Horas Extras</Title>
+				<Title lang="en">Overtime Types</Title>
+				<Function>PONA070</Function>
+				<Type>1</Type>
+				<Tables>SP4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Refeição</Title>
+				<Title lang="es">Tipos de Comidas</Title>
+				<Title lang="en">Meal Types</Title>
+				<Function>PONA260</Function>
+				<Type>1</Type>
+				<Tables>SPM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003710</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refeições</Title>
+				<Title lang="es">Comidas</Title>
+				<Title lang="en">Meals</Title>
+				<Function>PONA250</Function>
+				<Type>1</Type>
+				<Tables>SP1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003711</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verbas</Title>
+				<Title lang="es">Conceptos</Title>
+				<Title lang="en">Items</Title>
+				<Function>GPEA040</Function>
+				<Type>1</Type>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003712</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Períodos de Apontamentos</Title>
+				<Title lang="es">Periodos de Apuntes</Title>
+				<Title lang="en">Annotation Periods</Title>
+				<Function>PONA290</Function>
+				<Type>1</Type>
+				<Tables>SPO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003713</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos Manutenção</Title>
+				<Title lang="es">Motivos Mantenimiento</Title>
+				<Title lang="en">Maintenance Reasons</Title>
+				<Function>PONA430</Function>
+				<Type>1</Type>
+				<Tables>RFD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003714</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000003730</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integrados</Title>
+				<Title lang="es">Integrados</Title>
+				<Title lang="en">Integrated</Title>
+				<Function>PONA280</Function>
+				<Type>1</Type>
+				<Tables>SPT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003731</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcações</Title>
+				<Title lang="es">Marcaciones</Title>
+				<Title lang="en">Annotations</Title>
+				<Function>PONA040</Function>
+				<Type>1</Type>
+				<Tables>SP8</Tables>
+				<Tables>SPT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003732</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcações Por Centro de Custos</Title>
+				<Title lang="es">Marcaciones Por Ctro de Costos</Title>
+				<Title lang="en">Cost Center Markings</Title>
+				<Function>PONA230</Function>
+				<Type>1</Type>
+				<Tables>SP8</Tables>
+				<Tables>SPT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003733</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamentos</Title>
+				<Title lang="es">Apuntes</Title>
+				<Title lang="en">Annotations</Title>
+				<Function>PONA130</Function>
+				<Type>1</Type>
+				<Tables>SPK</Tables>
+				<Tables>SPC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003734</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refeições</Title>
+				<Title lang="es">Alimentacion</Title>
+				<Title lang="en">Meals</Title>
+				<Function>PONA150</Function>
+				<Type>1</Type>
+				<Tables>SP5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003735</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>PONA170</Function>
+				<Type>1</Type>
+				<Tables>SPB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003736</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestão de Banco de Horas</Title>
+				<Title lang="es">Gestión Banco de Horas</Title>
+				<Title lang="en">Compens. Time Managmt</Title>
+				<Function>PONM110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019126</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco de Horas</Title>
+				<Title lang="es">Banco de Horas</Title>
+				<Title lang="en">Bank Hours</Title>
+				<Function>PONA200</Function>
+				<Type>1</Type>
+				<Tables>SPI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Espelho de Ponto</Title>
+				<Title lang="es">Cont. Imp. Reloj Registrador</Title>
+				<Title lang="en">Attendance Control</Title>
+				<Function>PONA450</Function>
+				<Type>1</Type>
+				<Tables>RS4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020117</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco de Horas Para o Esocial</Title>
+				<Title lang="es">Banco de Horas Para Esocial</Title>
+				<Title lang="en">Bank Of Hours For Esocial</Title>
+				<Function>PONM081</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016609</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acumulados</Title>
+			<Title lang="es">Acumulados</Title>
+			<Title lang="en">Accruals</Title>
+			<ItemID>0000003739</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcações</Title>
+				<Title lang="es">Marcaciones</Title>
+				<Title lang="en">Annotations</Title>
+				<Function>PONA180</Function>
+				<Type>1</Type>
+				<Tables>SPG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003740</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Marcações Por Centro de Custos</Title>
+				<Title lang="es">Marcaciones Por Centro de Costos</Title>
+				<Title lang="en">Markings By Cost Center</Title>
+				<Function>PONA240</Function>
+				<Type>1</Type>
+				<Tables>SPG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003741</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamentos</Title>
+				<Title lang="es">Apuntes</Title>
+				<Title lang="en">Annotations</Title>
+				<Function>PONA190</Function>
+				<Type>1</Type>
+				<Tables>SPH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003742</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refeições</Title>
+				<Title lang="es">Alimentacion</Title>
+				<Title lang="en">Meals</Title>
+				<Function>PONA270</Function>
+				<Type>1</Type>
+				<Tables>SPN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003743</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>PONA220</Function>
+				<Type>1</Type>
+				<Tables>SPL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003744</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Transferências</Title>
+			<Title lang="es">Transferencias</Title>
+			<Title lang="en">Transfers</Title>
+			<ItemID>0000003746</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>GPEA180</Function>
+				<Type>1</Type>
+				<Tables>SRE</Tables>
+				<Tables>SR0</Tables>
+				<Tables>SR1</Tables>
+				<Tables>SR2</Tables>
+				<Tables>SR4</Tables>
+				<Tables>SRB</Tables>
+				<Tables>SRD</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SRG</Tables>
+				<Tables>SRH</Tables>
+				<Tables>SRI</Tables>
+				<Tables>SRK</Tables>
+				<Tables>SRL</Tables>
+				<Tables>SRO</Tables>
+				<Tables>SRR</Tables>
+				<Tables>SRS</Tables>
+				<Tables>SRV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003747</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Restrições Usuário</Title>
+			<Title lang="es">Restricciones Usuario</Title>
+			<Title lang="en">User Restrictions</Title>
+			<ItemID>0000003749</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Restrições Usuário</Title>
+				<Title lang="es">Restricc. Usuario</Title>
+				<Title lang="en">User Restrictions</Title>
+				<Function>GPEA270</Function>
+				<Type>1</Type>
+				<Tables>SRW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003750</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planilhas</Title>
+			<Title lang="es">Planillas</Title>
+			<Title lang="en">Worksheets</Title>
+			<ItemID>0000003752</ItemID>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A160000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genérica</Title>
+				<Title lang="es">Generica</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003753</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Marcações</Title>
+				<Title lang="es">Archivo de Marcaciones</Title>
+				<Title lang="en">Marking Register</Title>
+				<Function>PONA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003754</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A160000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Mensais</Title>
+			<Title lang="es">Mensuales</Title>
+			<Title lang="en">Monthly</Title>
+			<ItemID>0000003755</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espelho de Ponto</Title>
+				<Title lang="es">Impres. Reloj Reg.</Title>
+				<Title lang="en">Time Attnd. Mirror</Title>
+				<Function>PONR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003756</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espelhos Não Baixados</Title>
+				<Title lang="es">Réplicas Sin Bajar</Title>
+				<Title lang="en">Attendance Not Issued</Title>
+				<Function>PONR150</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020118</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos Apontados</Title>
+				<Title lang="es">Eventos Anotados</Title>
+				<Title lang="en">Annotated Events</Title>
+				<Function>PONR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003757</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>PONR090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003758</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dashboard de Marcações</Title>
+				<Title lang="es">Dashboard de Registros</Title>
+				<Title lang="en">Clocking Dashboard</Title>
+				<Function>PONA480</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017789</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Diversos</Title>
+			<Title lang="es">Diversos</Title>
+			<Title lang="en">Miscellaneous</Title>
+			<ItemID>0000003760</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Abono de Horas</Title>
+				<Title lang="es">Abono de Horas</Title>
+				<Title lang="en">Hour Bonus</Title>
+				<Function>PONR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003761</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autorização Extras</Title>
+				<Title lang="es">Autorizacion Extra</Title>
+				<Title lang="en">Overtime Authoriz.</Title>
+				<Function>PONR060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003762</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autorizações</Title>
+				<Title lang="es">Autorizaciones</Title>
+				<Title lang="en">Authorizations</Title>
+				<Function>PONR110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003763</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divergências</Title>
+				<Title lang="es">Divergencias</Title>
+				<Title lang="en">Discrepancies</Title>
+				<Function>PONR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003764</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Presentes/ausentes</Title>
+				<Title lang="es">Presentes/ Ausent.</Title>
+				<Title lang="en">Present /absent</Title>
+				<Function>PONR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003765</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refeições</Title>
+				<Title lang="es">Comidas</Title>
+				<Title lang="en">Meals</Title>
+				<Function>PONR070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Percentual</Title>
+				<Title lang="es">Calculo Porcentual</Title>
+				<Title lang="en">Percentage Calculation</Title>
+				<Function>PONR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003767</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Absenteísmo</Title>
+				<Title lang="es">Ausentismo</Title>
+				<Title lang="en">Absenteeism</Title>
+				<Function>PONXABSENT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003768</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quadro de Horário</Title>
+				<Title lang="es">Cuadro Horario</Title>
+				<Title lang="en">Time Chart</Title>
+				<Function>PONXQDHR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003769</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faltas</Title>
+				<Title lang="es">Faltas</Title>
+				<Title lang="en">Absences</Title>
+				<Function>PONR160</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023936</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sobreaviso</Title>
+				<Title lang="es">Horas a Disposión</Title>
+				<Title lang="en">On-call</Title>
+				<Function>PONR170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Banco de Horas</Title>
+			<Title lang="es">Banco de Horas</Title>
+			<Title lang="en">Bank Hours</Title>
+			<ItemID>0000003771</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Horas</Title>
+				<Title lang="es">Informe de Horas</Title>
+				<Title lang="en">Hour Report</Title>
+				<Function>PONR100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato</Title>
+				<Title lang="es">Extracto</Title>
+				<Title lang="en">Statement</Title>
+				<Function>PONXEXTRBH</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003773</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dashboard Banco de Horas</Title>
+				<Title lang="es">Dashboard Banco de Horas</Title>
+				<Title lang="en">Compensatory Time Dashboard</Title>
+				<Function>PONA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023004</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Visitantes</Title>
+			<Title lang="es">Visitantes</Title>
+			<Title lang="en">Visitors</Title>
+			<ItemID>0000003775</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Visitas</Title>
+				<Title lang="es">Control Visitas</Title>
+				<Title lang="en">Visit Control</Title>
+				<Function>PONR130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003776</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Visitantes</Title>
+				<Title lang="es">Control de Visitantes</Title>
+				<Title lang="en">Visitor Control</Title>
+				<Function>PONR120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003777</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000021978</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espelho de Ponto</Title>
+				<Title lang="es">Imp. Reloj Registrados</Title>
+				<Title lang="en">Attendance Control</Title>
+				<Function>PONRSV010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos Apontados</Title>
+				<Title lang="es">Eventos Apuntados</Title>
+				<Title lang="en">Annotated Events</Title>
+				<Function>PONRSV020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021990</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Divergências</Title>
+				<Title lang="es">Divergencias</Title>
+				<Title lang="en">Divergences</Title>
+				<Function>PONRSV040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021993</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos Abonados</Title>
+				<Title lang="es">Eventos Abonados</Title>
+				<Title lang="en">Waived Events</Title>
+				<Function>PONRSV050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021996</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refeições</Title>
+				<Title lang="es">Comidas</Title>
+				<Title lang="en">Meals</Title>
+				<Function>PONRSV070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021997</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apurações Percentuais</Title>
+				<Title lang="es">Cálculos Porcentajes</Title>
+				<Title lang="en">Percentage Calculations</Title>
+				<Function>PONRSV080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021998</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>PONRSV090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022002</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autorizações</Title>
+				<Title lang="es">Autorizaciones</Title>
+				<Title lang="en">Authorizatns</Title>
+				<Function>PONRSV110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022003</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Visitas</Title>
+				<Title lang="es">Control de Visitas</Title>
+				<Title lang="en">Visit Control</Title>
+				<Function>PONRSV130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022004</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Banco de Horas</Title>
+				<Title lang="es">Extracto Banco de Horas</Title>
+				<Title lang="en">Compensat. Time Statmt</Title>
+				<Function>PONRSV190</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022008</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quadro de Horário</Title>
+				<Title lang="es">Cuadro de Horario</Title>
+				<Title lang="en">Time Schedule</Title>
+				<Function>PONRSV200</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022012</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Absenteísmo</Title>
+				<Title lang="es">Absentismo</Title>
+				<Title lang="en">Absenteeism</Title>
+				<Function>PONRSV210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022013</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Troca de Turno</Title>
+				<Title lang="es">Cambio de Turno</Title>
+				<Title lang="en">Shift Change</Title>
+				<Function>PONRSV220</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022014</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Tae</Title>
+				<Title lang="es">Config. Tae</Title>
+				<Title lang="en">Tae Config.</Title>
+				<Function>PONAXTAE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024593</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A160000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cálculos</Title>
+			<Title lang="es">Calculos</Title>
+			<Title lang="en">Calculations</Title>
+			<ItemID>0000003778</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Leitura/apontamento Marcações</Title>
+				<Title lang="es">Lectura/apunte Marcaciones</Title>
+				<Title lang="en">Marking Reading/annotation</Title>
+				<Function>PONM010</Function>
+				<Type>1</Type>
+				<Tables>RFE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cálculo Mensal</Title>
+				<Title lang="es">Calculo Mensual</Title>
+				<Title lang="en">Monthly Calculat.</Title>
+				<Function>PONM070</Function>
+				<Type>1</Type>
+				<Tables>RFF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003781</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Abono Coletivo</Title>
+				<Title lang="es">Abono Colectivo</Title>
+				<Title lang="en">Collective Payment</Title>
+				<Function>PONM060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003783</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Marcações</Title>
+				<Title lang="es">Genera Marcaciones</Title>
+				<Title lang="en">Generate Annot.</Title>
+				<Function>PONM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003784</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eliminar Marcações</Title>
+				<Title lang="es">Eliminar Marcaciones</Title>
+				<Title lang="en">Delete Markings</Title>
+				<Function>PONM050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003785</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Treinamento</Title>
+				<Title lang="es">Integrac. Capacita</Title>
+				<Title lang="en">Training Integration</Title>
+				<Function>PONM440</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SP6</Tables>
+				<Tables>RA1</Tables>
+				<Tables>RA2</Tables>
+				<Tables>RA3</Tables>
+				<Tables>RA4</Tables>
+				<Tables>RF0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">S.r.e.p.</Title>
+			<Title lang="es">S.r.e.p.</Title>
+			<Title lang="en">S.r.e.p.</Title>
+			<ItemID>0000003787</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Afdt</Title>
+				<Title lang="es">Afdt</Title>
+				<Title lang="en">Afdt</Title>
+				<Function>PONM410</Function>
+				<Type>1</Type>
+				<Tables>RFE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003788</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acjef</Title>
+				<Title lang="es">Acjef</Title>
+				<Title lang="en">Acjef</Title>
+				<Function>PONM420</Function>
+				<Type>1</Type>
+				<Tables>RFF</Tables>
+				<Tables>RFG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003789</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aej</Title>
+				<Title lang="es">Aej</Title>
+				<Title lang="en">Aej</Title>
+				<Function>PONM450</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017788</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Tsa</Title>
+				<Title lang="es">Integracion Tsa</Title>
+				<Title lang="en">Tsa Integration</Title>
+				<Function>PONM430</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espelho de Ponto</Title>
+				<Title lang="es">Impr. Reloj Regist</Title>
+				<Title lang="en">Attend. Control</Title>
+				<Function>PONR140</Function>
+				<Type>1</Type>
+				<Tables>RFE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003790</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fechamentos</Title>
+			<Title lang="es">Cierres</Title>
+			<Title lang="en">Closings</Title>
+			<ItemID>0000003792</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco de Horas</Title>
+				<Title lang="es">Banco de Horas</Title>
+				<Title lang="en">Bank Hours</Title>
+				<Function>PONM080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003793</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Folha</Title>
+				<Title lang="es">Integrac. P. Haber</Title>
+				<Title lang="en">Payroll Integratio</Title>
+				<Function>PONM040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003794</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mensal</Title>
+				<Title lang="es">Mensual</Title>
+				<Title lang="en">Monthly</Title>
+				<Function>PONM090</Function>
+				<Type>1</Type>
+				<Tables>RFF</Tables>
+				<Tables>RFG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003795</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reabertura do Banco de Horas</Title>
+				<Title lang="es">Reapertura Del Banco de Horas</Title>
+				<Title lang="en">Compensatory Time Reopening</Title>
+				<Function>PONM100</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SPI</Tables>
+				<Tables>SPB</Tables>
+				<Tables>RGB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017381</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gráficos</Title>
+			<Title lang="es">Graficos</Title>
+			<Title lang="en">Charts</Title>
+			<ItemID>0000003797</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horas Realizadas</Title>
+				<Title lang="es">Horas Realizadas</Title>
+				<Title lang="en">Hours Performed</Title>
+				<Function>PONM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003798</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Customizados</Title>
+				<Title lang="es">Personalizados</Title>
+				<Title lang="en">Customized</Title>
+				<Function>PONA320</Function>
+				<Type>1</Type>
+				<Tables>SPU</Tables>
+				<Tables>SPV</Tables>
+				<Tables>SPX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000003801</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003802</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003803</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003804</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Portal Protheus</Title>
+			<Title lang="es">Portal Protheus</Title>
+			<Title lang="en">Protheus Portal</Title>
+			<ItemID>0000011347</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivar Solicitação Portal</Title>
+				<Title lang="es">Efectivar Solicitacion Portal</Title>
+				<Title lang="en">Confirm Portal Request</Title>
+				<Function>TCFA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>16</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B160000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B160000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

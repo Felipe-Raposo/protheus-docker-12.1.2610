@@ -1,0 +1,3777 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAGTP</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A880000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000018578</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias</Title>
+				<Title lang="es">Categorías</Title>
+				<Title lang="en">Registers</Title>
+				<Function>GTPA011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orgãos Concedente</Title>
+				<Title lang="es">Órgano Concedente</Title>
+				<Title lang="en">Grantor Bodies</Title>
+				<Function>GTPA000</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013454</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Recursos</Title>
+				<Title lang="es">Tipo de Recursos</Title>
+				<Title lang="en">Types Of Resources</Title>
+				<Function>GTPA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014702</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Localidades</Title>
+				<Title lang="es">Tipo de Localidades</Title>
+				<Title lang="en">Types Of Locations</Title>
+				<Function>GTPA035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014697</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Agências</Title>
+				<Title lang="es">Tipo de Agencias</Title>
+				<Title lang="en">Types Of Branches</Title>
+				<Function>GTPA711</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015738</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Linhas</Title>
+				<Title lang="es">Tipo de Líneas</Title>
+				<Title lang="en">Types Of Lines</Title>
+				<Function>GTPA022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014713</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Ocorrência</Title>
+				<Title lang="es">Tipo de Ocurrencia</Title>
+				<Title lang="en">Types Of Occurrence</Title>
+				<Function>GTPA317</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localidades</Title>
+				<Title lang="es">Localidades</Title>
+				<Title lang="en">Locations</Title>
+				<Function>GTPA001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013457</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias de Bilhetes</Title>
+				<Title lang="es">Categorías de Boletos</Title>
+				<Title lang="en">Tickets Categories</Title>
+				<Function>GTPA118</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016544</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agências</Title>
+				<Title lang="es">Agencias</Title>
+				<Title lang="en">Agencies</Title>
+				<Function>GTPA006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013471</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Colaboradores</Title>
+				<Title lang="es">Colaboradores</Title>
+				<Title lang="en">Collaborators</Title>
+				<Function>GTPA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014685</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Restrição Colaborador</Title>
+				<Title lang="es">Restricción Colaborador</Title>
+				<Title lang="en">Employee Restriction</Title>
+				<Function>GTPA008A</Function>
+				<Type>1</Type>
+				<Tables>GYG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017515</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Restrição,colaborador</KeyWord>
+					<KeyWord lang="es">Restricción,colaborador</KeyWord>
+					<KeyWord lang="en">Restriction,employee</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vias</Title>
+				<Title lang="es">Vías</Title>
+				<Title lang="en">Routes</Title>
+				<Function>GTPA005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014687</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Linhas</Title>
+				<Title lang="es">Líneas</Title>
+				<Title lang="en">Lines</Title>
+				<Function>GTPA002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013464</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ecfs</Title>
+				<Title lang="es">Ecf</Title>
+				<Title lang="en">Ecfs</Title>
+				<Function>GTPA013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014689</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Setores</Title>
+				<Title lang="es">Sectores</Title>
+				<Title lang="en">Sectors</Title>
+				<Function>GTPA400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014698</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horários</Title>
+				<Title lang="es">Horarios</Title>
+				<Title lang="en">Schedules</Title>
+				<Function>GTPA004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013470</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Produtos X Tipos de Bilhetes</Title>
+				<Title lang="es">Reglas de Productos Vs Tipos de Boletos</Title>
+				<Title lang="en">Product Rules X Ticket Types</Title>
+				<Function>GTPA710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014881</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014816</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cond. de Pagamento</Title>
+				<Title lang="es">Cond. de Pago</Title>
+				<Title lang="en">Payment Term</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014817</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Entrada/saída</Title>
+				<Title lang="es">Tipos de Entrada/salida</Title>
+				<Title lang="en">Types Of Inflow/outflow</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016545</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014812</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014813</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendedores</Title>
+				<Title lang="es">Vendedores</Title>
+				<Title lang="en">Sales Rep.</Title>
+				<Function>CRMA520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014771</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Contrato</Title>
+				<Title lang="es">Tipo de Contrato</Title>
+				<Title lang="en">Type Of Contract</Title>
+				<Function>CNTA021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018374</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,contrato</KeyWord>
+					<KeyWord lang="es">Tipo,contrato</KeyWord>
+					<KeyWord lang="en">Type,contract</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Revisão de Contrato</Title>
+				<Title lang="es">Tipos de Revisão de Contrato</Title>
+				<Title lang="en">Type Of Contract Review</Title>
+				<Function>CNTA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018375</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,revisão,contrato</KeyWord>
+					<KeyWord lang="es">Tipo,revisión,contrato</KeyWord>
+					<KeyWord lang="en">Type,review,contract</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Planilha</Title>
+				<Title lang="es">Tipos de Planilha</Title>
+				<Title lang="en">Spreadsheet Types</Title>
+				<Function>CNTA230</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipos,planilha</KeyWord>
+					<KeyWord lang="es">Tipos,planilla</KeyWord>
+					<KeyWord lang="en">Types,spreadsheet</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle de Documentos</Title>
+			<Title lang="es">Control de Documentos</Title>
+			<Title lang="en">Document Control</Title>
+			<ItemID>0000013487</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Documentos</Title>
+				<Title lang="es">Tipo de Documentos</Title>
+				<Title lang="en">Document Type</Title>
+				<Function>GTPA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013491</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entrada de Documentos</Title>
+				<Title lang="es">Entrada de Documentos</Title>
+				<Title lang="en">Document Input</Title>
+				<Function>GTPA102</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013493</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Remessa de Documentos</Title>
+				<Title lang="es">Envío de Documentos</Title>
+				<Title lang="en">Delivery Of Documents</Title>
+				<Function>GTPA107</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014764</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alocação de Documentos</Title>
+				<Title lang="es">Asiganción de Documentos</Title>
+				<Title lang="en">Document Allocation</Title>
+				<Function>GTPA106</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle de Requisições</Title>
+			<Title lang="es">Control de Requisiciones</Title>
+			<Title lang="en">Request Control</Title>
+			<ItemID>0000014747</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Clientes Requisição</Title>
+				<Title lang="es">Parámetros Clientes Requisición</Title>
+				<Title lang="en">Request Customers Parameters</Title>
+				<Function>GTPA287</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014748</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisições</Title>
+				<Title lang="es">Requisiciones</Title>
+				<Title lang="en">Requests</Title>
+				<Function>GTPA283</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014749</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lote de Requisições</Title>
+				<Title lang="es">Lote de Requisiciones</Title>
+				<Title lang="en">Requests Batch</Title>
+				<Function>GTPA284</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014751</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recalculo de Requisições</Title>
+				<Title lang="es">Recálculo de Requisiciones</Title>
+				<Title lang="en">Requests Recalculation</Title>
+				<Function>GTPA285</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014752</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Pedidos</Title>
+				<Title lang="es">Generación Pedidos</Title>
+				<Title lang="en">Generation Of Orders</Title>
+				<Function>GTPA289</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016565</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Encomendas</Title>
+			<Title lang="es">Encomiendas</Title>
+			<Title lang="en">Orders</Title>
+			<ItemID>0000016566</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Frete</Title>
+				<Title lang="es">Tabla de Flete</Title>
+				<Title lang="en">Freight Table</Title>
+				<Function>GTPA802</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016567</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Encomendas</Title>
+				<Title lang="es">Encomiendas</Title>
+				<Title lang="en">Orders</Title>
+				<Function>GTPA801</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Encomendas (ct-e)</Title>
+				<Title lang="es">Monitor Encomienda (e-ct)</Title>
+				<Title lang="en">Orders Monitor (ct-e)</Title>
+				<Function>GTPA800</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016573</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manifesto</Title>
+				<Title lang="es">Manifiesto</Title>
+				<Title lang="en">Manifest</Title>
+				<Function>GTPA810</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016574</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recebimento</Title>
+				<Title lang="es">Recepción</Title>
+				<Title lang="en">Receipt</Title>
+				<Function>GTPA814</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016575</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retirada</Title>
+				<Title lang="es">Retirada</Title>
+				<Title lang="en">Withdraw</Title>
+				<Function>GTPA809</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016576</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Manifesto (mdf-e)</Title>
+				<Title lang="es">Monitor Manifiesto (e-mdf)</Title>
+				<Title lang="en">Manifest Monitor (mdf-e)</Title>
+				<Function>GTPA815</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016577</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Clientes Encomendas</Title>
+				<Title lang="es">Parámetros Clientes Encomiendas</Title>
+				<Title lang="en">Orders Customer Parameters</Title>
+				<Function>GTPA817</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Fatura</Title>
+				<Title lang="es">Generación de Factura</Title>
+				<Title lang="en">Invoice Generation</Title>
+				<Function>GTPA819</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016583</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Agência</Title>
+			<Title lang="es">Agencia</Title>
+			<Title lang="en">Branch</Title>
+			<ItemID>0000014721</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Receitas e Despesas</Title>
+				<Title lang="es">Tipo de Ingresos Y Gastos</Title>
+				<Title lang="en">Types Of Revenues And Expenses</Title>
+				<Function>GTPA420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014722</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Receitas e Despesas Adicionais</Title>
+				<Title lang="es">Ingresos Y Gastos Adicionales</Title>
+				<Title lang="en">Revenues And Additional Expenses</Title>
+				<Function>GTPA427</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Taxas</Title>
+				<Title lang="es">Tasas</Title>
+				<Title lang="en">Rates</Title>
+				<Function>GTPA117</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014729</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cheques</Title>
+				<Title lang="es">Cheques</Title>
+				<Title lang="en">Checks</Title>
+				<Function>GTPA045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014730</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Passe Livre</Title>
+				<Title lang="es">Pase Libre</Title>
+				<Title lang="en">Free Pass</Title>
+				<Function>GTPA116</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014736</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendas Pos</Title>
+				<Title lang="es">Ventas Puesto</Title>
+				<Title lang="en">Post Sales</Title>
+				<Function>GTPA026</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes S/filtro</Title>
+				<Title lang="es">Boletos S/filtro</Title>
+				<Title lang="en">Tickets Without Filter</Title>
+				<Function>GTPA115NOF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015611</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes C/filtro</Title>
+				<Title lang="es">Boletos C/filtro</Title>
+				<Title lang="en">Tickets Without Filter</Title>
+				<Function>GTPA115</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ficha de Remessa</Title>
+				<Title lang="es">Ficha de Envío</Title>
+				<Title lang="en">Remittance Form</Title>
+				<Function>GTPA421</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014746</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Passagens</Title>
+				<Title lang="es">Informes de Pasajes</Title>
+				<Title lang="en">Tickets Statement</Title>
+				<Function>GTPA422</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014767</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes X Depósito de Terceiros</Title>
+				<Title lang="es">Boletos Vs. Depósito de Terceros</Title>
+				<Title lang="en">Tickets X Third-party Deposits</Title>
+				<Function>GTPA460</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017067</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perfil de Agências</Title>
+				<Title lang="es">Perfil de Agencias</Title>
+				<Title lang="en">Branches Profile</Title>
+				<Function>GTPA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Caixa do Colaborador</Title>
+				<Title lang="es">Caja Colaborador</Title>
+				<Title lang="en">Employee's Cash Register</Title>
+				<Function>GTPA480</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Malotes</Title>
+				<Title lang="es">Correspondencias</Title>
+				<Title lang="en">Mailbags</Title>
+				<Function>GTPA502</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022759</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Arrecadação</Title>
+			<Title lang="es">Recaudación</Title>
+			<Title lang="en">Collection</Title>
+			<ItemID>0000014766</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Trechos e Tarifas</Title>
+				<Title lang="es">Tramos Y Tarifas</Title>
+				<Title lang="en">Segments And Fares</Title>
+				<Function>GTPA003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013465</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reajuste de Preço</Title>
+				<Title lang="es">Reajuste de Precio</Title>
+				<Title lang="en">Price Readjustment</Title>
+				<Function>GTPA702</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014864</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento da Arrecadação</Title>
+				<Title lang="es">Cierre de Recaudación</Title>
+				<Title lang="en">Closing Collection</Title>
+				<Function>GTPA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014769</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Cancelamento de Bilhetes</Title>
+				<Title lang="es">Motivos Anulación de Boletos</Title>
+				<Title lang="en">Ticket Cancellation Reasons</Title>
+				<Function>GTPA051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filial de Referência Por Uf</Title>
+				<Title lang="es">Sucursal de Referencia Por Est/prov/reg</Title>
+				<Title lang="en">Reference Branch Per State</Title>
+				<Function>GTPA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comissões</Title>
+			<Title lang="es">Comisiones</Title>
+			<Title lang="en">Commissions</Title>
+			<ItemID>0000014770</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Negócios</Title>
+				<Title lang="es">Unidad de Negocio</Title>
+				<Title lang="en">Business Unit</Title>
+				<Function>FATA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura de Negocios</Title>
+				<Title lang="es">Estructura de Negocios</Title>
+				<Title lang="en">Business Structure</Title>
+				<Function>CRMA240</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014773</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas de Cálculo</Title>
+				<Title lang="es">Fórmulas de Cálculo</Title>
+				<Title lang="en">Calculation Formulas</Title>
+				<Function>GTPA413</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014774</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Desconto Ou Bonificação</Title>
+				<Title lang="es">Tipo de Descuento o Bonificación</Title>
+				<Title lang="en">Type Of Discount Or Bonus</Title>
+				<Function>GTPA037</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014775</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissão de Agência</Title>
+				<Title lang="es">Comisión de Agencia</Title>
+				<Title lang="en">Branch Commission</Title>
+				<Function>GTPA412</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014776</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissão de Colaboradores</Title>
+				<Title lang="es">Comisión de Colaboradores</Title>
+				<Title lang="en">Employee Commission</Title>
+				<Function>GTPA414</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014777</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissão Fret. Continuo</Title>
+				<Title lang="es">Comisión Flet. Con</Title>
+				<Title lang="en">Continue</Title>
+				<Function>GTPA417A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014778</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissao Viagens Especiais</Title>
+				<Title lang="es">Comisión Viajes Esp.</Title>
+				<Title lang="en">Special Trips Commission</Title>
+				<Function>GTPA417B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019421</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calculo Comissão Agências</Title>
+				<Title lang="es">Cálculo Comisión Agencias</Title>
+				<Title lang="en">Agencies Commission Calculation</Title>
+				<Function>GTPA410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calculo Comissão Colaboradores</Title>
+				<Title lang="es">Cálculo Comisión Colaboradores</Title>
+				<Title lang="en">Employees Commission Calculation</Title>
+				<Function>GTPA415</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calc. Comis. Viagens Especiais</Title>
+				<Title lang="es">Cálc. Comis. Viaje Especiales</Title>
+				<Title lang="en">Special Trip Commiss. Calc.</Title>
+				<Function>GTPA418</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014781</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calc. Comis. Fretamento C</Title>
+				<Title lang="es">Calc. Comis. Flete C</Title>
+				<Title lang="en">C Freight Comm. Calc</Title>
+				<Function>GTPA418A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tesouraria</Title>
+			<Title lang="es">Tesorería</Title>
+			<Title lang="en">Treasury</Title>
+			<ItemID>0000014782</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Admin. Financeira</Title>
+				<Title lang="es">Admin. Financiera</Title>
+				<Title lang="en">Financial Manag</Title>
+				<Function>LOJA070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014728</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Admin X Bandeira</Title>
+				<Title lang="es">Admin Vs. Marca</Title>
+				<Title lang="en">Admin X Brand</Title>
+				<Function>GTPA046</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tesouraria</Title>
+				<Title lang="es">Tesorería</Title>
+				<Title lang="en">Treasury</Title>
+				<Function>GTP700AMB</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014783</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ajuste Caixa Empresas</Title>
+				<Title lang="es">Ajust Caja Empresas</Title>
+				<Title lang="en">Companies Cash Reg. Adj.</Title>
+				<Function>GTPA424</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017069</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Tit. Rec. e Desp.</Title>
+				<Title lang="es">Gener. Tít. Ing. Y Gast.</Title>
+				<Title lang="en">Rev And Exp Bill Generation</Title>
+				<Function>GTPA703</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024751</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Veículos</Title>
+			<Title lang="es">Vehículos</Title>
+			<Title lang="en">Vehicles</Title>
+			<ItemID>0000014811</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Família de Bens</Title>
+				<Title lang="es">Familia de Bienes</Title>
+				<Title lang="en">From Asset Family</Title>
+				<Function>MNTA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014797</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Características Bem</Title>
+				<Title lang="es">Características Bien</Title>
+				<Title lang="en">Assets Features</Title>
+				<Function>MNTA045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014807</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turno/calendário</Title>
+				<Title lang="es">Turno/calendario</Title>
+				<Title lang="en">Shift/calendar</Title>
+				<Function>MATA780</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014808</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Veículos Bem Gtp</Title>
+				<Title lang="es">Vehíc Bien Gtp</Title>
+				<Title lang="en">Gtp Asset Vehicles</Title>
+				<Function>GTPA401</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016957</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção</Title>
+				<Title lang="es">Mantenimiento</Title>
+				<Title lang="en">Maintenance</Title>
+				<Function>MNTA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014810</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Viagens Especiais</Title>
+			<Title lang="es">Viajes Especiales</Title>
+			<Title lang="en">Special Trips</Title>
+			<ItemID>0000013501</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Preços</Title>
+				<Title lang="es">Listas de Precios</Title>
+				<Title lang="en">Price Lists</Title>
+				<Function>OMSA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014822</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Custos de Viagens</Title>
+				<Title lang="es">Costos de Viajes</Title>
+				<Title lang="en">Trip Cost</Title>
+				<Function>GTPA140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014819</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Serviços Extraordinários</Title>
+				<Title lang="es">Tipo Serv Extraordinarios</Title>
+				<Title lang="en">Extraordinary Services Type</Title>
+				<Function>GTPA012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014823</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pedágio</Title>
+				<Title lang="es">Peaje</Title>
+				<Title lang="en">Toll</Title>
+				<Function>GTPA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015127</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orçamento de Viagem</Title>
+				<Title lang="es">Presupuesto de Viaje</Title>
+				<Title lang="en">Trip Quotation</Title>
+				<Function>GTPA600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013330</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pedido de Venda</Title>
+				<Title lang="es">Pedido de Venta</Title>
+				<Title lang="en">Sales Order</Title>
+				<Function>MATA410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014825</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros de Clientes Viagens Especiais</Title>
+				<Title lang="es">Parámetros de Clientes Viajes Especiales</Title>
+				<Title lang="en">Special Trips Customer Parameters</Title>
+				<Function>GTPA601</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017867</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ct-e os</Title>
+			<Title lang="es">E-ct os</Title>
+			<Title lang="en">Ct-e So</Title>
+			<ItemID>0000014846</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ct-e os</Title>
+				<Title lang="es">E-ct os</Title>
+				<Title lang="en">Ct-e So</Title>
+				<Function>GTPT001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014847</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lote de Taxas</Title>
+				<Title lang="es">Lote de Tasas</Title>
+				<Title lang="en">Rate Batch</Title>
+				<Function>GTPA119</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documento Entrada</Title>
+				<Title lang="es">Documento Entrada</Title>
+				<Title lang="en">Incoming Documet</Title>
+				<Function>MATA103</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015663</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão de Documentos de Saída</Title>
+				<Title lang="es">Borrado de Documentos de Salida</Title>
+				<Title lang="en">Deletion Of Outgoing Documents</Title>
+				<Function>MATA521A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tags de Correção Cte-os</Title>
+				<Title lang="es">Tags Corrección Ect-os</Title>
+				<Title lang="en">Cte-os Adjustment Tags</Title>
+				<Function>GTPA712</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Cte-os V2</Title>
+				<Title lang="es">Monitor E-ct-os V2</Title>
+				<Title lang="en">Monitor Cte-os V2</Title>
+				<Function>GTPCTEOS01</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016963</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cte-os V2</Title>
+				<Title lang="es">E-ct-os V2</Title>
+				<Title lang="en">Cte-os V2</Title>
+				<Function>GTPA850</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016965</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Escalas</Title>
+			<Title lang="es">Escalas</Title>
+			<Title lang="en">Scale</Title>
+			<ItemID>0000013542</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendários</Title>
+				<Title lang="es">Calendarios</Title>
+				<Title lang="en">Calendars</Title>
+				<Function>TECA790</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014872</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Feriados Por Setor</Title>
+				<Title lang="es">Feriados Por Sector</Title>
+				<Title lang="en">Holidays Per Sector</Title>
+				<Function>GTPA009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016591</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recurso Terceiro</Title>
+				<Title lang="es">Recurso Tercero</Title>
+				<Title lang="en">Outsourced Resource</Title>
+				<Function>GTPC300N</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015671</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Escala Extraordinária</Title>
+				<Title lang="es">Tipo Escala Extraordinaria</Title>
+				<Title lang="en">Extraordinary Shift Type</Title>
+				<Function>GTPA314</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Documento Operacional</Title>
+				<Title lang="es">Tipo de Documento Operativo</Title>
+				<Title lang="en">Operational Document Type</Title>
+				<Function>GTPA315</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015654</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Colaborador X Documento</Title>
+				<Title lang="es">Colaborador X Documento</Title>
+				<Title lang="en">Collaborator X Document</Title>
+				<Function>GTPA316COL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015655</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Veículo X Documento</Title>
+				<Title lang="es">Vehículo X Documento</Title>
+				<Title lang="en">Vehicle X Document</Title>
+				<Function>GTPA316VEI</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015656</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências de Viagens</Title>
+				<Title lang="es">Ocurrencias Viajes</Title>
+				<Title lang="en">Travel Occurrences</Title>
+				<Function>GTPA318</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013467</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plantões</Title>
+				<Title lang="es">Turnos</Title>
+				<Title lang="en">On-calls</Title>
+				<Function>GTPA313</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escalas de Colaboradores</Title>
+				<Title lang="es">Escalas Colaboradores</Title>
+				<Title lang="en">Employees Shift</Title>
+				<Function>GTPA302</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Escalas</Title>
+				<Title lang="es">Grupo de Escalas</Title>
+				<Title lang="en">Shift Groups</Title>
+				<Function>GTPA301</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014828</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Esquema de Escalas</Title>
+				<Title lang="es">Esquema de Escalas</Title>
+				<Title lang="en">Shift Schedule</Title>
+				<Function>GTPA312</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014829</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alocação de Colaborador</Title>
+				<Title lang="es">Asignación de Colaborador</Title>
+				<Title lang="en">Vehicle Allocation</Title>
+				<Function>GTPA303</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014831</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escalas de Veículos</Title>
+				<Title lang="es">Escalas de Vehículos</Title>
+				<Title lang="en">Vehicle Scale</Title>
+				<Function>GTPA408</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alocação Veículos</Title>
+				<Title lang="es">Asignación Vehículos</Title>
+				<Title lang="en">Vehicles Allocation</Title>
+				<Function>GTPA409</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viagens</Title>
+				<Title lang="es">Viajes</Title>
+				<Title lang="en">Trips</Title>
+				<Function>GTPA300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Operacional</Title>
+				<Title lang="es">Monitor Operativo</Title>
+				<Title lang="en">Operational Monitor</Title>
+				<Function>GTPA290</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Escala Colaborador</Title>
+				<Title lang="es">Cálculo Escala Colaborador</Title>
+				<Title lang="en">Employee Shift Calculation</Title>
+				<Function>GTPA425</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014832</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Envio Ponto-e</Title>
+				<Title lang="es">Envío E-punto</Title>
+				<Title lang="en">Electronic Attendance Submission</Title>
+				<Function>GTPA311</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etilômetro</Title>
+				<Title lang="es">Etilómetro</Title>
+				<Title lang="en">Breathalyzer</Title>
+				<Function>GTPA902</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vales de Funcionários</Title>
+			<Title lang="es">Vales de Empleados</Title>
+			<Title lang="en">Employee Vouchers</Title>
+			<ItemID>0000014789</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Vales</Title>
+				<Title lang="es">Tipo de Vales</Title>
+				<Title lang="en">Types Of Tickets</Title>
+				<Function>GTPA114</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014790</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vales de Funcionários</Title>
+				<Title lang="es">Vales de Empleados</Title>
+				<Title lang="en">Employee Vouchers</Title>
+				<Function>GTPA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014791</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prestação de Contas</Title>
+				<Title lang="es">Rendición de Cuentas</Title>
+				<Title lang="en">Rendering Of Accounts</Title>
+				<Function>GTPA111</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014792</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Autorização Desconto</Title>
+				<Title lang="es">Autorización Descuento</Title>
+				<Title lang="en">Discount Authorization</Title>
+				<Function>GTPA113</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014793</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prorrogação de Vales</Title>
+				<Title lang="es">Prorrogación de Vales</Title>
+				<Title lang="en">Tickets Postponing</Title>
+				<Function>GTPA112</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014794</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Envio de E-mail</Title>
+			<Title lang="es">Envío de E-mail</Title>
+			<Title lang="en">Sending Email</Title>
+			<ItemID>0000013552</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Destinatários</Title>
+				<Title lang="es">Destinatarios</Title>
+				<Title lang="en">Recipients</Title>
+				<Function>GTPA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Destinatários</Title>
+				<Title lang="es">Grupos de Destinatarios</Title>
+				<Title lang="en">Customer Service Groups</Title>
+				<Function>GTPA041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>GTPA042</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Eventos</Title>
+				<Title lang="es">Log de Eventos</Title>
+				<Title lang="en">Events Log</Title>
+				<Function>GTPA043</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014844</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fretamento Contínuo</Title>
+			<Title lang="es">Fletamento Continuo</Title>
+			<Title lang="en">Continuous Freight</Title>
+			<ItemID>0000016767</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Passageiros</Title>
+				<Title lang="es">Lista de Pasajeros</Title>
+				<Title lang="en">Passenger List</Title>
+				<Function>GTPA901</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016770</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orçamento de Contrato</Title>
+				<Title lang="es">Presupuesto de Contrato</Title>
+				<Title lang="en">Contract Budget</Title>
+				<Function>GTPA900</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016771</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração de Contrato</Title>
+				<Title lang="es">Cálculo de Contrato</Title>
+				<Title lang="en">Contract Evaluation</Title>
+				<Function>GTPA903</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016848</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetro dos Clientes</Title>
+				<Title lang="es">Parámetro Clientes</Title>
+				<Title lang="en">Customers' Parameter</Title>
+				<Function>GTPA904</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017860</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Extravio de Bagagens</Title>
+			<Title lang="es">Extravío de Equipaje</Title>
+			<Title lang="en">Luggage Misplacement</Title>
+			<ItemID>0000017856</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Itens</Title>
+				<Title lang="es">Tipos de Ítems</Title>
+				<Title lang="en">Item Types</Title>
+				<Function>GTPA750</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017857</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Extravio</Title>
+				<Title lang="es">Tipos de Extravío</Title>
+				<Title lang="en">Misplacement Types</Title>
+				<Function>GTPA751</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017858</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processo de Extravio</Title>
+				<Title lang="es">Proceso de Extravío</Title>
+				<Title lang="en">Misplacem. Process</Title>
+				<Function>GTPA752</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentações da Bagagem</Title>
+				<Title lang="es">Movimientos de Equipaje</Title>
+				<Title lang="en">Luggage Transactions</Title>
+				<Function>GTPA753</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conserto de Bagagens</Title>
+				<Title lang="es">Arreglo Equipajes</Title>
+				<Title lang="en">Luggage Repair</Title>
+				<Function>GTPA756</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017981</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Urbano</Title>
+			<Title lang="es">Urbano</Title>
+			<Title lang="en">Urban</Title>
+			<ItemID>0000022514</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Urbano</Title>
+				<Title lang="es">Urbano</Title>
+				<Title lang="en">Urban</Title>
+				<Function>WSURBAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022522</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Financeiro</Title>
+			<Title lang="es">Financiero</Title>
+			<Title lang="en">Financials</Title>
+			<ItemID>0000022524</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prest. Contas</Title>
+				<Title lang="es">Rend. Ctas</Title>
+				<Title lang="en">Rend.of Accts</Title>
+				<Function>GTPU013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022532</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento de Caixa</Title>
+				<Title lang="es">Cierre de Caja</Title>
+				<Title lang="en">Cash Register Closing</Title>
+				<Function>GTPU015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022535</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A880000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Bilhetes</Title>
+			<Title lang="es">Boletos</Title>
+			<Title lang="en">Tickets</Title>
+			<ItemID>0000014534</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendencia Passagens</Title>
+				<Title lang="es">Pendencia Pasajes</Title>
+				<Title lang="en">Pending Tickets</Title>
+				<Function>GTPR120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015595</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cab. Ficha de Remessa</Title>
+				<Title lang="es">Encab. Ficha de Envío</Title>
+				<Title lang="en">Cab. Remittance Form</Title>
+				<Function>GTPR421</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014541</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lotes X Agencias</Title>
+				<Title lang="es">Lotes Vs. Agencias</Title>
+				<Title lang="en">Batches X Branches</Title>
+				<Function>GTPR816</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016499</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cheques</Title>
+				<Title lang="es">Cheques</Title>
+				<Title lang="en">Checks</Title>
+				<Function>GTPR045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014543</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes</Title>
+				<Title lang="es">Boletos</Title>
+				<Title lang="en">Tickets</Title>
+				<Function>GTPR115</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014544</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Mapa de Viagens</Title>
+				<Title lang="es">Inf. Mapa de Viajes</Title>
+				<Title lang="en">Trip Map List</Title>
+				<Function>GTPR115H</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022695</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Espelho do Caixa</Title>
+				<Title lang="es">Impres. Caja</Title>
+				<Title lang="en">Cash Register Control</Title>
+				<Function>GTPR421C</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023939</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras Produto X Tipo de Bilhete</Title>
+				<Title lang="es">Reglas Prod Vs. Tipo Boleto</Title>
+				<Title lang="en">Product X Ticket Type Rules</Title>
+				<Function>GTPR710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025153</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Encomendas</Title>
+			<Title lang="es">Encomiendas</Title>
+			<Title lang="en">Orders</Title>
+			<ItemID>0000016594</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agências Encomendas</Title>
+				<Title lang="es">Agencias Encomiendas</Title>
+				<Title lang="en">Orders Agencies</Title>
+				<Function>GTPR006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016603</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recebimentos de Encomendas</Title>
+				<Title lang="es">Recepción de Encomiendas</Title>
+				<Title lang="en">Orders Receipt</Title>
+				<Function>GTPR814</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências de Entrega</Title>
+				<Title lang="es">Asuntos Pendientes de Entrega</Title>
+				<Title lang="en">Delivery Pendencies</Title>
+				<Function>GTPR815</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Escalas</Title>
+			<Title lang="es">Escalas</Title>
+			<Title lang="en">Scales</Title>
+			<ItemID>0000014546</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Km</Title>
+				<Title lang="es">Informe Km</Title>
+				<Title lang="en">Km Report</Title>
+				<Function>GTPR118</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014677</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Veiculos X Escalas</Title>
+				<Title lang="es">Vehículos Vs. Escalas</Title>
+				<Title lang="en">Vehicles X Shifts</Title>
+				<Function>GTPR300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014553</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efet.escala de Colaborador</Title>
+				<Title lang="es">Efect.escala de Colaborador</Title>
+				<Title lang="en">Execute Shift Of Collaborator</Title>
+				<Function>GTPR425</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrência Linhas</Title>
+				<Title lang="es">Ocurrencia Líneas</Title>
+				<Title lang="en">Rows Occurrence</Title>
+				<Function>GTPR302</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014557</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rodagem</Title>
+				<Title lang="es">Kilometraje</Title>
+				<Title lang="en">Rolling</Title>
+				<Function>GTPR310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014556</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrência Linhas</Title>
+				<Title lang="es">Ocurrencia Línea</Title>
+				<Title lang="en">Rows Occurrence</Title>
+				<Function>GTPR309</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014558</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Colaborador Vs Linha</Title>
+				<Title lang="es">Colaborador Vs Línea</Title>
+				<Title lang="en">Collaborator X Row</Title>
+				<Function>GTPR307</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014582</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conflito de Alocação</Title>
+				<Title lang="es">Conflicto de Asignación</Title>
+				<Title lang="en">Allocation Conflict</Title>
+				<Function>GTPR303</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014585</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viagem X Cliente X Proposta</Title>
+				<Title lang="es">Viaje Vs Cliente Vs Propuesta</Title>
+				<Title lang="en">Travel X Customer X Proposal</Title>
+				<Function>GTPR027</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015096</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda Programada</Title>
+				<Title lang="es">Agenda Programada</Title>
+				<Title lang="en">Scheduled Agenda</Title>
+				<Function>GTPR302A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014586</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Horas Compl. e Extras P/ Viagem</Title>
+				<Title lang="es">Horas Compl. Y Extras P/ Viaje</Title>
+				<Title lang="en">Compl. Hours And Overt. By Trip</Title>
+				<Function>GTPR425B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016792</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Boletim de Viagens (bdv)</Title>
+				<Title lang="es">Bol Viajes (bdv)</Title>
+				<Title lang="en">Travel Bulletin (bdv)</Title>
+				<Function>GTPR119</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Totalizador de Viagens</Title>
+				<Title lang="es">Totalizador de Viajes</Title>
+				<Title lang="en">Trips Totalizer</Title>
+				<Function>GTPR300A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016804</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sac - Reclamação Por Viagem</Title>
+				<Title lang="es">Sac - Reclamación P/viaje</Title>
+				<Title lang="en">Sac - Complaints Per Trip</Title>
+				<Function>GTPR014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vales de Funcionários</Title>
+			<Title lang="es">Vales de Empleados</Title>
+			<Title lang="en">Employee Vouchers</Title>
+			<ItemID>0000014596</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vales de Funcionários</Title>
+				<Title lang="es">Vales de Empleados</Title>
+				<Title lang="en">Employee Vouchers</Title>
+				<Function>GTPR110A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014597</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Arrecadação</Title>
+			<Title lang="es">Recaudación</Title>
+			<Title lang="en">Collection</Title>
+			<ItemID>0000014600</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturamento Requisições</Title>
+				<Title lang="es">Facturación Requisiones</Title>
+				<Title lang="en">Billing Requests</Title>
+				<Function>GTPR285</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016052</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diverg. Arrec. X Tesour.</Title>
+				<Title lang="es">Diverg. Recaud. Vs. Tesor.</Title>
+				<Title lang="en">Coll. X Treas. Diverg.</Title>
+				<Function>GTPR500A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014601</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lote de Requisição</Title>
+				<Title lang="es">Lote de Requisición</Title>
+				<Title lang="en">Request Batch</Title>
+				<Function>GTPR284</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014539</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisições</Title>
+				<Title lang="es">Requisiciones</Title>
+				<Title lang="en">Requests</Title>
+				<Function>GTPR283</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014537</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências Arrecadação</Title>
+				<Title lang="es">Recaudaciones Pendientes</Title>
+				<Title lang="en">Collection Pendencies</Title>
+				<Function>GTPR500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dape</Title>
+				<Title lang="es">Dape</Title>
+				<Title lang="en">Dape</Title>
+				<Function>GTPR422</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014609</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos da Conta Corrente</Title>
+				<Title lang="es">Saldos de Cuenta Corriente</Title>
+				<Title lang="en">Checking Account Balances</Title>
+				<Function>GTPR700F</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017037</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Receitas Por Agência/empresa</Title>
+				<Title lang="es">Ingresos Por Ag/empresa</Title>
+				<Title lang="en">Incomes By Branch/company</Title>
+				<Function>GTPR121</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019442</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisições Por Lote/aglutinador</Title>
+				<Title lang="es">Requisic. Por Lote/agrupador</Title>
+				<Title lang="en">Requisitions By Batch/consolidtr</Title>
+				<Function>GTPR284A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022258</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Posição C.corrente</Title>
+				<Title lang="es">Sit. Cta.cte.</Title>
+				<Title lang="en">Checkg Acct Status</Title>
+				<Function>GTPR421D</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comissões</Title>
+			<Title lang="es">Comisiones</Title>
+			<Title lang="en">Commissions</Title>
+			<ItemID>0000014616</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Com. Agência</Title>
+				<Title lang="es">Extracto Con Agencia</Title>
+				<Title lang="en">Branch</Title>
+				<Function>GTPR412</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014625</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissões de Contrato</Title>
+				<Title lang="es">Comisiones de Contrato</Title>
+				<Title lang="en">Contract Discount</Title>
+				<Function>GTPR415</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014631</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissões Ag. Sintético</Title>
+				<Title lang="es">Comis. Ag. Sintético</Title>
+				<Title lang="en">Summarized</Title>
+				<Function>GTPR416</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014630</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissões Colab. X Ag</Title>
+				<Title lang="es">Comis. Colab. Vs. Ag.</Title>
+				<Title lang="en">Commissions Collab. X Ag</Title>
+				<Function>GTPR417</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014617</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comissões Colab.x Período</Title>
+				<Title lang="es">Comis. Colab. Vs. Período</Title>
+				<Title lang="en">Commissions Colab.x Period</Title>
+				<Function>GTPR418</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014623</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Órgãos</Title>
+			<Title lang="es">Organismos</Title>
+			<Title lang="en">Bodies</Title>
+			<ItemID>0000014638</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração/acumulo Passagem</Title>
+				<Title lang="es">Generac./acumul. Pasaje</Title>
+				<Title lang="en">Generation/accumulation Tickets</Title>
+				<Function>GTPR311</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração Mapa Mensal</Title>
+				<Title lang="es">Gener. Mapa Mensual</Title>
+				<Title lang="en">Generation Monthly Map</Title>
+				<Function>GTPR420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Qdmp Res. de Entrega</Title>
+				<Title lang="es">Cdmp Res. de Entrega</Title>
+				<Title lang="en">Qdmp Delivery Res.</Title>
+				<Function>GTPR306</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014647</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Qdmp Rel. de Km</Title>
+				<Title lang="es">Cdmp Inf. de Km</Title>
+				<Title lang="en">Qdmp Km Rel.</Title>
+				<Function>GTPR308</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014649</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Coef. Aprov. Linhas</Title>
+				<Title lang="es">Coef. Aprob. Líneas</Title>
+				<Title lang="en">Coef. Approv. Lines</Title>
+				<Function>GTPR304</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014650</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quadro de Res. de Linha</Title>
+				<Title lang="es">Cuadro de Res. de Línea</Title>
+				<Title lang="en">Line Res. Chart</Title>
+				<Function>GTPR305</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014651</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Der</Title>
+				<Title lang="es">Informe Der</Title>
+				<Title lang="en">Der Report</Title>
+				<Function>GTPR423</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014653</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Der Modelo 2</Title>
+				<Title lang="es">Inf. Der Modelo 2</Title>
+				<Title lang="en">Der Report Template 2</Title>
+				<Function>GTPR423B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022727</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivo Env. Der</Title>
+				<Title lang="es">Archivo Env. Der</Title>
+				<Title lang="en">Der Deliv. File</Title>
+				<Function>GTPM423</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014654</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estatística Geral de Linhas</Title>
+				<Title lang="es">Estadística General de Líneas</Title>
+				<Title lang="en">General Statistics Of Lines</Title>
+				<Function>GTPR026</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013356</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo Estatistica Geral de Linhas</Title>
+				<Title lang="es">Resum. Estadíst. General de Líneas</Title>
+				<Title lang="en">General Statistics Summary Of Lines</Title>
+				<Function>GTPR025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013365</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geraçao Dados Financeiros (antt Der)</Title>
+				<Title lang="es">Generac. Datos Financieros (antt Der)</Title>
+				<Title lang="en">Financial Data Generation (antt Der)</Title>
+				<Function>GTPR950</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022687</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contratos</Title>
+			<Title lang="es">Contratos</Title>
+			<Title lang="en">Contracts</Title>
+			<ItemID>0000014655</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Res. Diário Dt. Viag.</Title>
+				<Title lang="es">Res. Diario Fch. Viaj.</Title>
+				<Title lang="en">Res.</Title>
+				<Function>GTPR016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014672</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relação de Contratos</Title>
+				<Title lang="es">Lista de Contratos</Title>
+				<Title lang="en">Contract Management</Title>
+				<Function>GTPR024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014965</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Res. Diário Dt. Emiss.</Title>
+				<Title lang="es">Res. Diario Fch. Emis.</Title>
+				<Title lang="en">Res.</Title>
+				<Function>GTPR017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014668</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Apuração Fretamento</Title>
+				<Title lang="es">Informe Cálculo Fletamento</Title>
+				<Title lang="en">Freighting Calculation Report</Title>
+				<Function>GTPR550</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019012</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Receita de Contrato de Turismo</Title>
+				<Title lang="es">Ingreso de Contrato de Turismo</Title>
+				<Title lang="en">Tourism Contract Revenue</Title>
+				<Function>GTPR602</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023810</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Fiscal</Title>
+			<Title lang="es">Fiscal</Title>
+			<Title lang="en">Fiscal</Title>
+			<ItemID>0000013674</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Geração Fiscal - Bilhetes</Title>
+				<Title lang="es">Log de Generación Fiscal - Boletos</Title>
+				<Title lang="en">Fiscal Gener Log - Tickets</Title>
+				<Function>GTPR600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013677</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes Fiscal Cancelados</Title>
+				<Title lang="es">Billetes Fiscal Anulados</Title>
+				<Title lang="en">Canceled Tax Tickets</Title>
+				<Function>GTPR115B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017549</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bilhetes Fiscal Substituidos</Title>
+				<Title lang="es">Billetes Fiscal Sustituidos</Title>
+				<Title lang="en">Replaced Tax Tickets</Title>
+				<Function>GTPR115C</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017563</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Danos</Title>
+				<Title lang="es">Daños</Title>
+				<Title lang="en">Damages</Title>
+				<Function>GTPR756</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022310</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Eventos de Não Embarque</Title>
+				<Title lang="es">Inf. Eventos de No Embarque</Title>
+				<Title lang="en">Non-shipping Events List</Title>
+				<Function>GTPR115G</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022537</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Urbano</Title>
+			<Title lang="es">Urbano</Title>
+			<Title lang="en">Urban</Title>
+			<ItemID>0000022336</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Escala Colab.</Title>
+				<Title lang="es">Inf. Escala Colab.</Title>
+				<Title lang="en">Collab. Shift List</Title>
+				<Function>GTPR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Prest. Contas</Title>
+				<Title lang="es">Inf. Rend. Ctas</Title>
+				<Title lang="en">Rend.of Accts List</Title>
+				<Function>GTPR013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022339</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Fechamento Caixa</Title>
+				<Title lang="es">Inf. Cierre Caja</Title>
+				<Title lang="en">Cashier Closing List</Title>
+				<Function>GTPR015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Escala Serv.</Title>
+				<Title lang="es">Inf. Escala Serv.</Title>
+				<Title lang="en">Serv. Shift List</Title>
+				<Function>GTPR010A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022341</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Folga Diária</Title>
+				<Title lang="es">Infor. Descanso Diario</Title>
+				<Title lang="en">Daily Time Off Report</Title>
+				<Function>GTPR011A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024547</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Escalas Sem Recursos</Title>
+				<Title lang="es">Informe Escalas Sin Recursos</Title>
+				<Title lang="en">Sched Without Resour Repo</Title>
+				<Function>GTPR011B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024565</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rel. Recursos Disponíveis</Title>
+				<Title lang="es">Inf. Recursos Disponibles</Title>
+				<Title lang="en">Rpt – Available Resources</Title>
+				<Function>GTPR011C</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024566</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000024533</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Erros do Monitor Integração</Title>
+				<Title lang="es">Log de Errores Del Monitor Integración</Title>
+				<Title lang="en">Integration Monitor Error Log</Title>
+				<Function>GTPRMONIT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024534</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A880000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Fórmulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014849</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros do Módulo</Title>
+				<Title lang="es">Parámetros Del Módulo</Title>
+				<Title lang="en">Module Parameters</Title>
+				<Function>GTPA281</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014851</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Processamento</Title>
+				<Title lang="es">Log de Procesamiento</Title>
+				<Title lang="en">Processing Log</Title>
+				<Function>GTPA038</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off-line</Title>
+				<Title lang="es">Contabilidad Off-line</Title>
+				<Title lang="en">Offline Accounting</Title>
+				<Function>GTPA840</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Rotinas Tss</Title>
+			<Title lang="es">Rutinas Tss</Title>
+			<Title lang="en">Tss Routines</Title>
+			<ItemID>0000018976</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Gerais Tss</Title>
+				<Title lang="es">Conf. General. Tss</Title>
+				<Title lang="en">Tss General Settings</Title>
+				<Function>SPEDCFGTSS</Function>
+				<Type>1</Type>
+				<Tables>FX7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018977</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integrações</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integrations</Title>
+			<ItemID>0000017523</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Integrações</Title>
+				<Title lang="es">Monitor de Integraciones</Title>
+				<Title lang="en">Integration Monitor</Title>
+				<Function>GTPMONIT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017524</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Incons Fat de Bilhetes</Title>
+				<Title lang="es">Incons Fact de Boletos</Title>
+				<Title lang="en">Ticket Invoicing Incon</Title>
+				<Function>GTPA115R</Function>
+				<Type>1</Type>
+				<Tables>GIC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022029</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurador de Integração</Title>
+				<Title lang="es">Configurador de Integrac.</Title>
+				<Title lang="en">Integration Configurator</Title>
+				<Function>GTPA907</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024734</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revogação Bilhete</Title>
+				<Title lang="es">Revocación de Boleto</Title>
+				<Title lang="en">Ticket Revoking</Title>
+				<Function>GTPA906</Function>
+				<Type>1</Type>
+				<Tables>H8A</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>88</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024752</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B880000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B880000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

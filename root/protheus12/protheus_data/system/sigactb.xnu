@@ -1,0 +1,4719 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACTB</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A340000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Configurações</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Configurations</Title>
+			<ItemID>0000005826</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Entidades Contábeis</Title>
+				<Title lang="es">Configuracion de Entes Contables</Title>
+				<Title lang="en">Configuration Accounting Entities</Title>
+				<Function>CTBA005</Function>
+				<Type>1</Type>
+				<Tables>CT0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005827</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configuracao,entidades,contabeis,configurações,contas,planos</KeyWord>
+					<KeyWord lang="es">Configuracion,entes,contables,configuraciones,cuentas,planes</KeyWord>
+					<KeyWord lang="en">Configuration,entities,accounting,configurations,accounts,plans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades Contábeis</Title>
+				<Title lang="es">Entidades Contables</Title>
+				<Title lang="en">Accounting Entities</Title>
+				<Function>CTBA050</Function>
+				<Type>1</Type>
+				<Tables>CV0</Tables>
+				<Tables>CT0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005828</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planos,contas</KeyWord>
+					<KeyWord lang="es">Planes,cuentas</KeyWord>
+					<KeyWord lang="en">Plans,accounts</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dados Contábeis Auxiliares</Title>
+				<Title lang="es">Datos Contables Auxiliares</Title>
+				<Title lang="en">Auxiliary Accounting Data</Title>
+				<Function>CTBA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005829</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilidade,modulos,auxiliares</KeyWord>
+					<KeyWord lang="es">Contabilidad,modulos,auxiliares</KeyWord>
+					<KeyWord lang="en">Accounting,modules,auxiliary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurações Contábeis</Title>
+				<Title lang="es">Configuraciones Contables</Title>
+				<Title lang="en">Accounting Configurations</Title>
+				<Function>CTBA130</Function>
+				<Type>1</Type>
+				<Tables>CTM</Tables>
+				<Tables>CTO</Tables>
+				<Tables>CTR</Tables>
+				<Tables>CTP</Tables>
+				<Tables>CTS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Configurar,configuração,máscaras,custos,grupos,livros,entidades,saldos</KeyWord>
+					<KeyWord lang="es">Configurar,configuracion,mascaras,costos,grupos,libros,entidades,saldos</KeyWord>
+					<KeyWord lang="en">Configure,configuration,masks,costs,groups,books,entities,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Records</Title>
+			<ItemID>0000005832</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendário Contábil</Title>
+				<Title lang="es">Calendario Contable</Title>
+				<Title lang="en">Accounting Calendar</Title>
+				<Function>CTBA010</Function>
+				<Type>1</Type>
+				<Tables>CTG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Calendarios,contábeis,anos,anuais,meses,mensais,mensal,anual,períodos</KeyWord>
+					<KeyWord lang="es">Calendarios,contables,anos,anuales,meses,mensuales,mensual,anual,periodos</KeyWord>
+					<KeyWord lang="en">Calendars,accounting,years,annual,months,monthly,monthly,annual,periods</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas Contábeis</Title>
+				<Title lang="es">Monedas Contables</Title>
+				<Title lang="en">Accounting Currencies</Title>
+				<Function>CTBA140</Function>
+				<Type>1</Type>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Taxas,conversão,conversões,cotação,cotações</KeyWord>
+					<KeyWord lang="es">Tasas,conversion,conversiones,cotizacion,cotizaciones</KeyWord>
+					<KeyWord lang="en">Rates,conversion,conversions,quotation,quotations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas X Calendários</Title>
+				<Title lang="es">Monedas X Calendarios</Title>
+				<Title lang="en">Currency X Calendars</Title>
+				<Function>CTBA200</Function>
+				<Type>1</Type>
+				<Tables>CTE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Moedas,amarração,amarrações,associação,associações,períodos</KeyWord>
+					<KeyWord lang="es">Monedas,vinculacion,vinculaciones,asociacion,asociaciones,periodos</KeyWord>
+					<KeyWord lang="en">Currencies,binding,binding,association,associations,periods</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas X Calendários X Tipos de Saldo</Title>
+				<Title lang="es">Monedas X Calendarios X Tipos de Saldo</Title>
+				<Title lang="en">Currency X Calendars X Type Of Balance</Title>
+				<Function>CTBA011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Amarração,amarrações,associação,associações,calendários,moedas,tipos,saldos</KeyWord>
+					<KeyWord lang="es">Vinculacion,vinculaciones,asociacion,asociaciones,calendarios,monedas,tipos,saldos</KeyWord>
+					<KeyWord lang="en">Binding,binding,association,associations,calendars,currencies,types,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Câmbio</Title>
+				<Title lang="es">Cambio</Title>
+				<Title lang="en">Exchange</Title>
+				<Function>CTBA150</Function>
+				<Type>1</Type>
+				<Tables>CTP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Taxas,cotação,cotações</KeyWord>
+					<KeyWord lang="es">Tasas,cotizacion,cotizaciones</KeyWord>
+					<KeyWord lang="en">Rates,quotation,quotations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Inteligente</Title>
+				<Title lang="es">Historial Inteligente</Title>
+				<Title lang="en">Intelligent History</Title>
+				<Function>CTBA070</Function>
+				<Type>1</Type>
+				<Tables>CT8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Históricos,histórias,inteligentes,contábil,contábeis</KeyWord>
+					<KeyWord lang="es">Historiales,historias,inteligentes,contable,contables</KeyWord>
+					<KeyWord lang="en">History,history,intelligent,accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Amarrações</Title>
+				<Title lang="es">Vinculaciones</Title>
+				<Title lang="en">Binding</Title>
+				<Function>CTBA250</Function>
+				<Type>1</Type>
+				<Tables>CTA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contas,custos,relacionamentos,amarração,</KeyWord>
+					<KeyWord lang="es">Cuentas,costos,relaciones,vinculacion</KeyWord>
+					<KeyWord lang="en">Accounts,costs,relationships,binding</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relacionamentos</Title>
+				<Title lang="es">Relaciones</Title>
+				<Title lang="en">Relationships</Title>
+				<Function>CTBA090</Function>
+				<Type>1</Type>
+				<Tables>CTL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastros,rastreamentos,contábil,contábeis,relações,relação</KeyWord>
+					<KeyWord lang="es">Rastros,rastreos,contable,contables,relaciones,relacion</KeyWord>
+					<KeyWord lang="en">Traces,tracking,accounting,accounting,list,list</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilista</Title>
+				<Title lang="es">Contador</Title>
+				<Title lang="en">Accountant</Title>
+				<Function>CTBA015</Function>
+				<Type>1</Type>
+				<Tables>CVB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilistas</KeyWord>
+					<KeyWord lang="es">Contables</KeyWord>
+					<KeyWord lang="en">Accountants</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participante</Title>
+				<Title lang="es">Participante</Title>
+				<Title lang="en">Employee</Title>
+				<Function>CTBA016</Function>
+				<Type>1</Type>
+				<Tables>CVC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005841</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pessoas,participantes,integrantes</KeyWord>
+					<KeyWord lang="es">Personas,participantes,integrantes</KeyWord>
+					<KeyWord lang="en">People,participants,integrants</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Auditores</Title>
+				<Title lang="es">Auditores</Title>
+				<Title lang="en">Auditors</Title>
+				<Function>CTBA018</Function>
+				<Type>1</Type>
+				<Tables>CVR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020407</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Auditor,auditores,auditoria</KeyWord>
+					<KeyWord lang="es">Auditor,auditores,auditoría</KeyWord>
+					<KeyWord lang="en">Audit,audit,audit</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scps</Title>
+				<Title lang="es">Scp</Title>
+				<Title lang="en">Scps</Title>
+				<Function>CTBA017</Function>
+				<Type>1</Type>
+				<Tables>CVS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020408</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Scp,sociedade Em Conta Partic</KeyWord>
+					<KeyWord lang="es">Scp,sociedad En Cta de Particip</KeyWord>
+					<KeyWord lang="en">Scp,partnership In Part Account</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Subcontas Correlatas</Title>
+				<Title lang="es">Subcuentas Correla</Title>
+				<Title lang="en">Correlative Subaccounts</Title>
+				<Function>CTBA019</Function>
+				<Type>1</Type>
+				<Tables>CVT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020412</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Subcontas Correlatas, Subconta</KeyWord>
+					<KeyWord lang="es">Subcuentas_correlativas,subcuenta</KeyWord>
+					<KeyWord lang="en">Correlativesubaccount,subaccount</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Correlativo</Title>
+				<Title lang="es">Control Correlativo</Title>
+				<Title lang="en">Correlative Control</Title>
+				<Function>CTBA110</Function>
+				<Type>1</Type>
+				<Tables>CVL</Tables>
+				<Tables>CVM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005842</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Controles,diários,correlativos</KeyWord>
+					<KeyWord lang="es">Controles,diarios,correlativos</KeyWord>
+					<KeyWord lang="en">Controls,daily,correlated</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quadros Contábeis</Title>
+				<Title lang="es">Cuadros Contables</Title>
+				<Title lang="en">Accounting Charts</Title>
+				<Function>CTBA115</Function>
+				<Type>1</Type>
+				<Tables>CVQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contábil,quadro,configuração,configurações</KeyWord>
+					<KeyWord lang="es">Contable,cuadro,configuracion,configuraciones</KeyWord>
+					<KeyWord lang="en">Accounting,chart,configuration,configurations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Roteiro Consolidação</Title>
+				<Title lang="es">Procedim. Consolidacion</Title>
+				<Title lang="en">Consolidation Script</Title>
+				<Function>CTBA240</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTB</Tables>
+				<Tables>CQ0</Tables>
+				<Tables>CQ1</Tables>
+				<Tables>CQ2</Tables>
+				<Tables>CQ3</Tables>
+				<Tables>CQ4</Tables>
+				<Tables>CQ5</Tables>
+				<Tables>CQ6</Tables>
+				<Tables>CQ7</Tables>
+				<Tables>CQ8</Tables>
+				<Tables>CQ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005844</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Roteiros,consolidações</KeyWord>
+					<KeyWord lang="es">Procedimientos,consolidaciones</KeyWord>
+					<KeyWord lang="en">Scripts,consolidations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Intercompany</Title>
+				<Title lang="es">Intercompany</Title>
+				<Title lang="en">Intercompany</Title>
+				<Function>CTBA290</Function>
+				<Type>1</Type>
+				<Tables>CV5</Tables>
+				<Tables>CT1</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CTF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005845</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entre,empresas,inter</KeyWord>
+					<KeyWord lang="es">Entre,empresas,inter</KeyWord>
+					<KeyWord lang="en">Between,companies,inter</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Entidades</Title>
+			<Title lang="es">Entes</Title>
+			<Title lang="en">Entities</Title>
+			<ItemID>0000005847</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas</Title>
+				<Title lang="es">Plan de Cuentas</Title>
+				<Title lang="en">Chart Of Accounts</Title>
+				<Function>CTBA020</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005848</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,planos</KeyWord>
+					<KeyWord lang="es">Entidades,planes</KeyWord>
+					<KeyWord lang="en">Entities,plans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas Referencial</Title>
+				<Title lang="es">Plan de Cuentas Referencial</Title>
+				<Title lang="en">Referenced Chart Of Accounts</Title>
+				<Function>CTBA025</Function>
+				<Type>1</Type>
+				<Tables>CVD</Tables>
+				<Tables>CVN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005849</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Planos,entidades,referenciais,referências</KeyWord>
+					<KeyWord lang="es">Planos,entidades,referenciales,referencias</KeyWord>
+					<KeyWord lang="en">Plans,entities,references,references</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Centrodecusto,centrocusto,cadastrocustos</KeyWord>
+					<KeyWord lang="es">Centrodecosto,centrocosto,archivocostos</KeyWord>
+					<KeyWord lang="en">Costcenter,costcenter,costsregister</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBA040</Function>
+				<Type>1</Type>
+				<Tables>CTD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Itemcontabil,cadastrocustos</KeyWord>
+					<KeyWord lang="es">Ítemcontable,archivocostos</KeyWord>
+					<KeyWord lang="en">Accountingitem,costsregister</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBA060</Function>
+				<Type>1</Type>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classevalor,cadastrocustos</KeyWord>
+					<KeyWord lang="es">Clasevalor,archivocostos</KeyWord>
+					<KeyWord lang="en">Valueclass,costsregister</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visão Gerencial</Title>
+				<Title lang="es">Vision Gerencial</Title>
+				<Title lang="en">Management View</Title>
+				<Function>CTBA161</Function>
+				<Type>1</Type>
+				<Tables>CTS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005851</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Visões,gerenciais,consolidação,consolidações,livros,personalização,personalizações,gerencial,demonstrativos,</KeyWord>
+					<KeyWord lang="es">Visualizacion,de_gestion,consolidacion,consolidaciones,libros,personalizacion,personalizaciones,de_gestion,estados_demostrativos</KeyWord>
+					<KeyWord lang="en">Views,managerial,consolidation,consolidation,records,customization,customization,managerial,statements</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos Lançamentos</Title>
+				<Title lang="es">Puntos Asientos</Title>
+				<Title lang="en">Entry Points</Title>
+				<Function>CTBA085</Function>
+				<Type>1</Type>
+				<Tables>CVA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005852</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilidade,contabilizacao,</KeyWord>
+					<KeyWord lang="es">Contabilidad,contabilizacion</KeyWord>
+					<KeyWord lang="en">Accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento Padrão</Title>
+				<Title lang="es">Asiento Estandar</Title>
+				<Title lang="en">Standard Entry</Title>
+				<Function>CTBA080</Function>
+				<Type>1</Type>
+				<Tables>CT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018783</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lançamentos,padrões,configuração,configurações,contabilidade,contabilização,contabilizações,lp,contas,fato,contabil</KeyWord>
+					<KeyWord lang="es">Asientos,estandares,configuracion,configuraciones,contabilidad,contabilizacion,contabilizaciones,gp,cuentas,hecho,contable</KeyWord>
+					<KeyWord lang="en">Entries,standards,configuration,configurations,accounting,accounting,accounting,lp,accounts,fact,account</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funçoes</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Funtions</Title>
+				<Function>CTBA092</Function>
+				<Type>1</Type>
+				<Tables>CT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelasxptos Lança</Title>
+				<Title lang="es">Tablasxptos Asient</Title>
+				<Title lang="en">Tables X Entry Pt.</Title>
+				<Function>CTBA094</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016832</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mnemônicos</Title>
+				<Title lang="es">Mnemonicos</Title>
+				<Title lang="en">Mnemonics</Title>
+				<Function>CTBA091</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lancam Contabeis</Title>
+				<Title lang="es">Asientos Contables</Title>
+				<Title lang="en">Accounting Entries</Title>
+				<Function>CTBA101</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT5</Tables>
+				<Tables>CT8</Tables>
+				<Tables>CTF</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTE</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CQ0</Tables>
+				<Tables>CQ1</Tables>
+				<Tables>CQ2</Tables>
+				<Tables>CQ3</Tables>
+				<Tables>CQ4</Tables>
+				<Tables>CQ5</Tables>
+				<Tables>CQ6</Tables>
+				<Tables>CQ7</Tables>
+				<Tables>CQ8</Tables>
+				<Tables>CQ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilização,contabilizações,contas,contábil,fatos</KeyWord>
+					<KeyWord lang="es">Contabilizacion,contabilizaciones,cuentas,contable,hechos</KeyWord>
+					<KeyWord lang="en">Accounting,accounting,accounts,accounting,facts</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CTBA093</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017390</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lan Contab Paramet</Title>
+				<Title lang="es">Asto Contab Parame</Title>
+				<Title lang="en">Param.account.ent.</Title>
+				<Function>CTBA103</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005868</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Parâmetros,parametrização,parametrizações,contas,fatos,contabil</KeyWord>
+					<KeyWord lang="es">Parametros,parametrizacion,parametrizaciones,cuentas,hechos,contable</KeyWord>
+					<KeyWord lang="en">Parameters,parameterization,parameterization,accounts,facts,account</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Lançamentos</Title>
+				<Title lang="es">Verif. Asientos</Title>
+				<Title lang="en">Entry Checking</Title>
+				<Function>CTBA355</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005869</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conferências</KeyWord>
+					<KeyWord lang="es">Verificaciones</KeyWord>
+					<KeyWord lang="en">Verification</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rateios</Title>
+			<Title lang="es">Prorrateos</Title>
+			<Title lang="en">Apportionments</Title>
+			<ItemID>0000005855</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Externos</Title>
+				<Title lang="es">Prorrateo Externo</Title>
+				<Title lang="en">Ext. Apportionment</Title>
+				<Function>CTBA120</Function>
+				<Type>1</Type>
+				<Tables>CTJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005856</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio On-line</Title>
+				<Title lang="es">Prorateo On-line</Title>
+				<Title lang="en">On-line Apportionm</Title>
+				<Function>CTBA100</Function>
+				<Type>1</Type>
+				<Tables>CT9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005857</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos de Rateio</Title>
+				<Title lang="es">Eventos de Prorrateo</Title>
+				<Title lang="en">Apportion Events</Title>
+				<Function>CTBA111</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020851</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Rateio Off-line</Title>
+			<Title lang="es">Prorrateo Off-line</Title>
+			<Title lang="en">Off-line Apportion</Title>
+			<ItemID>0000005858</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Off-line</Title>
+				<Title lang="es">Prorr. Off-line</Title>
+				<Title lang="en">Off-line Apport.</Title>
+				<Function>CTBA270</Function>
+				<Type>1</Type>
+				<Tables>CTQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Rateios</Title>
+				<Title lang="es">Grupos de Prorrat.</Title>
+				<Title lang="en">Aportionm.groups</Title>
+				<Function>CTBA276</Function>
+				<Type>1</Type>
+				<Tables>CW1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005860</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Amarrac Grp Rateio</Title>
+				<Title lang="es">Vinc. Grp Prorrat.</Title>
+				<Title lang="en">Apport. Grp. Bind.</Title>
+				<Function>CTBA277</Function>
+				<Type>1</Type>
+				<Tables>CW2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005861</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Amarrações,rateios,grupos,associação,associações</KeyWord>
+					<KeyWord lang="es">Vinculaciones,prorrateos,grupos,asociacion,asociaciones</KeyWord>
+					<KeyWord lang="en">Binding,apportions,groups,association,associations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indice Estatistico</Title>
+				<Title lang="es">Indice Estadistico</Title>
+				<Title lang="en">Statistical Index</Title>
+				<Function>CTBA278</Function>
+				<Type>1</Type>
+				<Tables>CW3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005862</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Índices,estatísticas,estatísticos</KeyWord>
+					<KeyWord lang="es">Indices,estadisticas,estadisticos</KeyWord>
+					<KeyWord lang="en">Indexes,statistics,statistics</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Por Evento</Title>
+				<Title lang="es">Prorrateo Por Evento</Title>
+				<Title lang="en">Apportmt By Event</Title>
+				<Function>CTBA271</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022178</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000005864</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lan Contab Automat</Title>
+				<Title lang="es">Asto. Contab. Auto</Title>
+				<Title lang="en">Autom.account.ent.</Title>
+				<Function>CTBA102</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT5</Tables>
+				<Tables>CT8</Tables>
+				<Tables>CTF</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTE</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CQ0</Tables>
+				<Tables>CQ1</Tables>
+				<Tables>CQ2</Tables>
+				<Tables>CQ3</Tables>
+				<Tables>CQ4</Tables>
+				<Tables>CQ5</Tables>
+				<Tables>CQ6</Tables>
+				<Tables>CQ7</Tables>
+				<Tables>CQ8</Tables>
+				<Tables>CQ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005866</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contábil,contabilização,contabilizações,automáticas,fatos</KeyWord>
+					<KeyWord lang="es">Contable,contabilizacion,contabilizaciones,automaticas,hechos</KeyWord>
+					<KeyWord lang="en">Accounting,accounting,accounting,automatic,facts</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conciliador Backoffice</Title>
+				<Title lang="es">Conciliador Backoffice</Title>
+				<Title lang="en">Backoffice Conciliation Tool</Title>
+				<Function>CTBA940</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conciliador,conciliação</KeyWord>
+					<KeyWord lang="es">Conciliador,conciliación</KeyWord>
+					<KeyWord lang="en">Reconciliation_tool,reconciliation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Orcamentos</Title>
+				<Title lang="es">Presupuestos</Title>
+				<Title lang="en">Budgets</Title>
+				<Function>CTBA390</Function>
+				<Type>1</Type>
+				<Tables>CV1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005870</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Escrituracao Cont.</Title>
+			<Title lang="es">Registro Cont.</Title>
+			<Title lang="en">Account. Bookkeep.</Title>
+			<ItemID>0000005872</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Validador Ecd/ecf</Title>
+				<Title lang="es">Validador Ecd/ecf</Title>
+				<Title lang="en">Ecd/ecf Validator</Title>
+				<Function>CTBS480</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017604</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Central Escriturac</Title>
+				<Title lang="es">Central Registro</Title>
+				<Title lang="en">Bookkeeping Cent.</Title>
+				<Function>CTBS001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005873</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Escriturações,centrais,spedctb,ecd,fcont,sped,ctb</KeyWord>
+					<KeyWord lang="es">Registros,centrales,spedctb,ecd,fcont,sped,ctb</KeyWord>
+					<KeyWord lang="en">Registration,central,spedctb,ecd,fcont,sped,ctb</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000005874</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Identif. Tipos Programa</Title>
+				<Title lang="es">Identif. Tipos de Programa</Title>
+				<Title lang="en">Program Types Identification</Title>
+				<Function>CTBS400</Function>
+				<Type>1</Type>
+				<Tables>CQL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012940</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">0021,identificacao,identificação,tipos,programas</KeyWord>
+					<KeyWord lang="es">0021,identificación,identificación,tipos,programas</KeyWord>
+					<KeyWord lang="en">0021,identification,identification,types,programs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Lalur</Title>
+				<Title lang="es">Arch. Lalur</Title>
+				<Title lang="en">Lalur Reg.</Title>
+				<Function>CTBS300</Function>
+				<Type>1</Type>
+				<Tables>CQM</Tables>
+				<Tables>CQN</Tables>
+				<Tables>CQO</Tables>
+				<Tables>CQP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lalur</KeyWord>
+					<KeyWord lang="es">Lalur</KeyWord>
+					<KeyWord lang="en">Lalur</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Bloco W - Declaração País a País</Title>
+				<Title lang="es">Arch. Bloque W - Declaración País a País</Title>
+				<Title lang="en">W Block Reg - Country By Country Declaration</Title>
+				<Function>CTBS410</Function>
+				<Type>1</Type>
+				<Tables>CQM</Tables>
+				<Tables>CQN</Tables>
+				<Tables>CQO</Tables>
+				<Tables>CQP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013038</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">W100,w200,w250,w300</KeyWord>
+					<KeyWord lang="es">W100,w200,w250,w300</KeyWord>
+					<KeyWord lang="en">W100,w200,w250,w300</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Bloco K - Conglomerados Econômicos</Title>
+				<Title lang="es">Arch. Bloque K - Conglomerados Económicos</Title>
+				<Title lang="en">Block K Register - Economic Conglomerates</Title>
+				<Function>CTBS420</Function>
+				<Type>1</Type>
+				<Tables>CQQ</Tables>
+				<Tables>CQR</Tables>
+				<Tables>CQS</Tables>
+				<Tables>CQT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">K030,k100,k110,k115</KeyWord>
+					<KeyWord lang="es">K030,k100,k110,k115</KeyWord>
+					<KeyWord lang="en">K030,k100,k110,k115</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Bloco K 200 - Plano de Contas Consolidado</Title>
+				<Title lang="es">Arch. Bloque K 200 - Plan de Cuentas Consolidado</Title>
+				<Title lang="en">Block K200 Reg - Consolidated Chart Of Accounts</Title>
+				<Function>CTBS430</Function>
+				<Type>1</Type>
+				<Tables>CQU</Tables>
+				<Tables>CQV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013580</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">K200,k210</KeyWord>
+					<KeyWord lang="es">K200,k210</KeyWord>
+					<KeyWord lang="en">K200,k210</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ecf-bloco V - Derex</Title>
+				<Title lang="es">Ecf-bloque V-derex</Title>
+				<Title lang="en">Ecf-block V - Derex</Title>
+				<Function>CTBS450</Function>
+				<Type>1</Type>
+				<Tables>CSU</Tables>
+				<Tables>CVU</Tables>
+				<Tables>CVV</Tables>
+				<Tables>CVW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014388</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">V010, V020, V030, V100</KeyWord>
+					<KeyWord lang="es">V010,v020,v030,v100</KeyWord>
+					<KeyWord lang="en">V010,v020,v030,v100</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad. Bloco K 300 - Saldo Contas Consolidadas</Title>
+				<Title lang="es">Arch. Bloque K 300 - Saldo de Cuentas Consolidadas</Title>
+				<Title lang="en">Block K300 Reg - Consolidated Accounts Balance</Title>
+				<Function>CTBS440</Function>
+				<Type>1</Type>
+				<Tables>CQX</Tables>
+				<Tables>CQY</Tables>
+				<Tables>CQZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013581</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">K300,k310,k315</KeyWord>
+					<KeyWord lang="es">K300,k310,k315</KeyWord>
+					<KeyWord lang="en">K300,k310,k315</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cod Tributos Dere</Title>
+				<Title lang="es">Cód Tributos Dere</Title>
+				<Title lang="en">Dere Tax Code</Title>
+				<Function>CTBA028</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024706</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Dere,codtrib</KeyWord>
+					<KeyWord lang="es">Dere,codtrib</KeyWord>
+					<KeyWord lang="en">Dere,codtrib</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout Auxiliar</Title>
+				<Title lang="es">Layout Auxiliar</Title>
+				<Title lang="en">Auxiliar Layout</Title>
+				<Function>CTBS100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005875</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Leiautes,auxiliares</KeyWord>
+					<KeyWord lang="es">Layouts,auxiliares</KeyWord>
+					<KeyWord lang="en">Layouts,auxiliary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Contábil de Contrato</Title>
+				<Title lang="es">Calc. Contab. Contrato</Title>
+				<Title lang="en">Contract Accounting Calculation</Title>
+				<Function>CTBA750</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019793</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp</Title>
+			<Title lang="es">Mcasp</Title>
+			<Title lang="en">Mcasp</Title>
+			<ItemID>0000017423</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Rpps</Title>
+			<Title lang="es">Rpps</Title>
+			<Title lang="en">Rpps</Title>
+			<ItemID>0000017424</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projeção Atuarial Rpps</Title>
+				<Title lang="es">Proy. Actuarial Rpps</Title>
+				<Title lang="en">Rpps Actuarial Projection</Title>
+				<Function>CTBA519</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017425</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle Orçamentário</Title>
+			<Title lang="es">Control Presup.</Title>
+			<Title lang="en">Budget Control</Title>
+			<ItemID>0000024761</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000024762</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas Orçamentárias</Title>
+				<Title lang="es">Ctas. Presupuestarias</Title>
+				<Title lang="en">Budget Accounts</Title>
+				<Function>PCOA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024763</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Orçamentários,orçamentos</KeyWord>
+					<KeyWord lang="es">Presupuestarios,presupuestos</KeyWord>
+					<KeyWord lang="en">Budgetary,budgets</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes</Title>
+				<Title lang="es">Clases</Title>
+				<Title lang="en">Classes</Title>
+				<Function>PCOA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024764</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,classificações,orçamentários,orçamentárias</KeyWord>
+					<KeyWord lang="es">Clasificación,clasificaciones,presupuestarios,presupuestarias</KeyWord>
+					<KeyWord lang="en">Classification,classifications,budgetary,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Saldos</Title>
+				<Title lang="es">Tipo de Saldos</Title>
+				<Title lang="en">Balance Types</Title>
+				<Function>PCOA195</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024765</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,classificações,categorias</KeyWord>
+					<KeyWord lang="es">Clasificación,clasificaciones,categorías</KeyWord>
+					<KeyWord lang="en">Classification,classifications,categories</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade Orçamentária</Title>
+				<Title lang="es">Unidad Presupuestaria</Title>
+				<Title lang="en">Budgetary Unit</Title>
+				<Function>PCOA008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Orçamentárias,orçamentários,unidades</KeyWord>
+					<KeyWord lang="es">Presupuestarias,presupuestarios,unidades</KeyWord>
+					<KeyWord lang="en">Budgetary,budgetary,units</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades Contábeis</Title>
+				<Title lang="es">Entes Contables</Title>
+				<Title lang="en">Accounting Entities</Title>
+				<Function>CTBA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024767</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contingências</Title>
+			<Title lang="es">Contingencias</Title>
+			<Title lang="en">Contingencies</Title>
+			<ItemID>0000024769</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovadores</Title>
+				<Title lang="es">Aprobadores</Title>
+				<Title lang="en">Approvers</Title>
+				<Function>PCOA520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024770</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contingencias</KeyWord>
+					<KeyWord lang="es">Contingencias</KeyWord>
+					<KeyWord lang="en">Contingencies</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Limites de Aprovação</Title>
+				<Title lang="es">Límites de Aprobación</Title>
+				<Title lang="en">Approval Limits</Title>
+				<Function>PCOA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024771</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contingencias,alcadas</KeyWord>
+					<KeyWord lang="es">Contingencias,pertinencias</KeyWord>
+					<KeyWord lang="en">Contingencies,jurisdiction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contingências</Title>
+				<Title lang="es">Contingencias</Title>
+				<Title lang="en">Contingencies</Title>
+				<Function>PCOA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentos,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Movimientos,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Transactions,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimento</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transaction</Title>
+			<ItemID>0000024774</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024775</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Movimentos,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Movimientos,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Transactions,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cubos</Title>
+			<Title lang="es">Cubos</Title>
+			<Title lang="en">Cubes</Title>
+			<ItemID>0000024777</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestión</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA193</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024778</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gerencial</KeyWord>
+					<KeyWord lang="es">Gestión</KeyWord>
+					<KeyWord lang="en">Managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Cubos</Title>
+				<Title lang="es">Configuración de Cubos</Title>
+				<Title lang="en">Cube Settings</Title>
+				<Function>PCOA210_1</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuarios,acessos,configurações</KeyWord>
+					<KeyWord lang="es">Usuarios,accesos,configuraciones</KeyWord>
+					<KeyWord lang="en">Users,accesses,settings</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão do Acesso À Configuração de Cubo</Title>
+				<Title lang="es">Borrado Del Acceso a La Configuración de Cubo</Title>
+				<Title lang="en">Exclusion Of Access To Cube Settings</Title>
+				<Function>PCOA210_2</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Acessos,exclusões,configurações,cubos</KeyWord>
+					<KeyWord lang="es">Accesos,borrados,configuraciones,cubos</KeyWord>
+					<KeyWord lang="en">Accesses,exclusions,settings,cubes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000024782</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024783</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lancamentos,orçamentários,integração,integrações</KeyWord>
+					<KeyWord lang="es">Registros,presupuestarios,integración,integraciones</KeyWord>
+					<KeyWord lang="en">Entries,budgetary,integration,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento</Title>
+				<Title lang="es">Puntos de Asiento</Title>
+				<Title lang="en">Entry Points</Title>
+				<Function>PCOA040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024784</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lançamentos,orçamentários,integração,integrações</KeyWord>
+					<KeyWord lang="es">Registros,presupuestarios,integración,integraciones</KeyWord>
+					<KeyWord lang="en">Entries,budgetary,integration,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Bloqueios</Title>
+			<Title lang="es">Bloqueos</Title>
+			<Title lang="en">Blocks</Title>
+			<ItemID>0000024786</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processos</Title>
+				<Title lang="es">Por Procesos</Title>
+				<Title lang="en">By Processes</Title>
+				<Function>PCOA035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024787</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios</KeyWord>
+					<KeyWord lang="es">Bloqueos</KeyWord>
+					<KeyWord lang="en">Blocks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Lançamento de Integração</Title>
+				<Title lang="es">Puntos de Asiento de Integración</Title>
+				<Title lang="en">Integration Entry Points</Title>
+				<Function>PCOA041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024788</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios,lançamentos,integrações</KeyWord>
+					<KeyWord lang="es">Bloqueos,registros,integraciones</KeyWord>
+					<KeyWord lang="en">Blocks,entries,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Bloqueio</Title>
+				<Title lang="es">Puntos de Bloqueo</Title>
+				<Title lang="en">Blocking Points</Title>
+				<Function>PCOA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024789</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bloqueios</KeyWord>
+					<KeyWord lang="es">Bloqueos</KeyWord>
+					<KeyWord lang="en">Blocks</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp</Title>
+			<Title lang="es">Mcasp</Title>
+			<Title lang="en">Mcasp</Title>
+			<ItemID>0000024802</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Loa</Title>
+			<Title lang="es">Loa</Title>
+			<Title lang="en">Loa</Title>
+			<ItemID>0000024803</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Tabelas Classif. Receitas/despesas Etc</Title>
+				<Title lang="es">Reg. Tablas Clasific. Ingres/gastos,  Etc.</Title>
+				<Title lang="en">Revenue/expense Classif Tables Register, Etc.</Title>
+				<Function>PCOA165</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024804</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Aglutinadores de Visão Gerencial Mcasp</Title>
+				<Title lang="es">Registro de Agrupadores de Visión de Gestión Mcasp</Title>
+				<Title lang="en">Mcasp Managerial View Consolidators Register</Title>
+				<Function>PCOA175</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024805</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ppa</Title>
+			<Title lang="es">Ppa</Title>
+			<Title lang="en">Ppa</Title>
+			<ItemID>0000024807</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Unidades Gestoras - Ppa</Title>
+				<Title lang="es">Registro de Unidades Administradoras - Ppa</Title>
+				<Title lang="en">Managerial Units Register - Ppa</Title>
+				<Function>PCOA260</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024808</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Produtos - Ppa</Title>
+				<Title lang="es">Registro de Productos - Ppa</Title>
+				<Title lang="en">Products Register - Ppa</Title>
+				<Function>PCOA265</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024809</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Ação - Ppa</Title>
+				<Title lang="es">Registro de Acción - Ppa</Title>
+				<Title lang="en">Action Register - Ppa</Title>
+				<Function>PCOA270</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024810</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Diretrizes - Ppa</Title>
+				<Title lang="es">Registro de Directrices - Ppa</Title>
+				<Title lang="en">Directives Register - Ppa</Title>
+				<Function>PCOA275</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024811</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Programas - Ppa</Title>
+				<Title lang="es">Registro de Programas - Ppa</Title>
+				<Title lang="en">Programs Register - Ppa</Title>
+				<Function>PCOA280</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024812</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Indicadores - Ppa</Title>
+				<Title lang="es">Registro de Indicadores - Ppa</Title>
+				<Title lang="en">Indicators Register - Ppa</Title>
+				<Function>PCOA285</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024813</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Ppa - Plano Plurianual (metas e Custos)</Title>
+				<Title lang="es">Registro Ppa - Plano Plurianual (metas Y Costos)</Title>
+				<Title lang="en">Ppa Register - Multiannual Plan (goals And Costs)</Title>
+				<Function>PCOA297</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024814</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Fontes de Financiamento - Ppa</Title>
+				<Title lang="es">Registro de Fuentes de Financiación - Ppa</Title>
+				<Title lang="en">Financial Sources Register - Ppa</Title>
+				<Function>PCOA298</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024815</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ldo</Title>
+			<Title lang="es">Ldo</Title>
+			<Title lang="en">Ldo</Title>
+			<ItemID>0000024817</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Inflação</Title>
+				<Title lang="es">Registro de Inflación</Title>
+				<Title lang="en">Inflation Register</Title>
+				<Function>PCOA299</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024818</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Pib Estadual Para Metas Anuais</Title>
+				<Title lang="es">Registro de Pib Estatal Para Metas Anuales</Title>
+				<Title lang="en">State Pib Registration For Annual Goals</Title>
+				<Function>PCOA303</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024819</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Dedução da Receita</Title>
+				<Title lang="es">Registro de Deducción Del Ingreso</Title>
+				<Title lang="en">Revenue Deduction Register</Title>
+				<Function>PCOA304</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024820</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Despesas e Receitas Para Metas Anuais</Title>
+				<Title lang="es">Registro de Gastos e Ingresos Para Metas Anuales</Title>
+				<Title lang="en">Expenses And Revenues Register For Annual Goals</Title>
+				<Function>PCOA305</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024821</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Dívida Pública Para Meta Anual</Title>
+				<Title lang="es">Registro de La Deuda Pública Para Meta Anual</Title>
+				<Title lang="en">Public Debt Register For Annual Goal</Title>
+				<Function>PCOA306</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024822</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Juros Para Metas Anuais</Title>
+				<Title lang="es">Registro de Intereses Para Metas Anuales</Title>
+				<Title lang="en">Interest Register For Annual Goals</Title>
+				<Function>PCOA307</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024823</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A340000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000005876</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005877</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gerais,geral,generalizados,generalizadas</KeyWord>
+					<KeyWord lang="es">Generales,general,generalizados,generalizadas</KeyWord>
+					<KeyWord lang="en">General,general,generalized,generalized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000005879</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastrear Lançamentos</Title>
+				<Title lang="es">Rastrea Asientos</Title>
+				<Title lang="en">Track Entries</Title>
+				<Function>CTBC010</Function>
+				<Type>1</Type>
+				<Tables>CTK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005880</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastros,rastreamentos,rastreios</KeyWord>
+					<KeyWord lang="es">Rastros,rastreos,rastreos</KeyWord>
+					<KeyWord lang="en">Tracks,tracking,tracing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreamento Contábil</Title>
+				<Title lang="es">Rastreo Contable</Title>
+				<Title lang="en">Accounting Tracing</Title>
+				<Function>CTBC661</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Tables>CV3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013787</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastreamentos,rastros,contábil,contábeis,rastrear</KeyWord>
+					<KeyWord lang="es">Rastreos,rastros,contable,contables,rastrear</KeyWord>
+					<KeyWord lang="en">Tracking,track,accounting,accounting,tracing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Saldos On-line</Title>
+				<Title lang="es">Monitor de Saldo On-line</Title>
+				<Title lang="en">Online Balance Monitor</Title>
+				<Function>CTBA961</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023391</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comparativos</Title>
+			<Title lang="es">Comparativos</Title>
+			<Title lang="en">Comparisons</Title>
+			<ItemID>0000005882</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Entidades</Title>
+				<Title lang="es">Saldos Entes</Title>
+				<Title lang="en">Balance Entities</Title>
+				<Function>CTBC020</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005883</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contas,planos</KeyWord>
+					<KeyWord lang="es">Cuentas,planes</KeyWord>
+					<KeyWord lang="en">Accounts,plans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estatística de Saldo</Title>
+				<Title lang="es">Estadistica de Saldo</Title>
+				<Title lang="en">Balance Statistics</Title>
+				<Function>CTBC030</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005884</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estatísticas,saldos</KeyWord>
+					<KeyWord lang="es">Estadisticas,saldos</KeyWord>
+					<KeyWord lang="en">Statistics,balance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estatística de Grupos</Title>
+				<Title lang="es">Estadistica de Grupos</Title>
+				<Title lang="en">Group Statistics</Title>
+				<Function>CTBC040</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005885</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Estatísticas</KeyWord>
+					<KeyWord lang="es">Estadisticas</KeyWord>
+					<KeyWord lang="en">Statistics</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Razoes</Title>
+			<Title lang="es">Libros May.</Title>
+			<Title lang="en">Ledgers</Title>
+			<ItemID>0000005887</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contábil</Title>
+				<Title lang="es">Contable</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>CTBC400</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005888</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contábeis</KeyWord>
+					<KeyWord lang="es">Contables</KeyWord>
+					<KeyWord lang="en">Accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta Documentos Fiscal</Title>
+				<Title lang="es">Cuenta Documentos Fiscal</Title>
+				<Title lang="en">Tax Document Account</Title>
+				<Function>CTBC420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005889</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contas,fiscais</KeyWord>
+					<KeyWord lang="es">Cuentas,fiscales</KeyWord>
+					<KeyWord lang="en">Accounts,fiscal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro Custo</Title>
+				<Title lang="es">Centro Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBC440</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005890</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Centros,custos</KeyWord>
+					<KeyWord lang="es">Centros,costos</KeyWord>
+					<KeyWord lang="en">Centers,costs</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Item Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBC480</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005891</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Itens,contábeis</KeyWord>
+					<KeyWord lang="es">Items,contables</KeyWord>
+					<KeyWord lang="en">Items,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe Valor</Title>
+				<Title lang="es">Clase Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBC490</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005892</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classes,valores</KeyWord>
+					<KeyWord lang="es">Clases,valores</KeyWord>
+					<KeyWord lang="en">Classes,values</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidade</Title>
+				<Title lang="es">Ente</Title>
+				<Title lang="en">Entity</Title>
+				<Function>CTBC403</Function>
+				<Type>1</Type>
+				<Tables>CT0</Tables>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entidades,contas,planos</KeyWord>
+					<KeyWord lang="es">Entidades,cuentas,planes</KeyWord>
+					<KeyWord lang="en">Entities,accounts,plans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000021624</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Balancetes</Title>
+			<Title lang="es">Bal. Parciales</Title>
+			<Title lang="en">Trial Balances</Title>
+			<ItemID>0000021629</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Itens X Contas</Title>
+				<Title lang="es">Bal Parcial Ítems Vs. Ctas</Title>
+				<Title lang="en">Trial Balance Items X Accounts</Title>
+				<Function>CTBSV002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021683</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Centro de Custo X Item Contábil</Title>
+				<Title lang="es">Balanc Parc Centro de Costo Vs. Ítem Cont</Title>
+				<Title lang="en">Trial Balance Cost Center X Ledger Item</Title>
+				<Function>CTBSV007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021630</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Centro de Custo X Conta X Item Contábil</Title>
+				<Title lang="es">Bal. Parc. C Costo Vs. Cta Vs. Ítem Cont</Title>
+				<Title lang="en">Ledger Item X Account X Cost Center Trial Balance</Title>
+				<Function>CTBSV011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021631</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Modelo 4</Title>
+				<Title lang="es">Balance Parcial Modelo 4</Title>
+				<Title lang="en">Trial Balance Model 4</Title>
+				<Function>CTBSV012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021632</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Modelo 3</Title>
+				<Title lang="es">Balance Parcial Modelo 3</Title>
+				<Title lang="en">Trial Balance Model 3</Title>
+				<Function>CTBSV016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021633</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta X 6 Meses</Title>
+				<Title lang="es">Cuenta Vs. 6 Meses</Title>
+				<Title lang="en">Account X 6 Months</Title>
+				<Function>CTBSV017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021634</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Contábil</Title>
+				<Title lang="es">Bal. Parc. Cont</Title>
+				<Title lang="en">Acctg Trial Balance</Title>
+				<Function>CTBSV019</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021635</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Centro de Custo X Contas</Title>
+				<Title lang="es">Balanc Parc C. Costo Vs. Cta</Title>
+				<Title lang="en">Accounts X Cost Center Trial Balance</Title>
+				<Function>CTBSV023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021636</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Conta X Centro de Custo</Title>
+				<Title lang="es">Bal. Parc. Cta Vs. C Costo</Title>
+				<Title lang="en">Cost Center X Acct Trial Balance</Title>
+				<Function>CTBSV026</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021693</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Conta X Item Contábil</Title>
+				<Title lang="es">Balanc Parc Cta Vs. Ítem Cont</Title>
+				<Title lang="en">Trial Balance Account X Ledger Item</Title>
+				<Function>CTBSV030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021637</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Centro de Custo</Title>
+				<Title lang="es">Balanc Parc C. Costo</Title>
+				<Title lang="en">Trial Balance Cost Center</Title>
+				<Function>CTBSV031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021638</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Item Contábil</Title>
+				<Title lang="es">Balanc Parcial Ítem Cont</Title>
+				<Title lang="en">Ledger Item Trial Balance</Title>
+				<Function>CTBSV032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021639</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Classe X Conta</Title>
+				<Title lang="es">Bal. Parc. Clase Vs. Cta</Title>
+				<Title lang="en">Trial Balance Class X Account</Title>
+				<Function>CTBSV036</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021644</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete 6 Colunas</Title>
+				<Title lang="es">Balance Parcial 6 Columnas</Title>
+				<Title lang="en">Trial Balance 6 Columns</Title>
+				<Function>CTBSV037</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Classe de Valor</Title>
+				<Title lang="es">Balance Parcial Clase de Valor</Title>
+				<Title lang="en">Value Class Trial Balance</Title>
+				<Function>CTBSV038</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021647</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Analitico Sintetico Modelo 1</Title>
+				<Title lang="es">Bal Parcial Anal Sint Modelo 1</Title>
+				<Title lang="en">Detailed Summarized Trial Balance Model 1</Title>
+				<Function>CTBSV043</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021648</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Analitico Sintetico Modelo 4</Title>
+				<Title lang="es">Bal Parcial Anal Sint Modelo 4</Title>
+				<Title lang="en">Detailed Summarized Trial Balance Model 4</Title>
+				<Function>CTBSV047</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021649</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete 1 Entidade Filtrada Por Conta</Title>
+				<Title lang="es">Balance Parcial 1 Ente Filtrado Por Cuenta</Title>
+				<Title lang="en">Trial Balance 1 Entity Filtered By Account</Title>
+				<Function>CTBSV052</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021650</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Comparativo Mov. de Contas X 12 Colunas</Title>
+				<Title lang="es">Balanc Comparativo Mov. de Ctas Vs. 12 Columnas</Title>
+				<Title lang="en">12 Columns X Acct Transac Comparatv Trial Balance</Title>
+				<Function>CTBSV053</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021651</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete de Itens X Centro de Custo</Title>
+				<Title lang="es">Bal Parcial Ítems Vs. C Costo</Title>
+				<Title lang="en">Cost Center X Items Trial Balance</Title>
+				<Function>CTBSV054</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021695</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Comparativo de Item S/ 6 Cl. Valores</Title>
+				<Title lang="es">Bal. Parc Comparat Ítem S/ 6 Cl. Valores</Title>
+				<Title lang="en">Comparative Trial Balance Of Item S/ 6 Value Cl.</Title>
+				<Function>CTBSV059</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastrais</Title>
+			<Title lang="es">Registros</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000021659</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conversão de Moedas</Title>
+				<Title lang="es">Conversión de Monedas</Title>
+				<Title lang="en">Currency Conversion</Title>
+				<Function>CTBSV008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas</Title>
+				<Title lang="es">Plan de Cuentas</Title>
+				<Title lang="en">Chart Of Accounts</Title>
+				<Function>CTBSV020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021661</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centro de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBSV028</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021662</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Contábil</Title>
+				<Title lang="es">Ítem Contable</Title>
+				<Title lang="en">Accounting Item</Title>
+				<Function>CTBSV034</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021663</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem Gerencial / Visão Gerencial</Title>
+				<Title lang="es">Lta Gestión / Vis Gest</Title>
+				<Title lang="en">Management List / Management View</Title>
+				<Function>CTBSV040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021664</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Contas Referencial</Title>
+				<Title lang="es">Plan de Cuentas de Referencia</Title>
+				<Title lang="en">Reference Chart Of Accounts</Title>
+				<Function>CTBSV041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021665</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe de Valor</Title>
+				<Title lang="es">Clase de Valor</Title>
+				<Title lang="en">Value Class</Title>
+				<Function>CTBSV042</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021666</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidade</Title>
+				<Title lang="es">Ente</Title>
+				<Title lang="en">Entity</Title>
+				<Function>CTBSV048</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comparativos</Title>
+			<Title lang="es">Comparativos</Title>
+			<Title lang="en">Comparatives</Title>
+			<ItemID>0000021669</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimento Centro de Custo X Conta 12 Meses</Title>
+				<Title lang="es">Mov C Costo Vs. Cta 12 Meses</Title>
+				<Title lang="en">Transaction Cost Center X Acct 12 Months</Title>
+				<Function>CTBSV003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021684</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta X 6 Filiais</Title>
+				<Title lang="es">Cta Vs. 6 Suc.</Title>
+				<Title lang="en">Account X 6 Branches</Title>
+				<Function>CTBSV004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021685</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta X 12 Meses</Title>
+				<Title lang="es">Cuenta Vs. 12 Meses</Title>
+				<Title lang="en">Account X 12 Months</Title>
+				<Function>CTBSV024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021692</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentos Acumulados Centro de Custo X Conta</Title>
+				<Title lang="es">Movim. Acumulados C. Costo Vs. Cta</Title>
+				<Title lang="en">Account X Cost Center Accrued Transactions</Title>
+				<Function>CTBSV046</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021694</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise Vertical X Analise Horizontal</Title>
+				<Title lang="es">Anál. Vertical Vs. Anal. Horizontal</Title>
+				<Title lang="en">Vertical Analysis X Horiz. Analysis</Title>
+				<Function>CTBSV057</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021696</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Demonstrativos</Title>
+			<Title lang="es">Informes</Title>
+			<Title lang="en">Statements</Title>
+			<ItemID>0000021698</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Modelo 1</Title>
+				<Title lang="es">Balance Modelo 1</Title>
+				<Title lang="en">Balance Model 1</Title>
+				<Function>CTBSV010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021700</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Modelo 2</Title>
+				<Title lang="es">Balance Modelo 2</Title>
+				<Title lang="en">Balance Model 2</Title>
+				<Function>CTBSV014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021701</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativos de Resultados (dre)</Title>
+				<Title lang="es">Informes de Resultados (dre)</Title>
+				<Title lang="en">Result Statements (dre)</Title>
+				<Function>CTBSV015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021702</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diários Contábeis (livro Diário)</Title>
+				<Title lang="es">Diarios Cont (libro Diario)</Title>
+				<Title lang="en">Accounting Journals (ledger)</Title>
+				<Function>CTBSV025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021704</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Patrimonial</Title>
+				<Title lang="es">Balance Patrimonial</Title>
+				<Title lang="en">Balance Sheet</Title>
+				<Function>CTBSV029</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021705</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Modelo 5</Title>
+				<Title lang="es">Balance Modelo 5</Title>
+				<Title lang="en">Balance Model 5</Title>
+				<Function>CTBSV035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021706</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise Vertical (demonstrativos)</Title>
+				<Title lang="es">Anál. Vertical (informes)</Title>
+				<Title lang="en">Vertical Analysis (statements)</Title>
+				<Function>CTBSV044</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021707</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo Variação</Title>
+				<Title lang="es">Informe Variación</Title>
+				<Title lang="en">Variation Statement</Title>
+				<Function>CTBSV056</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021708</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstração do Fluxo de Caixa</Title>
+				<Title lang="es">Inf. Flujo de Caja</Title>
+				<Title lang="en">Cash Flow Statement</Title>
+				<Function>CTBSV058</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021709</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000021711</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conta Por Documento Fiscal</Title>
+				<Title lang="es">Cta Por Docum Fiscal</Title>
+				<Title lang="en">Account By Tax Document</Title>
+				<Function>CTBSV005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021714</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos de Apuração e Conta Ponte</Title>
+				<Title lang="es">Registros de Cálculo Y Cuenta Puente</Title>
+				<Title lang="en">Calculation Entries And Bridge Account</Title>
+				<Function>CTBSV013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021716</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Classificados Por Sublote</Title>
+				<Title lang="es">Inf. Clasificados Por Sublote</Title>
+				<Title lang="en">Classified By Sub-batch Report</Title>
+				<Function>CTBSV039</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021717</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório Lançamento Por Centro de Custo</Title>
+				<Title lang="es">Inf. Astos Por C Costo</Title>
+				<Title lang="en">Entry By Cost Center Report</Title>
+				<Function>CTBSV045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021718</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferência Digitação Documento Fiscal</Title>
+				<Title lang="es">Verificación Digitación Documento Fiscal</Title>
+				<Title lang="en">Tax Document Typing Check</Title>
+				<Function>CTBSV049</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021719</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diário Geral Por Documento Fiscal</Title>
+				<Title lang="es">Diario Gen Por Doc Fiscal</Title>
+				<Title lang="en">General Journal By Tax Document</Title>
+				<Function>CTBSV050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021720</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diário Geral</Title>
+				<Title lang="es">Diario Gen</Title>
+				<Title lang="en">General Journal</Title>
+				<Function>CTBSV051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021726</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Razões</Title>
+			<Title lang="es">Lib. Mayores</Title>
+			<Title lang="en">Ledgers</Title>
+			<ItemID>0000021734</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Gerencial</Title>
+				<Title lang="es">Libro Mayor de Gestión</Title>
+				<Title lang="en">Management Ledger</Title>
+				<Function>CTBSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021735</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Por Entidade</Title>
+				<Title lang="es">Libro Mayor Por Ente</Title>
+				<Title lang="en">Ledger By Entity</Title>
+				<Function>CTBSV006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021736</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Plano de Contas Referencial</Title>
+				<Title lang="es">Lib May Plan Ctas Referencial</Title>
+				<Title lang="en">Reference Chart Of Accounts Ledger</Title>
+				<Function>CTBSV009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Contábil</Title>
+				<Title lang="es">Lib Mayor Cont</Title>
+				<Title lang="en">Ledger</Title>
+				<Function>CTBSV018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021738</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Centro de Custo</Title>
+				<Title lang="es">Lib Mayor C. Costo</Title>
+				<Title lang="en">Cost Center Ledger</Title>
+				<Function>CTBSV021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021740</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Item Contabil</Title>
+				<Title lang="es">Lib Mayor Ít Cont</Title>
+				<Title lang="en">Accounting Ledger Item</Title>
+				<Function>CTBSV022</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021742</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão 2 Moedas</Title>
+				<Title lang="es">Lib May 2 Monedas</Title>
+				<Title lang="en">2 Curr Ledger</Title>
+				<Function>CTBSV027</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021743</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Razão Classe de Valor</Title>
+				<Title lang="es">Lib Mayor Clase Val</Title>
+				<Title lang="en">Value Class Ledger</Title>
+				<Function>CTBSV033</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021744</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A340000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000005894</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Operacionais</Title>
+			<Title lang="es">Operativos</Title>
+			<Title lang="en">Operations</Title>
+			<ItemID>0000005904</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Digitação</Title>
+				<Title lang="es">Configuracion de Digitacion</Title>
+				<Title lang="en">Entry Configuration</Title>
+				<Function>CTBR070</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005905</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conferências,lançamentos,contábeis,contábil,configurações,digitações</KeyWord>
+					<KeyWord lang="es">Verificaciones,asientos,contables,contable,configuraciones,digitaciones</KeyWord>
+					<KeyWord lang="en">Checks,transactions,accounting,accounting,configuration,typing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Com Diferença</Title>
+				<Title lang="es">Asientos Con Diferencia</Title>
+				<Title lang="en">Entries With Difference</Title>
+				<Function>CTBR670</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CT6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lotes,lancamentos,batidas,inconsistências,inconsistentes,diferenças</KeyWord>
+					<KeyWord lang="es">Lotes,asientos,marcaciones,inconsistencias,inconsistentes,diferencias</KeyWord>
+					<KeyWord lang="en">Lots,transactions,hits,inconsistencies,inconsistent,differences</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conferência de Lançamentos</Title>
+				<Title lang="es">Conferencia de Asientos</Title>
+				<Title lang="en">Transaction Conference</Title>
+				<Function>CTBR355</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005930</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conferências</KeyWord>
+					<KeyWord lang="es">Verificaciones</KeyWord>
+					<KeyWord lang="en">Conference</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Balancetes</Title>
+			<Title lang="es">Balance Parcial</Title>
+			<Title lang="en">Trial Balances</Title>
+			<ItemID>0000005932</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelo 1</Title>
+				<Title lang="es">Modelo 1</Title>
+				<Title lang="en">Model 1</Title>
+				<Function>CTBR040</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022286</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo X Contas X Itens X Classe de Valor</Title>
+				<Title lang="es">Centro de Costo Vs Cuentas Vs Items Vs Clase de Va</Title>
+				<Title lang="en">Cost Center X Accoutns X Items X Class Value</Title>
+				<Function>CTBR195</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000005986</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Balancetes,centros,custos,classes,valores,contas,item,contábil,contábeis</KeyWord>
+					<KeyWord lang="es">Balances_parciales,centros,costos,clases,valores,cuentas,item,contable,contables</KeyWord>
+					<KeyWord lang="en">Trial_balance,centers,costs,classes,values,accounts,item,accounting,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Razoes</Title>
+			<Title lang="es">Libros May.</Title>
+			<Title lang="en">Ledgers</Title>
+			<ItemID>0000006003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contábil</Title>
+				<Title lang="es">Contable</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>CTBR400</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022287</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Diarios</Title>
+			<Title lang="es">Diarios</Title>
+			<Title lang="en">Tax Records</Title>
+			<ItemID>0000006023</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contábil</Title>
+				<Title lang="es">Contable</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>CTBR110</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022288</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Comparativos</Title>
+			<Title lang="es">Comparativos</Title>
+			<Title lang="en">Comparisons</Title>
+			<ItemID>0000006041</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tp Saldo X Cta</Title>
+				<Title lang="es">Tp Saldo Vs Cta</Title>
+				<Title lang="en">Bal. Tp. Vs. Acct.</Title>
+				<Function>CTBR350</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006052</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comparativos,tipos,contas,saldos</KeyWord>
+					<KeyWord lang="es">Comparativos,tipos,cuentas,saldos</KeyWord>
+					<KeyWord lang="en">Comparatives,types,accounts,balances</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Demonstrativos</Title>
+			<Title lang="es">Estados Demostr.</Title>
+			<Title lang="en">Statements</Title>
+			<ItemID>0000006073</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fluxo de Caixa - Dfc</Title>
+				<Title lang="es">Flujo de Caja - Dfc</Title>
+				<Title lang="en">Cashflow - Dfc</Title>
+				<Function>CTBR560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Patrimonial</Title>
+				<Title lang="es">Estado de Resultados</Title>
+				<Title lang="en">Balance Sheet</Title>
+				<Function>CTBR500</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CT0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022290</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Resultado - Dre</Title>
+				<Title lang="es">Estado de Resultados - Dre</Title>
+				<Title lang="en">Result Statement - Dre</Title>
+				<Function>CTBR510</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022289</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mutacoes Pat.liq.</Title>
+				<Title lang="es">Evol. Pat. Neto</Title>
+				<Title lang="en">Net Equity Changes</Title>
+				<Function>CTBR530</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Demonstrativos,patrimônios,patrimoniais,líquidos</KeyWord>
+					<KeyWord lang="es">Estados_demostrativos,patrimonios,patrimoniales,netos</KeyWord>
+					<KeyWord lang="en">Statements,equity,equity,net</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabil</Title>
+				<Title lang="es">Contable</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>CTBR400</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006005</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Razão,razões,contábeis</KeyWord>
+					<KeyWord lang="es">Razon,razones,contables</KeyWord>
+					<KeyWord lang="en">Ledger,ledgers,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro de Apuração Contábil de Contrato</Title>
+			<Title lang="es">Reg Cálc Cont Cont</Title>
+			<Title lang="en">Contract Accounting Calculation Register</Title>
+			<ItemID>0000019792</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp</Title>
+			<Title lang="es">Mcasp</Title>
+			<Title lang="en">Mcasp</Title>
+			<ItemID>0000016810</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Patrimonial</Title>
+				<Title lang="es">Balance Patrimonial</Title>
+				<Title lang="en">Balance Sheet</Title>
+				<Function>CTBR500P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016811</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstr.variação Patrimonial</Title>
+				<Title lang="es">Informe Variación Patrimonial</Title>
+				<Title lang="en">Equity Variation Statem.</Title>
+				<Function>CTBR510P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016818</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balancete Financeiro</Title>
+				<Title lang="es">Balance Parcial Financiero</Title>
+				<Title lang="en">Financial Trial Balance</Title>
+				<Function>CTBR505P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016819</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstr.fluxo de Caixa</Title>
+				<Title lang="es">Informe Flujo de Caja</Title>
+				<Title lang="en">Cash Flow Statement</Title>
+				<Function>CTBR560P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016820</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mcasp Ldo Lrf Rpps</Title>
+			<Title lang="es">Mcasp Ldo Lrf Rpps</Title>
+			<Title lang="en">Mcasp Ldo Lrf Rpps</Title>
+			<ItemID>0000017427</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabil</Title>
+				<Title lang="es">Contable</Title>
+				<Title lang="en">Accounting</Title>
+				<Function>CTBR110</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006026</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Diários,contábeis</KeyWord>
+					<KeyWord lang="es">Diarios,contables</KeyWord>
+					<KeyWord lang="en">Daily,accounting</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Lrf</Title>
+			<Title lang="es">Lrf</Title>
+			<Title lang="en">Lrf</Title>
+			<ItemID>0000017435</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Balanço Financeiro Mcasp - Crc</Title>
+				<Title lang="es">Balance Financiero Mcasp - Crc</Title>
+				<Title lang="en">Financial Balance Mcasp - Crc</Title>
+				<Function>CTBR517P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017442</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstração das Mutações do Patrimônio Líquido -</Title>
+				<Title lang="es">Informe de Cambios Patrimonio Neto -</Title>
+				<Title lang="en">Statement Of Net Equity Changes -</Title>
+				<Function>CTBR530P</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017444</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bal. Patrimonial</Title>
+				<Title lang="es">Bal. Patrimonial</Title>
+				<Title lang="en">Balance Sheet</Title>
+				<Function>CTBR500</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006078</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Demonstrativos,balanços,patrimônios,patrimoniais</KeyWord>
+					<KeyWord lang="es">Estados_demostrativos,balances,patrimonios,patrimoniales</KeyWord>
+					<KeyWord lang="en">Statements,balance,equity,equity</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. Fluxo Caixa</Title>
+				<Title lang="es">Est. Flujo Caja</Title>
+				<Title lang="en">Cash Flow Statem.</Title>
+				<Function>CTBR560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006088</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Demonstrativos,fluxos,caixas</KeyWord>
+					<KeyWord lang="es">Estados_demostrativos,flujos,cajas</KeyWord>
+					<KeyWord lang="en">Statements,flows,cashes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle Orçamentário - Mcasp</Title>
+			<Title lang="es">Control Presupuestario - Mcasp</Title>
+			<Title lang="en">Budgetary Control - Mcasp</Title>
+			<ItemID>0000024827</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Loa</Title>
+			<Title lang="es">Loa</Title>
+			<Title lang="en">Loa</Title>
+			<ItemID>0000024829</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstração Rec.e Despesas Segundo as Categorias</Title>
+				<Title lang="es">Informe de Ingresos Y Gastos Según Las Categorías</Title>
+				<Title lang="en">Revenues And Expenses Statement as Per Categories</Title>
+				<Function>PCOR071</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024830</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo da Natureza da Despesa - Por Órgão</Title>
+				<Title lang="es">Informe de La Modalidad Del Gasto - Por Organismo</Title>
+				<Title lang="en">Statement Report Of Expense Nature - Per Body</Title>
+				<Function>PCOR072</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024831</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo da Natureza da Despesa Por Unid. Orc</Title>
+				<Title lang="es">Informe Modalidad Del Gasto Por Unid. Presup.</Title>
+				<Title lang="en">Statement Of Expense Nature Per Budget Unit</Title>
+				<Function>PCOR073</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024832</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. Progr. de Trabalho de Governo Por Unid. Orcam</Title>
+				<Title lang="es">Inf. Progr. de Trabajo de Gobierno Por Unid. Pres.</Title>
+				<Title lang="en">Government Labor Program Statem By Budg Unit</Title>
+				<Function>PCOR074</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024833</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relat. Programa de Trabalho de Governo Por Órgão</Title>
+				<Title lang="es">Inf. Programa de Trabajo de Gobierno Por Org.</Title>
+				<Title lang="en">Government Labor Program Per Body Report</Title>
+				<Function>PCOR075</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024834</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. de Funç. e Subfunção e Prog. Por Proj. e Ativ</Title>
+				<Title lang="es">Inf. Función Y Subfunción Y Prog. Por Proy. Y Act.</Title>
+				<Title lang="en">Stat Of Func And Subfunc And Prog By Proj And Actv</Title>
+				<Function>PCOR076</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024835</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo da Despesa – Por Órgãos e Funções</Title>
+				<Title lang="es">Informe de Gasto - Por Organismos Y Funciones</Title>
+				<Title lang="en">Statement Of Expense - Per Bodies And Functions</Title>
+				<Function>PCOR077</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024836</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo da Receita</Title>
+				<Title lang="es">Informe Del Ingreso</Title>
+				<Title lang="en">Statement Of Income</Title>
+				<Function>PCOR078</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024837</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo da Receita Orcada Com a Realizada</Title>
+				<Title lang="es">Comp. Ingreso Presupuestado Con Realizado</Title>
+				<Title lang="en">Comparison Budgeted And Actual Revenue</Title>
+				<Function>PCOR079</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024838</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. de Funç. e Subfun. e Prog. Com Vínculo de Rec</Title>
+				<Title lang="es">Inf. Func. Y Subfun. Y Prog. Con Vínculo de Ingr.</Title>
+				<Title lang="en">Stat Of Func And Subfunc And Prog W Rev Link</Title>
+				<Function>PCOR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024839</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparativo da Despesa Autorizada Com a Realizada</Title>
+				<Title lang="es">Comparación de Gasto Autorizado Con El Realizado</Title>
+				<Title lang="en">Authorized Vs. Incurred Expense Comparative</Title>
+				<Function>PCOR081</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024840</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ppa</Title>
+			<Title lang="es">Ppa</Title>
+			<Title lang="en">Ppa</Title>
+			<ItemID>0000024842</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura de Orgaos, Unidades Orçamentarias e Exec</Title>
+				<Title lang="es">Estructura de Org., Unid. Presup. Y Ejec.</Title>
+				<Title lang="en">Structure Of Bodies, Budgeting Units And Exec</Title>
+				<Function>PCOR082</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatorio Resumo Por Unidade Gestora</Title>
+				<Title lang="es">Informe Resumen Por Unidad Administradora</Title>
+				<Title lang="en">Summary Per Managerial Unit Report</Title>
+				<Function>PCOR084</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024845</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatorio Ppa - Receitas da Administração Direta e</Title>
+				<Title lang="es">Informe Ppa - Ingresos Administración Directa Y</Title>
+				<Title lang="en">Ppa Report - Direct Administration Revenues And</Title>
+				<Function>PCOR086</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024848</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lrf</Title>
+			<Title lang="es">Lrf</Title>
+			<Title lang="en">Lrf</Title>
+			<ItemID>0000024849</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. da Execucao das Despesas Por Funcao/subfuncao</Title>
+				<Title lang="es">Inf. Ejec. Gastos Por Función/subfunción</Title>
+				<Title lang="en">Expense Execution Per Function/sub-function Statmt</Title>
+				<Function>PCOR083</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024844</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. da Receita Com Alienacao de Ativos e Aplicaça</Title>
+				<Title lang="es">Inf. Ingreso C/enajenación de Act. Y Aplic.</Title>
+				<Title lang="en">Revenue Stat With Asset Transfer And Applic</Title>
+				<Function>PCOR085</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024852</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dem. das Rec. de Operac. de Créd. e Desp. de Capit</Title>
+				<Title lang="es">Inf. Ingr. Operac. Créd Y Gasto de Cap.</Title>
+				<Title lang="en">Stat Of Cred And Capit Exp Operat Rev</Title>
+				<Function>PCOR087</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Receitas e Despesas Previdenciari</Title>
+				<Title lang="es">Informe de Ingresos Y Gastos Previsionales</Title>
+				<Title lang="en">Statement Of Welfare Revenue And Expenses</Title>
+				<Function>PCOR090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024854</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ldo</Title>
+			<Title lang="es">Ldo</Title>
+			<Title lang="en">Ldo</Title>
+			<ItemID>0000024856</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Demonstrativo de Metas Anuais</Title>
+				<Title lang="es">Informe de Metas Anuales</Title>
+				<Title lang="en">Statement Of Annual Goals</Title>
+				<Function>PCOR089</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024857</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metas Fiscais Atu X Metas Fiscais Fix 3 Exerc Ant</Title>
+				<Title lang="es">Metas Fisc. Act. Vs. Metas Fisc. Fij 3 Ejerc. Ant.</Title>
+				<Title lang="en">Curr Tax Goals X Fix Tax Goals 3 Prev Fisc Yrs</Title>
+				<Function>PCOR091</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024858</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A340000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Refaz Saldos</Title>
+			<Title lang="es">Rehace Saldos</Title>
+			<Title lang="en">Redo Balances</Title>
+			<ItemID>0000006108</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Valida Plano de Contas</Title>
+				<Title lang="es">Valida Plan de Cuentas</Title>
+				<Title lang="en">Validates Chart Of Accounts</Title>
+				<Function>CTBA170</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006114</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Validações,validação,planos</KeyWord>
+					<KeyWord lang="es">Validaciones,validacion,planes</KeyWord>
+					<KeyWord lang="en">Validation,validation,plans</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processamentos</Title>
+			<Title lang="es">Procesamiento</Title>
+			<Title lang="en">Processing</Title>
+			<ItemID>0000006116</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivação</Title>
+				<Title lang="es">Efectivizacion</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>CTBA350</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CTI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006117</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pre,efetivar,lançamentos,efetivações</KeyWord>
+					<KeyWord lang="es">Pre,efectivar,asientos,efectivizaciones</KeyWord>
+					<KeyWord lang="en">Pre,effectivate,transactions,effectivations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Txt</Title>
+				<Title lang="es">Contabilizacion Tx</Title>
+				<Title lang="en">Txt Accounting</Title>
+				<Function>CTBA500</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Tables>CT5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006118</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Contabilizações,arquivos</KeyWord>
+					<KeyWord lang="es">Contabilizaciones,archivos</KeyWord>
+					<KeyWord lang="en">Accounting,files</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Off-line</Title>
+				<Title lang="es">Prorrateo Off-line</Title>
+				<Title lang="en">Off-line Apport.</Title>
+				<Function>CTBA280</Function>
+				<Type>1</Type>
+				<Tables>CTQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006119</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios</KeyWord>
+					<KeyWord lang="es">Prorrateos</KeyWord>
+					<KeyWord lang="en">Apportions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rateio Off-line Combinações</Title>
+				<Title lang="es">Prorrateo Offline Combinac</Title>
+				<Title lang="en">Off-line Apportion Combinations</Title>
+				<Function>CTBA281</Function>
+				<Type>1</Type>
+				<Tables>CTQ</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rateios,combinação</KeyWord>
+					<KeyWord lang="es">Prorrateos,combinacion</KeyWord>
+					<KeyWord lang="en">Apportion,combination</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Intercompany</Title>
+				<Title lang="es">Intercompany</Title>
+				<Title lang="en">Intercompany</Title>
+				<Function>CTBA295</Function>
+				<Type>1</Type>
+				<Tables>CV5</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT1</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006121</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Processamentos,contabil,consolidacao,contábeis,consolidações</KeyWord>
+					<KeyWord lang="es">Procesamientos,contable,consolidacion,contables,consolidaciones</KeyWord>
+					<KeyWord lang="en">Processing,accounting,consolidation,accounting,consolidation</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consolidação Geral</Title>
+				<Title lang="es">Consolidacion Gen.</Title>
+				<Title lang="en">General Consolidation</Title>
+				<Function>CTBA220</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTF</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006122</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Processamentos,contabil,contábeis,consolidações,gerais,generalizadas</KeyWord>
+					<KeyWord lang="es">Procesamientos,contable,contables,consolidaciones,generales,generalizadas</KeyWord>
+					<KeyWord lang="en">Processing,accounting,accounting,consolidation,general,generalized</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consolidação Configurada</Title>
+				<Title lang="es">Consolidac.configurada</Title>
+				<Title lang="en">Configured Consolidation</Title>
+				<Function>CTBA230</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CTB</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTF</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006123</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Processamentos,configurar,configuracao,consolidações,configurações,configurados,configuradas</KeyWord>
+					<KeyWord lang="es">Procesamientos,configurar,configuracion,consolidaciones,configuraciones,configurados,configuradas</KeyWord>
+					<KeyWord lang="en">Processing,configure,configuration,consolidation,configuration,configured,configured</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consolidação Configurada 2</Title>
+				<Title lang="es">Consolidac Configurada 2</Title>
+				<Title lang="en">Configured Consolidation 2</Title>
+				<Function>CTBA231</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006124</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Processamentos,configuracao,configurar,dois,consolidações,configurações,configurados,configuradas</KeyWord>
+					<KeyWord lang="es">Procesamientos,configuracion,configurar,dos,consolidaciones,configuraciones,configurados,configuradas</KeyWord>
+					<KeyWord lang="en">Processing,configuration,configure,two,consolidation,configuration,configured,configured</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cópia de Saldos</Title>
+				<Title lang="es">Copia de Saldos</Title>
+				<Title lang="en">Copy Of Balances</Title>
+				<Function>CTBM300</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CTF</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTU</Tables>
+				<Tables>CTV</Tables>
+				<Tables>CTW</Tables>
+				<Tables>CTX</Tables>
+				<Tables>CTY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006125</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cópias</KeyWord>
+					<KeyWord lang="es">Copias</KeyWord>
+					<KeyWord lang="en">Copies</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ajustes Moedas</Title>
+			<Title lang="es">Ajuste Monedas</Title>
+			<Title lang="en">Currency Adjustm.</Title>
+			<ItemID>0000006127</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização Moedas</Title>
+				<Title lang="es">Actualizac Monedas</Title>
+				<Title lang="en">Currency Update</Title>
+				<Function>CTBA370</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,atualizações</KeyWord>
+					<KeyWord lang="es">Ajustes,actualizaciones</KeyWord>
+					<KeyWord lang="en">Adjustments,updates</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Monetária</Title>
+				<Title lang="es">Variacion Monetari</Title>
+				<Title lang="en">Indexation</Title>
+				<Function>CTBA380</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006129</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,monetários,monetárias,variações</KeyWord>
+					<KeyWord lang="es">Ajustes,monetarios,monetarias,variaciones</KeyWord>
+					<KeyWord lang="en">Adjustments,monetary,monetary,variations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ajustes Na Conversão de Moeda</Title>
+				<Title lang="es">Ajustes En La Conversion de Moneda</Title>
+				<Title lang="en">Currency Conversion Adjustment</Title>
+				<Function>CTBA340</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006131</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,conversao,conversões,moedas</KeyWord>
+					<KeyWord lang="es">Ajustes,conversion,conversiones,monedas</KeyWord>
+					<KeyWord lang="en">Adjustments,conversion,conversions,currencies</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variação Cambial Modelo 02</Title>
+				<Title lang="es">Variac Cambiaria Modelo 02</Title>
+				<Title lang="en">Exchange Var Model 02</Title>
+				<Function>CTBA382</Function>
+				<Type>1</Type>
+				<Tables>CQC</Tables>
+				<Tables>CQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019508</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ajustes,monetários,monetárias,variações</KeyWord>
+					<KeyWord lang="es">Ajustes,monetarios,monetarias,variaciones</KeyWord>
+					<KeyWord lang="en">Adjustments,monetary,monetary,variations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integracoes</Title>
+			<Title lang="es">Integraciones</Title>
+			<Title lang="en">Integration</Title>
+			<ItemID>0000006139</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Planilha Excel</Title>
+				<Title lang="es">Planilla Excel</Title>
+				<Title lang="en">Excel Worksheet</Title>
+				<Function>APEXCEL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006140</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integracoes,integração,planilhas</KeyWord>
+					<KeyWord lang="es">Integraciones,integracion,planillas</KeyWord>
+					<KeyWord lang="en">Integration,integration,spreadsheet</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportação Sinco</Title>
+				<Title lang="es">Exportacion Sinco</Title>
+				<Title lang="en">Sinco Export</Title>
+				<Function>CTBA997</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTT</Tables>
+				<Tables>CT8</Tables>
+				<Tables>CT2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006143</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integracoes,integração,exportações</KeyWord>
+					<KeyWord lang="es">Integraciones,integracion,exportaciones</KeyWord>
+					<KeyWord lang="en">Integration,integration,export</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Meios Magnéticos</Title>
+				<Title lang="es">Medios Magneticos</Title>
+				<Title lang="en">Magnetic Means</Title>
+				<Function>CTBA950</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integracoes,integração</KeyWord>
+					<KeyWord lang="es">Integraciones,integracion</KeyWord>
+					<KeyWord lang="en">Integrations,integration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportação Txt de Movimento</Title>
+				<Title lang="es">Exportacion Txt de Movimiento</Title>
+				<Title lang="en">Export Transaction Rate</Title>
+				<Function>CTBA420</Function>
+				<Type>1</Type>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014064</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integracoes,integração,exportações,arquivos,movimentos</KeyWord>
+					<KeyWord lang="es">Integraciones,integracion,exportaciones,archivos,movimientos</KeyWord>
+					<KeyWord lang="en">Integration,integration,export,files,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportar Demonstrativos Json</Title>
+				<Title lang="es">Exportar Estados de Resultado Json</Title>
+				<Title lang="en">Export Json Statements</Title>
+				<Function>CTBJSON</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016853</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integracoes,integração,exportações,arquivos</KeyWord>
+					<KeyWord lang="es">Integraciones,integración,exportaciones,archivos</KeyWord>
+					<KeyWord lang="en">Integrations,integration,export,files</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000006146</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006147</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Rastrear,rastreamentos,rastreios</KeyWord>
+					<KeyWord lang="es">Rastrear,rastreos,rastreos</KeyWord>
+					<KeyWord lang="en">Track,tracking,tracing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuarios</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Mensagem,mensagens,comunicação,comunicações</KeyWord>
+					<KeyWord lang="es">Mensaje,mensajes,comunicacion,comunicaciones</KeyWord>
+					<KeyWord lang="en">Message,messages,communication,communication</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Encerramentos</Title>
+			<Title lang="es">Cierres</Title>
+			<Title lang="en">Closings</Title>
+			<ItemID>0000006133</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Resultado</Title>
+				<Title lang="es">Calculo Resultado</Title>
+				<Title lang="en">Result Calculation</Title>
+				<Function>CTBA211</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006134</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Encerramentos,resultados,apurações</KeyWord>
+					<KeyWord lang="es">Cierres,resultados,calculos</KeyWord>
+					<KeyWord lang="en">Closing,results,calculations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estorno da Apuração do Resultado</Title>
+				<Title lang="es">Reversion de Calculo de Resultado</Title>
+				<Title lang="en">Result Calculation Reversal</Title>
+				<Function>CTBA215</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006135</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Emcerramentos,resultados,apurações,estornos</KeyWord>
+					<KeyWord lang="es">Finalizaciones,resultados,calculos,reversiones</KeyWord>
+					<KeyWord lang="en">Closing,results,calculations,reversal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Encerramento do Exercício</Title>
+				<Title lang="es">Cierre de Ejercicio</Title>
+				<Title lang="en">Fiscal Year Closing</Title>
+				<Function>CTBA400</Function>
+				<Type>1</Type>
+				<Tables>CT1</Tables>
+				<Tables>CT2</Tables>
+				<Tables>CT3</Tables>
+				<Tables>CT4</Tables>
+				<Tables>CT6</Tables>
+				<Tables>CTC</Tables>
+				<Tables>CT7</Tables>
+				<Tables>CTD</Tables>
+				<Tables>CTI</Tables>
+				<Tables>CTH</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000006136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Encerramentos,exercícios</KeyWord>
+					<KeyWord lang="es">Cierres,ejercicios</KeyWord>
+					<KeyWord lang="en">Closing,exercises</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apuração Por Visão</Title>
+				<Title lang="es">Cálculo Por Visión</Title>
+				<Title lang="en">Calculation Per View</Title>
+				<Function>CTBA212</Function>
+				<Type>1</Type>
+				<Tables>QN8</Tables>
+				<Tables>QN9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016485</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Apuração,visão</KeyWord>
+					<KeyWord lang="es">Cálculo,visión</KeyWord>
+					<KeyWord lang="en">Calculation,view</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento Contábil</Title>
+				<Title lang="es">Cierre Contable</Title>
+				<Title lang="en">Accounting Closing</Title>
+				<Function>CTBA960</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019848</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização Off Line</Title>
+			<Title lang="es">Contabilidad Off Line</Title>
+			<Title lang="en">Off-line Accounting</Title>
+			<ItemID>0000023644</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Ativo Fixo</Title>
+			<Title lang="es">Activo Fijo</Title>
+			<Title lang="en">Fixed Asset</Title>
+			<ItemID>0000023645</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Atf</Title>
+				<Title lang="es">Contabilidad Atf</Title>
+				<Title lang="en">Atf Accounting</Title>
+				<Function>CTBAATF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Financeiro</Title>
+			<Title lang="es">Financiero</Title>
+			<Title lang="en">Financial</Title>
+			<ItemID>0000023649</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Fin</Title>
+				<Title lang="es">Contabilidad Fin</Title>
+				<Title lang="en">Fin Accounting</Title>
+				<Function>CTBAFIN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023650</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off Line Ordem de Pagamento/recibo</Title>
+				<Title lang="es">Contabilidad Off Line Orden de Pago/recibo</Title>
+				<Title lang="en">Payment Order/receipt Off-line Accounting</Title>
+				<Function>FINA371</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estoque/compras</Title>
+			<Title lang="es">Stock/compras</Title>
+			<Title lang="en">Stock/purchase</Title>
+			<ItemID>0000023652</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização de Nota Fiscal de Entrada</Title>
+				<Title lang="es">Contabilidad de Factura de Entrada</Title>
+				<Title lang="en">Inbound Invoice Accounting</Title>
+				<Function>CTBANFE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023658</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização de Custo</Title>
+				<Title lang="es">Contabilidado de Costo</Title>
+				<Title lang="en">Cost Accounting</Title>
+				<Function>MATA331</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Jurídico</Title>
+			<Title lang="es">Jurídico</Title>
+			<Title lang="en">Legal</Title>
+			<ItemID>0000023653</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off Line</Title>
+				<Title lang="es">Contabilidad Off Line</Title>
+				<Title lang="en">Off-line Accounting</Title>
+				<Function>JURA112</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023662</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Faturamento</Title>
+			<Title lang="es">Facturación</Title>
+			<Title lang="en">Invoicing</Title>
+			<ItemID>0000023654</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização de Nota Fiscal de Saída</Title>
+				<Title lang="es">Contabilidad de Factura de Salida</Title>
+				<Title lang="en">Outbound Invoice Accounting</Title>
+				<Function>CTBANFS</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Transporte</Title>
+			<Title lang="es">Transporte</Title>
+			<Title lang="en">Transport</Title>
+			<ItemID>0000023655</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off Line</Title>
+				<Title lang="es">Contabilidad Off Line</Title>
+				<Title lang="en">Off-line Accounting</Title>
+				<Function>TMSA840</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023661</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pré-faturamento</Title>
+			<Title lang="es">Fact. Previa</Title>
+			<Title lang="en">Prebilling</Title>
+			<ItemID>0000013355</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off-line</Title>
+				<Title lang="es">Contabilidad Off-line</Title>
+				<Title lang="en">Offline Accounting</Title>
+				<Function>JURA265</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013406</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Controle Orçamentário</Title>
+			<Title lang="es">Control Presup.</Title>
+			<Title lang="en">Budget Control</Title>
+			<ItemID>0000024793</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Reprocessamentos</Title>
+			<Title lang="es">Reprocesamientos</Title>
+			<Title lang="en">Reprocessing</Title>
+			<ItemID>0000024794</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Gerenciais</Title>
+				<Title lang="es">Cubos de Gestión</Title>
+				<Title lang="en">Managerial Cubes</Title>
+				<Function>PCOA300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024795</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,refaz,gerencial</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,saldos,rehace,de Gestión</KeyWord>
+					<KeyWord lang="en">Reprocessing,balances,redo,managerial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cubos Multi-thread</Title>
+				<Title lang="es">Cubos Multi-thread</Title>
+				<Title lang="en">Multi-threaded Cubes</Title>
+				<Function>PCOA301</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024796</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,refaz</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,saldos,rehace</KeyWord>
+					<KeyWord lang="en">Reprocessing,balances,redo</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>PCOA310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024797</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,movimentos,integração,integrações,movimentação,movimentações</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,movimientos,integración,integraciones,movimiento,movimientos</KeyWord>
+					<KeyWord lang="en">Reprocessing,transactions,integration,integrations,transaction,transactions</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Saldo Contábil</Title>
+				<Title lang="es">Asiento Saldo Contable</Title>
+				<Title lang="en">Accounting Balance Entries</Title>
+				<Function>PCOA330</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024798</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,contabeis,contabilidade,saldos</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,contables,contabilidad,saldos</KeyWord>
+					<KeyWord lang="en">Reprocessing,ledgers,accounting,balances</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Integração</Title>
+				<Title lang="es">Asientos de Integración</Title>
+				<Title lang="en">Integration Entries</Title>
+				<Function>PCOA009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Reprocessamentos,saldos,integrações</KeyWord>
+					<KeyWord lang="es">Reprocesamientos,saldos,integraciones</KeyWord>
+					<KeyWord lang="en">Reprocessings,balances,integrations</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exp. Mov. Orçamentários</Title>
+				<Title lang="es">Exp. Mov. Presupuestarios</Title>
+				<Title lang="en">Budgetary Trans Exp</Title>
+				<Function>PCOM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>34</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024800</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Integração,integrações,exportação,movimento,movimentos,orçamentário,orçamentários</KeyWord>
+					<KeyWord lang="es">Integracón,integraciones,exportación,movimiento,movimientos,presupuestario,presupuestarios</KeyWord>
+					<KeyWord lang="en">Integration,integrations,export,transaction,transactions,budgetary,budgetary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B340000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B340000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

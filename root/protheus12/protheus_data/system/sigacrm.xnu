@@ -1,0 +1,1669 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACRM</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A730000001</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Área de Trabalho</Title>
+				<Title lang="es">Area de Trabajo</Title>
+				<Title lang="en">Desktop</Title>
+				<Function>CRMA290</Function>
+				<Type>1</Type>
+				<Tables>AO4</Tables>
+				<Tables>AOH</Tables>
+				<Tables>AD5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Vendas</Title>
+			<Title lang="es">Ventas</Title>
+			<Title lang="en">Sales</Title>
+			<ItemID>0000016361</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atividades</Title>
+			<Title lang="es">Actividades</Title>
+			<Title lang="en">Activities</Title>
+			<ItemID>0000016362</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atividades</Title>
+				<Title lang="es">Actividades</Title>
+				<Title lang="en">Activities</Title>
+				<Function>CRMA180</Function>
+				<Type>1</Type>
+				<Tables>AOF</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016363</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Associação de Contatos</Title>
+				<Title lang="es">Asociacion de Contactos</Title>
+				<Title lang="en">Contact Association</Title>
+				<Function>CRMA410</Function>
+				<Type>1</Type>
+				<Tables>AC8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016364</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contas</Title>
+			<Title lang="es">Cuentas</Title>
+			<Title lang="en">Accounts</Title>
+			<ItemID>0000016366</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Suspects</Title>
+				<Title lang="es">Suspects</Title>
+				<Title lang="en">Suspects</Title>
+				<Function>CRMA320</Function>
+				<Type>1</Type>
+				<Tables>ACH</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016367</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prospects</Title>
+				<Title lang="es">Prospects</Title>
+				<Title lang="en">Prospects</Title>
+				<Function>CRMA700</Function>
+				<Type>1</Type>
+				<Tables>SUS</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000020502</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>CRMA070</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016368</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>CRMA470</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Tables>AGA</Tables>
+				<Tables>AGB</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016370</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura de Clientes</Title>
+				<Title lang="es">Estructura de Clientes</Title>
+				<Title lang="en">Customer Structure</Title>
+				<Function>CRMA400</Function>
+				<Type>1</Type>
+				<Tables>ACY</Tables>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016371</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Contas</Title>
+			<Title lang="es">Gestion de Cuentas</Title>
+			<Title lang="en">Account Managment</Title>
+			<ItemID>0000016372</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências de Contas</Title>
+				<Title lang="es">Transferencias de Cuentas</Title>
+				<Title lang="en">Account Transfer</Title>
+				<Function>CRMA020</Function>
+				<Type>1</Type>
+				<Tables>SA3</Tables>
+				<Tables>AIM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016374</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitações e Liberações de Contas</Title>
+				<Title lang="es">Solicitudes Y Liberaciones de Cuentas</Title>
+				<Title lang="en">Account Request And Release</Title>
+				<Function>CRMA020B</Function>
+				<Type>1</Type>
+				<Tables>AIM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016373</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Transferência de Contas</Title>
+				<Title lang="es">Log de Transferencia de Cuentas</Title>
+				<Title lang="en">Account Transfer Log</Title>
+				<Function>CRMA030</Function>
+				<Type>1</Type>
+				<Tables>AIN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Outros</Title>
+			<Title lang="es">Otros</Title>
+			<Title lang="en">Other</Title>
+			<ItemID>0000017649</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Concorrentes</Title>
+				<Title lang="es">Competidores</Title>
+				<Title lang="en">Competitors</Title>
+				<Function>CRMA490</Function>
+				<Type>1</Type>
+				<Tables>AC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000017654</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parceiros</Title>
+				<Title lang="es">Asociados</Title>
+				<Title lang="en">Partners</Title>
+				<Function>CRMA500</Function>
+				<Type>1</Type>
+				<Tables>AC4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000017653</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>CRMA510</Function>
+				<Type>1</Type>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>2</Owner>
+				<ItemID>0000017652</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vendas</Title>
+			<Title lang="es">Ventas</Title>
+			<Title lang="en">Sales</Title>
+			<ItemID>0000016385</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Oportunidades</Title>
+				<Title lang="es">Oportunidades</Title>
+				<Title lang="en">Opportunity</Title>
+				<Function>CRMA110</Function>
+				<Type>1</Type>
+				<Tables>AD1</Tables>
+				<Tables>AD2</Tables>
+				<Tables>AD3</Tables>
+				<Tables>AD4</Tables>
+				<Tables>AD9</Tables>
+				<Tables>ADC</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016386</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel de Propostas</Title>
+				<Title lang="es">Panel de Propuestas</Title>
+				<Title lang="en">Proposal Panel</Title>
+				<Function>CRMA801</Function>
+				<Type>1</Type>
+				<Tables>ADY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021287</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamentos</Title>
+				<Title lang="es">Apuntes</Title>
+				<Title lang="en">Annotation</Title>
+				<Function>CRMA330</Function>
+				<Type>1</Type>
+				<Tables>AD5</Tables>
+				<Tables>AD6</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016387</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pedidos de Venda</Title>
+				<Title lang="es">Pedidos de Venta</Title>
+				<Title lang="en">Sales Orders</Title>
+				<Function>CRMA310</Function>
+				<Type>1</Type>
+				<Tables>SA7</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SBE</Tables>
+				<Tables>SBF</Tables>
+				<Tables>SC0</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SD5</Tables>
+				<Tables>SBK</Tables>
+				<Tables>SD7</Tables>
+				<Tables>SDC</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SGA</Tables>
+				<Tables>SM2</Tables>
+				<Tables>SDA</Tables>
+				<Tables>SDB</Tables>
+				<Tables>SBM</Tables>
+				<Tables>DAK</Tables>
+				<Tables>DAI</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000017596</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Metas</Title>
+			<Title lang="es">Metas</Title>
+			<Title lang="en">Goals</Title>
+			<ItemID>0000016449</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metas de Venda</Title>
+				<Title lang="es">Metas de Venta</Title>
+				<Title lang="en">Sales Target</Title>
+				<Function>CRMA480</Function>
+				<Type>1</Type>
+				<Tables>SCT</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016450</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mobile</Title>
+			<Title lang="es">Mobile</Title>
+			<Title lang="en">Mobile</Title>
+			<ItemID>0000019591</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Possíveis Negociações</Title>
+				<Title lang="es">Posibles Negociac.</Title>
+				<Title lang="en">Possible Negotiations</Title>
+				<Function>CRMA570</Function>
+				<Type>1</Type>
+				<Tables>AOJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000019592</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Marketing</Title>
+			<Title lang="es">Marketing</Title>
+			<Title lang="en">Marketing</Title>
+			<ItemID>0000017641</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Campanhas</Title>
+			<Title lang="es">Campanas</Title>
+			<Title lang="en">Campaigns</Title>
+			<ItemID>0000016436</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campanhas</Title>
+				<Title lang="es">Campanas</Title>
+				<Title lang="en">Campaigns</Title>
+				<Function>CRMA360</Function>
+				<Type>1</Type>
+				<Tables>SUP</Tables>
+				<Tables>SUQ</Tables>
+				<Tables>SUR</Tables>
+				<Tables>SUW</Tables>
+				<Tables>SUZ</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016439</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campanhas Rápidas</Title>
+				<Title lang="es">Campanas Rapidas</Title>
+				<Title lang="en">Quick Campaigns</Title>
+				<Function>CRMA250</Function>
+				<Type>1</Type>
+				<Tables>AOC</Tables>
+				<Tables>AOG</Tables>
+				<Tables>AOF</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018261</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metas de Campanhas</Title>
+				<Title lang="es">Metas de Campanas</Title>
+				<Title lang="en">Campaign Target</Title>
+				<Function>CRMA370</Function>
+				<Type>1</Type>
+				<Tables>AC6</Tables>
+				<Tables>AC7</Tables>
+				<Tables>SUZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016440</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listas de Marketing</Title>
+				<Title lang="es">Listas de Marketing</Title>
+				<Title lang="en">Marketing Lists</Title>
+				<Function>CRMA530</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SU6</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>13</Owner>
+				<ItemID>0000017642</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>CRMA340</Function>
+				<Type>1</Type>
+				<Tables>ACD</Tables>
+				<Tables>ACE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016437</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scripts Dinâmicos</Title>
+				<Title lang="es">Scripts Dinamicos</Title>
+				<Title lang="en">Dynamic Scripts</Title>
+				<Function>CRMA350</Function>
+				<Type>1</Type>
+				<Tables>SUP</Tables>
+				<Tables>SUQ</Tables>
+				<Tables>SUR</Tables>
+				<Tables>SUZ</Tables>
+				<Tables>SU6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016438</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Administração</Title>
+			<Title lang="es">Administracion</Title>
+			<Title lang="en">Management</Title>
+			<ItemID>0000016398</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Portfólio</Title>
+			<Title lang="es">Portafolio</Title>
+			<Title lang="en">Portfolio</Title>
+			<ItemID>0000016391</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SGA</Tables>
+				<Tables>SI1</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SD3</Tables>
+				<Tables>SYD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016392</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias X Produtos</Title>
+				<Title lang="es">Categorias Vs Productos</Title>
+				<Title lang="en">Categories X Products</Title>
+				<Function>FATA150</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>ACU</Tables>
+				<Tables>ACV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016396</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Produtos</Title>
+				<Title lang="es">Grupos de Productos</Title>
+				<Title lang="en">Product Groups</Title>
+				<Function>MATA035</Function>
+				<Type>1</Type>
+				<Tables>SBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016393</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complementos de Produtos</Title>
+				<Title lang="es">Complementos de Productos</Title>
+				<Title lang="en">Product Complements</Title>
+				<Function>MATA180</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016394</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acessórios</Title>
+				<Title lang="es">Accesorios</Title>
+				<Title lang="en">Accessories</Title>
+				<Function>TMKA030</Function>
+				<Type>1</Type>
+				<Tables>SU1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SUG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019621</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias de Produtos</Title>
+				<Title lang="es">Categorias de Productos</Title>
+				<Title lang="en">Product Categories</Title>
+				<Function>FATA142</Function>
+				<Type>1</Type>
+				<Tables>ACU</Tables>
+				<Tables>ACV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016395</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Measurement Units</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Tables>SAH</Tables>
+				<Tables>QEK</Tables>
+				<Tables>QE6</Tables>
+				<Tables>QE7</Tables>
+				<Tables>SFZ</Tables>
+				<Tables>SBD</Tables>
+				<Tables>SD8</Tables>
+				<Tables>SCM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>4</Owner>
+				<ItemID>0000017659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Locales de Stock</Title>
+				<Title lang="en">Stock Locations</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>67</Owner>
+				<ItemID>0000017660</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Entrada e Saída</Title>
+				<Title lang="es">Tipos de Entrada Y Salida</Title>
+				<Title lang="en">Types Of Entry And Exit</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>9</Owner>
+				<ItemID>0000017661</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Negócio</Title>
+			<Title lang="es">Negocio</Title>
+			<Title lang="en">Business</Title>
+			<ItemID>0000016399</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos de Venda</Title>
+				<Title lang="es">Procesos de Venta</Title>
+				<Title lang="en">Sales Process</Title>
+				<Function>FATA010</Function>
+				<Type>1</Type>
+				<Tables>AC1</Tables>
+				<Tables>AC2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016413</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários do Crm</Title>
+				<Title lang="es">Usuarios Del Crm</Title>
+				<Title lang="en">Crm Users</Title>
+				<Function>CRMA210</Function>
+				<Type>1</Type>
+				<Tables>AO3</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendedores</Title>
+				<Title lang="es">Vendedores</Title>
+				<Title lang="en">Sales Represen.</Title>
+				<Function>CRMA520</Function>
+				<Type>1</Type>
+				<Tables>SA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016417</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Negócio</Title>
+				<Title lang="es">Unidades de Negocio</Title>
+				<Title lang="en">Business Units</Title>
+				<Function>FATA510</Function>
+				<Type>1</Type>
+				<Tables>ADK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016418</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipes de Venda</Title>
+				<Title lang="es">Equipos de Venta</Title>
+				<Title lang="en">Sales Teams</Title>
+				<Function>FATA060</Function>
+				<Type>1</Type>
+				<Tables>ACA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016419</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura de Negócio</Title>
+				<Title lang="es">Estrucura de Negocio</Title>
+				<Title lang="en">Business Structure</Title>
+				<Function>CRMA240</Function>
+				<Type>1</Type>
+				<Tables>AO5</Tables>
+				<Tables>ACA</Tables>
+				<Tables>ADK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016422</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas Financeiras</Title>
+				<Title lang="es">Gastos Financieros</Title>
+				<Title lang="en">Financial Expenses</Title>
+				<Function>FATA350</Function>
+				<Type>1</Type>
+				<Tables>AA1</Tables>
+				<Tables>ABC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016424</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Segmentos</Title>
+				<Title lang="es">Archivo de Segmentos</Title>
+				<Title lang="en">Segments Register</Title>
+				<Function>CRMA610</Function>
+				<Type>1</Type>
+				<Tables>AOV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000020384</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Comercialização</Title>
+				<Title lang="es">Reglas de Comercialización</Title>
+				<Title lang="en">Business Rules</Title>
+				<Function>CRMA910</Function>
+				<Type>1</Type>
+				<Tables>AOL</Tables>
+				<Tables>AOM</Tables>
+				<Tables>AZ0</Tables>
+				<Tables>AZ1</Tables>
+				<Tables>AZ2</Tables>
+				<Tables>AZA</Tables>
+				<Tables>AO3</Tables>
+				<Tables>ACA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021359</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cenário de Vendas</Title>
+			<Title lang="es">Escenario de Venta</Title>
+			<Title lang="en">Sales Scenario</Title>
+			<ItemID>0000016429</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Preços</Title>
+				<Title lang="es">Listas de Precios</Title>
+				<Title lang="en">Price Table</Title>
+				<Function>OMSA010</Function>
+				<Type>1</Type>
+				<Tables>DA0</Tables>
+				<Tables>DA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016430</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Condições de Pagamento</Title>
+				<Title lang="es">Condiciones de Pago</Title>
+				<Title lang="en">Payment Conditions</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016431</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Desconto</Title>
+				<Title lang="es">Reglas de Descuento</Title>
+				<Title lang="en">Discount Rules</Title>
+				<Function>FATA080</Function>
+				<Type>1</Type>
+				<Tables>ACO</Tables>
+				<Tables>ACP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016432</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016433</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Modelos</Title>
+			<Title lang="es">Modelos</Title>
+			<Title lang="en">Models</Title>
+			<ItemID>0000018214</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos de E-mail</Title>
+				<Title lang="es">Modelos de Email</Title>
+				<Title lang="en">E-mail Models</Title>
+				<Function>CRMA230</Function>
+				<Type>1</Type>
+				<Tables>AO6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Email</KeyWord>
+					<KeyWord lang="es">Email</KeyWord>
+					<KeyWord lang="en">Email</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complementos de E-mail</Title>
+				<Title lang="es">Complementos de Email</Title>
+				<Title lang="en">E-mail Supplement</Title>
+				<Function>CRMA280</Function>
+				<Type>1</Type>
+				<Tables>AOE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Complementos Email</KeyWord>
+					<KeyWord lang="es">Complementos Email</KeyWord>
+					<KeyWord lang="en">Email_complement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos de Impressão</Title>
+				<Title lang="es">Modelos de Impresión</Title>
+				<Title lang="en">Printing Models</Title>
+				<Function>FATA620</Function>
+				<Type>1</Type>
+				<Tables>AG1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000021033</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Modelos de Impressao</KeyWord>
+					<KeyWord lang="es">Modelos de Impresión</KeyWord>
+					<KeyWord lang="en">Printing_models</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Componentes de Impressão</Title>
+				<Title lang="es">Componentes de Impresión</Title>
+				<Title lang="en">Printing Components</Title>
+				<Function>FATA630</Function>
+				<Type>1</Type>
+				<Tables>AG3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000021034</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Componentes de Impressao</KeyWord>
+					<KeyWord lang="es">Componente de Impresión</KeyWord>
+					<KeyWord lang="en">Printing_component</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Configurações</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Settings</Title>
+			<ItemID>0000016444</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layout's da Área de Trabalho</Title>
+				<Title lang="es">Layouts Del  Area de Trabajo</Title>
+				<Title lang="en">Layout Of Work Area</Title>
+				<Function>CRMA290B</Function>
+				<Type>1</Type>
+				<Tables>AOH</Tables>
+				<Tables>AO4</Tables>
+				<Tables>AD5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018674</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Entidades</Title>
+				<Title lang="es">Control de Entidades</Title>
+				<Title lang="en">Entity Control</Title>
+				<Function>CRMA220</Function>
+				<Type>1</Type>
+				<Tables>AO2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000018204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agrupadores de Registros</Title>
+				<Title lang="es">Agrupadores de Reg</Title>
+				<Title lang="en">Records Grouping</Title>
+				<Function>CRMA580</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018013</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções de Conexões</Title>
+				<Title lang="es">Funciones de Conexiones</Title>
+				<Title lang="en">Connection Functions</Title>
+				<Function>CRMA190A</Function>
+				<Type>1</Type>
+				<Tables>AO8</Tables>
+				<Tables>AO9</Tables>
+				<Tables>AOA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000017991</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conexões</KeyWord>
+					<KeyWord lang="es">Conexiones</KeyWord>
+					<KeyWord lang="en">Connections</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>TMKA210</Function>
+				<Type>1</Type>
+				<Tables>SUM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>13</Owner>
+				<ItemID>0000017624</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Encerramentos</Title>
+				<Title lang="es">Tipos de Cierre</Title>
+				<Title lang="en">Closing Types</Title>
+				<Function>TMKA220</Function>
+				<Type>1</Type>
+				<Tables>SUN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016425</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Visitas</Title>
+				<Title lang="es">Tipos de Visitas</Title>
+				<Title lang="en">Types Of Visit</Title>
+				<Function>FATA040</Function>
+				<Type>1</Type>
+				<Tables>AC5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016445</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mobile</Title>
+			<Title lang="es">Mobile</Title>
+			<Title lang="en">Mobile</Title>
+			<ItemID>0000019586</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Negócio</Title>
+				<Title lang="es">Tipos de Negocio</Title>
+				<Title lang="en">Business Types</Title>
+				<Function>CRMA560</Function>
+				<Type>1</Type>
+				<Tables>AOK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000019587</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipos de Negócio</KeyWord>
+					<KeyWord lang="es">Tipos de Negocio</KeyWord>
+					<KeyWord lang="en">Business Type</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Conhecimento</Title>
+			<Title lang="es">Conocimiento</Title>
+			<Title lang="en">Knowledge</Title>
+			<ItemID>0000017665</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Especificações</Title>
+				<Title lang="es">Especificaciones</Title>
+				<Title lang="en">Specifications</Title>
+				<Function>CRMA130</Function>
+				<Type>1</Type>
+				<Tables>AO0</Tables>
+				<Tables>AO1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000017666</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco do Conhecimento</Title>
+				<Title lang="es">Banco de Conocimiento</Title>
+				<Title lang="en">Knowledge Bank</Title>
+				<Function>CRMA380</Function>
+				<Type>1</Type>
+				<Tables>AC9</Tables>
+				<Tables>ACB</Tables>
+				<Tables>ACC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000017667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Perfil 360</Title>
+			<Title lang="es">Perfil 360</Title>
+			<Title lang="en">360 Profile</Title>
+			<ItemID>0000020278</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rotinas Perfil 360</Title>
+				<Title lang="es">Rutinas Perfil 360</Title>
+				<Title lang="en">360 Profile Routines</Title>
+				<Function>CRMA590</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000020279</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Papéis dos Usuários</Title>
+				<Title lang="es">Roles de Usuarios</Title>
+				<Title lang="en">User Roles</Title>
+				<Function>CRMA600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000020280</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Territórios</Title>
+			<Title lang="es">Gestión de Territorios</Title>
+			<Title lang="en">Territory Management</Title>
+			<ItemID>0000021330</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dimensões Territoriais</Title>
+				<Title lang="es">Dimensiones Territoriales</Title>
+				<Title lang="en">Territorial Dimensions</Title>
+				<Function>CRMA640</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Territoriais</Title>
+				<Title lang="es">Excepciones Territoriales</Title>
+				<Title lang="en">Territorial Exceptions</Title>
+				<Function>CRMA650</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sequência de Avaliação do Território</Title>
+				<Title lang="es">Secuencia de Evaluación Territorial</Title>
+				<Title lang="en">Territory Evaluation Sequence</Title>
+				<Function>CRMA660</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021333</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scripts de Avaliação do Território</Title>
+				<Title lang="es">Scripts de Evaluación Territorial</Title>
+				<Title lang="en">Territory Evaluation Scripts</Title>
+				<Function>CRMA670</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras do Rodízio</Title>
+				<Title lang="es">Reglas de La Alternancia</Title>
+				<Title lang="en">Rotation Rules</Title>
+				<Function>CRMA940</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021337</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log do Rodízio</Title>
+				<Title lang="es">Log de La Alternancia</Title>
+				<Title lang="en">Rotation Log</Title>
+				<Function>CRMA950</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>0</Owner>
+				<ItemID>0000021338</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A730000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Vendas</Title>
+			<Title lang="es">Ventas</Title>
+			<Title lang="en">Sales</Title>
+			<ItemID>0000016456</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perfil dos Contatos</Title>
+				<Title lang="es">Perfil de Los Contactos</Title>
+				<Title lang="en">Contact Profile</Title>
+				<Function>CRMA440</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016457</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funil de Venda</Title>
+				<Title lang="es">Filtro de Venta</Title>
+				<Title lang="en">Sales Pipeline</Title>
+				<Function>CRMA080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016458</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise Gerencial das Contas</Title>
+				<Title lang="es">Analisis Gerencial de Las Cuentas</Title>
+				<Title lang="en">Account Management Analysis</Title>
+				<Function>CRMA390</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016459</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previsão de Venda</Title>
+				<Title lang="es">Prevision de Venta</Title>
+				<Title lang="en">Sales Forecast</Title>
+				<Function>CRMA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016460</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreador de Serviço</Title>
+				<Title lang="es">Rastreador de Servicio</Title>
+				<Title lang="en">Service Tracker</Title>
+				<Function>CRMA460</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016461</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nota Fiscal de Saída</Title>
+				<Title lang="es">Factura de Salida</Title>
+				<Title lang="en">Outflow Invoice</Title>
+				<Function>MATC090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>5</Owner>
+				<ItemID>0000017638</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000019502</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Oportunidades</Title>
+			<Title lang="es">Oportunidades</Title>
+			<Title lang="en">Opportunities</Title>
+			<ItemID>0000021309</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Oportunidades</Title>
+				<Title lang="es">Oportunidades</Title>
+				<Title lang="en">Opportunities</Title>
+				<Function>CRMSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021310</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos de Venda</Title>
+				<Title lang="es">Procesos de Venta</Title>
+				<Title lang="en">Sales Processes</Title>
+				<Function>CRMSV002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metas de Vendas X Vendas Realizadas</Title>
+				<Title lang="es">Metas de Ventas Vs. Ventas Realizadas</Title>
+				<Title lang="en">Sales Goals X Sales Made</Title>
+				<Function>CRMSV003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021312</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Oportunidades X Processo de Vendas</Title>
+				<Title lang="es">Oport Vs. Proceso de Vtas</Title>
+				<Title lang="en">Opportunities X Sales Process</Title>
+				<Function>CRMSV004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000021313</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A730000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Vendas</Title>
+			<Title lang="es">Ventas</Title>
+			<Title lang="en">Sales</Title>
+			<ItemID>0000016464</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas Financeiras</Title>
+				<Title lang="es">Gastos Financieros</Title>
+				<Title lang="en">Financial Expenses</Title>
+				<Function>CRMA430</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>73</Module>
+				<Owner>73</Owner>
+				<ItemID>0000016465</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B730000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B730000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

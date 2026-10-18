@@ -1,0 +1,2597 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGASGA</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A560000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros Basicos</Title>
+			<Title lang="es">Archivos Basicos</Title>
+			<Title lang="en">Basic Files</Title>
+			<ItemID>0000009462</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendario</Title>
+				<Title lang="es">Calendario</Title>
+				<Title lang="en">Calendar</Title>
+				<Function>MATA780</Function>
+				<Type>1</Type>
+				<Tables>SH7</Tables>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>10</Owner>
+				<ItemID>0000009463</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custo</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>SI3</Tables>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>34</Owner>
+				<ItemID>0000009464</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Lugares de Stock</Title>
+				<Title lang="en">Stock Location</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>67</Owner>
+				<ItemID>0000012691</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Trabalho</Title>
+				<Title lang="es">Centro de Trabajo</Title>
+				<Title lang="en">Work Center</Title>
+				<Function>MATA770</Function>
+				<Type>1</Type>
+				<Tables>SHB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>10</Owner>
+				<ItemID>0000009465</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>QDOA150</Function>
+				<Type>1</Type>
+				<Tables>QAD</Tables>
+				<Tables>QDT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>24</Owner>
+				<ItemID>0000009466</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Roles</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>24</Owner>
+				<ItemID>0000009467</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuarios</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QAXA010</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>24</Owner>
+				<ItemID>0000009468</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Est Organizacional</Title>
+				<Title lang="es">Est. Organizac.</Title>
+				<Title lang="en">Organiz. Structure</Title>
+				<Function>SGAA100</Function>
+				<Type>1</Type>
+				<Tables>TAF</Tables>
+				<Tables>ST9</Tables>
+				<Tables>TN5</Tables>
+				<Tables>SRJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009469</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisoes</Title>
+				<Title lang="es">Revisiones</Title>
+				<Title lang="en">Reviews</Title>
+				<Function>SGAA580</Function>
+				<Type>1</Type>
+				<Tables>TDR</Tables>
+				<Tables>TAB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014679</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prodlist/agro-pesca</Title>
+				<Title lang="es">Prodlist/agro-pesca</Title>
+				<Title lang="en">Prodlist/agro-fish</Title>
+				<Function>SGAA740</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020518</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Corpo Receptor</Title>
+				<Title lang="es">Cuerpo Receptor</Title>
+				<Title lang="en">Receptor Body</Title>
+				<Function>SGAA680</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020519</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certific. Ambientais</Title>
+				<Title lang="es">Certif. Ambientales</Title>
+				<Title lang="en">Environment Certif</Title>
+				<Function>SGAA660</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020520</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fontes Energéticas</Title>
+				<Title lang="es">Fuentes Energétic</Title>
+				<Title lang="en">Energetic Sources</Title>
+				<Function>SGAA690</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020521</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fontes Poluidoras</Title>
+				<Title lang="es">Fuentes Contaminad</Title>
+				<Title lang="en">Polluting Sources</Title>
+				<Function>SGAA700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020522</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equip. de Controle</Title>
+				<Title lang="es">Equip. de Control</Title>
+				<Title lang="en">Control Equipment</Title>
+				<Function>SGAA710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020524</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Poluentes</Title>
+				<Title lang="es">Contaminantes</Title>
+				<Title lang="en">Polluting</Title>
+				<Function>SGAA720</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020525</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades Poluidoras</Title>
+				<Title lang="es">Unidades Contamin</Title>
+				<Title lang="en">Polluting Units</Title>
+				<Function>SGAA730</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020526</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efluentes Liquidos</Title>
+				<Title lang="es">Efluentes Liquidos</Title>
+				<Title lang="en">Net Efluents</Title>
+				<Function>SGAA670</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020527</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ibama</Title>
+				<Title lang="es">Ibama</Title>
+				<Title lang="en">Ibama</Title>
+				<Function>SGAA780</Function>
+				<Type>1</Type>
+				<Tables>TFC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012354</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Politica Ambiental</Title>
+			<Title lang="es">Politica Ambiental</Title>
+			<Title lang="en">Environment Policy</Title>
+			<ItemID>0000009470</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Politica Ambiental</Title>
+				<Title lang="es">Politica Ambiental</Title>
+				<Title lang="en">Environment Policy</Title>
+				<Function>SGAA230</Function>
+				<Type>1</Type>
+				<Tables>TA1</Tables>
+				<Tables>TA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009471</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Objetivos e Metas</Title>
+			<Title lang="es">Objetivos Y Metas</Title>
+			<Title lang="en">Object. & Targets</Title>
+			<ItemID>0000009472</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Objetivos e Metas</Title>
+				<Title lang="es">Objetivos Y Metas</Title>
+				<Title lang="en">Object. & Targets</Title>
+				<Function>SGAA300</Function>
+				<Type>1</Type>
+				<Tables>TBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009473</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Variáveis</Title>
+				<Title lang="es">Variables</Title>
+				<Title lang="en">Variables</Title>
+				<Function>SGAA560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>SGAA570</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014330</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Retorno</Title>
+				<Title lang="en">Return</Title>
+				<Function>SGAA310</Function>
+				<Type>1</Type>
+				<Tables>TBI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009475</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação Em Lote</Title>
+				<Title lang="es">Aprobacion En Lote</Title>
+				<Title lang="en">Approval In Lot</Title>
+				<Function>SGAA440</Function>
+				<Type>1</Type>
+				<Tables>TBH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009474</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Requisitos</Title>
+			<Title lang="es">Requisitos</Title>
+			<Title lang="en">Requiremt.</Title>
+			<ItemID>0000009476</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisitos</Title>
+				<Title lang="es">Requisitos</Title>
+				<Title lang="en">Requirements</Title>
+				<Function>SGAA010</Function>
+				<Type>1</Type>
+				<Tables>TA0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009478</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criterio Avaliacao</Title>
+				<Title lang="es">Criterio Evaluac.</Title>
+				<Title lang="en">Evaluat. Criteria</Title>
+				<Function>SGAA070</Function>
+				<Type>1</Type>
+				<Tables>TA1</Tables>
+				<Tables>TA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009477</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliacao</Title>
+				<Title lang="es">Evaluacion</Title>
+				<Title lang="en">Evaluation</Title>
+				<Function>SGAA080</Function>
+				<Type>1</Type>
+				<Tables>TA5</Tables>
+				<Tables>TAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009479</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Aspectos/impactos</Title>
+			<Title lang="es">Aspectos/ Impactos</Title>
+			<Title lang="en">Aspects/impacts</Title>
+			<ItemID>0000009480</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criterio Avaliacao</Title>
+				<Title lang="es">Criterio Evaluac.</Title>
+				<Title lang="en">Eval. Criteria</Title>
+				<Function>SGAA060</Function>
+				<Type>1</Type>
+				<Tables>TA6</Tables>
+				<Tables>TA7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009481</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Formulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>SGAA120</Function>
+				<Type>1</Type>
+				<Tables>TA3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009482</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes</Title>
+				<Title lang="es">Clases</Title>
+				<Title lang="en">Classes</Title>
+				<Function>SGAA050</Function>
+				<Type>1</Type>
+				<Tables>TA8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009483</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aspectos</Title>
+				<Title lang="es">Aspectos</Title>
+				<Title lang="en">Aspects</Title>
+				<Function>SGAA030</Function>
+				<Type>1</Type>
+				<Tables>TA4</Tables>
+				<Tables>TA9</Tables>
+				<Tables>TAG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009484</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impactos</Title>
+				<Title lang="es">Impactos</Title>
+				<Title lang="en">Impacts</Title>
+				<Function>SGAA040</Function>
+				<Type>1</Type>
+				<Tables>TAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009485</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desempenho</Title>
+				<Title lang="es">Desempeno</Title>
+				<Title lang="en">Performance</Title>
+				<Function>SGAA110</Function>
+				<Type>1</Type>
+				<Tables>TAB</Tables>
+				<Tables>TAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009486</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisao/desempenho</Title>
+				<Title lang="es">Revision/desempeno</Title>
+				<Title lang="en">Review/performance</Title>
+				<Function>SGAA590</Function>
+				<Type>1</Type>
+				<Tables>TDR</Tables>
+				<Tables>TAB</Tables>
+				<Tables>TA4</Tables>
+				<Tables>TAE</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014680</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Avaliações Em Lote</Title>
+				<Title lang="es">Evaluaciones Lote</Title>
+				<Title lang="en">Evaluations In Lot</Title>
+				<Function>SGAA111</Function>
+				<Type>1</Type>
+				<Tables>TDR</Tables>
+				<Tables>TAB</Tables>
+				<Tables>TA4</Tables>
+				<Tables>TAE</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação Em Lote</Title>
+				<Title lang="es">Aprobación En Lote</Title>
+				<Title lang="en">Lot Approval</Title>
+				<Function>SGAA112</Function>
+				<Type>1</Type>
+				<Tables>TDR</Tables>
+				<Tables>TAB</Tables>
+				<Tables>TA4</Tables>
+				<Tables>TAE</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023971</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Acao</Title>
+			<Title lang="es">Accion</Title>
+			<Title lang="en">Action</Title>
+			<ItemID>0000009487</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Acao</Title>
+				<Title lang="es">Plan de Accion</Title>
+				<Title lang="en">Action Plan</Title>
+				<Function>SGAA090</Function>
+				<Type>1</Type>
+				<Tables>TAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009488</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Oport. Melhoria</Title>
+				<Title lang="es">Oport. Mejora</Title>
+				<Title lang="en">Improvem.opportun.</Title>
+				<Function>SGAA410</Function>
+				<Type>1</Type>
+				<Tables>TCO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009489</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Arvore</Title>
+			<Title lang="es">Arbol</Title>
+			<Title lang="en">Tree</Title>
+			<ItemID>0000019268</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arvore</Title>
+				<Title lang="es">Arbol</Title>
+				<Title lang="en">Tree</Title>
+				<Function>MNTA902</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019269</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Residuos</Title>
+			<Title lang="es">Residuos</Title>
+			<Title lang="en">Residues</Title>
+			<ItemID>0000009490</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Caract. Atividade</Title>
+				<Title lang="es">Caract. Actividad</Title>
+				<Title lang="en">Activity Charact.</Title>
+				<Function>SGAA130</Function>
+				<Type>1</Type>
+				<Tables>TAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009491</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo Destinacäo</Title>
+				<Title lang="es">Tipo Destino</Title>
+				<Title lang="en">Tp Destination</Title>
+				<Function>SGAA290</Function>
+				<Type>1</Type>
+				<Tables>TB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009492</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SA2</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SA5</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SAD</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SYA</Tables>
+				<Tables>SE4</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SYP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>2</Owner>
+				<ItemID>0000009493</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrencias</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>SGAA150</Function>
+				<Type>1</Type>
+				<Tables>TB0</Tables>
+				<Tables>TAV</Tables>
+				<Tables>TB4</Tables>
+				<Tables>TB1</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customer</Title>
+				<Function>MATA030</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>5</Owner>
+				<ItemID>0000011509</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportadoras</Title>
+				<Title lang="es">Transportadoras</Title>
+				<Title lang="en">Carriers</Title>
+				<Function>MATA050</Function>
+				<Type>1</Type>
+				<Tables>SA4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>5</Owner>
+				<ItemID>0000009494</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Familia</Title>
+				<Title lang="es">Familia</Title>
+				<Title lang="en">Family</Title>
+				<Function>MNTA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>19</Owner>
+				<ItemID>0000009495</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fonte Geradora</Title>
+				<Title lang="es">Fuente Generadora</Title>
+				<Title lang="en">Generat. Source</Title>
+				<Function>MNTA080</Function>
+				<Type>1</Type>
+				<Tables>ST9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>19</Owner>
+				<ItemID>0000009496</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Residuos</Title>
+				<Title lang="es">Residuos</Title>
+				<Title lang="en">Residues</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>2</Owner>
+				<ItemID>0000009497</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Expedição</Title>
+				<Title lang="es">Control Expedicion</Title>
+				<Title lang="en">Shipment Control</Title>
+				<Function>SGAA420</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020033</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classe</Title>
+				<Title lang="es">Clase</Title>
+				<Title lang="en">Class</Title>
+				<Function>SGAA135</Function>
+				<Type>1</Type>
+				<Tables>TCS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009498</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Definicäo Residuos</Title>
+				<Title lang="es">Definicion Resid.</Title>
+				<Title lang="en">Residue Definition</Title>
+				<Function>SGAA140</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>TAV</Tables>
+				<Tables>TAX</Tables>
+				<Tables>TAZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009499</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equivalencia</Title>
+				<Title lang="es">Equivalencia</Title>
+				<Title lang="en">Equivalence</Title>
+				<Function>SGAA330</Function>
+				<Type>1</Type>
+				<Tables>TC0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009500</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Iniciais</Title>
+				<Title lang="es">Saldos Iniciales</Title>
+				<Title lang="en">Initial Balances</Title>
+				<Function>MATA220</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>4</Owner>
+				<ItemID>0000009501</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo Residuos</Title>
+				<Title lang="es">Saldo Residuos</Title>
+				<Title lang="en">Residual Balances</Title>
+				<Function>MATA225</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>4</Owner>
+				<ItemID>0000009502</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Destino</Title>
+				<Title lang="es">Destino</Title>
+				<Title lang="en">Destination</Title>
+				<Function>SGAA170</Function>
+				<Type>1</Type>
+				<Tables>TB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009504</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comp.carga Transp.</Title>
+				<Title lang="es">Comp.carga Transp.</Title>
+				<Title lang="en">Transp. Load Comp.</Title>
+				<Function>SGAA750</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020517</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Fmr</Title>
+			<Title lang="es">Fmr</Title>
+			<Title lang="en">Fmr</Title>
+			<ItemID>0000011439</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pontos de Coleta</Title>
+				<Title lang="es">Puntos Recoleccion</Title>
+				<Title lang="en">Collect.points</Title>
+				<Function>SGAA490</Function>
+				<Type>1</Type>
+				<Tables>TDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011441</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rotas de Coleta</Title>
+				<Title lang="es">Itinerarios de Recolección</Title>
+				<Title lang="en">Collection Route</Title>
+				<Function>SGAA495</Function>
+				<Type>1</Type>
+				<Tables>TH1</Tables>
+				<Tables>TH2</Tables>
+				<Tables>TDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Fmrs</Title>
+				<Title lang="es">Archivo de Fmr</Title>
+				<Title lang="en">Fmrs File</Title>
+				<Function>SGAA500</Function>
+				<Type>1</Type>
+				<Tables>TDC</Tables>
+				<Tables>TDD</Tables>
+				<Tables>TDE</Tables>
+				<Tables>TDF</Tables>
+				<Tables>TDG</Tables>
+				<Tables>TDH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011442</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log. de Retirada</Title>
+				<Title lang="es">Log. de Retirada</Title>
+				<Title lang="en">Collect.log</Title>
+				<Function>SGAA510</Function>
+				<Type>1</Type>
+				<Tables>TDC</Tables>
+				<Tables>TDD</Tables>
+				<Tables>TDE</Tables>
+				<Tables>TDF</Tables>
+				<Tables>TDG</Tables>
+				<Tables>TDH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011444</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Historico de Fmrs</Title>
+				<Title lang="es">Historial de Fmr</Title>
+				<Title lang="en">Fmrs History</Title>
+				<Function>SGAA520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020516</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Disposição Final</Title>
+				<Title lang="es">Disposición Final</Title>
+				<Title lang="en">Final Disposition</Title>
+				<Function>SGAA531</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000015422</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Licenciamento</Title>
+				<Title lang="es">Licenciamiento</Title>
+				<Title lang="en">Licensing</Title>
+				<Function>SGAA280</Function>
+				<Type>1</Type>
+				<Tables>TB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009506</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>SGAA150</Function>
+				<Type>1</Type>
+				<Tables>TB0</Tables>
+				<Tables>TAF</Tables>
+				<Tables>TBJ</Tables>
+				<Tables>TB4</Tables>
+				<Tables>TAX</Tables>
+				<Tables>TB2</Tables>
+				<Tables>TAV</Tables>
+				<Tables>TAZ</Tables>
+				<Tables>TB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000023972</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Mtr</Title>
+			<Title lang="es">Mtr</Title>
+			<Title lang="en">Mtr</Title>
+			<ItemID>0000011446</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motoristas</Title>
+				<Title lang="es">Conductores</Title>
+				<Title lang="en">Drivers</Title>
+				<Function>OMSA040</Function>
+				<Type>1</Type>
+				<Tables>DA4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>43</Owner>
+				<ItemID>0000011464</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comp. Transp.</Title>
+				<Title lang="es">Comp. Transp.</Title>
+				<Title lang="en">Transp.comp.</Title>
+				<Function>SGAA540</Function>
+				<Type>1</Type>
+				<Tables>TDL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011447</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Veículo</Title>
+				<Title lang="es">Tipos de Vehiculo</Title>
+				<Title lang="en">Tp.vehicles</Title>
+				<Function>TMSA530</Function>
+				<Type>1</Type>
+				<Tables>DUT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>43</Owner>
+				<ItemID>0000011602</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Veículos</Title>
+				<Title lang="es">Vehiculos</Title>
+				<Title lang="en">Vehicles</Title>
+				<Function>OMSA060</Function>
+				<Type>1</Type>
+				<Tables>DA3</Tables>
+				<Tables>DA4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>43</Owner>
+				<ItemID>0000011452</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comp. Veículos</Title>
+				<Title lang="es">Comp. Vehiculos</Title>
+				<Title lang="en">Vehicle Comp.</Title>
+				<Function>SGAA550</Function>
+				<Type>1</Type>
+				<Tables>TDM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011448</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Composição Carga</Title>
+				<Title lang="es">Composicion Carga</Title>
+				<Title lang="en">Cargo Comp.</Title>
+				<Function>SGAA530</Function>
+				<Type>1</Type>
+				<Tables>TDJ</Tables>
+				<Tables>TDI</Tables>
+				<Tables>TDK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011449</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Monit. e Medicao</Title>
+			<Title lang="es">Monit. Y Medicion</Title>
+			<Title lang="en">Monit.and Measurem</Title>
+			<ItemID>0000009510</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Medicao</Title>
+				<Title lang="es">Grupo de Medicion</Title>
+				<Title lang="en">Measurem. Groups</Title>
+				<Function>SGAA360</Function>
+				<Type>1</Type>
+				<Tables>TCA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009511</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fontes de Medicao</Title>
+				<Title lang="es">Fuentes de Medic.</Title>
+				<Title lang="en">Measure. Sources</Title>
+				<Function>SGAA370</Function>
+				<Type>1</Type>
+				<Tables>TCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009512</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Criterios Controle</Title>
+				<Title lang="es">Criterios Control</Title>
+				<Title lang="en">Control Criteria</Title>
+				<Function>SGAA380</Function>
+				<Type>1</Type>
+				<Tables>TCC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009513</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitoramento</Title>
+				<Title lang="es">Monitoreo</Title>
+				<Title lang="en">Monitoring</Title>
+				<Function>SGAA390</Function>
+				<Type>1</Type>
+				<Tables>TCD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009514</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados</Title>
+				<Title lang="es">Resultados</Title>
+				<Title lang="en">Results</Title>
+				<Function>SGAA400</Function>
+				<Type>1</Type>
+				<Tables>TCE</Tables>
+				<Tables>TCF</Tables>
+				<Tables>TCG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009515</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Plano Emergencial</Title>
+			<Title lang="es">Plan de Emergencia</Title>
+			<Title lang="en">Emerg.plan</Title>
+			<ItemID>0000009516</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano Emergencial</Title>
+				<Title lang="es">Plan de Emergencia</Title>
+				<Title lang="en">Emergency Plan</Title>
+				<Function>SGAA180</Function>
+				<Type>1</Type>
+				<Tables>TAF</Tables>
+				<Tables>TBB</Tables>
+				<Tables>TBC</Tables>
+				<Tables>TB0</Tables>
+				<Tables>TBU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009517</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrencias</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Occurrences</Title>
+			<ItemID>0000009518</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrencias</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>SGAA340</Function>
+				<Type>1</Type>
+				<Tables>TAF</Tables>
+				<Tables>TBV</Tables>
+				<Tables>TBX</Tables>
+				<Tables>TBY</Tables>
+				<Tables>TBZ</Tables>
+				<Tables>TC1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009519</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno Ocorrencia</Title>
+				<Title lang="es">Devol. Ocurrencia</Title>
+				<Title lang="en">Occurrence Return</Title>
+				<Function>SGAA350</Function>
+				<Type>1</Type>
+				<Tables>TC1</Tables>
+				<Tables>TC2</Tables>
+				<Tables>TC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009520</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Check-list</Title>
+				<Title lang="es">Check-list</Title>
+				<Title lang="en">Check List</Title>
+				<Function>SGAA200</Function>
+				<Type>1</Type>
+				<Tables>TBD</Tables>
+				<Tables>TBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009522</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Simulacoes</Title>
+				<Title lang="es">Simulaciones</Title>
+				<Title lang="en">Simulations</Title>
+				<Function>SGAA220</Function>
+				<Type>1</Type>
+				<Tables>TBF</Tables>
+				<Tables>TBG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009523</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano Simulacao</Title>
+				<Title lang="es">Plan Simulacion</Title>
+				<Title lang="en">Simulation Plan</Title>
+				<Function>SGAA240</Function>
+				<Type>1</Type>
+				<Tables>TBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009524</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Confirmacao</Title>
+				<Title lang="es">Confirmacion</Title>
+				<Title lang="en">Confirmation</Title>
+				<Function>SGAA250</Function>
+				<Type>1</Type>
+				<Tables>TBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009525</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retorno</Title>
+				<Title lang="es">Retorno</Title>
+				<Title lang="en">Return</Title>
+				<Function>SGAA210</Function>
+				<Type>1</Type>
+				<Tables>TBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009526</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planta Gráfica</Title>
+			<Title lang="es">Plan Grafico</Title>
+			<Title lang="en">Graphic Blueprint</Title>
+			<ItemID>0000020035</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Imagens</Title>
+				<Title lang="es">Archivo de Imágenes</Title>
+				<Title lang="en">Image Registration</Title>
+				<Function>MNTA906</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023978</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Edição</Title>
+				<Title lang="es">Edición</Title>
+				<Title lang="en">Issue</Title>
+				<Function>MNTA905</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023976</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel de Gestão</Title>
+				<Title lang="es">Panel de Gestión</Title>
+				<Title lang="en">Management Panel</Title>
+				<Function>MNTA907</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020036</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Laudos Ambientais</Title>
+			<Title lang="es">Laudos Ambientales</Title>
+			<Title lang="en">Environmental Reports</Title>
+			<ItemID>0000020038</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Laudos Ambientais</Title>
+				<Title lang="es">Laudos Ambientales</Title>
+				<Title lang="en">Environmental Reports</Title>
+				<Function>MDTA210</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020039</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Laudo X Plano de Ação</Title>
+				<Title lang="es">Laudo Vs. Plan Accion</Title>
+				<Title lang="en">Report X Action Plan</Title>
+				<Function>MDTA222</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020040</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão Gee</Title>
+			<Title lang="es">Gestion Gee</Title>
+			<Title lang="en">Gee Management</Title>
+			<ItemID>0000009527</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gases</Title>
+				<Title lang="es">Gases</Title>
+				<Title lang="en">Gases</Title>
+				<Function>SGAA450</Function>
+				<Type>1</Type>
+				<Tables>TD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009528</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fontes Emissoras</Title>
+				<Title lang="es">Fuentes Emisoras</Title>
+				<Title lang="en">Issuers Sources</Title>
+				<Function>SGAA460</Function>
+				<Type>1</Type>
+				<Tables>TD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009529</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Emissão</Title>
+				<Title lang="es">Factores Emision</Title>
+				<Title lang="en">Issue Factors</Title>
+				<Function>SGAA470</Function>
+				<Type>1</Type>
+				<Tables>TD2</Tables>
+				<Tables>TD3</Tables>
+				<Tables>TD4</Tables>
+				<Tables>TD5</Tables>
+				<Tables>TD6</Tables>
+				<Tables>TD7</Tables>
+				<Tables>TD8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009530</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>SGAA480</Function>
+				<Type>1</Type>
+				<Tables>TD9</Tables>
+				<Tables>TDA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009531</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A560000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genericos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>99</Owner>
+				<ItemID>0000009532</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Acao</Title>
+			<Title lang="es">Accion</Title>
+			<Title lang="en">Action</Title>
+			<ItemID>0000009533</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Acao</Title>
+				<Title lang="es">Plan de Accion</Title>
+				<Title lang="en">Action Plan</Title>
+				<Function>SGAC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009534</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Objetivos e Metas</Title>
+			<Title lang="es">Objetivos Y Metas</Title>
+			<Title lang="en">Objec.and Targets</Title>
+			<ItemID>0000009535</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Objetivos e Metas</Title>
+				<Title lang="es">Objetivos Y Metas</Title>
+				<Title lang="en">Object.and Targets</Title>
+				<Function>SGAC060</Function>
+				<Type>1</Type>
+				<Tables>TAA</Tables>
+				<Tables>TBH</Tables>
+				<Tables>TBI</Tables>
+				<Tables>TBK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009536</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Aspectos/impactos</Title>
+			<Title lang="es">Aspectos/impactos</Title>
+			<Title lang="en">Aspects/impacts</Title>
+			<ItemID>0000009537</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Desempenho</Title>
+				<Title lang="es">Hist. Desempeno</Title>
+				<Title lang="en">Performance Hist.</Title>
+				<Function>SGAC150</Function>
+				<Type>1</Type>
+				<Tables>TAB</Tables>
+				<Tables>TAO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009538</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Graficos</Title>
+			<Title lang="es">Graficos</Title>
+			<Title lang="en">Graphs</Title>
+			<ItemID>0000009539</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Crit. Avaliacäo</Title>
+				<Title lang="es">Crit. Evaluacion</Title>
+				<Title lang="en">Evaluation Crit.</Title>
+				<Function>SGAG010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009540</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Residuo Por Origem</Title>
+				<Title lang="es">Residuo Por Origen</Title>
+				<Title lang="en">Residue By Origin</Title>
+				<Function>SGAG020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009541</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Processos</Title>
+			<Title lang="es">Procesos</Title>
+			<Title lang="en">Processes</Title>
+			<ItemID>0000009542</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mapa de Processos</Title>
+				<Title lang="es">Mapa de Procesos</Title>
+				<Title lang="en">Process Map</Title>
+				<Function>SGAC030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009543</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Monit. e Medicao</Title>
+			<Title lang="es">Monit. Y Medicion</Title>
+			<Title lang="en">Monit.& Measurment</Title>
+			<ItemID>0000009544</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Analises Efetuadas</Title>
+				<Title lang="es">Analisis Efect.</Title>
+				<Title lang="en">Analysis Performed</Title>
+				<Function>SGAC050</Function>
+				<Type>1</Type>
+				<Tables>TCC</Tables>
+				<Tables>TCD</Tables>
+				<Tables>TCE</Tables>
+				<Tables>TCH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009545</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Requisitos</Title>
+			<Title lang="es">Requisitos</Title>
+			<Title lang="en">Requisitions</Title>
+			<ItemID>0000009546</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Requisitos</Title>
+				<Title lang="es">Estatus Requisitos</Title>
+				<Title lang="en">Requisition Status</Title>
+				<Function>SGAC040</Function>
+				<Type>1</Type>
+				<Tables>TCM</Tables>
+				<Tables>TA0</Tables>
+				<Tables>TCK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009547</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Crit. do Requisito</Title>
+				<Title lang="es">Crit Del Requisito</Title>
+				<Title lang="en">Req. Criteria</Title>
+				<Function>SGAC070</Function>
+				<Type>1</Type>
+				<Tables>TA1</Tables>
+				<Tables>TA2</Tables>
+				<Tables>TAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009548</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Indicadores</Title>
+			<Title lang="es">Indicadores</Title>
+			<Title lang="en">Indicators</Title>
+			<ItemID>0000009549</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. de Indicad</Title>
+				<Title lang="es">Config. de Indicad</Title>
+				<Title lang="en">Indicator Config.</Title>
+				<Function>NGIND006</Function>
+				<Type>1</Type>
+				<Tables>TZ1</Tables>
+				<Tables>TZ2</Tables>
+				<Tables>TZ3</Tables>
+				<Tables>TZ4</Tables>
+				<Tables>TZ5</Tables>
+				<Tables>TZ6</Tables>
+				<Tables>TZ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009550</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cons. Indicadores</Title>
+				<Title lang="es">Cons. Indicadores</Title>
+				<Title lang="en">Indicator Query</Title>
+				<Function>NGIND001</Function>
+				<Type>1</Type>
+				<Tables>TZ1</Tables>
+				<Tables>TZ2</Tables>
+				<Tables>TZ3</Tables>
+				<Tables>TZ4</Tables>
+				<Tables>TZ5</Tables>
+				<Tables>TZ6</Tables>
+				<Tables>TZ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009551</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão Gee</Title>
+			<Title lang="es">Gestion Gee</Title>
+			<Title lang="en">Gee Management</Title>
+			<ItemID>0000011824</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Fator Emiss</Title>
+				<Title lang="es">Hist. Factor Emis</Title>
+				<Title lang="en">Issue Factor Hist.</Title>
+				<Function>SGAC470</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000011825</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A560000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastrais</Title>
+			<Title lang="es">de Registro</Title>
+			<Title lang="en">Records</Title>
+			<ItemID>0000009552</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Responsaveis</Title>
+				<Title lang="es">Responsables</Title>
+				<Title lang="en">Person Resp.</Title>
+				<Function>SGAR020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009553</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Requisitos</Title>
+				<Title lang="es">Requisitos</Title>
+				<Title lang="en">Requisites</Title>
+				<Function>SGAR030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009554</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processo</Title>
+				<Title lang="es">Por Proceso</Title>
+				<Title lang="en">By Process</Title>
+				<Function>SGAR040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009555</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Criticidade</Title>
+				<Title lang="es">Por Punto Critico</Title>
+				<Title lang="en">By Critical Level</Title>
+				<Function>SGAR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009556</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Processo Smart View</Title>
+				<Title lang="es">Por Proceso Smart View</Title>
+				<Title lang="en">Smart View By Process</Title>
+				<Function>SGASVASPROC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000022810</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Criticidade Smart View</Title>
+				<Title lang="es">Por Criticidad Smart View</Title>
+				<Title lang="en">Smart View By Criticality</Title>
+				<Function>SGASVCRIT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000022811</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Objetivos e Metas</Title>
+			<Title lang="es">Objetivos Y Metas</Title>
+			<Title lang="en">Object.and Targets</Title>
+			<ItemID>0000009557</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Objetivos e Metas</Title>
+				<Title lang="es">Objetivos Y Metas</Title>
+				<Title lang="en">Objs.and Targets</Title>
+				<Function>SGAR140</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009558</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Aspectos/impactos</Title>
+			<Title lang="es">Aspectos/impactos</Title>
+			<Title lang="en">Aspects/impacts</Title>
+			<ItemID>0000009559</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Desempenho</Title>
+				<Title lang="es">Hist. Desempeno</Title>
+				<Title lang="en">Performance Hist.</Title>
+				<Function>SGAR150</Function>
+				<Type>1</Type>
+				<Tables>TAB</Tables>
+				<Tables>TAO</Tables>
+				<Tables>TAD</Tables>
+				<Tables>TAP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009560</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Hist. Desempenho Smart View</Title>
+				<Title lang="es">Hist. Desemp Smart View</Title>
+				<Title lang="en">Smart View Performance History</Title>
+				<Function>SGASVDES</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019456</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Monit. e Medicao</Title>
+			<Title lang="es">Monit. Y Medicion</Title>
+			<Title lang="en">Monit & Measur.</Title>
+			<ItemID>0000009561</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Medições</Title>
+				<Title lang="es">Mediciones</Title>
+				<Title lang="en">Measurements</Title>
+				<Function>SGAR120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009562</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Residuos</Title>
+			<Title lang="es">Residuos</Title>
+			<Title lang="en">Residues</Title>
+			<ItemID>0000009563</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rotas de Coleta</Title>
+				<Title lang="es">Itinerarios de Recolección</Title>
+				<Title lang="en">Collection Routes</Title>
+				<Function>SGAR495</Function>
+				<Type>1</Type>
+				<Tables>TH1</Tables>
+				<Tables>TH2</Tables>
+				<Tables>TDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventario</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>SGAR070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009564</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Automonitoramento</Title>
+				<Title lang="es">Automonitoreo</Title>
+				<Title lang="en">Auto Monitor.</Title>
+				<Function>SGAR110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009565</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Por Período</Title>
+				<Title lang="es">Por Periodo</Title>
+				<Title lang="en">By Period</Title>
+				<Function>SGAR180</Function>
+				<Type>1</Type>
+				<Tables>TDI</Tables>
+				<Tables>TBA</Tables>
+				<Tables>TB0</Tables>
+				<Tables>TB6</Tables>
+				<Tables>TB7</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>TB5</Tables>
+				<Tables>SAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000014163</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Critério Controle</Title>
+				<Title lang="es">Criterio Control</Title>
+				<Title lang="en">Control Criteria</Title>
+				<Function>SGAR310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017924</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cetesb</Title>
+			<Title lang="es">Cetesb</Title>
+			<Title lang="en">Cetesb</Title>
+			<ItemID>0000009566</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitacao</Title>
+				<Title lang="es">Solicitud</Title>
+				<Title lang="en">Request</Title>
+				<Function>SGAR080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009567</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Historico</Title>
+			<Title lang="es">Historial</Title>
+			<Title lang="en">History</Title>
+			<ItemID>0000009568</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estrutura Organiz</Title>
+				<Title lang="es">Eventos Est. Org.</Title>
+				<Title lang="en">Org.st. Events</Title>
+				<Function>SGAR130</Function>
+				<Type>1</Type>
+				<Tables>TCJ</Tables>
+				<Tables>TAF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009569</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Plano Emergencial</Title>
+			<Title lang="es">Plan Emergencial</Title>
+			<Title lang="en">Emergency Plan</Title>
+			<ItemID>0000009570</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordens Simulacao</Title>
+				<Title lang="es">Ordenes Simulacion</Title>
+				<Title lang="en">Simulation Orders</Title>
+				<Function>SGAR160</Function>
+				<Type>1</Type>
+				<Tables>TBN</Tables>
+				<Tables>TBM</Tables>
+				<Tables>TBQ</Tables>
+				<Tables>TBR</Tables>
+				<Tables>TBE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrencias</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>SGAR190</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAC</Tables>
+				<Tables>TAE</Tables>
+				<Tables>TBB</Tables>
+				<Tables>TBP</Tables>
+				<Tables>TBU</Tables>
+				<Tables>TBV</Tables>
+				<Tables>TBX</Tables>
+				<Tables>TC3</Tables>
+				<Tables>TC5</Tables>
+				<Tables>TC6</Tables>
+				<Tables>TC7</Tables>
+				<Tables>TCI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000014381</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão Gee</Title>
+			<Title lang="es">Gestion Gee</Title>
+			<Title lang="en">Gee Management</Title>
+			<ItemID>0000009572</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inventário</Title>
+				<Title lang="es">Inventario</Title>
+				<Title lang="en">Inventory</Title>
+				<Function>SGAR170</Function>
+				<Type>1</Type>
+				<Tables>TD9</Tables>
+				<Tables>TDA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009573</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Laudos</Title>
+			<Title lang="es">Laudos</Title>
+			<Title lang="en">Opinions</Title>
+			<ItemID>0000012256</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Atendimento Emergencial</Title>
+				<Title lang="es">Plan de Atención de Emergencia</Title>
+				<Title lang="en">Emergency Service Plan</Title>
+				<Function>SGAR210</Function>
+				<Type>1</Type>
+				<Tables>TO0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Gerenciamento de Resíduos</Title>
+				<Title lang="es">Plan de Administración de Residuos</Title>
+				<Title lang="en">Residue Management Plan</Title>
+				<Function>SGAR200</Function>
+				<Type>1</Type>
+				<Tables>TO0</Tables>
+				<Tables>TAA</Tables>
+				<Tables>TBI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012257</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A560000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>SGAA160</Function>
+				<Type>1</Type>
+				<Tables>TAA</Tables>
+				<Tables>TAB</Tables>
+				<Tables>TA0</Tables>
+				<Tables>TAQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>56</Owner>
+				<ItemID>0000009576</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Sistema</Title>
+			<Title lang="es">Sistema</Title>
+			<Title lang="en">System</Title>
+			<ItemID>0000009577</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Click da Direita</Title>
+				<Title lang="es">Clic de La Derecha</Title>
+				<Title lang="en">Right Click</Title>
+				<Function>MNTA960</Function>
+				<Type>1</Type>
+				<Tables>TQC</Tables>
+				<Tables>TQD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>56</Module>
+				<Owner>0</Owner>
+				<ItemID>0000009578</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B560000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B560000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

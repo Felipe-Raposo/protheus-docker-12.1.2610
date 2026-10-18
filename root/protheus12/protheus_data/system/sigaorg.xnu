@@ -1,0 +1,833 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAORG</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A700000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000010289</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regiões</Title>
+				<Title lang="es">Regiones</Title>
+				<Title lang="en">Regions</Title>
+				<Function>ORGA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010290</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Custos</Title>
+				<Title lang="es">Centro de Costos</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>34</Owner>
+				<ItemID>0000010291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>CSAA100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010292</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escala/grau Importância</Title>
+				<Title lang="es">Escala/grado Importancia</Title>
+				<Title lang="en">Importance Degree</Title>
+				<Function>CSAA130</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010293</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilidades</Title>
+				<Title lang="es">Habilidades</Title>
+				<Title lang="en">Skills</Title>
+				<Function>CSAA150</Function>
+				<Type>1</Type>
+				<Tables>RBG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>53</Owner>
+				<ItemID>0000010294</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Competências</Title>
+				<Title lang="es">Competencias</Title>
+				<Title lang="en">Competences</Title>
+				<Function>APDA050</Function>
+				<Type>1</Type>
+				<Tables>RBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>53</Owner>
+				<ItemID>0000010295</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Competências X Habilidades</Title>
+				<Title lang="es">Capacidades X Habilidades</Title>
+				<Title lang="en">Competence X Skills</Title>
+				<Function>CSAA160</Function>
+				<Type>1</Type>
+				<Tables>RBJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>53</Owner>
+				<ItemID>0000010296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo</Title>
+				<Title lang="es">Grupo</Title>
+				<Title lang="en">Group</Title>
+				<Function>TRMA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classes Salariais</Title>
+				<Title lang="es">Rangos Salariales</Title>
+				<Title lang="en">Salary Classes</Title>
+				<Function>CSAA110</Function>
+				<Type>1</Type>
+				<Tables>RBF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010298</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas Salariais</Title>
+				<Title lang="es">Tablas Salariales</Title>
+				<Title lang="en">Salary Tables</Title>
+				<Function>CSAA070</Function>
+				<Type>1</Type>
+				<Tables>RB6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Avaliação Geral</Title>
+				<Title lang="es">Factores Evaluacion General</Title>
+				<Title lang="en">General Evaluation Factors</Title>
+				<Function>CSAA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010300</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fatores Avaliação Grupo</Title>
+				<Title lang="es">Factores Evaluacion Grupo</Title>
+				<Title lang="en">Group Evaluation Factors</Title>
+				<Function>RSPA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010301</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>TRMA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções</Title>
+				<Title lang="es">Funciones</Title>
+				<Title lang="en">Roles</Title>
+				<Function>TRMA210</Function>
+				<Type>1</Type>
+				<Tables>SRJ</Tables>
+				<Tables>L</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>7</Owner>
+				<ItemID>0000010303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos</Title>
+				<Title lang="es">Puestos</Title>
+				<Title lang="en">Titles</Title>
+				<Function>GPEA410</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>7</Owner>
+				<ItemID>0000010304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funcionários</Title>
+				<Title lang="es">Empleados</Title>
+				<Title lang="en">Employees</Title>
+				<Function>TRMA100</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>RA2</Tables>
+				<Tables>RA4</Tables>
+				<Tables>SR7</Tables>
+				<Tables>RAF</Tables>
+				<Tables>SRF</Tables>
+				<Tables>SQ1</Tables>
+				<Tables>RA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>7</Owner>
+				<ItemID>0000010305</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes</Title>
+				<Title lang="es">Participantes</Title>
+				<Title lang="en">Participants</Title>
+				<Function>APDA020</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>RE8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>7</Owner>
+				<ItemID>0000010306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimento</Title>
+			<Title lang="es">Movimiento</Title>
+			<Title lang="en">Transaction</Title>
+			<ItemID>0000014102</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>ORGM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014103</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos</Title>
+				<Title lang="es">Estaciones</Title>
+				<Title lang="en">Stations</Title>
+				<Function>ORGA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014104</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Estrutura</Title>
+			<Title lang="es">Estructura</Title>
+			<Title lang="en">Structure</Title>
+			<ItemID>0000010307</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visões</Title>
+				<Title lang="es">Visiones</Title>
+				<Title lang="en">Visions</Title>
+				<Function>ORGA060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Permissões</Title>
+				<Title lang="es">Autorizaciones</Title>
+				<Title lang="en">Authorizations</Title>
+				<Function>ORGA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010309</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerenciamento</Title>
+			<Title lang="es">Administracion</Title>
+			<Title lang="en">Management</Title>
+			<ItemID>0000014105</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visões</Title>
+				<Title lang="es">Visiones</Title>
+				<Title lang="en">Views</Title>
+				<Function>ORGA070</Function>
+				<Type>1</Type>
+				<Tables>SQ3</Tables>
+				<Tables>F</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014106</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificação Cargo</Title>
+				<Title lang="es">Clasificacion Cargo</Title>
+				<Title lang="en">Position Classification</Title>
+				<Function>CSAA120</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014107</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A700000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000010310</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010311</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A700000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000010312</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regiões</Title>
+				<Title lang="es">Regiones</Title>
+				<Title lang="en">Regions</Title>
+				<Function>ORGR010</Function>
+				<Type>1</Type>
+				<Tables>RBS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010313</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>ORGR040</Function>
+				<Type>1</Type>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010314</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos</Title>
+				<Title lang="es">Puestos</Title>
+				<Title lang="en">Titles</Title>
+				<Function>ORGR020</Function>
+				<Type>1</Type>
+				<Tables>RCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>TRMR010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visões</Title>
+				<Title lang="es">Visiones</Title>
+				<Title lang="en">Views</Title>
+				<Function>ORGR070</Function>
+				<Type>1</Type>
+				<Tables>RDK</Tables>
+				<Tables>RCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010317</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas Salariais</Title>
+				<Title lang="es">Tablas de Sueldo</Title>
+				<Title lang="en">Salary Tables</Title>
+				<Function>CSAR070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>40</Owner>
+				<ItemID>0000010318</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentos</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000010319</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos</Title>
+				<Title lang="es">Puestos</Title>
+				<Title lang="en">Titles</Title>
+				<Function>ORGR030</Function>
+				<Type>1</Type>
+				<Tables>RBU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010320</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocupação</Title>
+			<Title lang="es">Ocupacion</Title>
+			<Title lang="en">Occuppation</Title>
+			<ItemID>0000010321</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocupantes X Postos</Title>
+				<Title lang="es">Ocupantes Vs Puest</Title>
+				<Title lang="en">Occup. Vs. Titles</Title>
+				<Function>ORGR050</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>BU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos X Ocupantes</Title>
+				<Title lang="es">Puest Vs Ocupantes</Title>
+				<Title lang="en">Titles Vs. Occup.</Title>
+				<Function>ORGR060</Function>
+				<Type>1</Type>
+				<Tables>RCL</Tables>
+				<Tables>SRA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gerencial</Title>
+			<Title lang="es">de Gestion</Title>
+			<Title lang="en">Management</Title>
+			<ItemID>0000018778</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Orçamentário</Title>
+				<Title lang="es">Control de Presupuesto</Title>
+				<Title lang="en">Budget Control</Title>
+				<Function>ORGR080</Function>
+				<Type>1</Type>
+				<Tables>RCL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000018779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smartview</Title>
+			<Title lang="es">Smartview</Title>
+			<Title lang="en">Smartview</Title>
+			<ItemID>0000020243</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Postos X Ocupantes</Title>
+				<Title lang="es">Puestos Vs Ocupantes</Title>
+				<Title lang="en">Stations X Occupants</Title>
+				<Function>ORGRSV070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000020246</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Visões</Title>
+				<Title lang="es">Visiones</Title>
+				<Title lang="en">Views</Title>
+				<Function>ORGRSV060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000020247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Movimentação Posto</Title>
+				<Title lang="es">Movimiento Puesto</Title>
+				<Title lang="en">Station Maintenance</Title>
+				<Function>ORGRSV030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000016969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle Orçamentário</Title>
+				<Title lang="es">Control Presup.</Title>
+				<Title lang="en">Budget Control</Title>
+				<Function>ORGRSV080</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000024652</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A700000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Integração</Title>
+			<Title lang="es">Integracion</Title>
+			<Title lang="en">Integration</Title>
+			<ItemID>0000012798</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Geração de Vagas</Title>
+				<Title lang="es">Generacion de Cupos</Title>
+				<Title lang="en">Change Vacancies</Title>
+				<Function>ORGM050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000012799</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Extras</Title>
+			<Title lang="es">Extras</Title>
+			<Title lang="en">Extras</Title>
+			<ItemID>0000010330</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carga de Departamento</Title>
+				<Title lang="es">Carga de Departamento</Title>
+				<Title lang="en">Department Load</Title>
+				<Function>ORGM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010331</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Carga de Postos</Title>
+				<Title lang="es">Carga de Puestos</Title>
+				<Title lang="en">Position Load</Title>
+				<Function>ORGM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>70</Owner>
+				<ItemID>0000010332</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Efetivar Solicitação Pelo Portal</Title>
+				<Title lang="es">Efectivar Solicitacion Por El Portal</Title>
+				<Title lang="en">Effectivate Request Through The Portal</Title>
+				<Function>TCFA040</Function>
+				<Type>1</Type>
+				<Tables>RH3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>70</Module>
+				<Owner>0</Owner>
+				<ItemID>0000010334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B700000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B700000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

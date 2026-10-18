@@ -1,0 +1,162 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACEN</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A930000001</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Painel de Obrigações</Title>
+				<Title lang="es">Panel de Obligaciones</Title>
+				<Title lang="en">Obligation Board</Title>
+				<Function>PLSCENTOBR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015973</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operadora</Title>
+				<Title lang="es">Operadora</Title>
+				<Title lang="en">Operator</Title>
+				<Function>PLSMVCOPE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015980</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Diops</Title>
+			<Title lang="es">Diops</Title>
+			<Title lang="en">Diops</Title>
+			<ItemID>0000015986</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Diops Cadastral</Title>
+			<Title lang="es">Diops de Registro</Title>
+			<Title lang="en">Registration Diops</Title>
+			<ItemID>0000017506</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acionitas/cotistas</Title>
+				<Title lang="es">Accionitas/titular de Cuotas</Title>
+				<Title lang="en">Shareholders</Title>
+				<Function>PLSMVCACO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017507</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controladas/coligadas</Title>
+				<Title lang="es">Controladas/coligadas</Title>
+				<Title lang="en">Subsidiary/associated Companies</Title>
+				<Function>PLSMVCCON</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017508</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Responsáveis</Title>
+				<Title lang="es">Responsables</Title>
+				<Title lang="en">People In Charge</Title>
+				<Function>PLSMVCRES</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dependencias</Title>
+				<Title lang="es">Dependencias</Title>
+				<Title lang="en">Facilities</Title>
+				<Function>PLSMVCDEP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017509</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerar Diops Cadastral</Title>
+				<Title lang="es">Generar Diops de Registro</Title>
+				<Title lang="en">Generate Registration Diops</Title>
+				<Function>PXMLDIOPSC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>93</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017510</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B930000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B930000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,650 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGASFC</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A790000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000011943</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Fábrica</Title>
+			<Title lang="es">Fábrica</Title>
+			<Title lang="en">Plant</Title>
+			<ItemID>0000024355</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Área de Produção</Title>
+				<Title lang="es">Area de Produccion</Title>
+				<Title lang="en">Production Area</Title>
+				<Function>SFCA007</Function>
+				<Type>1</Type>
+				<Tables>CYA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011957</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centro de Trabalho</Title>
+				<Title lang="es">Centro de Trabajo</Title>
+				<Title lang="en">Work Center</Title>
+				<Function>SFCA001</Function>
+				<Type>1</Type>
+				<Tables>CYI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Máquina</Title>
+				<Title lang="es">Maquina</Title>
+				<Title lang="en">Machine</Title>
+				<Function>SFCA002</Function>
+				<Type>1</Type>
+				<Tables>CYB</Tables>
+				<Tables>CYL</Tables>
+				<Tables>CYE</Tables>
+				<Tables>CYC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011951</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Recurso</Title>
+				<Title lang="es">Recurso</Title>
+				<Title lang="en">Resource</Title>
+				<Function>SFCA006</Function>
+				<Type>1</Type>
+				<Tables>CYH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011956</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipe X Operador</Title>
+				<Title lang="es">Equipo Vs Operador</Title>
+				<Title lang="en">Team X Operator</Title>
+				<Function>SFCA012</Function>
+				<Type>1</Type>
+				<Tables>CYH</Tables>
+				<Tables>CZ1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011961</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tempo</Title>
+			<Title lang="es">Tiempo</Title>
+			<Title lang="en">Time</Title>
+			<ItemID>0000024357</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Calendário Genérico</Title>
+				<Title lang="es">Calendario Generico</Title>
+				<Title lang="en">Generic Calendar</Title>
+				<Function>SFCA013</Function>
+				<Type>1</Type>
+				<Tables>CYG</Tables>
+				<Tables>CYZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011948</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turno</Title>
+				<Title lang="es">Turno</Title>
+				<Title lang="en">Shift</Title>
+				<Function>SFCA011</Function>
+				<Type>1</Type>
+				<Tables>CYM</Tables>
+				<Tables>CYF</Tables>
+				<Tables>CYR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011950</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Referências</Title>
+			<Title lang="es">Referencias</Title>
+			<Title lang="en">References</Title>
+			<ItemID>0000024358</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Refugo</Title>
+				<Title lang="es">Motivo Deshecho</Title>
+				<Title lang="en">Scrap Reason</Title>
+				<Function>SFCA003</Function>
+				<Type>1</Type>
+				<Tables>CYO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011952</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivo Parada</Title>
+				<Title lang="es">Motivo Parada</Title>
+				<Title lang="en">Stop Reason</Title>
+				<Function>SFCA004</Function>
+				<Type>1</Type>
+				<Tables>CYN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011953</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Resultado</Title>
+				<Title lang="es">Tabla Resultado</Title>
+				<Title lang="en">Result Table</Title>
+				<Function>SFCA014</Function>
+				<Type>1</Type>
+				<Tables>CY1</Tables>
+				<Tables>CY2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011958</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item Controle</Title>
+				<Title lang="es">Item Control</Title>
+				<Title lang="en">Control Item</Title>
+				<Function>SFCA005</Function>
+				<Type>1</Type>
+				<Tables>CYK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011955</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Depósito</Title>
+				<Title lang="es">Deposito</Title>
+				<Title lang="en">Warehouse</Title>
+				<Function>SFCA022</Function>
+				<Type>1</Type>
+				<Tables>CZX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013176</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Família</Title>
+				<Title lang="es">Familia</Title>
+				<Title lang="en">Family</Title>
+				<Function>SFCA020</Function>
+				<Type>1</Type>
+				<Tables>CY6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014724</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Estoque</Title>
+				<Title lang="es">Grupo de Stock</Title>
+				<Title lang="en">Stock Group</Title>
+				<Function>SFCA021</Function>
+				<Type>1</Type>
+				<Tables>CY7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013178</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Medida</Title>
+				<Title lang="es">Unidad de Medida</Title>
+				<Title lang="en">Unit Of Measuremen</Title>
+				<Function>SFCA023</Function>
+				<Type>1</Type>
+				<Tables>CZ9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013180</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Indicadores</Title>
+			<Title lang="es">Indicadores</Title>
+			<Title lang="en">Indicators</Title>
+			<ItemID>0000024359</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indicadores</Title>
+				<Title lang="es">Indicadores</Title>
+				<Title lang="en">Indicators</Title>
+				<Function>SFCA009</Function>
+				<Type>1</Type>
+				<Tables>CYJ</Tables>
+				<Tables>CY3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011959</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Meta Máquina</Title>
+				<Title lang="es">Meta Maquina</Title>
+				<Title lang="en">Machine Target</Title>
+				<Function>SFCA008</Function>
+				<Type>1</Type>
+				<Tables>CYU</Tables>
+				<Tables>CY5</Tables>
+				<Tables>CYS</Tables>
+				<Tables>CY8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011960</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Produção</Title>
+			<Title lang="es">Producción</Title>
+			<Title lang="en">Production</Title>
+			<ItemID>0000024360</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Item</Title>
+				<Title lang="es">Ítem</Title>
+				<Title lang="en">Item</Title>
+				<Function>SFCC101</Function>
+				<Type>1</Type>
+				<Tables>CZ3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024361</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ordem de Produção</Title>
+				<Title lang="es">Orden de Producción</Title>
+				<Title lang="en">Production Order</Title>
+				<Function>SFCA100</Function>
+				<Type>1</Type>
+				<Tables>CYQ</Tables>
+				<Tables>CY9</Tables>
+				<Tables>CYY</Tables>
+				<Tables>CYP</Tables>
+				<Tables>CYD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024363</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Movements</Title>
+			<ItemID>0000011972</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Produção Modelo 1</Title>
+				<Title lang="es">Apunte Produccion Modelo 1</Title>
+				<Title lang="en">Annotation Production Model 1</Title>
+				<Function>SFCA310</Function>
+				<Type>1</Type>
+				<Tables>CYV</Tables>
+				<Tables>CZP</Tables>
+				<Tables>CY0</Tables>
+				<Tables>CZ0</Tables>
+				<Tables>CYW</Tables>
+				<Tables>CZW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011973</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Produção Modelo 2</Title>
+				<Title lang="es">Apunte Produccion Modelo 2</Title>
+				<Title lang="en">Annotation Production Model 2</Title>
+				<Function>SFCA316</Function>
+				<Type>1</Type>
+				<Tables>CYV</Tables>
+				<Tables>CZP</Tables>
+				<Tables>CY0</Tables>
+				<Tables>CZ0</Tables>
+				<Tables>CYW</Tables>
+				<Tables>CZW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018007</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Parada</Title>
+				<Title lang="es">Apunte Parada</Title>
+				<Title lang="en">Stoppage Annotation</Title>
+				<Function>SFCA311</Function>
+				<Type>1</Type>
+				<Tables>CYX</Tables>
+				<Tables>CZ6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011976</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Parada Geral</Title>
+				<Title lang="es">Apunte Parada</Title>
+				<Title lang="en">General Stoppage Annotation</Title>
+				<Function>SFCA317</Function>
+				<Type>1</Type>
+				<Tables>CZ7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011974</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parada Programada</Title>
+				<Title lang="es">Parada Programada</Title>
+				<Title lang="en">Schedule Stop</Title>
+				<Function>SFCA102</Function>
+				<Type>1</Type>
+				<Tables>CZ2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Apontamento Item Controle</Title>
+				<Title lang="es">Apunte It Control</Title>
+				<Title lang="en">Annotation Control Item</Title>
+				<Function>SFCA312</Function>
+				<Type>1</Type>
+				<Tables>CYT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011977</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação Apontamentos</Title>
+				<Title lang="es">Import. Apuntes</Title>
+				<Title lang="en">Note Import</Title>
+				<Function>SFCA320</Function>
+				<Type>1</Type>
+				<Tables>CYV</Tables>
+				<Tables>CZP</Tables>
+				<Tables>CY0</Tables>
+				<Tables>CZ0</Tables>
+				<Tables>CYW</Tables>
+				<Tables>CZW</Tables>
+				<Tables>CYX</Tables>
+				<Tables>CYT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019625</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A790000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Registers</Title>
+			<ItemID>0000011968</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genéricos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011983</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Movements</Title>
+			<ItemID>0000011987</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitoramento de Fábrica</Title>
+				<Title lang="es">Monitoreo de F</Title>
+				<Title lang="en">Manufacture Industry</Title>
+				<Function>SFCC510</Function>
+				<Type>1</Type>
+				<Tables>CZ4</Tables>
+				<Tables>CZ5</Tables>
+				<Tables>CY4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011988</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gerencial de Produção</Title>
+				<Title lang="es">Gestion Produccion</Title>
+				<Title lang="en">Production Managerial</Title>
+				<Function>SFCC580</Function>
+				<Type>1</Type>
+				<Tables>CZ4</Tables>
+				<Tables>CZ5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011989</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão À Vista</Title>
+			<Title lang="es">Gestión a La Vista</Title>
+			<Title lang="en">Visible Management</Title>
+			<ItemID>0000024347</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestão À Vista - Visões</Title>
+				<Title lang="es">Gestión a La Vista - Visualizaciones</Title>
+				<Title lang="en">Visible Management - Views</Title>
+				<Function>PCPMONITOR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>79</Module>
+				<Owner>0</Owner>
+				<ItemID>0000024348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B790000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B790000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

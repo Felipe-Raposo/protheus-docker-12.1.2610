@@ -1,0 +1,17 @@
+# Controle de versão
+.git
+.gitignore
+.gitattributes
+
+# Artefatos de SO
+.DS_Store
+**/.DS_Store
+
+# Metadados do projeto (não fazem parte da imagem)
+LICENSE
+README.md
+Makefile
+.dockerignore
+
+# Montagem temporária
+.extract-stage

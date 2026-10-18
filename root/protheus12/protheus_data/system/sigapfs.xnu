@@ -1,0 +1,2528 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPFS</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A770000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart Ui</Title>
+			<Title lang="es">Smart Ui</Title>
+			<Title lang="en">Smart Ui</Title>
+			<ItemID>0000017619</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Novas Telas</Title>
+				<Title lang="es">Nuevas Pantallas</Title>
+				<Title lang="en">New Screens</Title>
+				<Function>PFSAPPMAIN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017616</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000014538</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Casos</Title>
+				<Title lang="es">Casos</Title>
+				<Title lang="en">Case</Title>
+				<Function>JURA070</Function>
+				<Type>1</Type>
+				<Tables>NVE</Tables>
+				<Tables>NUI</Tables>
+				<Tables>NWC</Tables>
+				<Tables>NUJ</Tables>
+				<Tables>NUK</Tables>
+				<Tables>NVF</Tables>
+				<Tables>NUU</Tables>
+				<Tables>NV1</Tables>
+				<Tables>NUW</Tables>
+				<Tables>NV2</Tables>
+				<Tables>NV0</Tables>
+				<Tables>NT7</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014549</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>JURA148</Function>
+				<Type>1</Type>
+				<Tables>NUH</Tables>
+				<Tables>NU9</Tables>
+				<Tables>NUD</Tables>
+				<Tables>NUA</Tables>
+				<Tables>NUB</Tables>
+				<Tables>NUC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014547</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014548</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos</Title>
+				<Title lang="es">Contratos</Title>
+				<Title lang="en">Contracts</Title>
+				<Function>JURA096</Function>
+				<Type>1</Type>
+				<Tables>NT0</Tables>
+				<Tables>NTJ</Tables>
+				<Tables>NUT</Tables>
+				<Tables>NT1</Tables>
+				<Tables>NWE</Tables>
+				<Tables>NTR</Tables>
+				<Tables>NVN</Tables>
+				<Tables>NTW</Tables>
+				<Tables>NT5</Tables>
+				<Tables>NUH</Tables>
+				<Tables>NXP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014865</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Clientes</Title>
+				<Title lang="es">Grupos de Clientes</Title>
+				<Title lang="en">Customer Group</Title>
+				<Function>FATA110</Function>
+				<Type>1</Type>
+				<Tables>ACY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014896</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Junções de Contratos</Title>
+				<Title lang="es">Enlaces de Contratos</Title>
+				<Title lang="en">Joing Of Contracts</Title>
+				<Function>JURA056</Function>
+				<Type>1</Type>
+				<Tables>NW2</Tables>
+				<Tables>NW3</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014899</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Events</Title>
+				<Function>JURA301</Function>
+				<Type>1</Type>
+				<Tables>OI2</Tables>
+				<Tables>OI3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017970</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Corporativo</Title>
+			<Title lang="es">Corporativo</Title>
+			<Title lang="en">Corporation</Title>
+			<ItemID>0000014884</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Áreas Jurídicas</Title>
+				<Title lang="es">Areas Juridicas</Title>
+				<Title lang="en">Legal Departments</Title>
+				<Function>JURA038</Function>
+				<Type>1</Type>
+				<Tables>NRB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014888</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Centros de Custo</Title>
+				<Title lang="es">Centros de Costo</Title>
+				<Title lang="en">Cost Center</Title>
+				<Function>CTBA030</Function>
+				<Type>1</Type>
+				<Tables>CTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014885</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escritórios</Title>
+				<Title lang="es">Oficinas</Title>
+				<Title lang="en">Offices</Title>
+				<Function>JURA068</Function>
+				<Type>1</Type>
+				<Tables>NS7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014868</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Feriados</Title>
+				<Title lang="es">Feriados</Title>
+				<Title lang="en">Holidays</Title>
+				<Function>JURA078</Function>
+				<Type>1</Type>
+				<Tables>NW9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014890</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Segmentos</Title>
+				<Title lang="es">Segmentos</Title>
+				<Title lang="en">Segments</Title>
+				<Function>CRMA610</Function>
+				<Type>1</Type>
+				<Tables>AOV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>73</Owner>
+				<ItemID>0000014298</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Subáreas Jurídicas</Title>
+				<Title lang="es">Subareas Juridicas</Title>
+				<Title lang="en">Legal Subdepartments</Title>
+				<Function>JURA048</Function>
+				<Type>1</Type>
+				<Tables>NRL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014889</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Docs Fiscais</Title>
+			<Title lang="es">Docs Fiscales</Title>
+			<Title lang="en">Fiscal Docs</Title>
+			<ItemID>0000012653</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>2</Owner>
+				<ItemID>0000012655</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Entrada e Saída</Title>
+				<Title lang="es">Tipos de Entrada Y Salida</Title>
+				<Title lang="en">Types Of Inflow And Outflow</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>9</Owner>
+				<ItemID>0000012659</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Faturamento</Title>
+			<Title lang="es">Facturación</Title>
+			<Title lang="en">Incoicing</Title>
+			<ItemID>0000014891</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurar  Envio de E-mail</Title>
+				<Title lang="es">Configurar Envio de Email</Title>
+				<Title lang="en">Set E-mail Sending</Title>
+				<Function>JURA064</Function>
+				<Type>1</Type>
+				<Tables>NRU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014559</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Descrição das Parcelas de Faturamento</Title>
+				<Title lang="es">Descripcion de Cuotas de Facturacion</Title>
+				<Title lang="en">Invoice Installment Description</Title>
+				<Function>JURA102</Function>
+				<Type>1</Type>
+				<Tables>NXK</Tables>
+				<Tables>NXL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014893</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções da Numeração da Fatura</Title>
+				<Title lang="es">Excepciones de Numeracion de Factura</Title>
+				<Title lang="en">Exceptions Of Invoice Numbering</Title>
+				<Function>JURA075</Function>
+				<Type>1</Type>
+				<Tables>NSE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014894</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechamento do Período</Title>
+				<Title lang="es">Cierre Del Periodo</Title>
+				<Title lang="en">Period Closure</Title>
+				<Function>JURA030</Function>
+				<Type>1</Type>
+				<Tables>NVQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014895</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Tabela de Honorários Padrão</Title>
+				<Title lang="es">Historial de Tabla de Honorarios Estandar</Title>
+				<Title lang="en">Standard History Of Fee Table</Title>
+				<Function>JURA028</Function>
+				<Type>1</Type>
+				<Tables>NVP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014897</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Idiomas de Faturamento</Title>
+				<Title lang="es">Idiomas de Facturacion</Title>
+				<Title lang="en">Billing Language</Title>
+				<Function>JURA029</Function>
+				<Type>1</Type>
+				<Tables>NR1</Tables>
+				<Tables>NR4</Tables>
+				<Tables>NR5</Tables>
+				<Tables>NR2</Tables>
+				<Tables>NR3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014898</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento Tabelado Em Lote</Title>
+				<Title lang="es">Asiento Controlado En Lote</Title>
+				<Title lang="en">Tabled Entry In Badge</Title>
+				<Function>JURA109</Function>
+				<Type>1</Type>
+				<Tables>NWM</Tables>
+				<Tables>NWN</Tables>
+				<Tables>NV4</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014900</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Localidades</Title>
+				<Title lang="es">Localidades</Title>
+				<Title lang="en">Location</Title>
+				<Function>JURA123</Function>
+				<Type>1</Type>
+				<Tables>NTP</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014903</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas Bloqueadas</Title>
+				<Title lang="es">Monedas Bloqueadas</Title>
+				<Title lang="en">Blocked Coins</Title>
+				<Function>JURA121</Function>
+				<Type>1</Type>
+				<Tables>NTN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014906</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Cancelamento de Fatura</Title>
+				<Title lang="es">Motivos de Anulacion de Factura</Title>
+				<Title lang="en">Reasons For Cancelling Invoice</Title>
+				<Function>JURA071</Function>
+				<Type>1</Type>
+				<Tables>NSA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014907</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de W.o.</Title>
+				<Title lang="es">Motivos de W.o.</Title>
+				<Title lang="en">W.o. Reasons</Title>
+				<Function>JURA140</Function>
+				<Type>1</Type>
+				<Tables>NVX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014910</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Retificação de Time Sheet</Title>
+				<Title lang="es">Rectificacion de Time Sheet</Title>
+				<Title lang="en">Time Sheet Rectification</Title>
+				<Function>JURA072</Function>
+				<Type>1</Type>
+				<Tables>NSB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014912</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Serviços Tabelados</Title>
+				<Title lang="es">Servicios Control</Title>
+				<Title lang="en">Tabled Services</Title>
+				<Function>JURA040</Function>
+				<Type>1</Type>
+				<Tables>NRD</Tables>
+				<Tables>NR3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014913</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situações de Cobrança da Pré Fatura</Title>
+				<Title lang="es">Situaciones de Cobro de Prefactura</Title>
+				<Title lang="en">Pre-invoice Collection Status</Title>
+				<Function>JURA073</Function>
+				<Type>1</Type>
+				<Tables>NSC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014914</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sugestão Título Caso</Title>
+				<Title lang="es">Sugerencia Tít Caso</Title>
+				<Title lang="en">Case Title Suggestion</Title>
+				<Function>JURA231</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012483</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Honorários</Title>
+				<Title lang="es">Tablas de Honorarios</Title>
+				<Title lang="en">Fee Table</Title>
+				<Function>JURA042</Function>
+				<Type>1</Type>
+				<Tables>NRF</Tables>
+				<Tables>NS9</Tables>
+				<Tables>NSD</Tables>
+				<Tables>NTV</Tables>
+				<Tables>NTU</Tables>
+				<Tables>NTT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014915</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Serviços</Title>
+				<Title lang="es">Tablas de Servicios</Title>
+				<Title lang="en">Service Table</Title>
+				<Function>JURA041</Function>
+				<Type>1</Type>
+				<Tables>NRE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014916</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Atividade</Title>
+				<Title lang="es">Tipos de Actividad</Title>
+				<Title lang="en">Activity Types</Title>
+				<Function>JURA039</Function>
+				<Type>1</Type>
+				<Tables>NRC</Tables>
+				<Tables>NR5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014917</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Carta Cobrança</Title>
+				<Title lang="es">Tipos de Carta Cobranza</Title>
+				<Title lang="en">Collection Letter Types</Title>
+				<Function>JURA043</Function>
+				<Type>1</Type>
+				<Tables>NRG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014919</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Despesa</Title>
+				<Title lang="es">Tipos de Gasto</Title>
+				<Title lang="en">Expense Types</Title>
+				<Function>JURA044</Function>
+				<Type>1</Type>
+				<Tables>NRH</Tables>
+				<Tables>NRM</Tables>
+				<Tables>NR4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014926</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Fatura</Title>
+				<Title lang="es">Tipos de Factura</Title>
+				<Title lang="en">Invoice Types</Title>
+				<Function>JURA036</Function>
+				<Type>1</Type>
+				<Tables>NR9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014927</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipo de Fechamento</Title>
+				<Title lang="es">Tipo de Cierre</Title>
+				<Title lang="en">Closing Type</Title>
+				<Function>JURA274</Function>
+				<Type>1</Type>
+				<Tables>OHU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016791</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Honorário</Title>
+				<Title lang="es">Tipos de Honorario</Title>
+				<Title lang="en">Fee Types</Title>
+				<Function>JURA037</Function>
+				<Type>1</Type>
+				<Tables>NRA</Tables>
+				<Tables>NTH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014928</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Originação</Title>
+				<Title lang="es">Tipos de Originacion</Title>
+				<Title lang="en">Types Of Origination</Title>
+				<Function>JURA045</Function>
+				<Type>1</Type>
+				<Tables>NRI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014930</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Prestação de Conta</Title>
+				<Title lang="es">Tipos de Prestacion de Cuenta</Title>
+				<Title lang="en">Account Provision Types</Title>
+				<Function>JURA164</Function>
+				<Type>1</Type>
+				<Tables>NUO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014920</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Tabela de Serviço</Title>
+				<Title lang="es">Tipos de Tabla de Servicio</Title>
+				<Title lang="en">Types Of Service Table</Title>
+				<Function>JURA047</Function>
+				<Type>1</Type>
+				<Tables>NRK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014923</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Integração</Title>
+			<Title lang="es">Integracion</Title>
+			<Title lang="en">Integration</Title>
+			<ItemID>0000014936</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Servidor de E-mail</Title>
+				<Title lang="es">Configuracion Servidor de Email</Title>
+				<Title lang="en">Email Server Setting</Title>
+				<Function>JURA035</Function>
+				<Type>1</Type>
+				<Tables>NR7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014938</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos de E-billing</Title>
+				<Title lang="es">Documentos de Ebilling</Title>
+				<Title lang="en">E-billing Document</Title>
+				<Function>JURA057</Function>
+				<Type>1</Type>
+				<Tables>NRW</Tables>
+				<Tables>NRV</Tables>
+				<Tables>NRY</Tables>
+				<Tables>NRZ</Tables>
+				<Tables>NS0</Tables>
+				<Tables>NS3</Tables>
+				<Tables>NS2</Tables>
+				<Tables>NS1</Tables>
+				<Tables>NS4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014939</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empresas de E-billing</Title>
+				<Title lang="es">Empresas de Ebilling</Title>
+				<Title lang="en">E-billing Companies</Title>
+				<Function>JURA058</Function>
+				<Type>1</Type>
+				<Tables>NRX</Tables>
+				<Tables>NTQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014940</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ramais Por Profissional</Title>
+				<Title lang="es">Extensiones Por Profesional</Title>
+				<Title lang="en">Professional Extensions</Title>
+				<Function>JURA034</Function>
+				<Type>1</Type>
+				<Tables>NR6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014937</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Monetário</Title>
+			<Title lang="es">Monetario</Title>
+			<Title lang="en">Monetary</Title>
+			<ItemID>0000014942</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bancos</Title>
+				<Title lang="es">Bancos</Title>
+				<Title lang="en">Banks</Title>
+				<Function>MATA070</Function>
+				<Type>1</Type>
+				<Tables>SA6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014945</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Condições de Pagamento</Title>
+				<Title lang="es">Condiciones de Pago</Title>
+				<Title lang="en">Payment Conditions</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015048</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cotações</Title>
+				<Title lang="es">Cotizaciones</Title>
+				<Title lang="en">Quotation</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>CTP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014946</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cotações Mensais</Title>
+				<Title lang="es">Cotizac. Mensuales</Title>
+				<Title lang="en">Monthly Quotations</Title>
+				<Function>JURA111</Function>
+				<Type>1</Type>
+				<Tables>NXQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014947</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currency</Title>
+				<Function>CTBA140</Function>
+				<Type>1</Type>
+				<Tables>CTO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014943</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Naturezas</Title>
+				<Title lang="es">Modalidades</Title>
+				<Title lang="en">Nature</Title>
+				<Function>FINA010</Function>
+				<Type>1</Type>
+				<Tables>SED</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015049</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-billing Ledes 1998 B</Title>
+				<Title lang="es">E-billing Ledes 1998 B</Title>
+				<Title lang="en">E-billing Ledes 19</Title>
+				<Function>LEDES98</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014583</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-billing Ledes 2000</Title>
+				<Title lang="es">E-billing Ledes 2000</Title>
+				<Title lang="en">E-billing Ledes 20</Title>
+				<Function>LEDES00</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014584</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Participante</Title>
+			<Title lang="es">Participante</Title>
+			<Title lang="en">Participant</Title>
+			<ItemID>0000014948</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Categorias de Participantes</Title>
+				<Title lang="es">Categorias de Participantes</Title>
+				<Title lang="en">Employee Categories</Title>
+				<Function>JURA050</Function>
+				<Type>1</Type>
+				<Tables>NRN</Tables>
+				<Tables>NR2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014949</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Participantes</Title>
+				<Title lang="es">Participantes</Title>
+				<Title lang="en">Employees</Title>
+				<Function>JURA159</Function>
+				<Type>1</Type>
+				<Tables>RD0</Tables>
+				<Tables>NUR</Tables>
+				<Tables>NUS</Tables>
+				<Tables>NSS</Tables>
+				<Tables>NVM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014950</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tipos de Relatório</Title>
+			<Title lang="es">Tipos de Informe</Title>
+			<Title lang="en">Report Types</Title>
+			<ItemID>0000023488</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Protocolo de Faturamento</Title>
+				<Title lang="es">Tipos de Comprobante de Facturacion</Title>
+				<Title lang="en">Billing Protocol Types</Title>
+				<Function>JURA084</Function>
+				<Type>1</Type>
+				<Tables>NSO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014921</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Relatório de Faturamento</Title>
+				<Title lang="es">Tipos de Informe de Facturacion</Title>
+				<Title lang="en">Billing Report Types</Title>
+				<Function>JURA046</Function>
+				<Type>1</Type>
+				<Tables>NRJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014922</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Relatório de Pré-fatura</Title>
+				<Title lang="es">Tipo Inf. Fact. Prev.</Title>
+				<Title lang="en">Types Of Pre-invoice Report</Title>
+				<Function>JURA196</Function>
+				<Type>1</Type>
+				<Tables>NZO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023490</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Docs Fiscais</Title>
+			<Title lang="es">Docs Fiscales</Title>
+			<Title lang="en">Fiscal Doc</Title>
+			<ItemID>0000012661</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão de Documentos Fiscais</Title>
+				<Title lang="es">Emision de Documentos Fiscales</Title>
+				<Title lang="en">Issuance Of Tax Documents</Title>
+				<Function>JURA205</Function>
+				<Type>1</Type>
+				<Tables>SF2</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SF3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014575</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nf-e Sefaz</Title>
+				<Title lang="es">E-fact Y Fisco</Title>
+				<Title lang="en">Sefaz E-invoice</Title>
+				<Function>SPEDNFE</Function>
+				<Type>1</Type>
+				<Tables>SF2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>5</Owner>
+				<ItemID>0000012695</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nfs-e Municipal</Title>
+				<Title lang="es">E-fact Municipal</Title>
+				<Title lang="en">City E-invoice</Title>
+				<Function>SPEDNFSE</Function>
+				<Type>1</Type>
+				<Tables>SF2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>5</Owner>
+				<ItemID>0000012700</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nfs-e</Title>
+				<Title lang="es">E-fact</Title>
+				<Title lang="en">E-inv</Title>
+				<Function>FISA022</Function>
+				<Type>1</Type>
+				<Tables>SF2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>5</Owner>
+				<ItemID>0000012718</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operação de Documentos Fiscais</Title>
+				<Title lang="es">Operacion de Documentos Fiscales</Title>
+				<Title lang="en">Tax Documents Operation</Title>
+				<Function>JURA206</Function>
+				<Type>1</Type>
+				<Tables>SF2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014577</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Movimentações</Title>
+			<Title lang="es">Movimientos</Title>
+			<Title lang="en">Transactions</Title>
+			<ItemID>0000014542</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteraçao Em Lote</Title>
+				<Title lang="es">Modificación En Lote</Title>
+				<Title lang="en">Batch Edit</Title>
+				<Function>PFSAPPALTL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019193</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Adiantamentos</Title>
+				<Title lang="es">Control de Anticipos</Title>
+				<Title lang="en">Prepayment Control</Title>
+				<Function>JURA069</Function>
+				<Type>1</Type>
+				<Tables>NWF</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014573</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas</Title>
+				<Title lang="es">Gastos</Title>
+				<Title lang="en">Expenses</Title>
+				<Function>JURA049</Function>
+				<Type>1</Type>
+				<Tables>NVY</Tables>
+				<Tables>NVZ</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014567</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-billing Em Lote</Title>
+				<Title lang="es">E-billing En Lote</Title>
+				<Title lang="en">Batch E-billing</Title>
+				<Function>JURA272</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017978</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldo de Adiantamentos</Title>
+				<Title lang="es">Saldo de Anticipos</Title>
+				<Title lang="en">Advance Balance</Title>
+				<Function>JURA065</Function>
+				<Type>1</Type>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014574</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão de Faturas</Title>
+				<Title lang="es">Emision de Facturas</Title>
+				<Title lang="en">Issue Of Invoices</Title>
+				<Function>JURA203</Function>
+				<Type>1</Type>
+				<Tables>NX5</Tables>
+				<Tables>NX6</Tables>
+				<Tables>NX7</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014571</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão de Pré Faturas</Title>
+				<Title lang="es">Emision de Prefacturas</Title>
+				<Title lang="en">Issue Of Pre-invoices</Title>
+				<Function>JURA201</Function>
+				<Type>1</Type>
+				<Tables>NX3</Tables>
+				<Tables>NX9</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014569</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Adicionais</Title>
+				<Title lang="es">Facturas Adicionales</Title>
+				<Title lang="en">Additional Invoices</Title>
+				<Function>JURA033</Function>
+				<Type>1</Type>
+				<Tables>NVV</Tables>
+				<Tables>NVW</Tables>
+				<Tables>NWD</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014550</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Por Caso</Title>
+				<Title lang="es">Facturas Por Caso</Title>
+				<Title lang="en">Invoices By Case</Title>
+				<Function>JURA104</Function>
+				<Type>1</Type>
+				<Tables>NVE</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014581</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamento Tabelado</Title>
+				<Title lang="es">Asiento Controlado</Title>
+				<Title lang="en">Tables Entry</Title>
+				<Function>JURA027</Function>
+				<Type>1</Type>
+				<Tables>NV4</Tables>
+				<Tables>NW4</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014568</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operação de Faturas</Title>
+				<Title lang="es">Operacion de Facturas</Title>
+				<Title lang="en">Invoice Operation</Title>
+				<Function>JURA204</Function>
+				<Type>1</Type>
+				<Tables>NXA</Tables>
+				<Tables>NXB</Tables>
+				<Tables>NXC</Tables>
+				<Tables>NXD</Tables>
+				<Tables>NXE</Tables>
+				<Tables>NXF</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014572</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operação de Pré Faturas</Title>
+				<Title lang="es">Operacion de Prefacturas</Title>
+				<Title lang="en">Pre Invoice Operation</Title>
+				<Function>JURA202</Function>
+				<Type>1</Type>
+				<Tables>NX0</Tables>
+				<Tables>NX8</Tables>
+				<Tables>NX1</Tables>
+				<Tables>NX2</Tables>
+				<Tables>NXG</Tables>
+				<Tables>NX4</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014570</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Protocolo de Faturas</Title>
+				<Title lang="es">Comprobante de Facturas</Title>
+				<Title lang="en">Invoice Protocol</Title>
+				<Function>JURA074</Function>
+				<Type>1</Type>
+				<Tables>NXH</Tables>
+				<Tables>NXI</Tables>
+				<Tables>NXJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014579</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Remanejamento de Casos</Title>
+				<Title lang="es">Redistribucion de Casos</Title>
+				<Title lang="en">Case Redistribution</Title>
+				<Function>JURA063</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014580</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Time Sheet</Title>
+				<Title lang="es">Time Sheet</Title>
+				<Title lang="en">Time Sheet</Title>
+				<Function>JURA144</Function>
+				<Type>1</Type>
+				<Tables>NUE</Tables>
+				<Tables>NW0</Tables>
+				<Tables>NW1</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014566</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Wo</Title>
+			<Title lang="es">Wo</Title>
+			<Title lang="en">Wo</Title>
+			<ItemID>0000014587</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consultas</Title>
+				<Title lang="es">Consultas</Title>
+				<Title lang="en">Queries</Title>
+				<Function>JURA146</Function>
+				<Type>1</Type>
+				<Tables>NUF</Tables>
+				<Tables>NUG</Tables>
+				<Tables>NVZ</Tables>
+				<Tables>NW0</Tables>
+				<Tables>NW4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014588</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Despesas</Title>
+				<Title lang="es">Gastos</Title>
+				<Title lang="en">Expenses</Title>
+				<Function>JURA143</Function>
+				<Type>1</Type>
+				<Tables>NVY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014590</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas</Title>
+				<Title lang="es">Facturas</Title>
+				<Title lang="en">Invoices</Title>
+				<Function>JURA141</Function>
+				<Type>1</Type>
+				<Tables>NXA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014592</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelados</Title>
+				<Title lang="es">Controlados</Title>
+				<Title lang="en">Tabled</Title>
+				<Function>JURA142</Function>
+				<Type>1</Type>
+				<Tables>NV4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014591</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Time Sheet</Title>
+				<Title lang="es">Time Sheet</Title>
+				<Title lang="en">Time Sheet</Title>
+				<Function>JURA145</Function>
+				<Type>1</Type>
+				<Tables>NUE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014589</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ocorrências</Title>
+			<Title lang="es">Ocurrencias</Title>
+			<Title lang="en">Events</Title>
+			<ItemID>0000017972</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emissão de Ocorrências</Title>
+				<Title lang="es">Emisión de Ocurren.</Title>
+				<Title lang="en">Occurrences Issuance</Title>
+				<Function>JURA305</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017973</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acompanhamento de Solicitações de Ocorrências</Title>
+				<Title lang="es">Seguim. Solic. Ocurrencias</Title>
+				<Title lang="en">Follow-up Of Occurrences Requests</Title>
+				<Function>JURA306</Function>
+				<Type>1</Type>
+				<Tables>OI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017974</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Financeiro</Title>
+			<Title lang="es">Financiero</Title>
+			<Title lang="en">Financials</Title>
+			<ItemID>0000012873</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas a Pagar - Pagpfs</Title>
+				<Title lang="es">Ctas Por Pagar - Pagpfs</Title>
+				<Title lang="en">Accounts Payable - Pagpfs</Title>
+				<Function>PFSAPPCP</Function>
+				<Type>1</Type>
+				<Tables>SE2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018983</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Revisão de Desdobramentos</Title>
+				<Title lang="es">Revis. Desdoblamientos</Title>
+				<Title lang="en">Breakdown Review</Title>
+				<Function>PFSAPPCDSD</Function>
+				<Type>1</Type>
+				<Tables>OHF</Tables>
+				<Tables>OHG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018984</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cobrança Em Lote</Title>
+				<Title lang="es">Cobranza En Lote</Title>
+				<Title lang="en">Billing In Batch</Title>
+				<Function>JURA263</Function>
+				<Type>1</Type>
+				<Tables>SE1</Tables>
+				<Tables>SA1</Tables>
+				<Tables>NXA</Tables>
+				<Tables>SU5</Tables>
+				<Tables>CTO</Tables>
+				<Tables>RD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012999</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cobranca,lote,juridico</KeyWord>
+					<KeyWord lang="es">Cobranza,lote,jurídico</KeyWord>
+					<KeyWord lang="en">Billing,batch,legal</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitação de Despesa</Title>
+				<Title lang="es">Solicitud de Gastos</Title>
+				<Title lang="en">Expense Request</Title>
+				<Function>JURA235</Function>
+				<Type>1</Type>
+				<Tables>NZQ</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013009</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Solicitacao,despesa</KeyWord>
+					<KeyWord lang="es">Solicitud,gastos</KeyWord>
+					<KeyWord lang="en">Request,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Despesa</Title>
+				<Title lang="es">Aprobación de Gastos</Title>
+				<Title lang="en">Expense Approval</Title>
+				<Function>JURA235A</Function>
+				<Type>1</Type>
+				<Tables>NZQ</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovacao,aprovação,despesa</KeyWord>
+					<KeyWord lang="es">Aprobación,aprobación,gastos</KeyWord>
+					<KeyWord lang="en">Approval,approval,expense</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cobrança</Title>
+				<Title lang="es">Cobranza</Title>
+				<Title lang="en">Billing</Title>
+				<Function>JURA243</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013272</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cobrança,cobranca</KeyWord>
+					<KeyWord lang="es">Cobranza,cobranza</KeyWord>
+					<KeyWord lang="en">Billing,billing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Rateio</Title>
+				<Title lang="es">Lista de Prorrateo</Title>
+				<Title lang="en">Proration Table</Title>
+				<Function>JURA238</Function>
+				<Type>1</Type>
+				<Tables>OH6</Tables>
+				<Tables>OH7</Tables>
+				<Tables>OH8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013296</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tabela,rateio</KeyWord>
+					<KeyWord lang="es">Tabla,prorrateo</KeyWord>
+					<KeyWord lang="en">Table,apportion</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico Padrão</Title>
+				<Title lang="es">Historial Estándar</Title>
+				<Title lang="en">Standard History</Title>
+				<Function>JURA240</Function>
+				<Type>1</Type>
+				<Tables>OHA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Histórico,historico,padrão,padrao</KeyWord>
+					<KeyWord lang="es">Historial,historial,estándar,estándar</KeyWord>
+					<KeyWord lang="en">History,history,standard,standard</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos</Title>
+				<Title lang="es">Asientos</Title>
+				<Title lang="en">Entries</Title>
+				<Function>JURA241</Function>
+				<Type>1</Type>
+				<Tables>OHB</Tables>
+				<Tables>NUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013299</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Entre,lançamentos,lancamentos,naturezas</KeyWord>
+					<KeyWord lang="es">Entre,asientos,asientos,modalidades</KeyWord>
+					<KeyWord lang="en">Between,entries,entries,natures</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Evento Financeiro</Title>
+				<Title lang="es">Evento Financiero</Title>
+				<Title lang="en">Financial Event</Title>
+				<Function>JURA242</Function>
+				<Type>1</Type>
+				<Tables>OHC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013334</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Evento,financeiro</KeyWord>
+					<KeyWord lang="es">Evento,financiero</KeyWord>
+					<KeyWord lang="en">Event,financial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Classificação de Naturezas</Title>
+				<Title lang="es">Clasificación de Modalidades</Title>
+				<Title lang="en">Classification Of Types</Title>
+				<Function>JURA266</Function>
+				<Type>1</Type>
+				<Tables>OHP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013762</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificação,naturezas</KeyWord>
+					<KeyWord lang="es">Clasificación,modalidades</KeyWord>
+					<KeyWord lang="en">Classification,classes</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Projetos / Finalidades</Title>
+				<Title lang="es">Proyectos/finalidades</Title>
+				<Title lang="en">Projects/purposes</Title>
+				<Function>JURA264</Function>
+				<Type>1</Type>
+				<Tables>OHL</Tables>
+				<Tables>OHM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015657</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fech. Conta Participante</Title>
+				<Title lang="es">Cierre Cta Participante</Title>
+				<Title lang="en">Participant Account Clos.</Title>
+				<Function>JURA284</Function>
+				<Type>1</Type>
+				<Tables>OHW</Tables>
+				<Tables>OHB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016881</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fechamento,conta,corrente,participante</KeyWord>
+					<KeyWord lang="es">Cierre,cuenta,corriente,participante</KeyWord>
+					<KeyWord lang="en">Closing,account,checking,employee</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatórios</Title>
+			<Title lang="es">Informes</Title>
+			<Title lang="en">Reports</Title>
+			<ItemID>0000013339</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultado Financeiro</Title>
+				<Title lang="es">Resultado Financiero</Title>
+				<Title lang="en">Financial Result</Title>
+				<Function>JURAPAD032</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013341</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Resultado,financeiro</KeyWord>
+					<KeyWord lang="es">Resultado,financiero</KeyWord>
+					<KeyWord lang="en">Result,financials</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Result. Fin. Por Moeda</Title>
+				<Title lang="es">Result. Fin. Por Moneda</Title>
+				<Title lang="en">Fin Result By Currency</Title>
+				<Function>JURAPAD033</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013342</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Resultado,financeiro,moeda</KeyWord>
+					<KeyWord lang="es">Resultado,financiero,moneda</KeyWord>
+					<KeyWord lang="en">Result,financials,currency</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Por Natureza/centro de Custo</Title>
+				<Title lang="es">Extracto Por Modalidad/centro de Costo</Title>
+				<Title lang="en">Statement Per Nature/cost Center</Title>
+				<Function>JURAPAD034</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013343</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Extrato,natureza,centro,custo</KeyWord>
+					<KeyWord lang="es">Extracto,modalidad,centro,costo</KeyWord>
+					<KeyWord lang="en">Statement,nature,center,center</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cash-flow</Title>
+				<Title lang="es">Cash-flow</Title>
+				<Title lang="en">Cash-flow</Title>
+				<Function>JURAPAD035</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013344</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cashflow,cash,flow,cash-flow</KeyWord>
+					<KeyWord lang="es">Cashflow,cash,flow,cash-flow</KeyWord>
+					<KeyWord lang="en">Cashflow,cash,flow,cashflow</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aging Por Sócio</Title>
+				<Title lang="es">Aging Por Socio</Title>
+				<Title lang="en">Aging By Partner</Title>
+				<Function>JURAPAD037</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016379</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Pendentes</Title>
+				<Title lang="es">Facturas Pendientes</Title>
+				<Title lang="en">Pending Invoices</Title>
+				<Function>JURAPAD038</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016380</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Pagas</Title>
+				<Title lang="es">Facturas Pagadas</Title>
+				<Title lang="en">Paid Invoices</Title>
+				<Function>JURAPAD039</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016382</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Pix</Title>
+			<Title lang="es">Pix</Title>
+			<Title lang="en">Pix</Title>
+			<ItemID>0000017370</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor Pix</Title>
+				<Title lang="es">Monitor Pix</Title>
+				<Title lang="en">Pix Monitor</Title>
+				<Function>FINA890</Function>
+				<Type>1</Type>
+				<Tables>F71</Tables>
+				<Tables>FWI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017372</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Tpi X Protheus</Title>
+				<Title lang="es">Wizard Tpi Vs. Protheus</Title>
+				<Title lang="en">Tpi Wizard X Protheus</Title>
+				<Function>FINA893</Function>
+				<Type>1</Type>
+				<Tables>F70</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017373</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A770000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011017</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos Relacional</Title>
+				<Title lang="es">Genericos Relacional</Title>
+				<Title lang="en">Relational Generic</Title>
+				<Function>MPVIEW</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014637</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resumo de Casos</Title>
+				<Title lang="es">Resumen de Casos</Title>
+				<Title lang="en">Case Summary</Title>
+				<Function>JURA161</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016775</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A770000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Detalhes de Despesas</Title>
+				<Title lang="es">Detalles de Gastos</Title>
+				<Title lang="en">Expenses Details</Title>
+				<Function>JURAPAD018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015073</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Canceladas</Title>
+				<Title lang="es">Facturas Anuladas</Title>
+				<Title lang="en">Canceled Invoices</Title>
+				<Function>JURAPAD024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015080</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Emitidas</Title>
+				<Title lang="es">Facturas Emitidas</Title>
+				<Title lang="en">Generated Invoices</Title>
+				<Function>JURAPAD025</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015081</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Previsão Analítica de Faturamento</Title>
+				<Title lang="es">Prevision Analitica de Facturacion</Title>
+				<Title lang="en">Analytical Prediction Of Billing</Title>
+				<Function>JURAPAD026</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wo</Title>
+				<Title lang="es">Wo</Title>
+				<Title lang="en">Wo</Title>
+				<Function>JURAPAD031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020122</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pagadores X Contratos</Title>
+				<Title lang="es">Pagadores Vs. Contratos</Title>
+				<Title lang="en">Payers X Contracts</Title>
+				<Function>JURAPAD040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017564</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Faturas Canceladas\emitidas</Title>
+				<Title lang="es">Facturas Anuladas\emitidas</Title>
+				<Title lang="en">Canceled\issued Invoices</Title>
+				<Function>JURAPAD041</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022281</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parcelas Fixas</Title>
+				<Title lang="es">Cuotas Fijas</Title>
+				<Title lang="en">Fixd Instalmts</Title>
+				<Function>JURAPAD042</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022285</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A770000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Configurações</Title>
+			<Title lang="es">Configuraciones</Title>
+			<Title lang="en">Settings</Title>
+			<ItemID>0000011018</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agrupamentos de Campos</Title>
+				<Title lang="es">Agrupamientos de Campos</Title>
+				<Title lang="en">Field Grouping</Title>
+				<Function>JURA118</Function>
+				<Type>1</Type>
+				<Tables>NVX</Tables>
+				<Tables>NUX</Tables>
+				<Tables>NUY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011021</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Legendas de Rotinas</Title>
+				<Title lang="es">Leyendas de Rutinas</Title>
+				<Title lang="en">Routine Captions</Title>
+				<Function>JURA117</Function>
+				<Type>1</Type>
+				<Tables>NTY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Preenchimento</Title>
+				<Title lang="es">Reglas de Relleno</Title>
+				<Title lang="en">Completion Rules</Title>
+				<Function>JURA115</Function>
+				<Type>1</Type>
+				<Tables>NTZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fila de Sincronização Legal Desk</Title>
+				<Title lang="es">Cola de Sincronizacion Legal Desk</Title>
+				<Title lang="en">Legal Desk Synchronization Line</Title>
+				<Function>JURA170</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018399</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros Sincronização Legal Desk</Title>
+				<Title lang="es">Parametros Sincronizacion Legal Desk</Title>
+				<Title lang="en">Legal Desk Synchronization Parameters</Title>
+				<Function>JURA171</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018402</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização da Posição Histórica do Cont a Receber</Title>
+				<Title lang="es">Actualización de Historial de Cuentas Por Cobrar</Title>
+				<Title lang="en">Updating Of History Position Of Accounts Receivalb</Title>
+				<Function>JURA255M</Function>
+				<Type>1</Type>
+				<Tables>OHH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rotinas Customizadas</Title>
+				<Title lang="es">Rutinas Personalizadas</Title>
+				<Title lang="en">Customized Routines</Title>
+				<Function>PFSAPPCROT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017962</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração de Ocorrências</Title>
+				<Title lang="es">Integrac Ocurrenc</Title>
+				<Title lang="en">Occurrences Integration</Title>
+				<Function>JURA304</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017971</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Url's Integração Ld</Title>
+				<Title lang="es">Url Integración Ld</Title>
+				<Title lang="en">Ld Integration Urls</Title>
+				<Function>JURA315</Function>
+				<Type>1</Type>
+				<Tables>OI9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017504</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Ld,url,urls,integracao,legal,desk,integra</KeyWord>
+					<KeyWord lang="es">Ld,url,url,integración,legal,desk,integra</KeyWord>
+					<KeyWord lang="en">Ld,url,urls,integration,legal,desk,integra</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Tarifador Config</Title>
+			<Title lang="es">Tarifador Config</Title>
+			<Title lang="en">Config Fee Calculation</Title>
+			<ItemID>0000018420</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reg.importados</Title>
+				<Title lang="es">Reg.importados</Title>
+				<Title lang="en">Import Rec.</Title>
+				<Function>JURA176</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tarifador</Title>
+				<Title lang="es">Tarifador</Title>
+				<Title lang="en">Fee Calculation</Title>
+				<Function>JURA174</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018421</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exportar Cadastros</Title>
+				<Title lang="es">Exporta Archivos</Title>
+				<Title lang="en">Export Registers</Title>
+				<Function>JURA175E</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018667</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importar Despesas</Title>
+				<Title lang="es">Importa Gastos</Title>
+				<Title lang="en">Import Expenses</Title>
+				<Function>JURA175I</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018668</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Lançamentos</Title>
+				<Title lang="es">Aprobación de Asientos</Title>
+				<Title lang="en">Approval Of Entries</Title>
+				<Function>JURA176A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contabilização</Title>
+			<Title lang="es">Contabilidad</Title>
+			<Title lang="en">Accounting</Title>
+			<ItemID>0000013353</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contabilização Off-line</Title>
+				<Title lang="es">Contabilidad Off-line</Title>
+				<Title lang="en">Offline Accounting</Title>
+				<Function>JURA265</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>77</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013354</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B770000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B770000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

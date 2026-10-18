@@ -1,0 +1,47 @@
+O E-mail recebido contém 3 arquivos compactados, sendo eles:
+
+PSAL.TXT - Arquivo com os dados da Pesquisa Salarial.
+
+PSAL.ZIP - Arquivo compactado com o PSAL.EXE (executável da Coleta
+de Dados) e a CTL3D.DLL (DLL necessária para o funcionamento do PSAL.EXE).
+
+LEIAME.TXT - Arquivo com as instruções de instalação e execução da Coleta de Dados.
+
+- Se cliente Microsiga:
+	- Considere apenas os arquivos PSAL.TXT e o LEIAME.TXT.
+	- Salve o arquivo PSAL.TXT no mesmo diretório onde estão os executáveis;
+	- Execute a Coleta de Dados pelo ambiente Cargos e Salários (opção 
+	"Miscelâneas/Coleta Automatizada/Coleta dos Dados);
+	- Inicialmente, será apresentada uma tela descritiva da Empresa Patrocinadora 
+	e,em seguida, um menu de opções, onde estão as informações necessárias à
+	Coleta de Dados da Pesquisa Salarial.
+	- Sendo Cliente Microsiga, a vantagem está no momento de obter os dados de 
+	freqüência e salário dos funcionários, informando somente o Cargo correspondente 
+	ao da Empresa Participante. Dessa forma, o sistema percorre todo o cadastro
+	de funcionários, localizando automaticamente os dados de freqüência e salário.
+	
+- Se Não cliente Microsiga
+	- Considere os arquivos PSAL.TXT, PSAL.ZIP e LEIAME.TXT
+	- Primeiramente, selecione o diretório para o trabalho da Coleta de Dados;
+	- Salve o arquivo PSAL.TXT e execute o PSAL.ZIP nesse diretório, de forma a
+	descompactar o arquivo;
+        - O arquivo PSAL.ZIP é composto por PSAL.EXE e CTL3D.DLL.
+        - Execute PSAL.EXE e inicie a Coleta de Dados da Pesquisa Salarial;
+	- Será apresentada uma tela descritiva da Empresa Patrocinadora da
+	Pesquisa Salarial e, em seguida, um Menu, onde estarão as informações necessárias 
+	para a Coleta de Dados da Pesquisa Salarial;
+	
+- Para ambas as situações:	
+	- Todas as telas possuem um botão de ajuda que aciona o Help On-line do sistema. 
+	Caso tenha alguma dúvida, acione-o;
+	- Na Coleta de Dados, dois passos são imprescindíveis para a Pesquisa Salarial: 
+		- o preenchimento dos dados da Empresa Participante 
+		- a Coleta de Dados, propriamente dita.
+		Nos dados da Empresa Participante são solicitados dados cadastrais,
+		como telefone, e-mail, nome do contato na empresa, etc. e na Coleta
+		são solicitados os dados de freqüência e salário do cargo na empresa 
+		participante, o mês do dissídio, alguns valores de remuneração e outros.
+	- Preenchidos os dados necessários e assim que a Coleta estiver finalizada, acesse 
+	o menu e clique na opção "FECHAR A PESQUISA". 
+	- Será gerado um arquivo PSAL+9999.TXT, que deve ser enviado para Empresa Patrocinadora
+	que mantém todas as informações da Coleta de Dados.

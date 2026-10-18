@@ -1,0 +1,1538 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAPPAP</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A470000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000008082</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Peça</Title>
+				<Title lang="es">Pieza</Title>
+				<Title lang="en">Part</Title>
+				<Function>QPPA010</Function>
+				<Type>1</Type>
+				<Tables>QK1</Tables>
+				<Tables>QK2</Tables>
+				<Tables>QP6</Tables>
+				<Tables>QP7</Tables>
+				<Tables>QQK</Tables>
+				<Tables>QL4</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008083</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operações</Title>
+				<Title lang="es">Operaciones</Title>
+				<Title lang="en">Operations</Title>
+				<Function>QPPA020</Function>
+				<Type>1</Type>
+				<Tables>QKK</Tables>
+				<Tables>QKO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008084</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atividades do Cronograma</Title>
+				<Title lang="es">Actividades de Cronograma</Title>
+				<Title lang="en">Schedule Activities</Title>
+				<Function>QPPA030</Function>
+				<Type>1</Type>
+				<Tables>QKZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008085</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atividade</KeyWord>
+					<KeyWord lang="es">Actividad</KeyWord>
+					<KeyWord lang="en">Activity</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Equipe Multifuncional</Title>
+				<Title lang="es">Equipo Multifuncional</Title>
+				<Title lang="en">Multifunctional Team</Title>
+				<Function>QPPA040</Function>
+				<Type>1</Type>
+				<Tables>QKE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008086</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Equipamento</KeyWord>
+					<KeyWord lang="es">Equipo</KeyWord>
+					<KeyWord lang="en">Equipment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QIEA050</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAC</Tables>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>21</Owner>
+				<ItemID>0000008087</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos e Funções</Title>
+				<Title lang="es">Cargos Y Funciones</Title>
+				<Title lang="en">Jobs And Functions</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>24</Owner>
+				<ItemID>0000008088</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamento</Title>
+				<Title lang="es">Departamento</Title>
+				<Title lang="en">Department</Title>
+				<Function>QAXA030</Function>
+				<Type>1</Type>
+				<Tables>QAD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>24</Owner>
+				<ItemID>0000008089</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Setor</KeyWord>
+					<KeyWord lang="es">Sector</KeyWord>
+					<KeyWord lang="en">Sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidades de Medida</Title>
+				<Title lang="es">Unidades de Medida</Title>
+				<Title lang="en">Units Of Measur.</Title>
+				<Function>QIEA030</Function>
+				<Type>1</Type>
+				<Tables>SAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>21</Owner>
+				<ItemID>0000008090</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>CRMA980</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>5</Owner>
+				<ItemID>0000008091</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="es">Licitante,empresa,comprador</KeyWord>
+					<KeyWord lang="en">Bidder,company,purchaser</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Palavras</Title>
+				<Title lang="es">Palabras</Title>
+				<Title lang="en">Words</Title>
+				<Function>QAXA080</Function>
+				<Type>1</Type>
+				<Tables>QAL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008092</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Planejamento Avançado da Qualidade do Produto</Title>
+			<Title lang="es">Planeamiento Avanzado de Calidad de Producto</Title>
+			<Title lang="en">Advanced Product Quality Planning</Title>
+			<ItemID>0000008094</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cronograma</Title>
+				<Title lang="es">Cronograma</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>QPPA110</Function>
+				<Type>1</Type>
+				<Tables>QKG</Tables>
+				<Tables>QKP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008095</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fmea de Projeto</Title>
+				<Title lang="es">Fmea de Proyecto</Title>
+				<Title lang="en">Project Fmea</Title>
+				<Function>QPPA120</Function>
+				<Type>1</Type>
+				<Tables>QK5</Tables>
+				<Tables>QK6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008096</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fmea de Processo</Title>
+				<Title lang="es">Fmea de Proceso</Title>
+				<Title lang="en">Fmea Of Process</Title>
+				<Function>QPPA131</Function>
+				<Type>1</Type>
+				<Tables>QK7</Tables>
+				<Tables>QK8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008097</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viabilidade</Title>
+				<Title lang="es">Viabilidad</Title>
+				<Title lang="en">Feasibility</Title>
+				<Function>QPPA140</Function>
+				<Type>1</Type>
+				<Tables>QKF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008098</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagrama de Fluxo</Title>
+				<Title lang="es">Diagrama de Flujo</Title>
+				<Title lang="en">Flow Chart</Title>
+				<Function>QPPA150</Function>
+				<Type>1</Type>
+				<Tables>QKN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008099</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Controle</Title>
+				<Title lang="es">Plan de Control</Title>
+				<Title lang="en">Control Plan</Title>
+				<Function>QPPA160</Function>
+				<Type>1</Type>
+				<Tables>QKL</Tables>
+				<Tables>QKM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008100</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estudo de Rr</Title>
+				<Title lang="es">Estudio de Rr</Title>
+				<Title lang="en">R R Study</Title>
+				<Function>QMTA150</Function>
+				<Type>1</Type>
+				<Tables>QM4</Tables>
+				<Tables>QM5</Tables>
+				<Tables>QM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008101</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Capabilidade</Title>
+				<Title lang="es">Capabilidad</Title>
+				<Title lang="en">Capability</Title>
+				<Function>QPPA170</Function>
+				<Type>1</Type>
+				<Tables>QK9</Tables>
+				<Tables>QKA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008102</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio Dimensional</Title>
+				<Title lang="es">Ensayo Dimensional</Title>
+				<Title lang="en">Dimensional Test</Title>
+				<Function>QPPA180</Function>
+				<Type>1</Type>
+				<Tables>QKB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008103</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio Material</Title>
+				<Title lang="es">Ensayo Material</Title>
+				<Title lang="en">Material Test</Title>
+				<Function>QPPA190</Function>
+				<Type>1</Type>
+				<Tables>QKD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008104</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio de Desempenho</Title>
+				<Title lang="es">Ensayo de Desempeno</Title>
+				<Title lang="en">Performance Test</Title>
+				<Function>QPPA200</Function>
+				<Type>1</Type>
+				<Tables>QKC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008105</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Aparência</Title>
+				<Title lang="es">Aprobacion de Apariencia</Title>
+				<Title lang="en">Appearance Approval</Title>
+				<Function>QPPA210</Function>
+				<Type>1</Type>
+				<Tables>QK3</Tables>
+				<Tables>QK4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008106</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovação</KeyWord>
+					<KeyWord lang="es">Aprobacion</KeyWord>
+					<KeyWord lang="en">Approval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificado de Submissão</Title>
+				<Title lang="es">Certificado de Conformidad</Title>
+				<Title lang="en">Submission Certificate</Title>
+				<Function>QPPA220</Function>
+				<Type>1</Type>
+				<Tables>QKI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008107</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Certificado</KeyWord>
+					<KeyWord lang="es">Certificado</KeyWord>
+					<KeyWord lang="en">Certificate</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário e Aprovação</Title>
+				<Title lang="es">Resumen Y Aprobacion</Title>
+				<Title lang="en">Summary And Approval</Title>
+				<Function>QPPA230</Function>
+				<Type>1</Type>
+				<Tables>QKJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008108</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">M.s.a.</Title>
+			<Title lang="es">Msa</Title>
+			<Title lang="en">M s a</Title>
+			<ItemID>0000008110</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">M.s.a.</Title>
+				<Title lang="es">Msa</Title>
+				<Title lang="en">M s a</Title>
+				<Function>QMTA180</Function>
+				<Type>1</Type>
+				<Tables>QMU</Tables>
+				<Tables>QM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>22</Owner>
+				<ItemID>0000008111</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gráficos M.s.a.</Title>
+				<Title lang="es">Graficos Msa</Title>
+				<Title lang="en">M s a Charts</Title>
+				<Function>QMTC010</Function>
+				<Type>1</Type>
+				<Tables>QMU</Tables>
+				<Tables>QM2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>22</Owner>
+				<ItemID>0000008112</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Específicos</Title>
+			<Title lang="es">Especificos</Title>
+			<Title lang="en">Specific</Title>
+			<ItemID>0000008114</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação Interina Gm</Title>
+				<Title lang="es">Aprobacion Interina Gm</Title>
+				<Title lang="en">Internal Approval Gm</Title>
+				<Function>QPPA240</Function>
+				<Type>1</Type>
+				<Tables>QKH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008115</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovação</KeyWord>
+					<KeyWord lang="es">Aprobacion</KeyWord>
+					<KeyWord lang="en">Approval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Psa - Rai</Title>
+				<Title lang="es">Psa - Rai</Title>
+				<Title lang="en">P s a - R a I</Title>
+				<Function>QPPA340</Function>
+				<Type>1</Type>
+				<Tables>QL0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008116</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vda</Title>
+			<Title lang="es">Vda</Title>
+			<Title lang="en">V d a</Title>
+			<ItemID>0000008118</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vda Folha de Capa</Title>
+				<Title lang="es">Vda Portada</Title>
+				<Title lang="en">V d a Cover Page</Title>
+				<Function>QPPA350</Function>
+				<Type>1</Type>
+				<Tables>QL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008119</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vda Amostra Inicial</Title>
+				<Title lang="es">Vda Muestra Inicial</Title>
+				<Title lang="en">Vda Initial Sample</Title>
+				<Function>QPPA360</Function>
+				<Type>1</Type>
+				<Tables>QL2</Tables>
+				<Tables>QL3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008120</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Inicial</KeyWord>
+					<KeyWord lang="es">Inicial</KeyWord>
+					<KeyWord lang="en">Initial</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Checklist Apqp</Title>
+			<Title lang="es">Checklist Apqp</Title>
+			<Title lang="en">a P Q P Checklist</Title>
+			<ItemID>0000008122</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dfmea - A1</Title>
+				<Title lang="es">Dfmea - A1</Title>
+				<Title lang="en">d F M e a - A1</Title>
+				<Function>QPPA250</Function>
+				<Type>1</Type>
+				<Tables>QKQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008123</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Informação do Projeto - A2</Title>
+				<Title lang="es">Informacion Del Proyecto - A2</Title>
+				<Title lang="en">Project Information - A2</Title>
+				<Function>QPPA260</Function>
+				<Type>1</Type>
+				<Tables>QKR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008124</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Novos Equipamentos - A3</Title>
+				<Title lang="es">Nuevos Equipos - A3</Title>
+				<Title lang="en">New Devices - A3</Title>
+				<Function>QPPA270</Function>
+				<Type>1</Type>
+				<Tables>QKS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008125</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Equipamento</KeyWord>
+					<KeyWord lang="es">Equipo</KeyWord>
+					<KeyWord lang="en">Equipment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Qualidade do Produto e Processo - A4</Title>
+				<Title lang="es">Calidad Del Producto Y Proceso - A4</Title>
+				<Title lang="en">Product And Process Quality - A4</Title>
+				<Function>QPPA280</Function>
+				<Type>1</Type>
+				<Tables>QKT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008126</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Qualidade,produto,item,process</KeyWord>
+					<KeyWord lang="es">Calidad,producto,item,process</KeyWord>
+					<KeyWord lang="en">Quality,product,item,process</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instalações - A5</Title>
+				<Title lang="es">Instalaciones - A5</Title>
+				<Title lang="en">Installations - A6</Title>
+				<Function>QPPA290</Function>
+				<Type>1</Type>
+				<Tables>QKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008127</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fluxograma do Processo - A6</Title>
+				<Title lang="es">Diagrama de Flujo Del Proceso - A6</Title>
+				<Title lang="en">Process Fluxogram - A6</Title>
+				<Function>QPPA300</Function>
+				<Type>1</Type>
+				<Tables>QKV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008128</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fluxo,processo</KeyWord>
+					<KeyWord lang="es">Flujo,proceso</KeyWord>
+					<KeyWord lang="en">Flow,process</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pfmea - A7</Title>
+				<Title lang="es">Pfmea - A7</Title>
+				<Title lang="en">P F M e a - A7</Title>
+				<Function>QPPA310</Function>
+				<Type>1</Type>
+				<Tables>QKW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008129</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Controle - A8</Title>
+				<Title lang="es">Plan de Control - A8</Title>
+				<Title lang="en">Control Plan - A8</Title>
+				<Function>QPPA320</Function>
+				<Type>1</Type>
+				<Tables>QKX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008130</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Plano</KeyWord>
+					<KeyWord lang="es">Plan</KeyWord>
+					<KeyWord lang="en">Plan</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Checklist a Granel</Title>
+			<Title lang="es">Checklist a Granel</Title>
+			<Title lang="en">Bulk Checklist</Title>
+			<ItemID>0000008132</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Checklist de Material a Granel</Title>
+				<Title lang="es">Checklist de Material a Granel</Title>
+				<Title lang="en">Bulk Material Checklist</Title>
+				<Function>QPPA330</Function>
+				<Type>1</Type>
+				<Tables>QKY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008133</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Material</KeyWord>
+					<KeyWord lang="es">Material</KeyWord>
+					<KeyWord lang="en">Material</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A470000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros Genéricos</Title>
+				<Title lang="es">Archivos Genericos</Title>
+				<Title lang="en">Generic Register</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008135</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências</Title>
+				<Title lang="es">Asunto Pendiente</Title>
+				<Title lang="en">Pendings</Title>
+				<Function>QPPC010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008136</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A470000003</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressão Por Nível de Submissäo</Title>
+				<Title lang="es">Impresion Por Nivel de Conformidad</Title>
+				<Title lang="en">Print By Submission Level</Title>
+				<Function>QPPR011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008138</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impressao,nivel</KeyWord>
+					<KeyWord lang="es">Impresion,nivel</KeyWord>
+					<KeyWord lang="en">Print,level</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Impressão Total do Ppap</Title>
+				<Title lang="es">Impresion Total Del Ppap</Title>
+				<Title lang="en">Total Ppap Printing</Title>
+				<Function>QPPR012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008139</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Impressao</KeyWord>
+					<KeyWord lang="es">Impresion</KeyWord>
+					<KeyWord lang="en">Print</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Planejamento Avançado da Qualidade do Produto</Title>
+			<Title lang="es">Planeamiento Avanzado de Calidad Del Producto</Title>
+			<Title lang="en">Advanced Product Quality Planning</Title>
+			<ItemID>0000008141</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cronograma</Title>
+				<Title lang="es">Cronograma</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>QPPR110</Function>
+				<Type>1</Type>
+				<Tables>QKG</Tables>
+				<Tables>QKP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008142</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fmea Processo</Title>
+				<Title lang="es">Fmea Proceso</Title>
+				<Title lang="en">Fmea Process</Title>
+				<Function>QPPR120</Function>
+				<Type>1</Type>
+				<Tables>QK5</Tables>
+				<Tables>QK6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008143</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fmea Processo</Title>
+				<Title lang="es">Fmea Proceso</Title>
+				<Title lang="en">Process F M e a</Title>
+				<Function>QPPR130</Function>
+				<Type>1</Type>
+				<Tables>QK7</Tables>
+				<Tables>QK8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Viabilidade</Title>
+				<Title lang="es">Viabilidad</Title>
+				<Title lang="en">Feasibility</Title>
+				<Function>QPPR140</Function>
+				<Type>1</Type>
+				<Tables>QKF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008145</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Diagrama de Fluxo</Title>
+				<Title lang="es">Diagrama de Flujo</Title>
+				<Title lang="en">Flow Diagram</Title>
+				<Function>QPPR150</Function>
+				<Type>1</Type>
+				<Tables>QKN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008146</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Controle</Title>
+				<Title lang="es">Plan de Control</Title>
+				<Title lang="en">Control Plan</Title>
+				<Function>QPPR160</Function>
+				<Type>1</Type>
+				<Tables>QKL</Tables>
+				<Tables>QKM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008147</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estudo de Rr</Title>
+				<Title lang="es">Estudio de Rr</Title>
+				<Title lang="en">R R Study</Title>
+				<Function>QMTR150</Function>
+				<Type>1</Type>
+				<Tables>QM4</Tables>
+				<Tables>QM5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Capabilidade</Title>
+				<Title lang="es">Capabilidad</Title>
+				<Title lang="en">Capability</Title>
+				<Function>QPPR170</Function>
+				<Type>1</Type>
+				<Tables>QK9</Tables>
+				<Tables>QKA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio Dimensional</Title>
+				<Title lang="es">Ensayo Dimensional</Title>
+				<Title lang="en">Dimensional Test</Title>
+				<Function>QPPR180</Function>
+				<Type>1</Type>
+				<Tables>QKB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008150</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio Material</Title>
+				<Title lang="es">Ensayo Material</Title>
+				<Title lang="en">Material Test</Title>
+				<Function>QPPR190</Function>
+				<Type>1</Type>
+				<Tables>QKD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008151</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ensaio de Desempenho</Title>
+				<Title lang="es">Ensayo de Desempeno</Title>
+				<Title lang="en">Performance Essay</Title>
+				<Function>QPPR200</Function>
+				<Type>1</Type>
+				<Tables>QKC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008152</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação de Aparência</Title>
+				<Title lang="es">Aprobacion de Apariencia</Title>
+				<Title lang="en">Appearance Approval</Title>
+				<Function>QPPR210</Function>
+				<Type>1</Type>
+				<Tables>QK3</Tables>
+				<Tables>QK4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008153</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovação</KeyWord>
+					<KeyWord lang="es">Aprobacion</KeyWord>
+					<KeyWord lang="en">Approval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Certificado de Submissão</Title>
+				<Title lang="es">Certificado de Conformidad</Title>
+				<Title lang="en">Submission Certificate</Title>
+				<Function>QPPR220</Function>
+				<Type>1</Type>
+				<Tables>QKI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008154</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Certificado</KeyWord>
+					<KeyWord lang="es">Certificado</KeyWord>
+					<KeyWord lang="en">Certificate</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sumário e Aprovação</Title>
+				<Title lang="es">Resumen Y Aprobacion</Title>
+				<Title lang="en">Summary And Approval</Title>
+				<Function>QPPR230</Function>
+				<Type>1</Type>
+				<Tables>QKJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008155</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Específicos</Title>
+			<Title lang="es">Especificos</Title>
+			<Title lang="en">Specific</Title>
+			<ItemID>0000008157</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aprovação Interina Gm</Title>
+				<Title lang="es">Aprobacion Interina Gm</Title>
+				<Title lang="en">Interim Approval Gm</Title>
+				<Function>QPPR240</Function>
+				<Type>1</Type>
+				<Tables>QKH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008158</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Aprovação</KeyWord>
+					<KeyWord lang="es">Aprobacion</KeyWord>
+					<KeyWord lang="en">Approval</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Psa - Rai</Title>
+				<Title lang="es">Psa - Rai</Title>
+				<Title lang="en">P s a - R a I</Title>
+				<Function>QPPR340</Function>
+				<Type>1</Type>
+				<Tables>QL0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008159</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vda</Title>
+			<Title lang="es">Vda</Title>
+			<Title lang="en">V d a</Title>
+			<ItemID>0000008161</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vda Folha de Capa</Title>
+				<Title lang="es">Vda Portada</Title>
+				<Title lang="en">V d a Cover Page</Title>
+				<Function>QPPR350</Function>
+				<Type>1</Type>
+				<Tables>QL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008162</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vda Amostra Inicial</Title>
+				<Title lang="es">Vda Muestra Inicial</Title>
+				<Title lang="en">Vda Initial Sample</Title>
+				<Function>QPPR360</Function>
+				<Type>1</Type>
+				<Tables>QL2</Tables>
+				<Tables>QL3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008163</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Inicial</KeyWord>
+					<KeyWord lang="es">Inicial</KeyWord>
+					<KeyWord lang="en">Start</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dimensional</Title>
+				<Title lang="es">Dimensional</Title>
+				<Title lang="en">Dimensional</Title>
+				<Function>QPPR180V</Function>
+				<Type>1</Type>
+				<Tables>QKB</Tables>
+				<Tables>QL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008164</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Material</Title>
+				<Title lang="es">Material</Title>
+				<Title lang="en">Material</Title>
+				<Function>QPPR190V</Function>
+				<Type>1</Type>
+				<Tables>QKD</Tables>
+				<Tables>QL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008165</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Desempenho</Title>
+				<Title lang="es">Desempeno</Title>
+				<Title lang="en">Performance</Title>
+				<Function>QPPR200V</Function>
+				<Type>1</Type>
+				<Tables>QKC</Tables>
+				<Tables>QL1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008166</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Checklist Apqp</Title>
+			<Title lang="es">Checklist Apqp</Title>
+			<Title lang="en">a P Q P Checklist</Title>
+			<ItemID>0000008168</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dfmea - A1</Title>
+				<Title lang="es">Dfmea - A1</Title>
+				<Title lang="en">Dfmea - A1</Title>
+				<Function>QPPR250</Function>
+				<Type>1</Type>
+				<Tables>QKQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008169</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Informação do Projeto - A2</Title>
+				<Title lang="es">Informacion Del Proyecto - A2</Title>
+				<Title lang="en">Project Information - A2</Title>
+				<Function>QPPR260</Function>
+				<Type>1</Type>
+				<Tables>QKR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008170</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Novos Equipamentos - A3</Title>
+				<Title lang="es">Nuevos Equipos - A3</Title>
+				<Title lang="en">New Equipment - A3</Title>
+				<Function>QPPR270</Function>
+				<Type>1</Type>
+				<Tables>QKS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008171</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Equipamento</KeyWord>
+					<KeyWord lang="es">Equipo</KeyWord>
+					<KeyWord lang="en">Equipment</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Qualidade do Produto e Processo - A4</Title>
+				<Title lang="es">Calidad Del Producto Y Proceso - A4</Title>
+				<Title lang="en">Product And Process Quality - A4</Title>
+				<Function>QPPR280</Function>
+				<Type>1</Type>
+				<Tables>QKT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008172</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Qualidade,produto,item,process</KeyWord>
+					<KeyWord lang="es">Calidad,producto,item,proceso</KeyWord>
+					<KeyWord lang="en">Quality,product,item,process</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instalações - A5</Title>
+				<Title lang="es">Instalaciones - A5</Title>
+				<Title lang="en">Installations - A5</Title>
+				<Function>QPPR290</Function>
+				<Type>1</Type>
+				<Tables>QKU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008173</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fluxograma do Processo - A6</Title>
+				<Title lang="es">Diagrama de Flujo Del Proceso - A6</Title>
+				<Title lang="en">Process Fluxogram - A6</Title>
+				<Function>QPPR300</Function>
+				<Type>1</Type>
+				<Tables>QKV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008174</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Fluxo,processo</KeyWord>
+					<KeyWord lang="es">Flujo,proceso</KeyWord>
+					<KeyWord lang="en">Flow,process</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pfmea - A7</Title>
+				<Title lang="es">Pfmea - A7</Title>
+				<Title lang="en">Pfmea - A7</Title>
+				<Function>QPPR310</Function>
+				<Type>1</Type>
+				<Tables>QKW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008175</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Plano de Controle - A8</Title>
+				<Title lang="es">Plan de Control - A8</Title>
+				<Title lang="en">Control Plan - A8</Title>
+				<Function>QPPR320</Function>
+				<Type>1</Type>
+				<Tables>QKX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008176</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Plano</KeyWord>
+					<KeyWord lang="es">Plan</KeyWord>
+					<KeyWord lang="en">Plan</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Checklist a Granel</Title>
+			<Title lang="es">Checklist a Granel</Title>
+			<Title lang="en">Checklist In Bulk</Title>
+			<ItemID>0000008178</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Checklist de Material a Granel</Title>
+				<Title lang="es">Checklist de Material a Granel</Title>
+				<Title lang="en">Material Checklist In Bulk</Title>
+				<Function>QPPR330</Function>
+				<Type>1</Type>
+				<Tables>QKY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Material</KeyWord>
+					<KeyWord lang="es">Material</KeyWord>
+					<KeyWord lang="en">Material</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">M.s.a.</Title>
+			<Title lang="es">M.s.a.</Title>
+			<Title lang="en">M s a</Title>
+			<ItemID>0000008181</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Performance de Sistemas de Medição Rr</Title>
+				<Title lang="es">Desempeno de Sistemas de Medicion Rr</Title>
+				<Title lang="en">Measurement Systems Performance Rr</Title>
+				<Function>QMTR190</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>22</Owner>
+				<ItemID>0000008182</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Medição</KeyWord>
+					<KeyWord lang="es">Medicion</KeyWord>
+					<KeyWord lang="en">Measurement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A470000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gera Revisão</Title>
+				<Title lang="es">Genera Revision</Title>
+				<Title lang="en">Generate Revision</Title>
+				<Function>QPPM010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Duplica Ppap</Title>
+				<Title lang="es">Duplica Ppap</Title>
+				<Title lang="en">Duplicate P P a P</Title>
+				<Function>QPPM020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008185</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclui Todo Ppap</Title>
+				<Title lang="es">Borra Todo Ppap</Title>
+				<Title lang="en">Delete All P P a P</Title>
+				<Function>QPPM030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000008188</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Por Usuários</Title>
+				<Title lang="es">Procesos Por Usuarios</Title>
+				<Title lang="en">Processes By Users</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008190</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>47</Owner>
+				<ItemID>0000008191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anonimização Lgpd</Title>
+				<Title lang="es">Anonimización Lgpd</Title>
+				<Title lang="en">Gdpr Anonymization</Title>
+				<Function>QLT100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>47</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017112</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B470000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B470000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

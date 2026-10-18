@@ -1,0 +1,50 @@
+[CABEC]PadC("Relatorio de Acompanhamento",220)
+[CABEC]
+[CABEC]
+[CABEC]
+[CABEC]"CNPJ: "+Transform(SM0->M0_CGC,"@R 99.999.999/9999-99")
+[CABEC]"Nome Empresarial: "+SM0->M0_NOMECOM
+[CABEC]
+[CABEC]"Nome do Arquivo: "+cArquivo+"                        Data da Geracao: "+Dtoc(dDataBase)
+[CABEC]
+[PSAY]"Conteudo do Arquivo(*)"
+[PSAY]
+[PSAY]"MEIO FISICO DE ENTREGA:"
+[PSAY]"                        (__) CD"
+[PSAY]"                        (__) Disquete"
+[PSAY]"                        (__) Conexao em rede local (LAN)"
+[PSAY]"                        (__) Transmissao direta"
+[PSAY]"                        (__) _________________________________ (outro meio fisico aceito pela autoridade requisitante)"
+[PSAY]
+[PSAY]
+[PSAY]"DUMP dos 30 primeiros registros.....:"
+[DUMPP]
+[PSAY]
+[PSAY]"DUMP dos 30 ultimos registros.......:"
+[DUMPU]
+[PSAY]
+[PSAY]"Descricao detalha do arquivo........:"
+[PSAY]
+[PSAY]"Quantidade de volumes...............: 1"
+[PSAY]
+[PSAY]"Quantidade de registros.............: "+Transform(_aTotal[10],"@e 999,999,999")
+[PSAY]
+[PSAY]"Tamanho do arquivo (em bytes).......: "+Transform(IIf(!File(AllTrim(MV_PAR05)+cArquivo),0,Directory(AllTrim(MV_PAR05)+cArquivo)[1][2]),"@e 999,999,999")
+[PSAY]
+[PSAY]"Outros parametros(***)..............:"
+[PSAY]
+[PSAY]
+[PSAY]PadL(SM0->M0_CIDENT+", "+AllTrim(Str(Day(dDataBase)))+" de "+MesExtenso(Month(dDataBase))+" de "+AllTrim(Str(Year(dDataBase))),220)
+[PSAY]
+[PSAY]
+[PSAY]"Contribuinte/responsavel ou preposto: "
+[PSAY]
+[PSAY]PadR("Nome: ",220/2)+"Assinatura:"
+[PSAY]PadR("CPF: ",220/3)+"Telefone:                        FAX:                             "
+[PSAY]"E-MAIL:"
+[PSAY]
+[PSAY]"Responsavel tecnico pela geracao do arquivo: "
+[PSAY]PadR("Nome: ",220/2)+"Assinatura:"
+[PSAY]PadR("CPF: ",220/3)+"Telefone:                        FAX:                             "
+[PSAY]"E-MAIL:"
+[PSAY]

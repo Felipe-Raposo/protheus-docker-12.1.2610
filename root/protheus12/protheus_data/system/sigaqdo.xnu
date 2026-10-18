@@ -1,0 +1,1119 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGAQDO</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A240000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004710</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>QDOA151</Function>
+				<Type>1</Type>
+				<Tables>QAD</Tables>
+				<Tables>QDT</Tables>
+				<Tables>QDZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004711</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Setor</KeyWord>
+					<KeyWord lang="es">Sector</KeyWord>
+					<KeyWord lang="en">Sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos e Funções</Title>
+				<Title lang="es">Cargos</Title>
+				<Title lang="en">Positions</Title>
+				<Function>QDOA160</Function>
+				<Type>1</Type>
+				<Tables>QAC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004712</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>QAXA010</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QAB</Tables>
+				<Tables>QDR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004713</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assuntos</Title>
+				<Title lang="es">Asuntos</Title>
+				<Title lang="en">Subjects</Title>
+				<Function>QDOA010</Function>
+				<Type>1</Type>
+				<Tables>QD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004714</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Palavras Chaves</Title>
+				<Title lang="es">Palabras Clave</Title>
+				<Title lang="en">Key Words</Title>
+				<Function>QDOA070</Function>
+				<Type>1</Type>
+				<Tables>QDK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004715</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Documento</Title>
+				<Title lang="es">Tipos de Documento</Title>
+				<Title lang="en">Document Types</Title>
+				<Function>QDOA020</Function>
+				<Type>1</Type>
+				<Tables>QD2</Tables>
+				<Tables>QDD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004716</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pastas</Title>
+				<Title lang="es">Carpetas</Title>
+				<Title lang="en">Folders</Title>
+				<Function>QDOA040</Function>
+				<Type>1</Type>
+				<Tables>QDC</Tables>
+				<Tables>QDT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004717</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Normas</Title>
+				<Title lang="es">Normas</Title>
+				<Title lang="en">Rules</Title>
+				<Function>QAXA070</Function>
+				<Type>1</Type>
+				<Tables>QAK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004718</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionários</Title>
+				<Title lang="es">Cuestionarios</Title>
+				<Title lang="en">Questionnaires</Title>
+				<Function>QAXA050</Function>
+				<Type>1</Type>
+				<Tables>QAG</Tables>
+				<Tables>QAH</Tables>
+				<Tables>QAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004719</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Lançamentos</Title>
+			<Title lang="es">Asientos</Title>
+			<Title lang="en">Entries</Title>
+			<ItemID>0000004721</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos</Title>
+				<Title lang="es">Documentos</Title>
+				<Title lang="en">Documents</Title>
+				<Function>QDOA050</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QDB</Tables>
+				<Tables>QD4</Tables>
+				<Tables>QD5</Tables>
+				<Tables>QD6</Tables>
+				<Tables>QD0</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDE</Tables>
+				<Tables>QD7</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QDN</Tables>
+				<Tables>QA4</Tables>
+				<Tables>QDJ</Tables>
+				<Tables>QD9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004722</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitações</Title>
+				<Title lang="es">Solicitudes</Title>
+				<Title lang="en">Requests</Title>
+				<Function>QDOA052</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QDB</Tables>
+				<Tables>QD4</Tables>
+				<Tables>QD5</Tables>
+				<Tables>QD6</Tables>
+				<Tables>QD0</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDE</Tables>
+				<Tables>QD7</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QDN</Tables>
+				<Tables>QA4</Tables>
+				<Tables>QDJ</Tables>
+				<Tables>QDP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004723</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências</Title>
+				<Title lang="es">Pendencias</Title>
+				<Title lang="en">Pending Issues</Title>
+				<Function>QDOA030</Function>
+				<Type>1</Type>
+				<Tables>QDN</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDS</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004724</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Distribuição</Title>
+				<Title lang="es">Distribucion</Title>
+				<Title lang="en">Distribution</Title>
+				<Function>QDOA110</Function>
+				<Type>1</Type>
+				<Tables>QDN</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QDU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004725</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Devolução de Revisão</Title>
+				<Title lang="es">Devolucion de Revision</Title>
+				<Title lang="en">Revision Questions</Title>
+				<Function>QDOA060</Function>
+				<Type>1</Type>
+				<Tables>QDU</Tables>
+				<Tables>QD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004726</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Follow Up de Leitura</Title>
+				<Title lang="es">Follow Up de Lectura</Title>
+				<Title lang="en">Reading Follow-up</Title>
+				<Function>QDOA170</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004727</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamento</Title>
+				<Title lang="es">Capacitacion</Title>
+				<Title lang="en">Training</Title>
+				<Function>QDOA080</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QD8</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QDM</Tables>
+				<Tables>QDL</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004728</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A240000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastros Genérico</Title>
+				<Title lang="es">Arch. Generico</Title>
+				<Title lang="en">Generic Files</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004729</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pesquisa Texto</Title>
+				<Title lang="es">Busca Texto</Title>
+				<Title lang="en">Search Text</Title>
+				<Function>QDOC010</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QA2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004730</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Histórico de Documento</Title>
+				<Title lang="es">Historial de Documento</Title>
+				<Title lang="en">Document History</Title>
+				<Function>QDOC020</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QA2</Tables>
+				<Tables>QD0</Tables>
+				<Tables>QDB</Tables>
+				<Tables>QD4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004731</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento</KeyWord>
+					<KeyWord lang="es">Documento</KeyWord>
+					<KeyWord lang="en">Document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lançamentos Pendentes</Title>
+				<Title lang="es">Registros Pendientes</Title>
+				<Title lang="en">Pending Transactions</Title>
+				<Function>QDOC030</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004732</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pendente</KeyWord>
+					<KeyWord lang="es">Pendiente</KeyWord>
+					<KeyWord lang="en">Pending</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Mestra Html</Title>
+				<Title lang="es">Lista Maestra Html</Title>
+				<Title lang="en">Html Master List</Title>
+				<Function>QDOC040</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004733</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Documentos Referenciados</Title>
+				<Title lang="es">Documentos Referenciados</Title>
+				<Title lang="en">Referenced Documents</Title>
+				<Function>QDOC050</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QDB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000004734</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Referencia</KeyWord>
+					<KeyWord lang="es">Referencia</KeyWord>
+					<KeyWord lang="en">Reference</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão À Vista</Title>
+			<Title lang="es">Gestión a La Vista</Title>
+			<Title lang="en">Visible Management</Title>
+			<ItemID>0000017433</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gestão À Vista - Visões</Title>
+				<Title lang="es">Gestión a La Vista - Visiones</Title>
+				<Title lang="en">Visible Management - Views</Title>
+				<Function>PCPMONITOR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000017434</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A240000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Documentos</Title>
+			<Title lang="es">Documentos</Title>
+			<Title lang="en">Documents</Title>
+			<ItemID>0000004735</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reemissão de Documentos</Title>
+				<Title lang="es">Reenvio de Documentos</Title>
+				<Title lang="en">Remit Documents</Title>
+				<Function>QDOR200</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004736</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento</KeyWord>
+					<KeyWord lang="es">Documento</KeyWord>
+					<KeyWord lang="en">Document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Mestra Resumida</Title>
+				<Title lang="es">Lista Maestra Resumen</Title>
+				<Title lang="en">Summarized Master List</Title>
+				<Function>QDOR040</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004737</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista</KeyWord>
+					<KeyWord lang="es">Lista</KeyWord>
+					<KeyWord lang="en">List</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Mestra Completa</Title>
+				<Title lang="es">Lista Maestra Completa</Title>
+				<Title lang="en">Full Master List</Title>
+				<Function>QDOR041</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004738</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista</KeyWord>
+					<KeyWord lang="es">Lista</KeyWord>
+					<KeyWord lang="en">List</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista Mestra Por Documento e Departamento</Title>
+				<Title lang="es">Lista Maestra Por Documento Y Departamento</Title>
+				<Title lang="en">Master List By Document And Department</Title>
+				<Function>QDOR042</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004739</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista,documento,departamento,setor</KeyWord>
+					<KeyWord lang="es">Lista,documento,departamento,sector</KeyWord>
+					<KeyWord lang="en">List,document,department,sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Documentos X Departamentos</Title>
+				<Title lang="es">Lista de Documentos Vs Departamentos</Title>
+				<Title lang="en">List Documents X Departments</Title>
+				<Function>QDOR043</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004740</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista,documento,departamento,setor</KeyWord>
+					<KeyWord lang="es">Lista,documento,departamento,sector</KeyWord>
+					<KeyWord lang="en">List,document,department,sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Documentos</Title>
+				<Title lang="es">Lista de Documentos</Title>
+				<Title lang="en">Document List</Title>
+				<Function>QDOR044</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004741</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista,documento</KeyWord>
+					<KeyWord lang="es">Lista,documento</KeyWord>
+					<KeyWord lang="en">List,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Protocolo de Entrega</Title>
+				<Title lang="es">Comprobante de Entrega</Title>
+				<Title lang="en">Delivery Protocol</Title>
+				<Function>QDOR060</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004742</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Protocolo de Recolhimento</Title>
+				<Title lang="es">Comprobante de Pago</Title>
+				<Title lang="en">Collection Protocol</Title>
+				<Function>QDOR063</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QD2</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004743</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Protocolo</KeyWord>
+					<KeyWord lang="es">Protocolo</KeyWord>
+					<KeyWord lang="en">Protocol</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pendências</Title>
+				<Title lang="es">Pendencias</Title>
+				<Title lang="en">Pending Issues</Title>
+				<Function>QDOR050</Function>
+				<Type>1</Type>
+				<Tables>QD1</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004744</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Solicitações</Title>
+				<Title lang="es">Solicitudes</Title>
+				<Title lang="en">Requests</Title>
+				<Function>QDOR052</Function>
+				<Type>1</Type>
+				<Tables>QDP</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004745</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferências</Title>
+				<Title lang="es">Transferencias</Title>
+				<Title lang="en">Transfers</Title>
+				<Function>QDOR080</Function>
+				<Type>1</Type>
+				<Tables>QDR</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004746</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Validade do Documento</Title>
+				<Title lang="es">Validez Del Documento</Title>
+				<Title lang="en">Document Validity</Title>
+				<Function>QDOR090</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004747</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento</KeyWord>
+					<KeyWord lang="es">Documento</KeyWord>
+					<KeyWord lang="en">Document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Devolução de Revisão Anterior</Title>
+				<Title lang="es">Devolucion de Revision Anterior</Title>
+				<Title lang="en">Previous Revision Return</Title>
+				<Function>QDOR100</Function>
+				<Type>1</Type>
+				<Tables>QDU</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004748</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Devolução,revisão</KeyWord>
+					<KeyWord lang="es">Devolucion,revision</KeyWord>
+					<KeyWord lang="en">Return,revision</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Destinatário de Documentos</Title>
+				<Title lang="es">Destinatario de Documentos</Title>
+				<Title lang="en">Document Destinatary</Title>
+				<Function>QDOR300</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Tables>QDG</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QD1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004749</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Destinatários,documento</KeyWord>
+					<KeyWord lang="es">Destinatarios,documento</KeyWord>
+					<KeyWord lang="en">Destinataries,document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Treinamento</Title>
+			<Title lang="es">Capacitacion</Title>
+			<Title lang="en">Training</Title>
+			<ItemID>0000004751</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamento X Departamentos</Title>
+				<Title lang="es">Capacitacion Vs Departamentos</Title>
+				<Title lang="en">Trainings X Departments</Title>
+				<Function>QDOR010</Function>
+				<Type>1</Type>
+				<Tables>QD8</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004752</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Departamento,setor</KeyWord>
+					<KeyWord lang="es">Departamento,sector</KeyWord>
+					<KeyWord lang="en">Department,sector</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinamento X Treinando</Title>
+				<Title lang="es">Capacitacion Vs Capacitado</Title>
+				<Title lang="en">Training X Trainee</Title>
+				<Function>QDOR020</Function>
+				<Type>1</Type>
+				<Tables>QD8</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QDH</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004753</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Usuários</KeyWord>
+					<KeyWord lang="es">Usuarios</KeyWord>
+					<KeyWord lang="en">Users</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Treinandos X Documentos</Title>
+				<Title lang="es">Capacitados Vs Documentos</Title>
+				<Title lang="en">Trainees X Documents</Title>
+				<Function>QDOR030</Function>
+				<Type>1</Type>
+				<Tables>QD8</Tables>
+				<Tables>QDA</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004754</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Documento</KeyWord>
+					<KeyWord lang="es">Documento</KeyWord>
+					<KeyWord lang="en">Document</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Convocação de Treinamento</Title>
+				<Title lang="es">Convocatoria de Capacitacion</Title>
+				<Title lang="en">Training Convocation</Title>
+				<Function>QDOR081</Function>
+				<Type>1</Type>
+				<Tables>QDR</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004755</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Treinamento</KeyWord>
+					<KeyWord lang="es">Entrenamiento</KeyWord>
+					<KeyWord lang="en">Training</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registro de Treinamento</Title>
+				<Title lang="es">Registro de Capacitacion</Title>
+				<Title lang="en">Training Record</Title>
+				<Function>QDOR082</Function>
+				<Type>1</Type>
+				<Tables>QDR</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004756</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Treinamento</KeyWord>
+					<KeyWord lang="es">Entrenamiento</KeyWord>
+					<KeyWord lang="en">Training</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000004758</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ausência Temporárias</Title>
+				<Title lang="es">Ausencia Temporarias</Title>
+				<Title lang="en">Temporary Absence</Title>
+				<Function>QAXR020</Function>
+				<Type>1</Type>
+				<Tables>QAE</Tables>
+				<Tables>QAF</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004759</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Temporária</KeyWord>
+					<KeyWord lang="es">Temporaria</KeyWord>
+					<KeyWord lang="en">Temporary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Questionários</Title>
+				<Title lang="es">Cuestionarios</Title>
+				<Title lang="en">Questionnaires</Title>
+				<Function>QAXR010</Function>
+				<Type>1</Type>
+				<Tables>QAG</Tables>
+				<Tables>QAH</Tables>
+				<Tables>QAI</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004760</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A240000004</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importa Documento</Title>
+				<Title lang="es">Importa Documento</Title>
+				<Title lang="en">Import Document</Title>
+				<Function>QDOA090</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004761</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Importação</KeyWord>
+					<KeyWord lang="es">Importacion</KeyWord>
+					<KeyWord lang="en">Import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção de Distribuição</Title>
+				<Title lang="es">Mantenimiento de Distribucion</Title>
+				<Title lang="en">Distribution Maintenance</Title>
+				<Function>QDOA120</Function>
+				<Type>1</Type>
+				<Tables>QDN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004762</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Manutenção</KeyWord>
+					<KeyWord lang="es">Mantenimiento</KeyWord>
+					<KeyWord lang="en">Maintenance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ausência Temporárias</Title>
+				<Title lang="es">Ausencia Temporarias</Title>
+				<Title lang="en">Temporary Absence</Title>
+				<Function>QAXA040</Function>
+				<Type>1</Type>
+				<Tables>QAE</Tables>
+				<Tables>QAF</Tables>
+				<Tables>QD1</Tables>
+				<Tables>QD0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004763</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Temporária</KeyWord>
+					<KeyWord lang="es">Temporaria</KeyWord>
+					<KeyWord lang="en">Temporary</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status Gerais</Title>
+				<Title lang="es">Estatus Generales</Title>
+				<Title lang="en">General Status</Title>
+				<Function>QDOM020</Function>
+				<Type>1</Type>
+				<Tables>QDH</Tables>
+				<Tables>QD2</Tables>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004764</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aviso Por E-mail</Title>
+				<Title lang="es">Aviso Por E-mail</Title>
+				<Title lang="en">E-mail Warning</Title>
+				<Function>QAXA020</Function>
+				<Type>1</Type>
+				<Tables>QAA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004765</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empresa e Filial</Title>
+				<Title lang="es">Empresa Y Sucursal</Title>
+				<Title lang="en">Company And Branch</Title>
+				<Function>QAXA060</Function>
+				<Type>1</Type>
+				<Tables>QAJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004766</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000004768</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rastreabilidade</Title>
+				<Title lang="es">Trazabilidad</Title>
+				<Title lang="en">Trackability</Title>
+				<Function>WFC001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004769</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Por Usuários</Title>
+				<Title lang="es">Procesos Por Usuarios</Title>
+				<Title lang="en">Processes By Uers</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004770</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Tables>WF6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>22</Owner>
+				<ItemID>0000004771</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Anonimização Lgpd</Title>
+				<Title lang="es">Anonimización Lgpd</Title>
+				<Title lang="en">Gdpr Anonymization</Title>
+				<Function>QLT100</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>24</Module>
+				<Owner>24</Owner>
+				<ItemID>0000017093</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B240000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B240000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

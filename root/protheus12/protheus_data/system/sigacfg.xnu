@@ -1,0 +1,1918 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGACFG</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Ambiente</Title>
+		<Title lang="es">&Entorno</Title>
+		<Title lang="en">&Settings</Title>
+		<ItemID>A990000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">File</Title>
+			<ItemID>0000011203</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Repositório de Imagens</Title>
+				<Title lang="es">Repositorio de Imagenes</Title>
+				<Title lang="en">Image Repository</Title>
+				<Function>CFGX012</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Menus</Title>
+				<Title lang="es">Menus</Title>
+				<Title lang="en">Menus</Title>
+				<Function>CFGX013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011205</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cnab a Receber</Title>
+				<Title lang="es">Cnab Por Cobrar</Title>
+				<Title lang="en">Cnab Receivable</Title>
+				<Function>CFGX014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011206</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cnab a Pagar</Title>
+				<Title lang="es">Cnab Por Pagar</Title>
+				<Title lang="en">Cnab Payable</Title>
+				<Function>CFGX043</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cnab Modelo 2</Title>
+				<Title lang="es">Cnab Modelo 2</Title>
+				<Title lang="en">Cnab Model 2</Title>
+				<Function>CFGX049</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Cnab</Title>
+				<Title lang="es">Wizard Cnab</Title>
+				<Title lang="en">Wizard Cnab</Title>
+				<Function>CFGX049A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016741</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Tcb</Title>
+				<Title lang="es">Wizard Tcb</Title>
+				<Title lang="en">Wizard Tcb</Title>
+				<Function>FINA231</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tcb,wizard</KeyWord>
+					<KeyWord lang="es">Tcb,wizard</KeyWord>
+					<KeyWord lang="en">Tcb,wizard</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sispag</Title>
+				<Title lang="es">Sispag</Title>
+				<Title lang="en">Sispag</Title>
+				<Function>CFGX044</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cnab Cloud</Title>
+				<Title lang="es">Cnab Cloud</Title>
+				<Title lang="en">Cnab Cloud</Title>
+				<Function>CFGX049B</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016066</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Layout,arquivo,banco</KeyWord>
+					<KeyWord lang="es">Layout,archivo,banco</KeyWord>
+					<KeyWord lang="en">Layout,file,bank</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conexão Totvs Pagamentos Digitais</Title>
+				<Title lang="es">Conexión Totvs Pagos Digitales</Title>
+				<Title lang="en">Totvs Digital Payments Connection</Title>
+				<Function>FINA921</Function>
+				<Type>1</Type>
+				<Tables>FVR</Tables>
+				<Tables>FV3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017601</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tpd</KeyWord>
+					<KeyWord lang="es">Tpd</KeyWord>
+					<KeyWord lang="en">Tpd</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas</Title>
+				<Title lang="es">Tablas</Title>
+				<Title lang="en">Tables</Title>
+				<Function>CFGX016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros</Title>
+				<Title lang="es">Parametros</Title>
+				<Title lang="en">Parameters</Title>
+				<Function>CFGX017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Tables>SUO</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUV</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Boleto</Title>
+				<Title lang="es">Boleta</Title>
+				<Title lang="en">Slip</Title>
+				<Function>CFGX018</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011213</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela Irrf</Title>
+				<Title lang="es">Tabla Irrf</Title>
+				<Title lang="en">Irrf Table</Title>
+				<Function>CFGX011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011214</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabela de Periodos Contábéis</Title>
+				<Title lang="es">Tabla de Periodos Contables</Title>
+				<Title lang="en">Accounting Period Table</Title>
+				<Function>CFGX045</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Extrato Bancário</Title>
+				<Title lang="es">Configuracion de Extracto Bancario</Title>
+				<Title lang="en">Bank Statement Configuration</Title>
+				<Function>CFGX023</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato Febraban</Title>
+				<Title lang="es">Extracto Febraban</Title>
+				<Title lang="en">Febraban Statement</Title>
+				<Function>CFGX055</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011218</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf Termos Ab/enc</Title>
+				<Title lang="es">Vrf Terminos Ap/ci</Title>
+				<Title lang="en">Open/clos Terms Ch</Title>
+				<Function>CFGX024</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Instrução Normativa 068</Title>
+				<Title lang="es">Resolucion Normativa 068</Title>
+				<Title lang="en">Normative Instruction 068</Title>
+				<Function>CFGX046</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011220</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cad Intercompany</Title>
+				<Title lang="es">Reg Intercompany</Title>
+				<Title lang="en">Intercompany Regis</Title>
+				<Function>CFGX048</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011221</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção de Profile</Title>
+				<Title lang="es">Mantenimiento de Profile</Title>
+				<Title lang="en">Profile Maintenance</Title>
+				<Function>PROFMGR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conexão Cti</Title>
+				<Title lang="es">Conexion Cti</Title>
+				<Title lang="en">Cti Connection</Title>
+				<Function>TMKXMID</Function>
+				<Type>1</Type>
+				<Tables>SK4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Totvs Api Services</Title>
+				<Title lang="es">Totvs Api Services</Title>
+				<Title lang="en">Totvs Api Services</Title>
+				<Function>CFGX056</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011224</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelo Atendimento</Title>
+				<Title lang="es">Modelo Atencion</Title>
+				<Title lang="en">Service Model</Title>
+				<Function>CFGX503B</Function>
+				<Type>1</Type>
+				<Tables>SKA</Tables>
+				<Tables>SKB</Tables>
+				<Tables>SKJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011225</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Catálogo de Personalização</Title>
+				<Title lang="es">Catalogo de Personalizacion</Title>
+				<Title lang="en">Customization Catalog</Title>
+				<Function>CFGA030</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard de Conversão de Certificado</Title>
+				<Title lang="es">Wizard Conv. Cert.</Title>
+				<Title lang="en">Certificate Conversion Wizard</Title>
+				<Function>CFGX060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019630</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Certificados,digital,digitais,conversões,extrações,extração</KeyWord>
+					<KeyWord lang="es">Certificados,digital,digitales,conversiones,extracciones,extraccion</KeyWord>
+					<KeyWord lang="en">Certificates,digital,digital,conversions,extractions,extraction</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Controle de Numeração</Title>
+				<Title lang="es">Control de Numeración</Title>
+				<Title lang="en">Numbering Control</Title>
+				<Function>APCFG110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013859</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração Smart View</Title>
+				<Title lang="es">Configuração Smart View</Title>
+				<Title lang="en">Smart View Configuration</Title>
+				<Function>FWTREPPARM</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>99</Owner>
+				<ItemID>0000015487</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Reimportação de Leiautes Smart View</Title>
+				<Title lang="es">Reimportação de Leiautes Smart View</Title>
+				<Title lang="en">Re-import Of Smart View Layouts</Title>
+				<Function>APCFGLAYTR</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>99</Owner>
+				<ItemID>0000016297</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação Banco de Conhecimentos</Title>
+				<Title lang="es">Import Base Conocimiento</Title>
+				<Title lang="en">Knowledge Base Import</Title>
+				<Function>APCFGIMPDO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017522</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Conhecimento,importação,banco</KeyWord>
+					<KeyWord lang="es">Conocimiento,importación,banco</KeyWord>
+					<KeyWord lang="en">Knowledge,import,base</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração do Tipo do Ambiente</Title>
+				<Title lang="es">Configuración Tipo de Entorno</Title>
+				<Title lang="en">Environment Type Configuration</Title>
+				<Function>CFGA750</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Dados Protegidos</Title>
+			<Title lang="es">Datos Protegidos</Title>
+			<Title lang="en">Protected Data</Title>
+			<ItemID>0000016280</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Dados Protegidos</Title>
+				<Title lang="es">Grupos Datos Protegidos</Title>
+				<Title lang="en">Protected Data Group</Title>
+				<Function>APCFG710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>99</Owner>
+				<ItemID>0000016282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campos Protegidos</Title>
+				<Title lang="es">Campos Protegidos</Title>
+				<Title lang="en">Protected Fields</Title>
+				<Function>APCFG720</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>99</Owner>
+				<ItemID>0000016291</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sugestões Desabilitadas</Title>
+				<Title lang="es">Sugerencias Desactivadas</Title>
+				<Title lang="en">Suggestions Disabled</Title>
+				<Function>APCFG730</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>99</Owner>
+				<ItemID>0000016294</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Aceleradores</Title>
+			<Title lang="es">Aceleradores</Title>
+			<Title lang="en">Quickeners</Title>
+			<ItemID>0000011228</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Mile</Title>
+			<Title lang="es">Mile</Title>
+			<Title lang="en">Mile</Title>
+			<ItemID>0000012842</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Layouts</Title>
+				<Title lang="es">Layouts</Title>
+				<Title lang="en">Layouts</Title>
+				<Function>CFGA600</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012843</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Processamento</Title>
+				<Title lang="es">Log de Procesamiento</Title>
+				<Title lang="en">Processing Log</Title>
+				<Function>CFGA650</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012846</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Logs Mile</Title>
+				<Title lang="es">Informe de Logs Mile</Title>
+				<Title lang="en">Mile Logs Report</Title>
+				<Function>CFGR650</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000013789</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000016179</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contas de E-mail</Title>
+				<Title lang="es">Cuentas de E-mail</Title>
+				<Title lang="en">E-mail Account</Title>
+				<Function>WFC003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016182</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parâmetros de Workflow</Title>
+				<Title lang="es">Parámetros de Workflow</Title>
+				<Title lang="en">Workflow Parameters</Title>
+				<Function>WFA000</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos de Workflow</Title>
+				<Title lang="es">Procesos de Workflow</Title>
+				<Title lang="en">Workflow Processes</Title>
+				<Function>WFA001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status de Workflow</Title>
+				<Title lang="es">Estatus de Workflow</Title>
+				<Title lang="en">Workflow Status</Title>
+				<Function>WFA002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Indicadores Nativos</Title>
+			<Title lang="es">Indicadores Nativos</Title>
+			<Title lang="en">Native Indicators</Title>
+			<ItemID>0000011244</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos Usuários</Title>
+				<Title lang="es">Procesos Usuarios</Title>
+				<Title lang="en">User Processes</Title>
+				<Function>WFC002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016187</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">E-mails Substitutos</Title>
+				<Title lang="es">E-mails Sustitutos</Title>
+				<Title lang="en">Substituted E-mails</Title>
+				<Function>WFA007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016188</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard de Configuração</Title>
+				<Title lang="es">Wizard de Configuracion</Title>
+				<Title lang="en">Configuration Wizard</Title>
+				<Function>DWWIZARD</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011245</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Messenger</Title>
+				<Title lang="es">Messenger</Title>
+				<Title lang="en">Messenger</Title>
+				<Function>WFATASKRMT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filas de E-mail</Title>
+				<Title lang="es">Colas de E-mail</Title>
+				<Title lang="en">E-mail Queues</Title>
+				<Function>WFC008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000016190</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">E-mail/proxy</Title>
+			<Title lang="es">E-mail / Proxy</Title>
+			<Title lang="en">E-mail/proxy</Title>
+			<ItemID>0000011242</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurar</Title>
+				<Title lang="es">Configurar</Title>
+				<Title lang="en">Configure</Title>
+				<Function>CFGSETMAIL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Schedule</Title>
+			<Title lang="es">Schedule</Title>
+			<Title lang="en">Schedule</Title>
+			<ItemID>0000011239</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Schedule</Title>
+				<Title lang="es">Schedule</Title>
+				<Title lang="en">Schedule</Title>
+				<Function>CFGA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011240</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Adapter E.a.i.</Title>
+				<Title lang="es">Adapter E.a.i.</Title>
+				<Title lang="en">Adapter E.a.i.</Title>
+				<Function>CFGA020</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011241</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">De/para de Mensagem Única</Title>
+				<Title lang="es">De/para de Mensaje Unico</Title>
+				<Title lang="en">Single Message From/to</Title>
+				<Function>APCFG070</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012772</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Emp.filial Mensagem Única</Title>
+				<Title lang="es">Emp.sucursal Mensaje Unico</Title>
+				<Title lang="en">Single Message Branch Comp.</Title>
+				<Function>APCFG050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012771</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard Ireports</Title>
+				<Title lang="es">Wizard Ireports</Title>
+				<Title lang="en">Ireports Wizard</Title>
+				<Function>CFGIREPORT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Sinc.carga Inicial Eai</Title>
+				<Title lang="es">Sinc.carga Inic Eai</Title>
+				<Title lang="en">Start Sync.load Eai</Title>
+				<Function>APCFG020A</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000020255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro Rotas Eai</Title>
+				<Title lang="es">Archivo Rutas Eai</Title>
+				<Title lang="en">Eai Route Register</Title>
+				<Function>APCFG021</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Totvs Ecm</Title>
+			<Title lang="es">Totvs Ecm</Title>
+			<Title lang="en">Totvs Ecm</Title>
+			<ItemID>0000011246</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard do Workflow</Title>
+				<Title lang="es">Wizard Del Workflow</Title>
+				<Title lang="en">Workflow Wizard</Title>
+				<Function>CFGXWF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Wizard do Ged</Title>
+				<Title lang="es">Wizard Del Ged</Title>
+				<Title lang="en">Wizard Of Ged</Title>
+				<Function>CFGXGED</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011249</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Workflow</Title>
+				<Title lang="es">Reglas de Workflow</Title>
+				<Title lang="en">Workflow Rules</Title>
+				<Function>CFGA110</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011768</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Ireports Config.</Title>
+			<Title lang="es">Ireports Config.</Title>
+			<Title lang="en">Ireport Config.</Title>
+			<ItemID>0000011252</ItemID>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Empresas</Title>
+			<Title lang="es">Empresas</Title>
+			<Title lang="en">Companies</Title>
+			<ItemID>0000011258</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupo de Empresas</Title>
+				<Title lang="es">Grupo de Empresas</Title>
+				<Title lang="en">Group Of Companies</Title>
+				<Function>FWCADGRPCO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011261</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Empresas</Title>
+				<Title lang="es">Empresas</Title>
+				<Title lang="en">Companies</Title>
+				<Function>FWCADCOMPA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011262</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Unidade de Negócios</Title>
+				<Title lang="es">Unidad de Negocio</Title>
+				<Title lang="en">Business Units</Title>
+				<Function>FWCADUNIDN</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011265</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Filial</Title>
+				<Title lang="es">Sucursal</Title>
+				<Title lang="en">Branch</Title>
+				<Function>FWCADFILIA</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011266</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Importação / Gestão de Empresas</Title>
+				<Title lang="es">Importacion / Gestion de Empresas</Title>
+				<Title lang="en">Import / Companies Management</Title>
+				<Function>FWCONFIGFI</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011270</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Log</Title>
+				<Title lang="es">Informe de Log</Title>
+				<Title lang="en">Log Report</Title>
+				<Function>CFGR700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Embedded Audit Trail</Title>
+			<Title lang="es">Embedded Audit Trail</Title>
+			<Title lang="en">Embedded Audit Trail</Title>
+			<ItemID>0000014214</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Central de Auditoria</Title>
+				<Title lang="es">Central de Auditoría</Title>
+				<Title lang="en">Audit Center</Title>
+				<Function>CFGAUDITCENTER</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Auditoria,central,embedded</KeyWord>
+					<KeyWord lang="es">Auditoría,central,embedded</KeyWord>
+					<KeyWord lang="en">Audit,central,embedded</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicador</Title>
+				<Title lang="es">Aplicador</Title>
+				<Title lang="en">Applicator</Title>
+				<Function>CFGA710</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurador de Tablespace</Title>
+				<Title lang="es">Configurador de Tablespace</Title>
+				<Title lang="en">Tablespace Configurator</Title>
+				<Function>CFGA700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Flavour</Title>
+			<Title lang="es">Flavour</Title>
+			<Title lang="en">Flavour</Title>
+			<ItemID>0000018406</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização de Flavour</Title>
+				<Title lang="es">Actualizacion de Flavour</Title>
+				<Title lang="en">Flavour Update</Title>
+				<Function>CFGA730</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018407</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Help</Title>
+			<Title lang="es">Help</Title>
+			<Title lang="en">Help</Title>
+			<ItemID>0000019451</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atualização do Help</Title>
+				<Title lang="es">Actualiz. Del Help</Title>
+				<Title lang="en">Help Update</Title>
+				<Function>CFGDROPXB4</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000019452</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Help,atualização do Help</KeyWord>
+					<KeyWord lang="es">Help,actualizacion Del Help</KeyWord>
+					<KeyWord lang="en">Help,help Update</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000017983</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Smart View</Title>
+				<Title lang="es">Integração Smart View</Title>
+				<Title lang="en">Smart View Integration</Title>
+				<Function>APCFG770</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018008</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Treports,integratedprovider,relatorio</KeyWord>
+					<KeyWord lang="es">Treports,integratedprovider,informe</KeyWord>
+					<KeyWord lang="en">Treports,integratedprovider,report</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Usuário</Title>
+		<Title lang="es">&Usuario</Title>
+		<Title lang="en">&User</Title>
+		<ItemID>A990000002</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Senhas</Title>
+			<Title lang="es">Contrasenas</Title>
+			<Title lang="en">Password</Title>
+			<ItemID>0000011275</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Política</Title>
+				<Title lang="es">Política</Title>
+				<Title lang="en">Policy</Title>
+				<Function>CFGA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Usuários</Title>
+				<Title lang="es">Usuarios</Title>
+				<Title lang="en">Users</Title>
+				<Function>CFGA510</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011278</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>CFGA520</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011280</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Privilégios</Title>
+				<Title lang="es">Privilegios</Title>
+				<Title lang="en">Privilege</Title>
+				<Function>CFGA530</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011282</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configuração de Perguntas</Title>
+				<Title lang="es">Configuracion de Preguntas</Title>
+				<Title lang="en">Question Configuration</Title>
+				<Function>CFGA540</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Config. Identity</Title>
+				<Title lang="es">Config. Identity</Title>
+				<Title lang="en">Identity Config.</Title>
+				<Function>CFGFIOC</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018745</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Integração Identity</Title>
+				<Title lang="es">Integración Identity</Title>
+				<Title lang="en">Identity Integration</Title>
+				<Function>CFGA745</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017646</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Dashboard de Privilégios</Title>
+				<Title lang="es">Dashboard de Privilegios</Title>
+				<Title lang="en">Privileges Dashboard</Title>
+				<Function>CFGA744</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018511</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Papel de Trabalho</Title>
+			<Title lang="es">Papel de Trabajo</Title>
+			<Title lang="en">Work Role</Title>
+			<ItemID>0000012128</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Papel de Trabalho</Title>
+				<Title lang="es">Papel de Trabajo</Title>
+				<Title lang="en">Work Paper</Title>
+				<Function>CFGA550</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011277</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurar Papel</Title>
+				<Title lang="es">Configurar Papel</Title>
+				<Title lang="en">Configure Paper</Title>
+				<Function>CFGA560</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011289</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Mapeamento Sod</Title>
+			<Title lang="es">Mapeo Sod</Title>
+			<Title lang="en">Mapping Sod</Title>
+			<ItemID>0000023017</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Nível do Risco</Title>
+				<Title lang="es">Nivel Del Riesgo</Title>
+				<Title lang="en">Risk Level</Title>
+				<Function>MPUSERRISK</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023018</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Risco</Title>
+				<Title lang="es">Riesgo</Title>
+				<Title lang="en">Risk</Title>
+				<Function>MPUSRRISK</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023019</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conflitos</Title>
+				<Title lang="es">Conflictos</Title>
+				<Title lang="en">Conflicts</Title>
+				<Function>MPUSRCONFL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023020</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatorio de Conflitos</Title>
+				<Title lang="es">Informe de Conflictos</Title>
+				<Title lang="en">Conflicts Report</Title>
+				<Function>APCFGR060</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000023022</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Base de Dados</Title>
+		<Title lang="es">&Base de Datos</Title>
+		<Title lang="en">&Database</Title>
+		<ItemID>A990000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Dicionário</Title>
+			<Title lang="es">Diccionario</Title>
+			<Title lang="en">Dictionary</Title>
+			<ItemID>0000011301</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Arquivos</Title>
+				<Title lang="es">Archivos</Title>
+				<Title lang="en">Files</Title>
+				<Function>CFGX034</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011302</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Bases de Dados</Title>
+				<Title lang="es">Base de Datos</Title>
+				<Title lang="en">Database</Title>
+				<Function>CFGX031</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011303</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Gatilhos</Title>
+				<Title lang="es">Disparadores</Title>
+				<Title lang="en">Triggers</Title>
+				<Function>CFGX037</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011304</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Stored Procedure</Title>
+				<Title lang="es">Stored Procedure</Title>
+				<Title lang="en">Stored Procedure</Title>
+				<Function>CFGX051</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011305</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Manutenção de Help</Title>
+				<Title lang="es">Mantenim. de Help</Title>
+				<Title lang="en">Help Maintenance</Title>
+				<Function>HLPMANANGE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Refaz Indices</Title>
+				<Title lang="es">Rehace Indices</Title>
+				<Title lang="en">Redo Indexes</Title>
+				<Function>X2REINDEX</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011307</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Script de Tabelas</Title>
+				<Title lang="es">Script de Tablas</Title>
+				<Title lang="en">Table Script</Title>
+				<Function>CFGSCRIPT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Campos Numéricos</Title>
+				<Title lang="es">Grupos Campos Numéricos</Title>
+				<Title lang="en">Numeric Field Groups</Title>
+				<Function>APCFG310</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grupo,numéricos,campos,tamanho,decimais</KeyWord>
+					<KeyWord lang="es">Grupo,numéricos,campos,tamaño,decimales</KeyWord>
+					<KeyWord lang="en">Group,numeric,fields,size,decimals</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assist. Base Teste</Title>
+				<Title lang="es">Asist. Base Prueba</Title>
+				<Title lang="en">Testing Base Wizard</Title>
+				<Function>FWCFGTOOLS</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Teste,dbtools,assistente</KeyWord>
+					<KeyWord lang="es">Prueba,dbtools,asistente</KeyWord>
+					<KeyWord lang="en">Test,dbtools,wizard</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Otimizador de Telas</Title>
+				<Title lang="es">Otimizador de Telas</Title>
+				<Title lang="en">Screen Optimizer</Title>
+				<Function>CFGFORMOPT</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018353</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Verificar Duplicidade</Title>
+				<Title lang="es">Verificar Duplicidad</Title>
+				<Title lang="en">Check Duplicity</Title>
+				<Function>CHECKDUPL</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000022185</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Checkdupl,duplicidade,única</KeyWord>
+					<KeyWord lang="es">Checkdupl,duplicidad,única</KeyWord>
+					<KeyWord lang="en">Checkdupl,duplicity,single</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Ambientes</Title>
+			<Title lang="es">Gestion de Ambientes</Title>
+			<Title lang="en">Environment Management</Title>
+			<ItemID>0000011451</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ambientes</Title>
+				<Title lang="es">Ambientes</Title>
+				<Title lang="en">Environments</Title>
+				<Function>FWGAENVIRO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011453</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cadastro de Projetos</Title>
+				<Title lang="es">Archivo de Proyectos</Title>
+				<Title lang="en">Project Register</Title>
+				<Function>APCFG300</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015600</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Inicializa Ambiente</Title>
+				<Title lang="es">Inicializa Entorno</Title>
+				<Title lang="en">Starts Environment</Title>
+				<Function>APCFG301</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000014969</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Gestão,ambiente,inicializa,projeto</KeyWord>
+					<KeyWord lang="es">Gestión,entorno,inicializa,proyecto</KeyWord>
+					<KeyWord lang="en">Management,environment,start,project</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cons.log Aplicação</Title>
+				<Title lang="es">Cons.log Aplicac.</Title>
+				<Title lang="en">Query Applic.log</Title>
+				<Function>FWGASHOWLO</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011505</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Aplicar Pacote Local</Title>
+				<Title lang="es">Aplicar Paq. Local</Title>
+				<Title lang="en">Apply Local Package</Title>
+				<Function>CFGEXECUTELOCALUPDATE</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000025149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Auditoria</Title>
+			<Title lang="es">Auditoria</Title>
+			<Title lang="en">Audit</Title>
+			<ItemID>0000012028</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Auditoria</Title>
+				<Title lang="es">Consulta Auditoria</Title>
+				<Title lang="en">Audit Inquiry</Title>
+				<Function>APCFGR50</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015605</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Relatório de Auditoria</Title>
+				<Title lang="es">Informe de Auditoria</Title>
+				<Title lang="en">Audit Report</Title>
+				<Function>APCFGR10</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012031</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Auditoria Dicionário</Title>
+				<Title lang="es">Auditoria Diccionario</Title>
+				<Title lang="en">Dictionary Audit</Title>
+				<Function>APCFGR20</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012029</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situação de Usuários</Title>
+				<Title lang="es">Situacion de Usuarios</Title>
+				<Title lang="en">User Situation</Title>
+				<Function>APCFGR30</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012032</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Log de Acesso</Title>
+				<Title lang="es">Log de Acceso</Title>
+				<Title lang="en">Access Log</Title>
+				<Function>APCFGR40</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000012030</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A990000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Arquivos</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000011314</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Arquivo de Log</Title>
+				<Title lang="es">Consulta Archivo de Log</Title>
+				<Title lang="en">Check Log File</Title>
+				<Function>CFGX047</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Relatórios</Title>
+			<Title lang="es">Informes</Title>
+			<Title lang="en">Reports</Title>
+			<ItemID>0000017257</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listagem de Menus</Title>
+				<Title lang="es">Listado de Menús</Title>
+				<Title lang="en">Menu List</Title>
+				<Function>CFGR800</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>99</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017258</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B990000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B990000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

@@ -1,0 +1,75 @@
+[PRE-APURACAO]
+(PRE) aTotal := Array(36)
+(PRE) aTotal[01] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[02] := FsApCiap(aTotal[1][1],aTotal[1][2])
+(PRE) aTotal[03] := SuperGetMv("MV_ESTADO")=="PR"
+(PRE) aTotal[05] := {{30000,66000,0.02},{66000,166000,0.03},{166000,99999999999999999999,0.04}}
+(PRE) aTotal[06] := 0
+(PRE) aTotal[07] := ""
+(PRE) aTotal[08] := 0  
+(PRE) aTotal[09] := 0
+(PRE) aTotal[10] := 0
+(PRE) aTotal[11] := 0
+(PRE) aTotal[13] := 0
+(PRE) aTotal[15] := 0
+(PRE) aTotal[16] := 0
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[28] := GetNewPar("MV_CRPREPP",.T.)   
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(PRE) aTotal[24] := Iif(aTotal[20] > 0 .Or. aTotal[21] > 0,CalcRB(aTotal[1][1],aTotal[1][2],aTotal[22],.F.,aTotal[23],.T.),0)
+(PRE) aTotal[25] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[20] / 100, 0)
+(PRE) aTotal[26] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[21] / 100, 0)
+(PRE) aTotal[30] := 0
+(PRE) aTotal[31] := 0
+(PRE) aTotal[32] := 0
+(PRE) aTotal[33] := 0
+(PRE) aTotal[34] := 0  
+(PRE) aTotal[35] := 0    
+(PRE) aTotal[36] := 0    
+003=003.01;Estorno CIAP;aTotal[2][1]; ;
+006=007.01;Credito CIAP;aTotal[2][2]; ;
+(POS)
+[APURACAO ICMS]                  
+(PRE) {|x| aTotal[6] += IIf(SubStr(x[1],1,1)$"567" .And. aTotal[28],x[11],0)}
+(PRE) {|x| aTotal[9] += IIf(SubStr(x[1],1,1)$"567" .And. aTotal[28],x[4],0)}
+(PRE) {|x| aTotal[11] += IIf((aTotal[03] .And. SubStr(AllTrim (x[1]),1,1)$"3" .And. x[34]>0), x[34], 0)}
+(PRE) {|x| aTotal[13] += IIf((aTotal[03] .And. x[55]>0 .And. SubStr(x[1],1,1)$"567") .And. !x[74]$"D", x[55], 0)}
+(PRE) {|x| aTotal[15] += IIf((aTotal[03] .And. x[55]>0 .And. SubStr(x[1],1,1)$"123") .And. !x[74]$"D", x[55], 0)}
+(PRE) {|x| aTotal[16] += IIf((aTotal[03] .And. x[72]>0 .And. SubStr(x[1],1,1)$"567") .And. !x[74]$"D", x[72], 0)}
+(PRE) {|x| aTotal[30] += IIf((aTotal[03] .And. x[55]>0 .And. SubStr(x[1],1,1)$"567") .And. x[74]$"D", x[55], 0)}
+(PRE) {|x| aTotal[31] += IIf((aTotal[03] .And. x[55]>0 .And. SubStr(x[1],1,1)$"123") .And. x[74]$"D", x[55], 0)}
+(PRE) {|x| aTotal[32] += IIf((aTotal[03] .And. x[72]>0 .And. SubStr(x[1],1,1)$"567") .And. x[74]$"D", x[72], 0)}
+(PRE) {|x| aTotal[33] += IIf(aTotal[03] .And. x[80]>0, x[80], 0)}
+(PRE) {|x| aTotal[34] += IIf((aTotal[03] .And. x[10]>0 .And. SubStr(x[1],1,1)$"123"), x[10], 0)}
+(PRE) {|x| aTotal[35] += IIf(SubStr(x[1],1,1)$"12" .And. aTotal[03] .And. x[108]>0, x[108], 0)}
+(PRE) {|x| aTotal[36] += IIf(aTotal[03], x[130], 0)}
+(POS)
+[POS-APURACAO]
+(PRE) aTotal[7] := aScan(aTotal[5],{|x| x[2]>=aTotal[6]})
+(PRE) aTotal[8] := aTotal[6]
+(PRE) aTotal[8] := Iif(aTotal[7] == 1,(aTotal[5][aTotal[7]][2]-aTotal[6])*aTotal[5][aTotal[7]][3],aTotal[8])
+(PRE) aTotal[8] := Iif(aTotal[7] == 2,((aTotal[5][aTotal[7]-1][2]-aTotal[5][aTotal[7]-1][1])*aTotal[5][aTotal[7]-1][3])+((aTotal[5][aTotal[7]][2]-aTotal[6])*aTotal[5][aTotal[7]][3]),aTotal[8])
+(PRE) aTotal[8] := Iif(aTotal[7] == 3,((aTotal[5][aTotal[7]-2][2]-aTotal[5][aTotal[7]-2][1])*aTotal[5][aTotal[7]-2][3])+((aTotal[5][aTotal[7]-1][2]-aTotal[5][aTotal[7]-1][1])*aTotal[5][aTotal[7]-1][3])+((aTotal[6] - aTotal[5][aTotal[7]][1])*aTotal[5][aTotal[7]][3]),aTotal[8])
+(PRE) aTotal[10] := Iif(aTotal[6] > 30000,aTotal[9] - aTotal[8],aTotal[9])
+002=002.20;FUST    ;aTotal[25];            ;.F.;          ;
+002=002.21;FUNTTEL ;aTotal[26];            ;.F.;          ;
+002=002.22;Dif. aliquotas - Art.65 - Parag.5 do RICMS/PR;Iif((aScan(acols5,{|X| AllTrim(X[1])=='002' .And. Empty(X[2]) .And. X[4]==aTotal[34]})==0),aTotal[34],atotal[34] - acols5[aScan(acols5,{|X| AllTrim(X[1])=='002' .And. Empty(X[2]) .And. X[4]==aTotal[34]}),4] );;
+006=006.01;Artigos 406 a 416 do RICMS (Microempresa e EPP);Iif(aTotal[10]>0,aTotal[10],0);;
+006=006.02;Credito Presumido - Decreto 6.144 de 22.02.2006;aTotal[11];;
+006=006.03;Cred. Presumido-RICMS (Art.4)-Anexo III-Saidas;aTotal[13];;
+006=006.04;Cred. Presumido-RICMS (Art.4)-Anexo III-Entradas;aTotal[15];;
+006=006.05;Cred. Presumido art.631-A do RICMS/2008;aTotal[16];;
+006=006.06;Antecipacao de ICMS Art 253 do RICMS;Iif(aTotal[33]>0,aTotal[33],0);;
+006=006.07;Parag. 16, Art.23 RICMS/PR - SN;aTotal[35];;
+003=003.02;Est. Cred. ref. Cred. Presumido-RICMS (Art.4)-Anexo III-Saidas(Devolucao);aTotal[30];;
+003=003.03;Est. Cred. ref. Cred. Presumido-RICMS (Art.4)-Anexo III-Entradas(Devolucao);aTotal[31];;
+003=003.04;Est. Cred. ref. Cred. Presumido Art.631-A do RICMS/2008(Devolucao);aTotal[32];;
+003=003.05;Est. Cred. ref. Cred. Presumido - Decr. 6.144 de 22.02.2006;aTotal[36];;
+(POS)
+[OBSERVACAO]
+(PRE)
+OBS=""
+(POS)

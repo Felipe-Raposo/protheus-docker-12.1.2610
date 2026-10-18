@@ -1,0 +1,2882 @@
+<ApMenu>
+	<DocumentProperties>
+		<Module>SIGATMK</Module>
+		<Version>10.1</Version>
+	</DocumentProperties>
+	<Menu Status="Enable">
+		<Title lang="pt">&Atualizações</Title>
+		<Title lang="es">&Actualizaciones</Title>
+		<Title lang="en">&Updates</Title>
+		<ItemID>A130000001</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000003137</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Produtos</Title>
+				<Title lang="es">Grupos de Producto</Title>
+				<Title lang="en">Product Groups</Title>
+				<Function>MATA035</Function>
+				<Type>1</Type>
+				<Tables>SBM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003138</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATA010</Function>
+				<Type>1</Type>
+				<Tables>SB2</Tables>
+				<Tables>SB3</Tables>
+				<Tables>SB4</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SB6</Tables>
+				<Tables>SC1</Tables>
+				<Tables>SC2</Tables>
+				<Tables>SC4</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC7</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SD2</Tables>
+				<Tables>SD4</Tables>
+				<Tables>SG1</Tables>
+				<Tables>SG2</Tables>
+				<Tables>SED</Tables>
+				<Tables>SAH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003139</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Complementos de Produtos</Title>
+				<Title lang="es">Complementos de Productos</Title>
+				<Title lang="en">Product Complements</Title>
+				<Function>MATA180</Function>
+				<Type>1</Type>
+				<Tables>SB5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003140</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Complemento</KeyWord>
+					<KeyWord lang="es">Complemento</KeyWord>
+					<KeyWord lang="en">Complement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Locais de Estoque</Title>
+				<Title lang="es">Lugares de Stock</Title>
+				<Title lang="en">Stock Location</Title>
+				<Function>AGRA045</Function>
+				<Type>1</Type>
+				<Tables>NNR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>67</Owner>
+				<ItemID>0000012681</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Estações</Title>
+				<Title lang="es">Estaciones</Title>
+				<Title lang="en">Stations</Title>
+				<Function>TMKA121</Function>
+				<Type>1</Type>
+				<Tables>SLG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003141</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos de Atendimentos</Title>
+				<Title lang="es">Grupos de Atenciones</Title>
+				<Title lang="en">Service Groups</Title>
+				<Function>TMKA040</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SLG</Tables>
+				<Tables>SK0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003143</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Posto</KeyWord>
+					<KeyWord lang="es">Puesto</KeyWord>
+					<KeyWord lang="en">Position</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operadores</Title>
+				<Title lang="es">Operadores</Title>
+				<Title lang="en">Operators</Title>
+				<Function>TMKA090</Function>
+				<Type>1</Type>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003144</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Supervisor</KeyWord>
+					<KeyWord lang="es">Supervisor</KeyWord>
+					<KeyWord lang="en">Supervisor</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Status de Operadores</Title>
+				<Title lang="es">Estatus de Operadores</Title>
+				<Title lang="en">Operator Status</Title>
+				<Function>TMKA080</Function>
+				<Type>1</Type>
+				<Tables>AGE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003145</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Códigos de Ddi</Title>
+				<Title lang="es">Codigos de Ddi</Title>
+				<Title lang="en">Ddi Codes</Title>
+				<Function>TMKA370</Function>
+				<Type>1</Type>
+				<Tables>ACJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003146</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Discagem,direta,internacional</KeyWord>
+					<KeyWord lang="es">Discado,directo,internacional</KeyWord>
+					<KeyWord lang="en">Dialing,direct,international</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cargos de Contatos</Title>
+				<Title lang="es">Cargos de Contacto</Title>
+				<Title lang="en">Posit. Of Contacts</Title>
+				<Function>TMKA210</Function>
+				<Type>1</Type>
+				<Tables>SUM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003147</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos</Title>
+				<Title lang="es">Grupos</Title>
+				<Title lang="en">Groups</Title>
+				<Function>TRMA030</Function>
+				<Type>1</Type>
+				<Tables>SRA</Tables>
+				<Tables>SR7</Tables>
+				<Tables>SI3</Tables>
+				<Tables>SR9</Tables>
+				<Tables>SR3</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SRJ</Tables>
+				<Tables>SR6</Tables>
+				<Tables>SRX</Tables>
+				<Tables>RA0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003148</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Departamentos</Title>
+				<Title lang="es">Departamentos</Title>
+				<Title lang="en">Departments</Title>
+				<Function>CSAA100</Function>
+				<Type>1</Type>
+				<Tables>SQB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>7</Owner>
+				<ItemID>0000003149</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cnae</Title>
+				<Title lang="es">Cnae</Title>
+				<Title lang="en">Cnae</Title>
+				<Function>FATA500</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003150</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Classificacao,nacional,atividade,economia</KeyWord>
+					<KeyWord lang="es">Clasificacion,nacional,actividad,economia</KeyWord>
+					<KeyWord lang="en">Classification,national,activity,economy</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Moedas</Title>
+				<Title lang="es">Monedas</Title>
+				<Title lang="en">Currencies</Title>
+				<Function>MATA090</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Tables>SI7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>6</Owner>
+				<ItemID>0000003151</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fórmulas</Title>
+				<Title lang="es">Formulas</Title>
+				<Title lang="en">Formulas</Title>
+				<Function>CFGX019</Function>
+				<Type>1</Type>
+				<Tables>SM2</Tables>
+				<Tables>SM4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>99</Owner>
+				<ItemID>0000003152</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Processos de Venda X Ações</Title>
+				<Title lang="es">Procesos de Venta Vs Acciones</Title>
+				<Title lang="en">Sales X Action Processes</Title>
+				<Function>TMKA520O</Function>
+				<Type>1</Type>
+				<Tables>ADG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003154</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos Bloqueados</Title>
+				<Title lang="es">Contactos Bloqueados</Title>
+				<Title lang="en">Contacts Blocked</Title>
+				<Function>TMKA700</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015403</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Telemarketing</Title>
+			<Title lang="es">Telemarketing</Title>
+			<Title lang="en">Telemarketing</Title>
+			<ItemID>0000003157</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Ocorrências</Title>
+				<Title lang="es">Tipos de Ocurrencias</Title>
+				<Title lang="en">Event Types</Title>
+				<Function>TMKA050</Function>
+				<Type>1</Type>
+				<Tables>SUX</Tables>
+				<Tables>SUY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003158</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo</KeyWord>
+					<KeyWord lang="es">Tipo</KeyWord>
+					<KeyWord lang="en">Type</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências</Title>
+				<Title lang="es">Ocurrencias</Title>
+				<Title lang="en">Occurrences</Title>
+				<Function>TMKA130</Function>
+				<Type>1</Type>
+				<Tables>SU9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003159</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ações</Title>
+				<Title lang="es">Acciones</Title>
+				<Title lang="en">Actions</Title>
+				<Function>TMKA240</Function>
+				<Type>1</Type>
+				<Tables>SUQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003160</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências X Ações</Title>
+				<Title lang="es">Ocurrencias Vs Acciones</Title>
+				<Title lang="en">Occurrences X Actions</Title>
+				<Function>TMKA250</Function>
+				<Type>1</Type>
+				<Tables>SU9</Tables>
+				<Tables>SUQ</Tables>
+				<Tables>SUR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003161</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Mídias</Title>
+				<Title lang="es">Medios</Title>
+				<Title lang="en">Media</Title>
+				<Function>TMKA170</Function>
+				<Type>1</Type>
+				<Tables>SUH</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003162</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comunicações</Title>
+				<Title lang="es">Comunicac.</Title>
+				<Title lang="en">Communication</Title>
+				<Function>TMKA200</Function>
+				<Type>1</Type>
+				<Tables>SUL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003163</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Encerramento</Title>
+				<Title lang="es">Tipos de Cierre</Title>
+				<Title lang="en">Closing Types</Title>
+				<Function>TMKA220</Function>
+				<Type>1</Type>
+				<Tables>SUN</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003164</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Televendas</Title>
+			<Title lang="es">Televentas</Title>
+			<Title lang="en">Telesales</Title>
+			<ItemID>0000003166</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendedores</Title>
+				<Title lang="es">Vendedores</Title>
+				<Title lang="en">Sellers</Title>
+				<Function>MATA040</Function>
+				<Type>1</Type>
+				<Tables>SC5</Tables>
+				<Tables>SE3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003167</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acessórios</Title>
+				<Title lang="es">Accesorios</Title>
+				<Title lang="en">Accessories</Title>
+				<Function>TMKA030</Function>
+				<Type>1</Type>
+				<Tables>SU1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SUG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003168</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Telecobrança</Title>
+			<Title lang="es">Telecobranza</Title>
+			<Title lang="en">Telecollection</Title>
+			<ItemID>0000003170</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Seleção</Title>
+				<Title lang="es">Reglas de Selecc.</Title>
+				<Title lang="en">Selection Rules</Title>
+				<Function>TMKA160</Function>
+				<Type>1</Type>
+				<Tables>SK0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003171</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Negociação</Title>
+				<Title lang="es">Reglas de Negociacion</Title>
+				<Title lang="en">Negotiation Rules</Title>
+				<Function>TMKA190</Function>
+				<Type>1</Type>
+				<Tables>SK2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003172</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Promoções de Cobrança</Title>
+				<Title lang="es">Promociones de Cobranza</Title>
+				<Title lang="en">Billing Promotion</Title>
+				<Function>TMKA230</Function>
+				<Type>1</Type>
+				<Tables>SK3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003173</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Seleção de Títulos</Title>
+				<Title lang="es">Selec. de Titulos</Title>
+				<Title lang="en">Select Bills</Title>
+				<Function>TMKA180</Function>
+				<Type>1</Type>
+				<Tables>SK1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003174</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cenários de Venda</Title>
+			<Title lang="es">Escenarios de Venta</Title>
+			<Title lang="en">Sales Scenarios</Title>
+			<ItemID>0000003176</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Preços</Title>
+				<Title lang="es">Listas de Precios</Title>
+				<Title lang="en">Price Tables</Title>
+				<Function>OMSA010</Function>
+				<Type>1</Type>
+				<Tables>DA0</Tables>
+				<Tables>DA1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003177</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Desconto</Title>
+				<Title lang="es">Reglas de Desc.</Title>
+				<Title lang="en">Discount Rules</Title>
+				<Function>FATA080</Function>
+				<Type>1</Type>
+				<Tables>ACO</Tables>
+				<Tables>ACP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003178</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Bonificação</Title>
+				<Title lang="es">Reglas de Bonificacion</Title>
+				<Title lang="en">Bonus Rules</Title>
+				<Function>FATA090</Function>
+				<Type>1</Type>
+				<Tables>ACQ</Tables>
+				<Tables>ACR</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003179</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Bonificar,bonificacao</KeyWord>
+					<KeyWord lang="es">Bonificar,bonificacion</KeyWord>
+					<KeyWord lang="en">Reward,bonus</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Negócio</Title>
+				<Title lang="es">Reglas de Negocio</Title>
+				<Title lang="en">Business Rules</Title>
+				<Function>FATA100</Function>
+				<Type>1</Type>
+				<Tables>ACS</Tables>
+				<Tables>ACT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003180</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Contatos</Title>
+			<Title lang="es">Gestion de Contactos</Title>
+			<Title lang="en">Contact Management</Title>
+			<ItemID>0000003182</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Banco do Conhecimento</Title>
+				<Title lang="es">Banco de Conocimiento</Title>
+				<Title lang="en">Knowledge Bank</Title>
+				<Function>FATA340</Function>
+				<Type>1</Type>
+				<Tables>AC9</Tables>
+				<Tables>ACB</Tables>
+				<Tables>ACC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003183</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKA070</Function>
+				<Type>1</Type>
+				<Tables>SU5</Tables>
+				<Tables>SQ0</Tables>
+				<Tables>SQB</Tables>
+				<Tables>AO4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003184</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>CRMA980</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>VCB</Tables>
+				<Tables>SAO</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003185</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prospects</Title>
+				<Title lang="es">Prospects</Title>
+				<Title lang="en">Prospects</Title>
+				<Function>TMKA260</Function>
+				<Type>1</Type>
+				<Tables>SUS</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003186</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Suspects</Title>
+				<Title lang="es">Suspects</Title>
+				<Title lang="en">Suspects</Title>
+				<Function>TMKA341</Function>
+				<Type>1</Type>
+				<Tables>ACH</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SU5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003187</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Parceiros</Title>
+				<Title lang="es">Asociados</Title>
+				<Title lang="en">Partners</Title>
+				<Function>FATA030</Function>
+				<Type>1</Type>
+				<Tables>AC4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003188</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fornecedores</Title>
+				<Title lang="es">Proveedores</Title>
+				<Title lang="en">Suppliers</Title>
+				<Function>MATA020</Function>
+				<Type>1</Type>
+				<Tables>SC7</Tables>
+				<Tables>SE2</Tables>
+				<Tables>SF1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SE4</Tables>
+				<Tables>AC8</Tables>
+				<Tables>AC9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003189</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Concorrentes</Title>
+				<Title lang="es">Competidores</Title>
+				<Title lang="en">Competitors</Title>
+				<Function>TMKA020</Function>
+				<Type>1</Type>
+				<Tables>SU2</Tables>
+				<Tables>SB1</Tables>
+				<Tables>AC3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003190</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportadoras</Title>
+				<Title lang="es">Transportadoras</Title>
+				<Title lang="en">Carriers</Title>
+				<Function>MATA050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003191</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Vendas</Title>
+			<Title lang="es">Gestion de Ventas</Title>
+			<Title lang="en">Sales Management</Title>
+			<ItemID>0000003193</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Saldos Iniciais</Title>
+				<Title lang="es">Saldos Iniciales</Title>
+				<Title lang="en">Initial Balances</Title>
+				<Function>MATA220</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB9</Tables>
+				<Tables>SD1</Tables>
+				<Tables>SF5</Tables>
+				<Tables>SD3</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>4</Owner>
+				<ItemID>0000003194</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Condições de Pagamento</Title>
+				<Title lang="es">Condiciones de Pago</Title>
+				<Title lang="en">Payment Conditions</Title>
+				<Function>MATA360</Function>
+				<Type>1</Type>
+				<Tables>SE4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003195</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Condicao</KeyWord>
+					<KeyWord lang="es">Condicion</KeyWord>
+					<KeyWord lang="en">Condition</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Administradoras Financeiras</Title>
+				<Title lang="es">Administradoras Financieras</Title>
+				<Title lang="en">Financial Managers</Title>
+				<Function>LOJA070</Function>
+				<Type>1</Type>
+				<Tables>SAE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>12</Owner>
+				<ItemID>0000003196</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Administrar,administradora</KeyWord>
+					<KeyWord lang="es">Administrar,administradora</KeyWord>
+					<KeyWord lang="en">Manage,manager</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tipos de Entrada e Saída</Title>
+				<Title lang="es">Tipos de Entrada Y Salida</Title>
+				<Title lang="en">Types Of Inflow And Outflow</Title>
+				<Function>MATA080</Function>
+				<Type>1</Type>
+				<Tables>SF4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>9</Owner>
+				<ItemID>0000003197</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tes (tipos de Entrada e Saída) Inteligente</Title>
+				<Title lang="es">Tes (tipos de Entrada Y Salida) Inteligente</Title>
+				<Title lang="en">Tio (types Of Inflow And Outflow) Intelligent</Title>
+				<Function>MATA089</Function>
+				<Type>1</Type>
+				<Tables>SFM</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>9</Owner>
+				<ItemID>0000003198</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tipo,entrada,saida</KeyWord>
+					<KeyWord lang="es">Tipo,entrada,salir</KeyWord>
+					<KeyWord lang="en">Type,inflow,outflow</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Gestão de Campanhas</Title>
+			<Title lang="es">Gestion de Campanas</Title>
+			<Title lang="en">Campaign Management</Title>
+			<ItemID>0000003200</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>TMKA340</Function>
+				<Type>1</Type>
+				<Tables>ACD</Tables>
+				<Tables>ACE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003201</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scripts Dinâmicos</Title>
+				<Title lang="es">Scripts Dinamicos</Title>
+				<Title lang="en">Dynamic Scripts</Title>
+				<Function>TMKA360</Function>
+				<Type>1</Type>
+				<Tables>SUZ</Tables>
+				<Tables>SUP</Tables>
+				<Tables>SUQ</Tables>
+				<Tables>SUR</Tables>
+				<Tables>SU6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003202</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Pesquisa</KeyWord>
+					<KeyWord lang="es">Busqueda</KeyWord>
+					<KeyWord lang="en">Search</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Campanhas</Title>
+				<Title lang="es">Campanas</Title>
+				<Title lang="en">Campaigns</Title>
+				<Function>TMKA310</Function>
+				<Type>1</Type>
+				<Tables>SUO</Tables>
+				<Tables>SUW</Tables>
+				<Tables>SUQ</Tables>
+				<Tables>SUR</Tables>
+				<Tables>SUZ</Tables>
+				<Tables>SUP</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003203</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Metas</Title>
+				<Title lang="es">Metas</Title>
+				<Title lang="en">Targets</Title>
+				<Function>TMKA330</Function>
+				<Type>1</Type>
+				<Tables>AC6</Tables>
+				<Tables>AC7</Tables>
+				<Tables>SUZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003204</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Atendimento</Title>
+			<Title lang="es">Atencion</Title>
+			<Title lang="en">Service</Title>
+			<ItemID>0000003206</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Agenda do Operador</Title>
+				<Title lang="es">Agen. Del Operador</Title>
+				<Title lang="en">Operator Agenda</Title>
+				<Function>TMKA380</Function>
+				<Type>1</Type>
+				<Tables>SU4</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003207</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Call Center</Title>
+				<Title lang="es">Call Center</Title>
+				<Title lang="en">Call Center</Title>
+				<Function>TMKA271</Function>
+				<Type>1</Type>
+				<Tables>SU7</Tables>
+				<Tables>SUC</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SUD</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SU2</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SU8</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUA</Tables>
+				<Tables>SUB</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC9</Tables>
+				<Tables>SUK</Tables>
+				<Tables>SUV</Tables>
+				<Tables>AD7</Tables>
+				<Tables>SEF</Tables>
+				<Tables>ACF</Tables>
+				<Tables>ACG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003208</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Teleatendimento</Title>
+				<Title lang="es">Teleatencion</Title>
+				<Title lang="en">Teleservice</Title>
+				<Function>TMKA503A</Function>
+				<Type>1</Type>
+				<Tables>SKA</Tables>
+				<Tables>SKB</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SU0</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003209</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Central de Serviços</Title>
+				<Title lang="es">Central de Servicios</Title>
+				<Title lang="en">Service Central</Title>
+				<Function>TMKA510A</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Tables>SKA</Tables>
+				<Tables>SKB</Tables>
+				<Tables>SKJ</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003210</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Teleatendimento</KeyWord>
+					<KeyWord lang="es">Atencion Telefonica</KeyWord>
+					<KeyWord lang="en">Teleservice</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exclusão de Pedidos</Title>
+				<Title lang="es">Borrado de Pedidos</Title>
+				<Title lang="en">Delete Residues</Title>
+				<Function>TMKA150</Function>
+				<Type>1</Type>
+				<Tables>SUA</Tables>
+				<Tables>SUB</Tables>
+				<Tables>SE3</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB0</Tables>
+				<Tables>SL4</Tables>
+				<Tables>SBF</Tables>
+				<Tables>AB1</Tables>
+				<Tables>SB8</Tables>
+				<Tables>SBJ</Tables>
+				<Tables>SD5</Tables>
+				<Tables>SBK</Tables>
+				<Tables>AA3</Tables>
+				<Tables>AAG</Tables>
+				<Tables>AB3</Tables>
+				<Tables>AB4</Tables>
+				<Tables>AB5</Tables>
+				<Tables>AB6</Tables>
+				<Tables>AB7</Tables>
+				<Tables>AB8</Tables>
+				<Tables>AAL</Tables>
+				<Tables>AAK</Tables>
+				<Tables>AAJ</Tables>
+				<Tables>AA4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003211</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Alteração do Grupo de Atendimento</Title>
+				<Title lang="es">Modificacion de Grupo de Atencion</Title>
+				<Title lang="en">Edit Service Group</Title>
+				<Function>TMKA091</Function>
+				<Type>1</Type>
+				<Tables>AG9</Tables>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003212</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Alterar</KeyWord>
+					<KeyWord lang="es">Modificar</KeyWord>
+					<KeyWord lang="en">Change</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cobrança</Title>
+			<Title lang="es">Cobranza</Title>
+			<Title lang="en">Billing</Title>
+			<ItemID>0000003214</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-atendimento</Title>
+				<Title lang="es">Atencion Previa</Title>
+				<Title lang="en">Pre-service</Title>
+				<Function>TMKA280</Function>
+				<Type>1</Type>
+				<Tables>ACF</Tables>
+				<Tables>ACG</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SK1</Tables>
+				<Tables>SK0</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003215</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento Receptivo</Title>
+				<Title lang="es">Atencion Receptiva</Title>
+				<Title lang="en">Receptive Service</Title>
+				<Function>TMKA350</Function>
+				<Type>1</Type>
+				<Tables>SU7</Tables>
+				<Tables>SUC</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SUD</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SB2</Tables>
+				<Tables>SB5</Tables>
+				<Tables>SF4</Tables>
+				<Tables>SA2</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SU2</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SYP</Tables>
+				<Tables>SU8</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUA</Tables>
+				<Tables>SUB</Tables>
+				<Tables>SC5</Tables>
+				<Tables>SC6</Tables>
+				<Tables>SC9</Tables>
+				<Tables>SUK</Tables>
+				<Tables>SUV</Tables>
+				<Tables>AD7</Tables>
+				<Tables>SEF</Tables>
+				<Tables>ACF</Tables>
+				<Tables>ACG</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003216</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atendimento</KeyWord>
+					<KeyWord lang="es">Atencion</KeyWord>
+					<KeyWord lang="en">Service</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Quitação de Cobrança</Title>
+				<Title lang="es">Liquidac. Cobranza</Title>
+				<Title lang="en">Billing Settlement</Title>
+				<Function>TMKA290</Function>
+				<Type>1</Type>
+				<Tables>ACF</Tables>
+				<Tables>ACG</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SE5</Tables>
+				<Tables>SK1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003217</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transferência de Cobrança</Title>
+				<Title lang="es">Transfer. de Cobranza</Title>
+				<Title lang="en">Billing Transfer</Title>
+				<Function>TMKA300</Function>
+				<Type>1</Type>
+				<Tables>SK1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003218</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listas de Cobrança</Title>
+				<Title lang="es">Listas de Cobranza</Title>
+				<Title lang="en">Billing List</Title>
+				<Function>TMKA062</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SE1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003219</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Marketing</Title>
+			<Title lang="es">Marketing</Title>
+			<Title lang="en">Marketing</Title>
+			<ItemID>0000003221</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Configurações de Telemarketing</Title>
+				<Title lang="es">Configurac. de Telemarketing</Title>
+				<Title lang="en">Telemarketing Configuration</Title>
+				<Function>TMKA120</Function>
+				<Type>1</Type>
+				<Tables>SUE</Tables>
+				<Tables>SUF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003222</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Telemarketing</KeyWord>
+					<KeyWord lang="es">Telemarketing</KeyWord>
+					<KeyWord lang="en">Telemarketing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Listas de Contatos</Title>
+				<Title lang="es">Listas de Contactos</Title>
+				<Title lang="en">Contact Lists</Title>
+				<Function>TMKA061</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SU6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003223</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Workflow</Title>
+			<Title lang="es">Workflow</Title>
+			<Title lang="en">Workflow</Title>
+			<ItemID>0000003225</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Modelos de Workflow</Title>
+				<Title lang="es">Modelos de Workflow</Title>
+				<Title lang="en">Workflow Models</Title>
+				<Function>TMKA520I</Function>
+				<Type>1</Type>
+				<Tables>SKY</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003226</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Email</KeyWord>
+					<KeyWord lang="es">Email</KeyWord>
+					<KeyWord lang="en">Email</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Registros de Workflow</Title>
+				<Title lang="es">Registros de Workflow</Title>
+				<Title lang="en">Workflow Record</Title>
+				<Function>TMKA520H</Function>
+				<Type>1</Type>
+				<Tables>SKW</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003227</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registro</KeyWord>
+					<KeyWord lang="es">Registro</KeyWord>
+					<KeyWord lang="en">Record</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Sla</Title>
+			<Title lang="es">Sla</Title>
+			<Title lang="en">Sla</Title>
+			<ItemID>0000003229</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Entidades de Sla</Title>
+				<Title lang="es">Entes de Sla</Title>
+				<Title lang="en">Sla Entities</Title>
+				<Function>TMKA530Q</Function>
+				<Type>1</Type>
+				<Tables>SKX</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003230</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Service,level,agreement</KeyWord>
+					<KeyWord lang="es">Service,level,agreement</KeyWord>
+					<KeyWord lang="en">Service,level,agreement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Responsáveis Sla</Title>
+				<Title lang="es">Responsables Sla</Title>
+				<Title lang="en">Sla People In Ch.</Title>
+				<Function>TMKA530F</Function>
+				<Type>1</Type>
+				<Tables>SK8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003231</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Service,level,agreement</KeyWord>
+					<KeyWord lang="es">Service,level,agreement</KeyWord>
+					<KeyWord lang="en">Service,level,agreement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contratos de Sla</Title>
+				<Title lang="es">Contratos de Sla</Title>
+				<Title lang="en">Sla Contracts</Title>
+				<Function>TMKA530C</Function>
+				<Type>1</Type>
+				<Tables>SK6</Tables>
+				<Tables>SK7</Tables>
+				<Tables>SK9</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003232</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Service,level,agreement</KeyWord>
+					<KeyWord lang="es">Service,level,agreement</KeyWord>
+					<KeyWord lang="en">Service,level,agreement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Serviços de Sla</Title>
+				<Title lang="es">Servicios de Sla</Title>
+				<Title lang="en">Sla Services</Title>
+				<Function>TMKA530R</Function>
+				<Type>1</Type>
+				<Tables>SUI</Tables>
+				<Tables>SUJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003233</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Service,level,agreement</KeyWord>
+					<KeyWord lang="es">Service,level,agreement</KeyWord>
+					<KeyWord lang="en">Service,level,agreement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Turnos de Trabalho</Title>
+				<Title lang="es">Turnos de Trabajo</Title>
+				<Title lang="en">Work Shifts</Title>
+				<Function>GPEA080</Function>
+				<Type>1</Type>
+				<Tables>SR6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>16</Owner>
+				<ItemID>0000003234</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas de Horário Padrão</Title>
+				<Title lang="es">Tablas de Horario Estandar</Title>
+				<Title lang="en">Standard Time Table</Title>
+				<Function>PONA080</Function>
+				<Type>1</Type>
+				<Tables>SPJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>16</Owner>
+				<ItemID>0000003235</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Tabela</KeyWord>
+					<KeyWord lang="es">Tabla</KeyWord>
+					<KeyWord lang="en">Table</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Exceções Por Período</Title>
+				<Title lang="es">Excepc. Por Periodo</Title>
+				<Title lang="en">Exceptions Per Period</Title>
+				<Function>PONA090</Function>
+				<Type>1</Type>
+				<Tables>SP2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>16</Owner>
+				<ItemID>0000003236</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Help Desk</Title>
+			<Title lang="es">Help Desk</Title>
+			<Title lang="en">Help Desk</Title>
+			<ItemID>0000003238</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assuntos X Grupos</Title>
+				<Title lang="es">Asuntos Vs. Grupos</Title>
+				<Title lang="en">Subjects X Groups</Title>
+				<Function>TMKA510B</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SKK</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003239</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etapas Qnc X Ocorrências</Title>
+				<Title lang="es">Etapas Qnc Vs Ocurrencias</Title>
+				<Title lang="en">Qnc Stages X Occurrences</Title>
+				<Function>TMKA510F</Function>
+				<Type>1</Type>
+				<Tables>SU0</Tables>
+				<Tables>SKQ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003240</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Control,conformidade</KeyWord>
+					<KeyWord lang="es">Control,conformidad</KeyWord>
+					<KeyWord lang="en">Control,conformance</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Indicadores de Atendimento</Title>
+				<Title lang="es">Indicadores de Atencion</Title>
+				<Title lang="en">Service Indicators</Title>
+				<Function>TMKA510E</Function>
+				<Type>1</Type>
+				<Tables>SUU</Tables>
+				<Tables>SUT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003241</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atendimento</KeyWord>
+					<KeyWord lang="es">Atencion</KeyWord>
+					<KeyWord lang="en">Service</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Tabelas</Title>
+				<Title lang="es">Tablas</Title>
+				<Title lang="en">Tables</Title>
+				<Function>QNCA010</Function>
+				<Type>1</Type>
+				<Tables>QI0</Tables>
+				<Tables>QI2</Tables>
+				<Tables>QI6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003242</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Assuntos X Informações de Chamados</Title>
+				<Title lang="es">Asuntos Vs Inform. de Llamados</Title>
+				<Title lang="en">Call Subject X Information</Title>
+				<Function>TMKA510J</Function>
+				<Type>1</Type>
+				<Tables>AG8</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003243</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Informacao,chamado,informacoes</KeyWord>
+					<KeyWord lang="es">Informacion,llamado,informaciones</KeyWord>
+					<KeyWord lang="en">Information,call,information</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Regras de Monitoramento</Title>
+				<Title lang="es">Reglas de Monitoreo</Title>
+				<Title lang="en">Monitoring Rules</Title>
+				<Function>TMKA510L</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003244</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Monitoramento,</KeyWord>
+					<KeyWord lang="es">Monitoreo</KeyWord>
+					<KeyWord lang="en">Monitoring</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Escala e Grau de Importância</Title>
+				<Title lang="es">Escala Y Grado de Importancia</Title>
+				<Title lang="en">Importance Level And Degree</Title>
+				<Function>CSAA130</Function>
+				<Type>1</Type>
+				<Tables>RBK</Tables>
+				<Tables>RBL</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011779</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Grupo,importacao,importar</KeyWord>
+					<KeyWord lang="es">Grupo,importacion,importar</KeyWord>
+					<KeyWord lang="en">Group,import,import</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilidades</Title>
+				<Title lang="es">Habilidades</Title>
+				<Title lang="en">Skills</Title>
+				<Function>CSAA150</Function>
+				<Type>1</Type>
+				<Tables>RDM</Tables>
+				<Tables>RD2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011780</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Itens das Habilidades</Title>
+				<Title lang="es">Items de Habilidades</Title>
+				<Title lang="en">Skill Items</Title>
+				<Function>TMKA540</Function>
+				<Type>1</Type>
+				<Tables>AGM</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011781</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Habilidade</KeyWord>
+					<KeyWord lang="es">Habilidad</KeyWord>
+					<KeyWord lang="en">Skill</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilidades X Itens das Habilidades</Title>
+				<Title lang="es">Habilidades Vs Items de Habilidades</Title>
+				<Title lang="en">Skills X Skill Items</Title>
+				<Function>TMKA550</Function>
+				<Type>1</Type>
+				<Tables>AGM</Tables>
+				<Tables>AGN</Tables>
+				<Tables>AGO</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011782</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Habilidade,item</KeyWord>
+					<KeyWord lang="es">Habilidad,item</KeyWord>
+					<KeyWord lang="en">Skill,item</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Telefonia</Title>
+			<Title lang="es">Telefonia</Title>
+			<Title lang="en">Telephony</Title>
+			<ItemID>0000015093</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Chamadas Em Espera</Title>
+				<Title lang="es">Lista de Llamadas En Espera</Title>
+				<Title lang="en">List Of Waiting Calls</Title>
+				<Function>TMKA600</Function>
+				<Type>1</Type>
+				<Tables>AGI</Tables>
+				<Tables>AGJ</Tables>
+				<Tables>AG9</Tables>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000015094</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Lista,chamadas,espera</KeyWord>
+					<KeyWord lang="es">Lista,llamadas,espera</KeyWord>
+					<KeyWord lang="en">List,calls,wait</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Motivos de Ligação</Title>
+				<Title lang="es">Motivos de Vinculo</Title>
+				<Title lang="en">Reasons For Call</Title>
+				<Function>TMKA010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003155</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Grupos Dac</Title>
+				<Title lang="es">Grupos Dal</Title>
+				<Title lang="en">Dac Group</Title>
+				<Function>TMKA100</Function>
+				<Type>1</Type>
+				<Tables>AGI</Tables>
+				<Tables>AGJ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003142</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atendimento,distribuidor,automatico,chamada</KeyWord>
+					<KeyWord lang="es">Atencion,distribuidor,automatico,llamada</KeyWord>
+					<KeyWord lang="en">Service,distributor,automatic,call</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Habilitar Listener</Title>
+				<Title lang="es">Habilitar Listener</Title>
+				<Title lang="en">Enable Listener</Title>
+				<Function>SGABRECTI</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000017092</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Consultas</Title>
+		<Title lang="es">&Consultas</Title>
+		<Title lang="en">&Queries</Title>
+		<ItemID>A130000002</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Perfil do Contato</Title>
+				<Title lang="es">Perfil Del Contact</Title>
+				<Title lang="en">Contact Profile</Title>
+				<Function>TMKC010</Function>
+				<Type>1</Type>
+				<Tables>AB1</Tables>
+				<Tables>AB2</Tables>
+				<Tables>ACB</Tables>
+				<Tables>ACC</Tables>
+				<Tables>ACD</Tables>
+				<Tables>ACF</Tables>
+				<Tables>ACG</Tables>
+				<Tables>ACI</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SA6</Tables>
+				<Tables>SB1</Tables>
+				<Tables>SE1</Tables>
+				<Tables>SED</Tables>
+				<Tables>SF2</Tables>
+				<Tables>SU4</Tables>
+				<Tables>SU5</Tables>
+				<Tables>SU6</Tables>
+				<Tables>SU7</Tables>
+				<Tables>SU8</Tables>
+				<Tables>SUA</Tables>
+				<Tables>SUB</Tables>
+				<Tables>SUC</Tables>
+				<Tables>SUD</Tables>
+				<Tables>SUH</Tables>
+				<Tables>SUL</Tables>
+				<Tables>SUM</Tables>
+				<Tables>SUO</Tables>
+				<Tables>SUP</Tables>
+				<Tables>SUW</Tables>
+				<Tables>SY6</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003245</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Monitor de Supervisäo</Title>
+				<Title lang="es">Monitor de Supervision</Title>
+				<Title lang="en">Supervision Monitor</Title>
+				<Function>TMKC030</Function>
+				<Type>1</Type>
+				<Tables>SUV</Tables>
+				<Tables>SU0</Tables>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003246</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Genéricos</Title>
+				<Title lang="es">Genericos</Title>
+				<Title lang="en">Generic</Title>
+				<Function>EDAPP</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003247</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise Gerencial da Conta</Title>
+				<Title lang="es">Analisis Gerencial de La Cuenta</Title>
+				<Title lang="en">Account Management Analysis</Title>
+				<Function>TMKC040</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000015266</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		<Menu Status="Enable">
+			<Title lang="pt">Tef</Title>
+			<Title lang="es">Tef</Title>
+			<Title lang="en">Tef</Title>
+			<ItemID>0000003249</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Rotinas Tef</Title>
+				<Title lang="es">Rutinas Tef</Title>
+				<Title lang="en">Tef Routines</Title>
+				<Function>LJROTTEF</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011628</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transferencia,eletronica,fundo</KeyWord>
+					<KeyWord lang="es">Transferencia,electronica,fondo</KeyWord>
+					<KeyWord lang="en">Transfer,electronic,fund</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Cancelamento Manual de Tef</Title>
+				<Title lang="es">Anulacion Manual de Tef</Title>
+				<Title lang="en">Manual Tef Cancellation</Title>
+				<Function>LOJA011T</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>12</Owner>
+				<ItemID>0000003250</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Cancelamento,cancelar</KeyWord>
+					<KeyWord lang="es">Anulacion,anular</KeyWord>
+					<KeyWord lang="en">Cancellation,cancel</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consulta Tef</Title>
+				<Title lang="es">Consulta Tef</Title>
+				<Title lang="en">Query e F T</Title>
+				<Function>LOJA012T</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>12</Owner>
+				<ItemID>0000003251</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Transferencia,eletronica,fundo</KeyWord>
+					<KeyWord lang="es">Transferencia,electronica,fondo</KeyWord>
+					<KeyWord lang="en">Transfer,electronic,fund</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Funções Administrativas</Title>
+				<Title lang="es">Funciones Administrativas</Title>
+				<Title lang="en">Administrative Functions</Title>
+				<Function>LOJA019T</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>12</Owner>
+				<ItemID>0000003252</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Administrar,administrativa,administracao</KeyWord>
+					<KeyWord lang="es">Administrar,administrativa,administracion</KeyWord>
+					<KeyWord lang="en">Administrate,administrative,administration</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Pré-autorização</Title>
+				<Title lang="es">Autorizacion Previa</Title>
+				<Title lang="en">Pre-authorization</Title>
+				<Function>LOJA014T</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>12</Owner>
+				<ItemID>0000003253</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Smart View</Title>
+			<Title lang="es">Smart View</Title>
+			<Title lang="en">Smart View</Title>
+			<ItemID>0000019516</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Atendimento</Title>
+			<Title lang="es">Atención</Title>
+			<Title lang="en">Service</Title>
+			<ItemID>0000021325</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ligações Realizadas</Title>
+				<Title lang="es">Llamadas Realizadas</Title>
+				<Title lang="en">Calls Made</Title>
+				<Function>TMKSV001</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021329</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimentos Realizados</Title>
+				<Title lang="es">Atenciones Realizadas</Title>
+				<Title lang="en">Services Performed</Title>
+				<Function>TMKSV002</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021335</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Situação dos Títulos Por Cliente</Title>
+				<Title lang="es">Situación de Títulos Por Cliente</Title>
+				<Title lang="en">Bill Status Per Customer</Title>
+				<Function>TMKSV003</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021340</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento Ativo</Title>
+				<Title lang="es">Atención Activa</Title>
+				<Title lang="en">Service Active</Title>
+				<Function>TMKSV004</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021342</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento Receptivo</Title>
+				<Title lang="es">Atención Receptiva</Title>
+				<Title lang="en">Receptive Service</Title>
+				<Function>TMKSV007</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021347</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimentos do Telecobrança</Title>
+				<Title lang="es">Atenciones Telecobranza</Title>
+				<Title lang="en">Telecollection Services</Title>
+				<Function>TMKSV009</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021348</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimento Telemarketing</Title>
+				<Title lang="es">Atención Telemarketing</Title>
+				<Title lang="en">Inside Sales Service</Title>
+				<Function>TMKSV010</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021349</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ligações Anotadas</Title>
+				<Title lang="es">Llamadas Anotadas</Title>
+				<Title lang="en">Annotated Calls</Title>
+				<Function>TMKSV016</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021350</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências de Cobrança</Title>
+				<Title lang="es">Ocurr. Cobranza</Title>
+				<Title lang="en">Collection Occurrences</Title>
+				<Function>TMKSV017</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021351</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastro</Title>
+			<Title lang="es">Registro</Title>
+			<Title lang="en">Record</Title>
+			<ItemID>0000021355</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Operadores</Title>
+				<Title lang="es">Operadores</Title>
+				<Title lang="en">Operators</Title>
+				<Function>TMKSV005</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021357</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ocorrências Por Tipo</Title>
+				<Title lang="es">Ocurrencias Por Tipo</Title>
+				<Title lang="en">Occurrences By Type</Title>
+				<Function>TMKSV006</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021358</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Clientes</Title>
+			<Title lang="es">Clientes</Title>
+			<Title lang="en">Customers</Title>
+			<ItemID>0000021364</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes X Segmento de Negócios</Title>
+				<Title lang="es">Clientes Vs. Segmento de Negocios</Title>
+				<Title lang="en">Customers X Business Segment</Title>
+				<Function>TMKSV013</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021365</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Contatos</Title>
+			<Title lang="es">Contactos</Title>
+			<Title lang="en">Contacts</Title>
+			<ItemID>0000021367</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Contatos</Title>
+				<Title lang="es">Contactos</Title>
+				<Title lang="en">Contacts</Title>
+				<Function>TMKSV011</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021369</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Lista de Contatos</Title>
+				<Title lang="es">Lista de Contactos</Title>
+				<Title lang="en">Contacts List</Title>
+				<Function>TMKSV014</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021371</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Vendas</Title>
+			<Title lang="es">Ventas</Title>
+			<Title lang="en">Sales</Title>
+			<ItemID>0000021376</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Análise de Vendas Por Período e Repres. de Vendas</Title>
+				<Title lang="es">Anál. de Ventas Por Período Y Repres. Ventas</Title>
+				<Title lang="en">Sales Analysis By Period And Sales Representative</Title>
+				<Function>TMKSV008</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021377</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ranking de Vendas</Title>
+				<Title lang="es">Ranking de Ventas</Title>
+				<Title lang="en">Sales Ranking</Title>
+				<Function>TMKSV015</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000021378</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Relatorios</Title>
+		<Title lang="es">&Informes</Title>
+		<Title lang="en">&Reports</Title>
+		<ItemID>A130000003</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Cadastros</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000003254</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtos</Title>
+				<Title lang="es">Productos</Title>
+				<Title lang="en">Products</Title>
+				<Function>MATR010</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>2</Owner>
+				<ItemID>0000003255</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Concorrentes</Title>
+				<Title lang="es">Competidores</Title>
+				<Title lang="en">Competitors</Title>
+				<Function>TMKR007</Function>
+				<Type>1</Type>
+				<Tables>SU2</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003256</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Acessórios</Title>
+				<Title lang="es">Accesorios</Title>
+				<Title lang="en">Accessories</Title>
+				<Function>TMKR008</Function>
+				<Type>1</Type>
+				<Tables>SUG</Tables>
+				<Tables>SU1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003257</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Clientes</Title>
+				<Title lang="es">Clientes</Title>
+				<Title lang="en">Customers</Title>
+				<Function>MATR020</Function>
+				<Type>1</Type>
+				<Tables>SA1</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003258</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Transportadoras</Title>
+				<Title lang="es">Transportadoras</Title>
+				<Title lang="en">Carriers</Title>
+				<Function>MATR060</Function>
+				<Type>1</Type>
+				<Tables>SA4</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>5</Owner>
+				<ItemID>0000003261</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ausências de Operadores</Title>
+				<Title lang="es">Ausencias de Operadores</Title>
+				<Title lang="en">Operator Absence</Title>
+				<Function>TMKR047</Function>
+				<Type>1</Type>
+				<Tables>AGE</Tables>
+				<Tables>AGF</Tables>
+				<Tables>SU7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000003263</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Operador</KeyWord>
+					<KeyWord lang="es">Operador</KeyWord>
+					<KeyWord lang="en">Operator</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Telemarketing</Title>
+			<Title lang="es">Telemarketing</Title>
+			<Title lang="en">Telemarketing</Title>
+			<ItemID>0000003269</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazos de Encerramento</Title>
+				<Title lang="es">Plazos de Cierre</Title>
+				<Title lang="en">Closing Term</Title>
+				<Function>TMKR023</Function>
+				<Type>1</Type>
+				<Tables>SUC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003275</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Encerramento</KeyWord>
+					<KeyWord lang="es">Cierre</KeyWord>
+					<KeyWord lang="en">Closing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimentos de Telemarketing</Title>
+				<Title lang="es">Atencion de Telemarketing</Title>
+				<Title lang="en">Telemarketing Attention</Title>
+				<Function>TMKR034</Function>
+				<Type>1</Type>
+				<Tables>SUC</Tables>
+				<Tables>SUD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003276</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Telemarketing</KeyWord>
+					<KeyWord lang="es">Telemarketing</KeyWord>
+					<KeyWord lang="en">Telemarketing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Compartilhamentos</Title>
+				<Title lang="es">Compartir</Title>
+				<Title lang="en">Sharing</Title>
+				<Function>TMKR070</Function>
+				<Type>1</Type>
+				<Tables>SUC</Tables>
+				<Tables>SUD</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000011443</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Televendas</Title>
+			<Title lang="es">Televentas</Title>
+			<Title lang="en">Telesales</Title>
+			<ItemID>0000003278</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fax</Title>
+				<Title lang="es">Fax</Title>
+				<Title lang="en">Fax</Title>
+				<Function>TMKR024</Function>
+				<Type>1</Type>
+				<Tables>SUA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003281</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Atendimentos</Title>
+				<Title lang="es">Atenciones</Title>
+				<Title lang="en">Services</Title>
+				<Function>TMKR039</Function>
+				<Type>1</Type>
+				<Tables>SUA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003283</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Vendas</Title>
+				<Title lang="es">Ventas</Title>
+				<Title lang="en">Sales</Title>
+				<Function>TMKR005</Function>
+				<Type>1</Type>
+				<Tables>SUA</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003284</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Características</Title>
+				<Title lang="es">Caracteristicas</Title>
+				<Title lang="en">Characteristics</Title>
+				<Function>TMKR006</Function>
+				<Type>1</Type>
+				<Tables>SB1</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003288</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Campanhas</Title>
+			<Title lang="es">Campanas</Title>
+			<Title lang="en">Campaigns</Title>
+			<ItemID>0000003302</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scripts Dinâmicos</Title>
+				<Title lang="es">Scripts Dinamicos</Title>
+				<Title lang="en">Dynamic Scripts</Title>
+				<Function>TMKR028</Function>
+				<Type>1</Type>
+				<Tables>SUP</Tables>
+				<Tables>SUZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003305</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Eventos</Title>
+				<Title lang="es">Eventos</Title>
+				<Title lang="en">Events</Title>
+				<Function>TMKR035</Function>
+				<Type>1</Type>
+				<Tables>ACD</Tables>
+				<Tables>ACE</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003306</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Scripts X Atendimentos</Title>
+				<Title lang="es">Scripts Vs Atenciones</Title>
+				<Title lang="en">Scripts X Service</Title>
+				<Function>TMKR029</Function>
+				<Type>1</Type>
+				<Tables>SUK</Tables>
+				<Tables>SA1</Tables>
+				<Tables>SUS</Tables>
+				<Tables>SUC</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003307</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Atendimento</KeyWord>
+					<KeyWord lang="es">Atencion</KeyWord>
+					<KeyWord lang="en">Service</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Resultados de Campanhas</Title>
+				<Title lang="es">Resultados de Campanas</Title>
+				<Title lang="en">Campaign Results</Title>
+				<Function>TMKR036</Function>
+				<Type>1</Type>
+				<Tables>SU4</Tables>
+				<Tables>ACI</Tables>
+				<Tables>SUK</Tables>
+				<Tables>SUO</Tables>
+				<Tables>SUP</Tables>
+				<Tables>SUZ</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003308</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Campanha</KeyWord>
+					<KeyWord lang="es">Campana</KeyWord>
+					<KeyWord lang="en">Campaign</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Específicos</Title>
+			<Title lang="es">Especificos</Title>
+			<Title lang="en">Specific</Title>
+			<ItemID>0000003310</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Etiquetas</Title>
+				<Title lang="es">Etiquetas</Title>
+				<Title lang="en">Labels</Title>
+				<Function>TMKR021</Function>
+				<Type>3</Type>
+				<Tables>SA1</Tables>
+				<Tables>VCB</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003312</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Ligações Anotadas</Title>
+				<Title lang="es">Llamadas Anotadas</Title>
+				<Title lang="en">Annotated Calls</Title>
+				<Function>TMKR050</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000011804</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Registrada</KeyWord>
+					<KeyWord lang="es">Registrada</KeyWord>
+					<KeyWord lang="en">Registered</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Help Desk</Title>
+			<Title lang="es">Help Desk</Title>
+			<Title lang="en">Help Desk</Title>
+			<ItemID>0000003314</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Chamados X Interações</Title>
+				<Title lang="es">Llamados Vs Integraciones</Title>
+				<Title lang="en">Calls X Interactions</Title>
+				<Function>TMKR501</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003315</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Chamados</KeyWord>
+					<KeyWord lang="es">Llamados</KeyWord>
+					<KeyWord lang="en">Calls</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Comparador de Indicadores</Title>
+				<Title lang="es">Comparador de Indicadores</Title>
+				<Title lang="en">Compare Indicators</Title>
+				<Function>TMKR502</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Tables>SUU</Tables>
+				<Tables>SUT</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003316</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Comparar,comparacao</KeyWord>
+					<KeyWord lang="es">Comparar,comparacion</KeyWord>
+					<KeyWord lang="en">Compare,comparison</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Extrato de Sla</Title>
+				<Title lang="es">Extracto de Sla</Title>
+				<Title lang="en">Sla Statement</Title>
+				<Function>TMKR503</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Tables>SK5</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003317</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Service,level,agreement</KeyWord>
+					<KeyWord lang="es">Service,level,agreement</KeyWord>
+					<KeyWord lang="en">Service,level,agreement</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Prazo de Chamados</Title>
+				<Title lang="es">Plazo de Llamadas</Title>
+				<Title lang="en">Call Deadline</Title>
+				<Function>TMKR505</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003319</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Consolidação de Chamados</Title>
+				<Title lang="es">Consolidacion de Llamados</Title>
+				<Title lang="en">Call Consolidation</Title>
+				<Function>TMKR507</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003321</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Chamados Por Analista e Equipe</Title>
+				<Title lang="es">Llamados Por Analista Y Equipo</Title>
+				<Title lang="en">Calls By Analyst And Team</Title>
+				<Function>TMKR508</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003322</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Chamado</KeyWord>
+					<KeyWord lang="es">Llamado</KeyWord>
+					<KeyWord lang="en">Call</KeyWord>
+				</KeyWord>
+			</MenuItem>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Produtividade</Title>
+				<Title lang="es">Productividad</Title>
+				<Title lang="en">Productivity</Title>
+				<Function>TMKR509</Function>
+				<Type>1</Type>
+				<Tables>ADE</Tables>
+				<Tables>ADF</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003323</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu Status="Enable">
+		<Title lang="pt">&Miscelanea</Title>
+		<Title lang="es">&Miscelanea</Title>
+		<Title lang="en">&Miscellaneous</Title>
+		<ItemID>A130000004</ItemID>
+		<Menu Status="Enable">
+			<Title lang="pt">Arquivos</Title>
+			<Title lang="es">Archivos</Title>
+			<Title lang="en">Files</Title>
+			<ItemID>0000003324</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Fechar Telemarketing</Title>
+				<Title lang="es">Cerrar Telemarketing</Title>
+				<Title lang="en">Close Telemarketing</Title>
+				<Function>TMKA320</Function>
+				<Type>1</Type>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>13</Owner>
+				<ItemID>0000003325</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt">Telemarketing</KeyWord>
+					<KeyWord lang="es">Telemarketing</KeyWord>
+					<KeyWord lang="en">Telemarketing</KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+		<Menu Status="Enable">
+			<Title lang="pt">Rotinas Tss</Title>
+			<Title lang="es">Rutinas Tss</Title>
+			<Title lang="en">Tss Routines</Title>
+			<ItemID>0000018966</ItemID>
+			<MenuItem Status="Enable">
+				<Title lang="pt">Conf. Gerais Tss</Title>
+				<Title lang="es">Conf. Gener. Tss</Title>
+				<Title lang="en">Tss General Settings</Title>
+				<Function>SPEDCFGTSS</Function>
+				<Type>1</Type>
+				<Tables>FX7</Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>13</Module>
+				<Owner>0</Owner>
+				<ItemID>0000018967</ItemID>
+				<KeyWord>
+					<KeyWord lang="pt"> </KeyWord>
+					<KeyWord lang="es"> </KeyWord>
+					<KeyWord lang="en"> </KeyWord>
+				</KeyWord>
+			</MenuItem>
+		</Menu>
+	</Menu>
+	<Menu>
+		<Menu Status="Disable">
+			<Title lang="pt">Palavras Reservadas</Title>
+			<Title lang="es">Palabras Reservadas</Title>
+			<Title lang="en">Reserved Words</Title>
+			<ItemID>B130000001</ItemID>
+			<MenuItem Status="Disable">
+				<Title lang="pt">Palavras Reservadas</Title>
+				<Title lang="es">Palabras Reservadas</Title>
+				<Title lang="en">Reserved Words</Title>
+				<Function></Function>
+				<Type>1</Type>
+				<Tables></Tables>
+				<Access>xxxxxxxxxx</Access>
+				<Module>01</Module>
+				<Owner>0</Owner>
+				<ItemID>B130000002</ItemID>
+				<ReservedWords>
+					<Words "SPA E"></Words>
+					<Words "ENG I"></Words>
+					<Words "POR T"></Words>
+					<Words "POR P"></Words>
+					<Words "RUS R"></Words>
+				</ReservedWords>
+			</MenuItem>
+		</Menu>
+	</Menu>
+</ApMenu>

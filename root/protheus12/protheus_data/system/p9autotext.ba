@@ -1,0 +1,77 @@
+[PRE-APURACAO]
+(PRE) aTotal 	 := Array(53)
+(PRE) aTotal[01] := 0
+(PRE) aTotal[02] := 0
+(PRE) aTotal[03] := 0   
+(PRE) aTotal[04] := DetDatas(MV_PAR01,MV_PAR02,MV_PAR04,MV_PAR05)
+(PRE) aTotal[05] := 0
+(PRE) aTotal[20] := GetNewPar("MV_FUST",0)
+(PRE) aTotal[21] := GetNewPar("MV_FUNTTEL",0)
+(PRE) aTotal[27] := GetNewPar("MV_GERAUT",.T.)
+(PRE) aTotal[22] := 0
+(PRE) aTotal[23] := {}
+(PRE) aTotal[24] := Iif(aTotal[20] > 0 .Or. aTotal[21] > 0,CalcRB(aTotal[4][1],aTotal[4][2],aTotal[22],.F.,aTotal[23],.T.),0)
+(PRE) aTotal[25] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[20] / 100, 0)
+(PRE) aTotal[26] := Iif(aTotal[27]==.T.,aTotal[24] * aTotal[21] / 100, 0)
+(PRE) aTotal[28] := GetNewPar("MV_DTAFECP","")
+(PRE) aTotal[30] := 0
+(PRE) aTotal[31] := 0
+(PRE) aTotal[32] := 0
+(PRE) aTotal[33] := 0
+(PRE) aTotal[34] := 0
+(PRE) aTotal[35] := 0
+(PRE) aTotal[36] := 0
+(PRE) aTotal[37] := 0
+(PRE) aTotal[38] := 0
+(PRE) aTotal[39] := 0
+(PRE) aTotal[40] := 0
+(PRE) aTotal[41] := 0
+(PRE) aTotal[42] := 0
+(PRE) aTotal[43] := 0
+(PRE) aTotal[44] := 0
+(PRE) aTotal[45] := 0
+(PRE) aTotal[46] := 0
+(PRE) aTotal[50] := Iif(!Empty(aTotal[28]),Iif(Substr(aTotal[28],3,4)+ Substr(aTotal[28],1,2)<=Substr(Dtos(aTotal[04][1]),1,6),.T.,.F.),.F.)
+(PRE) aTotal[51] := 0
+(PRE) aTotal[52] :=FsApCiap(aTotal[4][1],aTotal[4][2])
+(POS)
+[APURACAO ICMS]
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[41]>0, aTotal[1] += x[41], aTotal[1] += 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[10]>0, aTotal[2] += x[10], aTotal[2] += 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[45]>0, aTotal[3] += x[45], aTotal[3] += 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[50]>0, Iif(GetNewPar("MV_MESANTI",.F.),aTotal[05]:= x[50],aTotal[05]+= x[50]), aTotal[05]+= 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. Substr(Alltrim(x[1]),1,1)=="1" .And. x[3] >0 .And. !aTotal[50], aTotal[30] += (x[3]*1/100), Iif(SuperGetMv('MV_ESTADO')=='BA' .And. Substr(Alltrim(x[1]),1,1)=="5" .And. x[3]>0 .And. !aTotal[50], aTotal[31] += (x[3]*1/100), aTotal[31] += 0))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[59]>0 .And. aTotal[50] , (aTotal[33] += x[59]), Iif ((SuperGetMv('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[59]>0 .And. aTotal[50]), (aTotal[32] += x[59]), (aTotal[32] += 0)))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. x[26]>0 .And. !aTotal[50], (aTotal[34] += (x[26]*1/100)), (aTotal[34] += 0))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="3" .And. x[3] >0 .And. !aTotal[50], (aTotal[35] += (x[3]*1/100)), (aTotal[35] += 0))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="6" .And. x[58]>0 .And. aTotal[50] , (aTotal[36] += x[58]), (aTotal[36] += 0))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="3" .And. x[59]>0 .And. aTotal[50] , (aTotal[37] += x[59]), (aTotal[37] += 0))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[32]>0 .And. !aTotal[50], (aTotal[41] += Iif( x[74]$"DB",(( (x[32]*1/100) )*-1), (x[32]*1/100) ) ), Iif ((SuperGetMv('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[32]>0 .And. !aTotal[50]), (aTotal[41] += Iif( x[74]$"DB",(( (x[32]*1/100) )*-1), (x[32]*1/100) ) ), (aTotal[41] += 0)))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="1" .And. x[57]>0 .And. aTotal[50] , (aTotal[42] += Iif( x[74]$"DB",((x[57])*-1), x[57]) ), Iif ((SuperGetMv('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="5" .And. x[57]>0 .And. aTotal[50]), (aTotal[42] += Iif( x[74]$"DB",((x[57])*-1), x[57]) ), (aTotal[42] += 0)))}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="2" .And. x[7] >0 .And. !aTotal[50], (aTotal[43] += Iif( x[74]$"DB",(( (x[7]*1/100) )*-1), (x[7]*1/100) ) ), (aTotal[43] += 0))} 
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. SubStr(AllTrim(x[1]),1,1)=="2" .And. x[56]>0 .And. aTotal[50] , (aTotal[44] += Iif( x[74]$"DB",((x[56])*-1), x[56]) ), (aTotal[44] += 0))} 
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[120]>0, aTotal[45] += x[120], aTotal[45] += 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[121]>0, aTotal[46] += x[121], aTotal[46] += 0)}
+(PRE) {|x| Iif (SuperGetMv ('MV_ESTADO')=='BA' .And. x[129]>0, aTotal[51] += x[129], aTotal[46] += 0)}
+(POS)
+[POS-APURACAO]
+(PRE) aTotal[38] := LoadAnt(mv_par06,"014")
+(PRE) aTotal[39] := aCols5[aScan(aCols5,{|x| x[1]=="001"}),4]
+(PRE) aTotal[40] := aCols5[aScan(aCols5,{|x| x[1]=="005"}),4]
+002=002.20;FUST    ;aTotal[25];            ;.F.;          ;
+002=002.21;FUNTTEL ;aTotal[26];            ;.F.;          ;
+(PRE)
+002=002.01;ICMS Complementar(Dif. de Aliq.) - Dec 6.285/97;aTotal[2];;
+006=006.01;Cred Fiscal Pres-Inf/Elet/Tel-Dec 4.316/95;aTotal[1];;
+003=003.01;Estorno Cred Fis Pres-Inf/Elet/Tel-Dec 4.316/95;aTotal[3];;
+003=003.02;Estorno CIAP;aTotal[52][01]; ;
+006=006.02;Antecipacao Tribut.ICMS ;aTotal[05];;
+006=006.03;Ressarcimento - Substituição Tributária ;aTotal[51];;
+006=006.04;Credito CIAP;aTotal[52][02]; ; 
+012=012.01;Adicional relativo ao FECP;Iif((aTotal[31]+aTotal[32]+aTotal[34]+aTotal[36])-(aTotal[30]+aTotal[33]+aTotal[35]+aTotal[37])>0 .And. (aTotal[39]-(aTotal[38]+aTotal[40]))>0, (aTotal[31]+aTotal[32]+aTotal[34]+aTotal[36])-(aTotal[30]+aTotal[33]+aTotal[35]+aTotal[37]), 0);;
+012=012.02;DESENVOLVE-BA;iif( aTotal[39]-(aTotal[38]+aTotal[40]) > 0 .And. (aTotal[46])-(aTotal[45]+aTotal[2]) > 0 , ( ( aTotal[39]-(aTotal[38]+aTotal[40]) ) - ( aTotal[46] ) + ( aTotal[45] + aTotal[2] ) ) , 0 );;
+(POS)
+[OBSERVACAO]
+(PRE)
+OBS=""
+(POS)
